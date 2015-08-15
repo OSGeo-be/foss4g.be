@@ -1,0 +1,34 @@
+.col {
+  width: 30%;
+  margin: 0 auto;
+  -webkit-transition: 0.4s;
+          transition: 0.4s;
+}
+.col.large {
+  width: 80%;
+}
+
+.ad {
+  height: 0;
+  position: relative;
+  padding-top: 81.75%;
+}
+.ad > svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.sans.on {
+  font-family: "proxima-nova";
+}
+
+.script.on {
+  font-family: "ff-market-web";
+}
+
+body {
+  text-align: center;
+}
