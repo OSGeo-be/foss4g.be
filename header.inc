@@ -21,6 +21,7 @@
 							</ul>
 						</li>
 						<li><a href="https://www.facebook.com/pages/Foss4g-Belgium/863691603712207" class="button icon fa-facebook default azul" title="Facebook"><span class="label">Facebook</span></a></li>
+						<li><a href="https://twitter.com/foss4gbe" class="button icon fa-twitter default azulito" title="Twitter"><span class="label">Twitter</span></a></li>
 					</ul>
 				</nav>
 		

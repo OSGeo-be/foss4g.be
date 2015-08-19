@@ -1390,6 +1390,13 @@
 						padding-left:0.6em;
 						background:#47639e;
 					}
+					
+					#header nav > ul > li a.azulito {
+						box-shadow:inset 0 0 0 2px rgba(71,99,158,0.4);
+						padding-right:0em;
+						padding-left:0.5em;
+						background:#55acee;
+					}
 
 					#header nav > ul > li a:not(.button) {
 						color: #fff;
