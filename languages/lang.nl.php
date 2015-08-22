@@ -87,44 +87,44 @@ $lang['HOME_COOKIE_LAW'] = 'Meer informatie over de Europese wetgeving';
 $lang['ABOUT_A_TITLE'] ='Over ons';
 $lang['ABOUT_A_SUBTITLE'] ='Belgische FOSS4G team';
 
-$lang['ABOUT_A_TEXT'] ='The local active OSGeo members from Belgium are proud to announce <a href="http://wiki.osgeo.org/wiki/Belgium" target="_blank">the birth of the Belgian local Chapter</a>. Today the Belgian community members are either active in the <a href="http://osgeo.nl/" target="_blank">OSGeo.nl</a>, the <a href="http://osgeo.asso.fr/" target="_blank">OSGeo.fr</a> or in several <a href="http://www.osgeo.org/community.html" target="_blank">OSGeo communities</a>. OSGeo Belgium will therefore act as a bridge between the language communities and cultures, because of it\'s unique multilingual composition.</p>
+$lang['ABOUT_A_TEXT'] ='NL TODO The local active OSGeo members from Belgium are proud to announce <a href="http://wiki.osgeo.org/wiki/Belgium" target="_blank">the birth of the Belgian local Chapter</a>. Today the Belgian community members are either active in the <a href="http://osgeo.nl/" target="_blank">OSGeo.nl</a>, the <a href="http://osgeo.asso.fr/" target="_blank">OSGeo.fr</a> or in several <a href="http://www.osgeo.org/community.html" target="_blank">OSGeo communities</a>. OSGeo Belgium will therefore act as a bridge between the language communities and cultures, because of it\'s unique multilingual composition.</p>
 <p>The Belgium chapter will actively work on the promotion of open source Geo solutions and the continuation of all the good work based on the existing software stacks. Together with the Belgian eco-system of administrations, industry and schools, we want to build on a more open world.</p>
 <p>On the 29<sup>th</sup> of October 2015, we will organise the first FOSS4G-BE and officialise the birth of the (legal) organisation to the public.';
 
 $lang['ABOUT_A_SUBTITLE2'] ='OSGeo';
-$lang['ABOUT_A_TEXT2'] ='<a href="http://www.osgeo.org/">The Open Source Geospatial Foundation (OSGeo)</a>, is a not-for-profit organization whose mission is to support the collaborative development of open source geospatial software, and promote its widespread use. The foundation provides financial, organizational and legal support to the broader open source geospatial community. It also serves as an independent legal entity to which community members can contribute code, funding and other resources, secure in the knowledge that their contributions will be maintained for public benefit. OSGeo also serves as an outreach and advocacy organization for the open source geospatial community, and provides a common forum and shared infrastructure for improving cross-project collaboration.</p><p>The foundation\'s projects are all freely available and usable under an <a href="http://opensource.org/pressreleases/certified-open-source.php" target="_blank">OSI-certified open source license</a>.</p>';
+$lang['ABOUT_A_TEXT2'] ='NL TODO <a href="http://www.osgeo.org/">The Open Source Geospatial Foundation (OSGeo)</a>, is a not-for-profit organization whose mission is to support the collaborative development of open source geospatial software, and promote its widespread use. The foundation provides financial, organizational and legal support to the broader open source geospatial community. It also serves as an independent legal entity to which community members can contribute code, funding and other resources, secure in the knowledge that their contributions will be maintained for public benefit. OSGeo also serves as an outreach and advocacy organization for the open source geospatial community, and provides a common forum and shared infrastructure for improving cross-project collaboration.</p><p>The foundation\'s projects are all freely available and usable under an <a href="http://opensource.org/pressreleases/certified-open-source.php" target="_blank">OSI-certified open source license</a>.</p>';
 
 
 // SPONSORS PAGE CALL ------------------------------------------------------------------------------------------------------------/
 
 $lang['SPONSORS_TITLE'] ='Oproep voor sponsors';
-$lang['SPONSORS_SUBTITLE'] ='Help making our first 2015 edition a success';
-$lang['SPONSORS_CALL'] ='The FOSS4G Belgian Local Organizing Committee is calling for sponsors.<br />
-						The available sponsorship opportunities are listed and detailed here, <a href="contact.php">please contact us with any question on the packages</a>.';
-$lang['SPONSORS_BUTTON'] ='Contact us now to become a sponsor';
+$lang['SPONSORS_SUBTITLE'] ='Help om een succesvolle eerste editie te beleven';
+$lang['SPONSORS_CALL'] ='De Belgische FOSS4G lokale organisatie maakt een oproep op sponsors.<br />
+						De verschillende sponsor mogelijkheden worden hieronder uitgelegd, <a href="contact.php">aub neem contact op indien u nog vragen zou hebben</a>.';
+$lang['SPONSORS_BUTTON'] ='Neem contact op om FOSS4G BE te sponsoren';
 
-	$lang['SPONSORS_1_TITLE'] ='Platinum';
+	$lang['SPONSORS_1_TITLE'] ='Platina';
 	$lang['SPONSORS_1_TAGLINE'] ='1000€';
-	$lang['SPONSORS_1_TXT1'] ='Mention on stage';
-	$lang['SPONSORS_1_TXT2'] ='Exhibition space';
-	$lang['SPONSORS_1_TXT3'] ='Page in programme (1 page)';
-	$lang['SPONSORS_1_TXT4'] ='Page in programme (1/2 page)';
-	$lang['SPONSORS_1_TXT5'] ='Logo on main web page';
-	$lang['SPONSORS_1_TXT6'] ='Logo on sponsors web page';
+	$lang['SPONSORS_1_TXT1'] ='Naam vermeld op het podium';
+	$lang['SPONSORS_1_TXT2'] ='Exposantruimte';
+	$lang['SPONSORS_1_TXT3'] ='Pagina in het programma (1 pagina)';
+	$lang['SPONSORS_1_TXT4'] ='Pagina in het programma (1/2 pagina)';
+	$lang['SPONSORS_1_TXT5'] ='Logo op webstartpagina';
+	$lang['SPONSORS_1_TXT6'] ='Logo op sponsors webpagina';
 	
-	$lang['SPONSORS_2_TITLE'] ='Gold';
+	$lang['SPONSORS_2_TITLE'] ='Goud';
 	$lang['SPONSORS_2_TAGLINE'] ='750€';
-	$lang['SPONSORS_2_TXT1'] ='Exhibition space, Page in programme  (1/2 page) , Logo on main web page, Logo on web page of sponsors.';
+	$lang['SPONSORS_2_TXT1'] ='Exposantruimte, Pagina in het programma (1/2 pagina), Logo op webstartpagina, Logo op sponsors webpagina.';
 	
-	$lang['SPONSORS_3_TITLE'] ='Silver';
+	$lang['SPONSORS_3_TITLE'] ='Zilver';
 	$lang['SPONSORS_3_TAGLINE'] ='500€';
-	$lang['SPONSORS_3_TXT'] ='Logo on main web page, Logo on web page of sponsors.';
+	$lang['SPONSORS_3_TXT'] ='Logo op webstartpagina, Logo op sponsors webpagina.';
 	
-	$lang['SPONSORS_4_TITLE'] ='Bronze';
+	$lang['SPONSORS_4_TITLE'] ='Brons';
 	$lang['SPONSORS_4_TAGLINE'] ='250€';
-	$lang['SPONSORS_4_TXT'] ='Logo on web page of sponsors.';
+	$lang['SPONSORS_4_TXT'] ='Logo op sponsors webpagina.';
 	
-$lang['SPONSORS_WHY_TITLE'] ='Why Sponsor OSGeo';
+$lang['SPONSORS_WHY_TITLE'] ='Waarom OSGeo sponsoren';
 
 	$lang['SPONSORS_WHY1_1'] ='Your Organization Depends on OSGeo Software</strong><br /> Your company or government agency uses OSGeo technologies in its day-to-day work, allowing you to compete effectively and deliver services in an efficient manner.';
 	$lang['SPONSORS_WHY1_2'] ='By helping sustain OSGeo you also support your current operations into the future knowing that a strong OSGeo is behind your business activities.';
