@@ -97,7 +97,7 @@ $lang['ABOUT_A_TEXT2'] ='<a href="http://www.osgeo.org/">The Open Source Geospat
 
 // SPONSORS PAGE CALL ------------------------------------------------------------------------------------------------------------/
 
-$lang['SPONSORS_TITLE'] ='Call for Sponsors';
+$lang['SPONSORS_TITLE'] ='Oproep voor sponsors';
 $lang['SPONSORS_SUBTITLE'] ='Help making our first 2015 edition a success';
 $lang['SPONSORS_CALL'] ='The FOSS4G Belgian Local Organizing Committee is calling for sponsors.<br />
 						The available sponsorship opportunities are listed and detailed here, <a href="contact.php">please contact us with any question on the packages</a>.';
