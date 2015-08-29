@@ -757,33 +757,33 @@
 					
 					/* Logos */
 					
-						ul.icons li .icon.ulb  {
-							background:url(../images/ulb.png);	
+						ul.icons li .icon.aquaterra  {
+							background:url(../images/sponsors/aquaterra.png);	
 						}
-						ul.icons li .icon.osgeofr  {
-							background:url(../images/osgeofr.png);	
+						ul.icons li .icon.champs-libres  {
+							background:url(../images/sponsors/champs-libres.png);	
 						}
 						ul.icons li .icon.osgeobe  {
-							background:url(../images/osgeobe.png);	
+							background:url(../images/sponsors/osgeobe.png);	
 						}
-						ul.icons li .icon.igeat  {
-							background:url(../images/igeat.png);	
+						ul.icons li .icon.geosparc  {
+							background:url(../images/sponsors/geosparc.png);	
 						}
-						ul.icons li .icon.ibge  {
-							background:url(../images/ibge.png);
+						ul.icons li .icon.idgeo  {
+							background:url(../images/sponsors/idgeo.png);
 						}
 						ul.icons li .icon.oslandia  {
-							background:url(../images/oslandia.png);
+							background:url(../images/sponsors/oslandia.png);
 						}
-						ul.icons li .icon.gim  {
-							background:url(../images/gim.png);
+						ul.icons li .icon.poppy  {
+							background:url(../images/sponsors/poppy.png);
 						}
-						ul.icons li .icon.bxlmobilite  {
-							background:url(../images/bxlmobilite.png);
+						ul.icons li .icon.bxlenv  {
+							background:url(../images/sponsors/bxlenv.png);
 						}
-						ul.icons li .icon.ulb, ul.icons li .icon.osgeofr, ul.icons li .icon.osgeobe,  ul.icons li .icon.igeat, ul.icons li .icon.ibge, ul.icons li .icon.oslandia, ul.icons li .icon.gim, ul.icons li .icon.bxlmobilite  {						
-							width:123px;
-							height:64px;
+						ul.icons li .icon.aquaterra, ul.icons li .icon.champs-libres, ul.icons li .icon.osgeobe,  ul.icons li .icon.geosparc, ul.icons li .icon.idgeo, ul.icons li .icon.oslandia, ul.icons li .icon.poppy, ul.icons li .icon.bxlenv  {						
+							width:164px;
+							height:75px;
 							display:inline-block;
 							-webkit-filter: grayscale(100%);
 							-moz-filter: grayscale(100%);
@@ -792,7 +792,7 @@
 							filter: grayscale(100%);
 							filter: gray; /* IE 6-9 */
 						}
-						ul.icons li .icon.ulb:hover, ul.icons li .icon.osgeofr:hover, ul.icons li .icon.osgeobe:hover, ul.icons li .icon.igeat:hover,ul.icons li .icon.ibge:hover, ul.icons li .icon.oslandia:hover, ul.icons li .icon.gim:hover, ul.icons li .icon.bxlmobilite:hover {
+						ul.icons li .icon.aquaterra:hover, ul.icons li .icon.champs-libres:hover, ul.icons li .icon.osgeobe:hover, ul.icons li .icon.geosparc:hover,ul.icons li .icon.idgeo:hover, ul.icons li .icon.oslandia:hover, ul.icons li .icon.poppy:hover, ul.icons li .icon.bxlenv:hover {
 							-webkit-filter: grayscale(0%);
 							-moz-filter: grayscale(0%);
 							-ms-filter: grayscale(0%);

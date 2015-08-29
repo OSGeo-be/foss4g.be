@@ -1,8 +1,12 @@
 			<ul class="icons">
-				<!-- <li><a href="http://www.ulb.ac.be/" class="icon ulb"><span class="label">ULB - Université Libre de Bruxelles</span></a></li> -->
+				<li><a href="http://www.ulb.ac.be/" class="icon aquaterra"><span class="label">Aquaterra</span></a></li>
+				<li><a href="http://www.bruxellesenvironnement.be/" class="icon bxlenv"><span class="label">Bruxelles Environnement</span></a></li>
+				<li><a href="http://www.ulb.ac.be/" class="icon champs-libres"><span class="label">Champs libres</span></a></li>
+				<li><a href="http://www.ulb.ac.be/" class="icon geosparc"><span class="label">Geosparc</span></a></li>
+				<li><a href="http://www.ulb.ac.be/" class="icon idgeo"><span class="label">IdGeo</span></a></li>
 				<li><a href="http://wiki.osgeo.org/wiki/Belgium" class="icon osgeobe"><span class="label">OSGEObe</span></a></li>
-				<!-- <li><a href="http://igeat.ulb.ac.be/" class="icon igeat"><span class="label">Igeat</span></a></li> -->
-				<li><a href="http://www.bruxellesenvironnement.be/" class="icon ibge"><span class="label">Bruxelles Environnement</span></a></li>
+				<li><a href="http://oslandia.fr/" class="icon oslandia"><span class="label">Oslandia</span></a></li>
+				<li><a href="http://www.poppy.be/" class="icon poppy"><span class="label">Poppy</span></a></li>
 			</ul>
 			<ul class="copyleft">
 				<li><i class="fa fa-copyright fa-flip-horizontal"></i> FOSS4G 2015</li>
