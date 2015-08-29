@@ -1,4 +1,4 @@
-<ul class="icons">
+			<ul class="icons">
 				<!-- <li><a href="http://www.ulb.ac.be/" class="icon ulb"><span class="label">ULB - Université Libre de Bruxelles</span></a></li> -->
 				<li><a href="http://wiki.osgeo.org/wiki/Belgium" class="icon osgeobe"><span class="label">OSGEObe</span></a></li>
 				<!-- <li><a href="http://igeat.ulb.ac.be/" class="icon igeat"><span class="label">Igeat</span></a></li> -->
