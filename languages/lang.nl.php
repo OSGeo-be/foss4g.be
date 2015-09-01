@@ -143,10 +143,14 @@ $lang['SPONSORS_WHY_TITLE'] ='Waarom OSGeo sponsoren';
 
 // PAPERS PAGE CALL ------------------------------------------------------------------------------------------------------------/
 
-$lang['PAPERS_TITLE'] ='Call for papers';
-$lang['PAPERS_SUBTITLE'] ='Help making our first 2015 edition a success';
-$lang['PAPERS_CALL'] ='On the 29th of October 2015, OSGeo-be will host an event dedicated to free geomatics in Brussels at BEL, the Environment and Energy Agency of Brussels. FOSS4Gbe will be a day of conferences, demonstrations, debates and meetings about OSGeo topics. It will also be an opportunity <strong>to bring together the community</strong> of users, developers, policy makers or just curious FOSS geomatics.</p>
-<p><strong>The event is expected to gather around 250 to 400 people</strong>.<br />We will share knowledge and experiences during the whole event through presentations and demonstrations with <strong>25 minutes each at most</strong>.</p>';
+$lang['PAPERS_TITLE'] ='Oproep voor bijdragen';
+$lang['PAPERS_SUBTITLE'] ='Help ons de eerste editie 2015 een succes te maken';
+$lang['PAPERS_CALL'] ='
+Op 29 Oktober 2015 zal OSGeo-be een een Open GIS conferentie organiseren in Brussel in BEL, het leefmilieu en energieagentschap van Brussel. FOSS4G-BE wordt een dag van presentaties, demo\'s, debatten over OSGeo thema\'s. Het is ook een kans om de <strong>gemeenschap</strong> van gebruikers, ontwikkelaars, beleidsmaker en andere geïnteresseerden <strong>samen te brengen</strong>.
+<p>
+<strong>De bedoeling van de dag is om tussen de 240 en 400 mensen samen te brengen</strong>
+<br />
+We zullen kennis en ervaringen delen gedurende de hele dag met presentaties en demo\'s van <strong>maximaal 25 minuten</strong>.';
 
 // Plenary Session
 $lang['PAPERS_CALL_T_TXT1'] ='Presentations and side tracks';
