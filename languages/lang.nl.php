@@ -191,7 +191,7 @@ $lang['PAPERS_SUM_TYPE'] ='The nature of your intervention (Explanatory / Applic
 
 
 // DEADLINE + HOW EVALUATE 
-$lang['PAPERS_DEADLINE'] ='Deadline for submissions: 19th September';
+$lang['PAPERS_DEADLINE'] ='Datum: ten laatste op 2 Oktober';
 $lang['PAPERS_CALL2T'] ='Deadline';
 $lang['PAPERS_CALL2'] ='Abstracts will be evaluated by a program committee and authors will be notified of their acceptance on September the 29th, 2015.<br />All the presentations will be made available on the event website.</p>';
 $lang['PAPERS_CALL3T'] ='How do we evaluate';
