@@ -7,6 +7,7 @@
 				<li><a href="http://wiki.osgeo.org/wiki/Belgium" class="icon osgeobe"><span class="label">OSGEObe</span></a></li>
 				<li><a href="http://oslandia.com/" class="icon oslandia"><span class="label">Oslandia</span></a></li>
 				<li><a href="http://www.my-poppy.eu/" class="icon poppy"><span class="label">Poppy</span></a></li>
+				<li><a href="http://www.checksum.be/" class="icon checksum"><span class="label">Checksum</span></a></li>
 			</ul>
 			<ul class="copyleft">
 				<li><i class="fa fa-copyright fa-flip-horizontal"></i> FOSS4G 2015</li>
