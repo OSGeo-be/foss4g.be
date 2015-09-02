@@ -7,8 +7,8 @@ $headers .= "X-Mailer: PHP/".phpversion();
     $message = $_POST['message'];
 	$subject = $_POST['subject'];
     $from = "FOSS4G contact: $name"; 
-    $to = 'moritz.lennert@ulb.ac.be'; 
-    $body = "Un nouveau formulaire FOSS4G a été soumis par $name\n
+    $to = 'info@foss4g.be'; 
+    $body = "A new FOSS4G contact form was submitted by $name\n
 	E-Mail: $email\n\n
 	$subject\n
 	$message";
