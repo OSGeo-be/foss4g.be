@@ -60,7 +60,7 @@
 										<li>Oliver May - PSC member of the Geomajas project</li>
 										<li>Pieter Colpaert - link with the open knowledge foundation</li>
 										<li>Ruben Capelle</li>
-										<li>Tommy Ozeer</li>
+										<li>Tommy Oozeer - OSGeo Advocate</li>
 									</ul>
 								</header>
 								
