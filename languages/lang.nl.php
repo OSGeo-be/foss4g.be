@@ -141,6 +141,12 @@ $lang['SPONSORS_WHY_TITLE'] ='Waarom OSGeo sponsoren';
 	$lang['SPONSORS_WHY5_1'] ='Benefit from Sponsor Networking Opportunities</strong><br /> As a sponsor of OSGeo, you will benefit from unique opportunities to meet and share ideas with key members of OSGeo, other OSGeo sponsors and affiliated like-minded individuals and organizations.';
 	$lang['SPONSORS_WHY5_2'] ='By sponsoring OSGeo you will enhance your business opportunities.';
 
+// SPONSORS THANKS ------------------------------------------------------------------------------------------------------------/	
+
+$lang['SPONSORS_T_TITLE'] ='Onze Sponsors';
+$lang['SPONSORS_T_SUBTITLE'] ='Dank aan onze sponsors om dit mogelijk te maken';	
+	
+
 // PAPERS PAGE CALL ------------------------------------------------------------------------------------------------------------/
 
 $lang['PAPERS_TITLE'] ='Oproep voor bijdragen';

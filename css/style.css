@@ -756,32 +756,50 @@
 					}
 					
 					/* Logos */
-					
-						ul.icons li .icon.aquaterra  {
+						.sponsor {	
+							width:164px;
+							height:75px;
+							display:inline-block;
+							-webkit-filter: grayscale(0%);
+							-moz-filter: grayscale(0%);
+							-ms-filter: grayscale(0%);
+							-o-filter: grayscale(0%);
+							filter: grayscale(0%);
+							filter: none; /* IE 6-9 */
+							transition: all .2s ease-in-out;
+							margin:1em;	
+						}
+						.sponsor:hover {	
+							display:inline-block;
+							transform: scale(1.05);
+							border-bottom: 2px solid #71BF45;
+						}
+						
+						ul.icons li .icon.aquaterra, .icon.aquaterra  {
 							background:url(../images/sponsors/aquaterra.png);	
 						}
-						ul.icons li .icon.champs-libres  {
+						ul.icons li .icon.champs-libres, .icon.champs-libres  {
 							background:url(../images/sponsors/champs-libres.png);	
 						}
-						ul.icons li .icon.osgeobe  {
+						ul.icons li .icon.osgeobe, .icon.osgeobe  {
 							background:url(../images/sponsors/osgeobe.png);	
 						}
-						ul.icons li .icon.geosparc  {
+						ul.icons li .icon.geosparc, .icon.geosparc  {
 							background:url(../images/sponsors/geosparc.png);	
 						}
-						ul.icons li .icon.idgeo  {
+						ul.icons li .icon.idgeo , .icon.idgeo {
 							background:url(../images/sponsors/idgeo.png);
 						}
-						ul.icons li .icon.oslandia  {
+						ul.icons li .icon.oslandia, .icon.oslandia  {
 							background:url(../images/sponsors/oslandia.png);
 						}
-						ul.icons li .icon.poppy  {
+						ul.icons li .icon.poppy , .icon.poppy {
 							background:url(../images/sponsors/poppy.png);
 						}
-						ul.icons li .icon.bxlenv  {
+						ul.icons li .icon.bxlenv, .icon.bxlenv  {
 							background:url(../images/sponsors/bxlenv.png);
 						}
-						ul.icons li .icon.checksum  {
+						ul.icons li .icon.checksum, .icon.checksum  {
 							background:url(../images/sponsors/checksum.png);
 						}
 						ul.icons li .icon.aquaterra, ul.icons li .icon.champs-libres, ul.icons li .icon.osgeobe,  ul.icons li .icon.geosparc, ul.icons li .icon.idgeo, ul.icons li .icon.oslandia, ul.icons li .icon.poppy, ul.icons li .icon.bxlenv, ul.icons li .icon.checksum {						
@@ -803,8 +821,7 @@
 							filter: grayscale(0%);
 							filter: none; /* IE 6-9 */
 						}
-					
-					
+
 
 		ul.actions {
 			cursor: default;
@@ -2052,6 +2069,19 @@ a.pluss:before, a.pluss:after {content:' ' !important;}
   color: #fff;
   -webkit-transition: background-color 0.5s ease-in-out;
 }
+
+.accordion dt.spons > a {
+  text-align: left;
+  font-weight: 500;
+  padding: 0.5em;
+  margin-left: 1vw;
+  display: block;
+  text-decoration: none;
+  color: #646464;
+  -webkit-transition: background-color 0.5s ease-in-out;
+}
+
+
 .accordion dt > a span {
 	font-size:0.8em;
 	float: right;
@@ -2113,6 +2143,11 @@ a.pluss:before, a.pluss:after {content:' ' !important;}
   background-color: #71BF45;
   border-bottom: 0px solid #71BF45;
 }
+
+.accordionTitle.sponsors {
+  background-color: rgba(155,155,155,0.2);
+}
+
 .accordionTitle.platinium {border-bottom:0.5em solid #e5e4e2}
 .accordionTitle.gold {border-bottom:0.5em solid #ffd700}
 .accordionTitle.silver {border-bottom:0.5em solid #c0c0c0}
