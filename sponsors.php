@@ -46,22 +46,22 @@
 						<dl>
 						  <dt class="spons"><a class="accordionTitle sponsors platinium" href="#"> <?php echo $lang['SPONSORS_1_TITLE']; ?> <span class="spon1"><?php echo $lang['SPONSORS_1_TAGLINE']; ?></span></a></dt>
 						  <dd class="accordionItem accordionItem">
-							<a href="http://aquaterra.be/" class="sponsor icon aquaterra"><span class="label">Aquaterra</span></a>
-							<a href="http://www.bruxellesenvironnement.be/" class="sponsor icon bxlenv"><span class="label">Bruxelles Environnement</span></a>
+							<a href="http://oslandia.com/" class="sponsor icon oslandia"><span class="label">Oslandia</span></a>
+							<a href="http://www.geosparc.com/" class="sponsor icon geosparc"><span class="label">Geosparc</span></a>
 						  </dd>						  
 						  <dt class="spons"><a href="#" class="accordionTitle sponsors gold"> <?php echo $lang['SPONSORS_2_TITLE']; ?> <span class="spon2"><?php echo $lang['SPONSORS_2_TAGLINE']; ?></span></a></dt>
 						  <dd class="accordionItem accordionItem">
+							<a href="http://www.idgeo.fr/" class="sponsor icon idgeo"><span class="label">IdGeo</span></a>
 							<a href="http://www.champs-libres.coop/" class="sponsor icon champs-libres"><span class="label">Champs-libres</span></a>
-							<a href="http://www.geosparc.com/" class="sponsor icon geosparc"><span class="label">Geosparc</span></a>
 						  </dd>
 						  <dt class="spons"><a href="#" class="accordionTitle sponsors silver"> <?php echo $lang['SPONSORS_3_TITLE']; ?> <span class="spon3"><?php echo $lang['SPONSORS_3_TAGLINE']; ?></span></a></dt>
 						  <dd class="accordionItem accordionItem">
-							<a href="http://www.idgeo.fr/" class="sponsor icon idgeo"><span class="label">IdGeo</span></a>
-							<a href="http://oslandia.com/" class="sponsor icon oslandia"><span class="label">Oslandia</span></a>
+							<a href="http://aquaterra.be/" class="sponsor icon aquaterra"><span class="label">Aquaterra</span></a>
+							<a href="http://www.my-poppy.eu/" class="sponsor icon poppy"><span class="label">Poppy</span></a>
 						  </dd>
 						  <dt class="spons"><a href="#" class="accordionTitle sponsors bronze"> <?php echo $lang['SPONSORS_4_TITLE']; ?> <span class="spon4"><?php echo $lang['SPONSORS_4_TAGLINE']; ?></span></a></dt>
 						  <dd class="accordionItem accordionItem">
-							<a href="http://www.my-poppy.eu/" class="sponsor icon poppy"><span class="label">Poppy</span></a>
+							<a href="http://www.bruxellesenvironnement.be/" class="sponsor icon bxlenv"><span class="label">Bruxelles Environnement</span></a>
 							<a href="http://www.checksum.be/" class="sponsor icon checksum"><span class="label">Checksum</span></a>
 						  </dd>
 						</dl>
