@@ -9,7 +9,7 @@
 								<li><a href="call.php"><?php echo $lang['MENU_CALL2']; ?></a></li>
 								<li><a href="papers.php"><?php echo $lang['MENU_CALL3']; ?></a></li>									
 								<li><a href="infos.php"><?php echo $lang['MENU_PRACTICAL']; ?></a></li>
-								<li><a href="sponsors.php">Sponsors</a></li>
+								<!-- <li><a href="sponsors.php">Sponsors</a></li> -->
 								<li><a href="contact.php"><?php echo $lang['MENU_CONTACT']; ?></a></li>
 							</ul>
 						</li>
