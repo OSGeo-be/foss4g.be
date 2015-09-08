@@ -4,6 +4,7 @@
 				<li><a href="http://www.champs-libres.coop/" class="icon champs-libres"><span class="label">Champs libres</span></a></li>
 				<li><a href="http://www.geosparc.com/" class="icon geosparc"><span class="label">Geosparc</span></a></li>
 				<li><a href="http://www.idgeo.fr/" class="icon idgeo"><span class="label">IdGeo</span></a></li>
+				<li><a href="http://www.merkator.be/" class="icon merkator"><span class="label">Merkator</span></a></li>
 				<li><a href="http://wiki.osgeo.org/wiki/Belgium" class="icon osgeobe"><span class="label">OSGEObe</span></a></li>
 				<li><a href="http://oslandia.com/" class="icon oslandia"><span class="label">Oslandia</span></a></li>
 				<li><a href="http://www.my-poppy.eu/" class="icon poppy"><span class="label">Poppy</span></a></li>
