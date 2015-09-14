@@ -1,6 +1,6 @@
 <?php
-$headers = "From: moritz.lennert@ulb.ac.be\r\n";
-$headers .= "Reply-To: moritz.lennert@ulb.ac.be\r\n";
+$headers = "From: Website FOSS4G <info@foss4g.be>\r\n";
+$headers .= "Reply-To: $email\r\n";
 $headers .= "X-Mailer: PHP/".phpversion();
     $name = $_POST['name'];
     $email = $_POST['email'];
