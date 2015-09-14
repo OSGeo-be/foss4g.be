@@ -805,7 +805,10 @@
 						ul.icons li .icon.checksum, .icon.checksum  {
 							background:url(../images/sponsors/checksum.png);
 						}
-						ul.icons li .icon.aquaterra, ul.icons li .icon.champs-libres, ul.icons li .icon.osgeobe,  ul.icons li .icon.geosparc, ul.icons li .icon.idgeo, ul.icons li .icon.oslandia, ul.icons li .icon.poppy, ul.icons li .icon.bxlenv, ul.icons li .icon.checksum, ul.icons li .icon.merkator{						
+						ul.icons li .icon.c2c, .icon.c2c  {
+							background:url(../images/sponsors/C2C.png);
+						}
+						ul.icons li .icon.aquaterra, ul.icons li .icon.champs-libres, ul.icons li .icon.osgeobe,  ul.icons li .icon.geosparc, ul.icons li .icon.idgeo, ul.icons li .icon.oslandia, ul.icons li .icon.poppy, ul.icons li .icon.bxlenv, ul.icons li .icon.checksum, ul.icons li .icon.merkator, ul.icons li .icon.c2c{						
 							width:164px;
 							height:75px;
 							display:inline-block;

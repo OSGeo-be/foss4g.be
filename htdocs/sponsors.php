@@ -62,6 +62,7 @@
 						  </dd>
 						  <dt class="spons"><a href="#" class="accordionTitle sponsors bronze"> <?php echo $lang['SPONSORS_4_TITLE']; ?> <span class="spon4"><?php echo $lang['SPONSORS_4_TAGLINE']; ?></span></a></dt>
 						  <dd class="accordionItem accordionItem">
+							<a href="http://www.camptocamp.com/" class="sponsor icon c2c"><span class="label">campstocamp</span></a>
 							<a href="http://www.checksum.be/" class="sponsor icon checksum"><span class="label">Checksum</span></a>
 						  </dd>
 						</dl>
