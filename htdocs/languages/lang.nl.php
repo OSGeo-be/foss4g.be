@@ -100,7 +100,7 @@ $lang['ABOUT_A_TEXT2'] ='NL TODO <a href="http://www.osgeo.org/">The Open Source
 $lang['SPONSORS_TITLE'] ='Oproep voor sponsors';
 $lang['SPONSORS_SUBTITLE'] ='Help om een succesvolle eerste editie te beleven';
 $lang['SPONSORS_CALL'] ='De Belgische FOSS4G lokale organisatie maakt een oproep op sponsors.<br />
-						De verschillende sponsor mogelijkheden worden hieronder uitgelegd, <a href="contact.php">aub neem contact op indien u nog vragen zou hebben</a>.';
+						De verschillende sponsor mogelijkheden worden hieronder uitgelegd, <a href="contact.php">aub neem contact op indien u nog vragen zou hebben</a>.<br /><br />Let op: slechts nog drie stands beschikbaar (Platinum en Gold sponsors) !!';
 $lang['SPONSORS_BUTTON'] ='Neem contact op om FOSS4G BE te sponsoren';
 
 	$lang['SPONSORS_1_TITLE'] ='Platina';
