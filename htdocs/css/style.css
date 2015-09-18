@@ -808,7 +808,13 @@
 						ul.icons li .icon.c2c, .icon.c2c  {
 							background:url(../images/sponsors/C2C.png);
 						}
-						ul.icons li .icon.aquaterra, ul.icons li .icon.champs-libres, ul.icons li .icon.osgeobe,  ul.icons li .icon.geosparc, ul.icons li .icon.idgeo, ul.icons li .icon.oslandia, ul.icons li .icon.poppy, ul.icons li .icon.bxlenv, ul.icons li .icon.checksum, ul.icons li .icon.merkator, ul.icons li .icon.c2c{						
+						ul.icons li .icon.gim .icon.gim {
+							background:url(../images/sponsors/gim.png);
+						}
+						ul.icons li .icon.cirb, .icon.cirb  {
+							background:url(../images/sponsors/cirb.png);
+						}
+						ul.icons li .icon.aquaterra, ul.icons li .icon.champs-libres, ul.icons li .icon.osgeobe,  ul.icons li .icon.geosparc, ul.icons li .icon.idgeo, ul.icons li .icon.oslandia, ul.icons li .icon.poppy, ul.icons li .icon.bxlenv, ul.icons li .icon.checksum, ul.icons li .icon.merkator, ul.icons li .icon.c2c, ul.icons li .icon.gim, ul.icons li .icon.cirb{						
 							width:164px;
 							height:75px;
 							display:inline-block;
