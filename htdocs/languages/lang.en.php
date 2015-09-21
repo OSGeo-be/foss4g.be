@@ -250,7 +250,7 @@ $lang['INFO_TT_TRAIN_T'] ='Gare du Nord  (15-minute walk)';
 $lang['INFO_TT_BIKE'] ='Villo City bikes';
 $lang['INFO_TT_BIKE_T'] ='www.velo.irisnet.be';
 $lang['INFO_TT_TAXI'] ='Taxis available in front of Tour & Taxis';
-$lang['INFO_TT_CAR'] ='Parking Tour & Taxis / 3 euros/heure';
+$lang['INFO_TT_CAR'] ='Parking Tour & Taxis / 3 euros/hours';
 
 
 
