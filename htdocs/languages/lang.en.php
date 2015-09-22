@@ -188,14 +188,14 @@ $lang['PAPERS_SUM_NAME'] ='Your name and first name;';
 $lang['PAPERS_SUM_EMAIL'] ='A contact email;';
 $lang['PAPERS_SUM_ORG'] ='Your company (organization) and/or employer;';
 $lang['PAPERS_SUM_TITLE'] ='Your intervention\'s title;';
-$lang['PAPERS_SUM_ABSTRACT'] ='A short abstract (200 characters max.) + A long description (700 characters max.);';
+$lang['PAPERS_SUM_ABSTRACT'] ='A short abstract (200 characters max.)';
 $lang['PAPERS_SUM_TYPE'] ='The nature of your intervention (Explanatory / Application / Demonstration);';
 
 
 // DEADLINE + HOW EVALUATE 
 $lang['PAPERS_DEADLINE'] ='Deadline for submissions: October 2';
 $lang['PAPERS_CALL2T'] ='Deadline';
-$lang['PAPERS_CALL2'] ='Abstracts will be evaluated by a program committee and authors will be notified of their acceptance on October the 7th, 2015.<br />All the presentations will be made available on the event website.</p>';
+$lang['PAPERS_CALL2'] ='Deadline for submission is October 2, but we invite presenters to send their title as soon as possible. Abstracts will be evaluated by a program committee and authors will be notified of their acceptance on October the 7th, 2015.<br />All the presentations will be made available on the event website.</p>';
 $lang['PAPERS_CALL3T'] ='How do we evaluate';
 $lang['PAPERS_CALL3'] ='<p>The choice of presentations will be based on the quality of the submitted material, its interest for professional and student audiences and also its consistency with the program. The decision of the selection committee will be final and binding. Committee members speak on their own behalf, their choices do not reflect the position of their employer.</p>';
 $lang['PAPERS_CALL4'] ='<p>The Dutch and French coordinators of the program committee are Johan Van de Wauw (NL) and Gaël Kruwialis (FR).</p>
