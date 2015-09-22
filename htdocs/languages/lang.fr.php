@@ -238,7 +238,7 @@ $lang['INFO_ADRES_TEXT2'] ='BEL est une initiative de Bruxelles Environnement de
 
 $lang['INFO_PLENARY'] ='Session plénière';
 $lang['INFO_SIDE'] ='Sessions parallèles 1-2';
-$lang['INFO_ROOMS'] ='Auditoires <strong>SYLVA</strong> & <strong>AQUA + TERRA</strong>';
+$lang['INFO_ROOMS'] ='Salles <strong>SYLVA</strong> & <strong>AQUA + TERRA</strong>';
 
 
 
@@ -250,7 +250,7 @@ $lang['INFO_TT_TRAIN_T'] ='Gare du Nord  (15 minutes à pied)';
 $lang['INFO_TT_BIKE'] ='Villo';
 $lang['INFO_TT_BIKE_T'] ='www.velo.irisnet.be';
 $lang['INFO_TT_TAXI'] ='Taxis disponibles en face de Tour & Taxis';
-$lang['INFO_TT_CAR'] ='Parking Tour & Taxis / 5 euros';
+$lang['INFO_TT_CAR'] ='Parking Tour & Taxis / 3 euros/heure';
 
 
 

@@ -2,7 +2,10 @@
 				<li><a href="http://aquaterra.be/" class="icon aquaterra"><span class="label">Aquaterra</span></a></li>
 				<li><a href="http://www.bruxellesenvironnement.be/" class="icon bxlenv"><span class="label">Bruxelles Environnement</span></a></li>
 				<li><a href="http://www.champs-libres.coop/" class="icon champs-libres"><span class="label">Champs libres</span></a></li>
+				<li><a href="http://cirb.brussels/" class="icon cirb"><span class="label">CIRB</span></a></li>
+				<li><a href="http://www.geosolutions.be" class="icon geosolutions"><span class="label">Geosolutions</span></a></li>
 				<li><a href="http://www.geosparc.com/" class="icon geosparc"><span class="label">Geosparc</span></a></li>
+				<li><a href="http://www.gim.be" class="icon gim"><span class="label">GIM</span></a></li>
 				<li><a href="http://www.idgeo.fr/" class="icon idgeo"><span class="label">IdGeo</span></a></li>
 				<li><a href="http://www.merkator.be/" class="icon merkator"><span class="label">Merkator</span></a></li>
 				<li><a href="http://wiki.osgeo.org/wiki/Belgium" class="icon osgeobe"><span class="label">OSGEObe</span></a></li>
