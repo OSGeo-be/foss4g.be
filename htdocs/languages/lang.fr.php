@@ -100,7 +100,7 @@ $lang['ABOUT_A_TEXT2'] ='<a href="http://www.osgeo.org/">La fondation Open Sourc
 $lang['SPONSORS_TITLE'] ='Appel à sponsors';
 $lang['SPONSORS_SUBTITLE'] ='Aidez-nous à faire de notre première édition un succès';
 $lang['SPONSORS_CALL'] ='Le comité local belge d\'organisation du FOSS4G-BE lance un appel à sponsors.<br />
-Les opportunités de sponsoring sont listées et détaillées ici, <a href="contact.php">contactez-nous pour toute question</a> à propos des packages<br /><br />Attention: plus qu'un stand d\'exposition disponibles (sponsors Platine et Or) !!';
+Les opportunités de sponsoring sont listées et détaillées ici, <a href="contact.php">contactez-nous pour toute question</a> à propos des packages<br /><br />Attention: plus qu\'un stand d\'exposition disponibles (sponsors Platine et Or) !!';
 $lang['SPONSORS_BUTTON'] ='Contactez-nous dès à présent pour nous soutenir';
 
 	$lang['SPONSORS_1_TITLE'] ='Platine';
