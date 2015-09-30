@@ -47,6 +47,7 @@
 						  <dt class="spons"><a class="accordionTitle sponsors platinium" href="#"> <?php echo $lang['SPONSORS_1_TITLE']; ?> <span class="spon1"><?php echo $lang['SPONSORS_1_TAGLINE']; ?></span></a></dt>
 						  <dd class="accordionItem accordionItem">
 							<a href="http://cirb.brussels" class="sponsor icon cirb"><span class="label">CIRB</span></a>
+							<a href="http://www.neogeo-online.net/" class="sponsor icon neogeo"><span class="label">neogeo</span></a>
 							<a href="http://oslandia.com/" class="sponsor icon oslandia"><span class="label">Oslandia</span></a>
 							<a href="http://www.geosolutions.be" class="sponsor icon geosolutions"><span class="label">Geosolustions</span></a>
 							<a href="http://www.geosparc.com/" class="sponsor icon geosparc"><span class="label">Geosparc</span></a>
