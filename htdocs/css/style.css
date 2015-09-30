@@ -831,7 +831,7 @@
 							filter: grayscale(100%);
 							filter: gray; /* IE 6-9 */
 						}
-						ul.icons li .icon.aquaterra:hover, ul.icons li .icon.champs-libres:hover, ul.icons li .icon.osgeobe:hover, ul.icons li .icon.geosparc:hover,ul.icons li .icon.idgeo:hover, ul.icons li .icon.oslandia:hover, ul.icons li .icon.poppy:hover, ul.icons li .icon.bxlenv:hover, ul.icons li .icon.checksum:hover .icon.cirb:hover .icon.geosolutions:hover .icon.gim:hover .icon.merkator:hover{
+						ul.icons li .icon.aquaterra:hover, ul.icons li .icon.champs-libres:hover, ul.icons li .icon.osgeobe:hover, ul.icons li .icon.geosparc:hover,ul.icons li .icon.idgeo:hover, ul.icons li .icon.oslandia:hover, ul.icons li .icon.poppy:hover, ul.icons li .icon.bxlenv:hover, ul.icons li .icon.checksum:hover, .icon.cirb:hover, .icon.geosolutions:hover, .icon.gim:hover, .icon.merkator:hover, .icon.neogeo:hover{
 							-webkit-filter: grayscale(0%);
 							-moz-filter: grayscale(0%);
 							-ms-filter: grayscale(0%);
