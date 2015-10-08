@@ -51,6 +51,7 @@
 							<a href="http://oslandia.com/" class="sponsor icon oslandia"><span class="label">Oslandia</span></a>
 							<a href="http://www.geosolutions.be" class="sponsor icon geosolutions"><span class="label">Geosolustions</span></a>
 							<a href="http://www.geosparc.com/" class="sponsor icon geosparc"><span class="label">Geosparc</span></a>
+							<a href="http://igeat.ulb.ac.be/" class="sponsor icon igeat"><span class="label">ULB Igeat</span></a>
 						  </dd>						  
 						  <dt class="spons"><a href="#" class="accordionTitle sponsors gold"> <?php echo $lang['SPONSORS_2_TITLE']; ?> <span class="spon2"><?php echo $lang['SPONSORS_2_TAGLINE']; ?></span></a></dt>
 						  <dd class="accordionItem accordionItem">
@@ -68,6 +69,7 @@
 						  <dd class="accordionItem accordionItem">
 							<a href="http://www.camptocamp.com/" class="sponsor icon c2c"><span class="label">campstocamp</span></a>
 							<a href="http://www.checksum.be/" class="sponsor icon checksum"><span class="label">Checksum</span></a>
+							<a href="http://www.geobusinet.com" class="sponsor icon geobusinet"><span class="label">Geobusinet</span></a>
 						  </dd>
 						</dl>
 					  </div>
