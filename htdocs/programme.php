@@ -37,6 +37,7 @@
 			<section id="main" class="container">
 				<header>
 					<h2>Programme</h2>
+					<p>DRAFT - PROVISOIRE - VOORLOPIG</p>
 					<p><?php echo $lang['SITE_DATATOP']; ?></p>
 				</header>
 				<div class="row">
