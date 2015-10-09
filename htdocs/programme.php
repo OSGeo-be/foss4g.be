@@ -47,13 +47,7 @@
 					</div>
 					<div class="table-wrapper">
 									<table class="alt">
-										<!--<thead>
-											<tr>
-												<th>Heure</th>
-												<th>Description</th>
-												<th>Salle</th>
-											</tr>
-										</thead>-->
+									
 										<tbody>
 											<tr class="progr-1">
 												<td colspan="3"><i class="fa fa-rocket"></i>Séance d'ouverture</td>
@@ -65,17 +59,17 @@
 											
 											<tr>
 												<td>9h00</td>
-												<td class="talk" colspan="3" style="text-align:left;padding-left:30px">Inscriptions<br /></td>
+												<td class="talk" colspan="3" style="text-align:left;padding-left:30px">Inscription<br /></td>
 											</tr>
 											<tr>
 												<td>9h30</td>
-												<td class="talk" colspan="3" style="text-align:left;padding-left:30px">Bienvenue et présentation de OSGeo/OSGeo-BE<br /><span class="author"> Mr Who & Mr Spoke</span></td>
+												<td class="talk" colspan="3" style="text-align:left;padding-left:30px">Welcome & presentation OSGeo/OSGeo-BE<br /><span class="author"> Mr Who & Mr Spoke</span></td>
 												
 											</tr>
 											
 											<tr>
 												<td>10h00</td>
-												<td class="talk" colspan="3" style="text-align:left;padding-left:30px">Session plénière Keynote<br /><span class="author"> Miss Piggy & Mr Kermit </span></td>
+												<td class="talk" colspan="3" style="text-align:left;padding-left:30px">Plenary Keynote<br /><span class="author"> Miss Piggy & Mr Kermit </span></td>
 												
 											</tr>
 											
@@ -94,9 +88,9 @@
 														<tbody>
 															<tr>
 															
-																<td colspan="2" style="width:50%;text-align:center;"><h4><i class="fa fa-rocket fa-2x"></i> Pleniere</h4>
+																<td colspan="2" style="width:45%;text-align:center;"><h4><i class="fa fa-rocket fa-2x"></i> Pleniere</h4>
 																<a href="infos.html#plenieres" style="font-weight:300">Atrium</a></td> 
-																<td colspan="2" style="width:25%;text-align:center;"><h4><i class="fa fa-gears fa-2x"></i> Side Track Demo</h4>
+																<td colspan="2" style="width:26%;text-align:center;"><h4><i class="fa fa-gears fa-2x"></i> Side Track Demo</h4>
 																<a href="infos.html#workshops" style="font-weight:300">Aqua</a></td>
 																<td colspan="2" style="width:25%;text-align:center;"><h4><i class="fa fa-gears fa-2x"></i> Side Track Dev</h4>
 																<a href="infos.html#workshops" style="font-weight:300">Sylva - Terra</a></td>
