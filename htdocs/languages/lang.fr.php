@@ -224,9 +224,9 @@ $lang['INFO_PROG_TEXT1'] ='	Mardi, 29 October 2015
 								<li>10:00-10:30 - Session plénière</li>
 								<li>10:30-11:00 - Pause café</li>
 								<li>11:00-12:40 - Sessions parallèles: Plénière - Session 1 - Session 2</li>
-								<li>12:30-14:00 - Pause de midi</li>
-								<li>14:00-16:00 - Sessions parallèles: Plénière - Session 1 - Session 2</li>
-								<li>16:00-16:10 - Pause café</li>
+								<li>12:40-14:00 - Pause de midi</li>
+								<li>14:00-16:10 - Sessions parallèles: Plénière - Session 1 - Session 2</li>
+								<li>16:10-16:40 - Pause café</li>
 								<li>16:40-17:00 - Conclusions et futur de l\'OSGeo-BE</li>
 								<li> >18:30     - Networking</li>
 							</ul>';
