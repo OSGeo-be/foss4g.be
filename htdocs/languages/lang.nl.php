@@ -29,6 +29,8 @@ $lang['MENU_REG'] = 'Registratie';
 $lang['MENU_CALL2'] = 'Oproep voor sponsors';
 $lang['MENU_CALL3'] = 'Oproep voor bijdragen';
 $lang['MENU_PRACTICAL'] = 'Info & toegang';
+
+$lang['MENU_PROGRAM'] = 'Agenda';
 $lang['MENU_CONTACT'] = 'Contact';
 $lang['MENU_LANG'] = 'Taal';
 
