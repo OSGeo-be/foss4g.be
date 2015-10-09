@@ -37,7 +37,7 @@
 			<section id="main" class="container">
 				<header>
 					<h2>Programme</h2>
-					<p>Jeudi 28 octobre 2015, de 8h00 à 18h00</p>
+					<p><?php echo $lang['SITE_DATATOP']; ?></p>
 				</header>
 				<div class="row">
 					<div class="8u">
