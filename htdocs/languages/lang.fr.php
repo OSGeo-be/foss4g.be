@@ -223,12 +223,12 @@ $lang['INFO_PROG_TEXT1'] ='	Mardi, 29 October 2015
 								<li>09:30-10:00 - Bienvenue et présentation de OSGeo/OSGeo-BE</li>
 								<li>10:00-10:30 - Session plénière</li>
 								<li>10:30-11:00 - Pause café</li>
-								<li>11:00-12:30 - Sessions parallèles: Plénière - Session 1 - Session 2</li>
+								<li>11:00-12:40 - Sessions parallèles: Plénière - Session 1 - Session 2</li>
 								<li>12:30-14:00 - Pause de midi</li>
 								<li>14:00-16:00 - Sessions parallèles: Plénière - Session 1 - Session 2</li>
-								<li>16:00-16:30 - Pause café</li>
-								<li>16:30-17:00 - Conclusions et futur de l\'OSGeo-BE</li>
-								<li> >19:00     - Networking</li>
+								<li>16:00-16:10 - Pause café</li>
+								<li>16:40-17:00 - Conclusions et futur de l\'OSGeo-BE</li>
+								<li> >18:30     - Networking</li>
 							</ul>';
 $lang['INFO_PROG_TEXT2'] ='Le programme détaillé sera disponible prochainement.';							
 
