@@ -28,6 +28,7 @@ $lang['MENU_ABOUT'] = 'Over ons';
 $lang['MENU_REG'] = 'Registratie';
 $lang['MENU_CALL2'] = 'Oproep voor sponsors';
 $lang['MENU_CALL3'] = 'Oproep voor bijdragen';
+$lang['MENU_PROGRAMME'] = 'Programma';
 $lang['MENU_PRACTICAL'] = 'Info & toegang';
 
 $lang['MENU_PROGRAM'] = 'Agenda';
@@ -57,6 +58,7 @@ $lang['CECI-G'] = 'images/foss4gbe-nl-g.svg';
 $lang['CALL_1'] = 'Registraties';
 $lang['CALL_2'] = 'Oproep voor sponsors';
 $lang['CALL_3'] = 'Oproep voor bijdragen';
+$lang['PROGRAMME'] = 'Programma';
 
 // HOME OVER ONS
 $lang['ABOUT_TITLE'] = 'Na verschillende succesvolle activiteiten, zoals <strong><a href="http://www.geomajas.org/osgeogent2013" alt="OSGeo Gent">OSGeo Gent</a></strong> (2013), <a href="http://be-opengis.ulb.ac.be/" alt="be OpenGIS fr"><strong><sub>be</sub><span style="color:rgba(113,191,69,1);">Open</span>GIS<sup>fr</sup></strong></a> (2014) en de geospatial devroom op <strong><a href="https://fosdem.org/2015/schedule/track/geospatial/" alt="geospatial devroom at FOSDEM">FOSDEM</a></strong> (2015) hebben de Nederlandstalige en Franstalige OpenGIS gemeenschap besloten de handen in elkaar te slaan om de eerste <strong>FOSS4G België</strong> te organiseren.';

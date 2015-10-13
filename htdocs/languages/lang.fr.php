@@ -28,6 +28,7 @@ $lang['MENU_ABOUT'] = 'A propos';
 $lang['MENU_REG'] = 'Inscription';
 $lang['MENU_CALL2'] = 'Appel à sponsors';
 $lang['MENU_CALL3'] = 'Appel à contributions';
+$lang['MENU_PROGRAMME'] = 'Programme';
 $lang['MENU_PRACTICAL'] = 'Accès & Info';
 
 $lang['MENU_PROGRAM'] = 'Programme';
@@ -57,6 +58,7 @@ $lang['CECI-G'] = 'images/foss4gbe-g.svg';
 $lang['CALL_1'] = 'Inscriptions';
 $lang['CALL_2'] = 'Appel à sponsors';
 $lang['CALL_3'] = 'Appel à contributions';
+$lang['PROGRAMME'] = 'Programme';
 
 // HOME A PROPOS
 $lang['ABOUT_TITLE'] = 'Après différents évènements fructueux, comme <strong><a href="http://www.geomajas.org/osgeogent2013" alt="OSGeo Ghent">OSGeo Ghent</a></strong> (2013), <a href="http://be-opengis.ulb.ac.be/" alt="be OpenGIS fr"><strong><sub>be</sub><span style="color:rgba(113,191,69,1);">Open</span>GIS<sup>fr</sup></strong></a> (2014) et la géospatiale devroom au <strong><a href="https://fosdem.org/2015/schedule/track/geospatial/" alt="geospatial devroom at FOSDEM">FOSDEM</a></strong> (2015), les communautés Open GIS francophone et néerlandophone de Belgique ont décidé de joindre leurs forces en une section belge de la fondation OSGEO et d\'organiser le premier <strong>FOSS4G Belgique</strong>.';

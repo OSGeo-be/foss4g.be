@@ -42,7 +42,7 @@
 				<ul class="actions">
 					<li><a href="inscription.php" class="button"><?php echo $lang['CALL_1']; ?></a></li>
 					<li><a href="call.php" class="button"><?php echo $lang['CALL_2']; ?></a></li>
-					<li><a href="papers.php" class="button"><?php echo $lang['CALL_3']; ?></a></li>
+					<li><a href="programme.php" class="button"><?php echo $lang['PROGRAMME']; ?></a></li>
 				</ul>
 				<p><?php echo $lang['SITE_DATABIG']; ?></p>
 			</section>
