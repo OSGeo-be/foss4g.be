@@ -53,10 +53,7 @@
 											<tr class="progr-1">
 												<td colspan="3"><i class="fa fa-rocket"></i>Séance d'ouverture</td>
 											</tr>
-											<tr>
-												<td>8h00</td>
-												<td class="talk" colspan="3" style="text-align:left;padding-left:30px">Accueil<br /></td>
-											</tr>
+												
 											
 											<tr>
 												<td>9h00</td>
@@ -64,7 +61,7 @@
 											</tr>
 											<tr>
 												<td>9h30</td>
-												<td class="talk" colspan="3" style="text-align:left;padding-left:30px">Welcome & presentation OSGeo/OSGeo-BE<br /><span class="author"> Mr  & Mr </span></td>
+												<td class="talk" colspan="3" style="text-align:left;padding-left:30px">Welcome & presentation OSGeo/OSGeo-BE<br /><!--<span class="author"> Mr  & Mr </span>--></td>
 												
 											</tr>
 											<tr>
@@ -349,7 +346,7 @@
 																<td style="background-color: #fff;text-align:left;font-weight:300">
 																	OL3-Cesium, La 3D pour OpenLayers<br />
 																	<span class="author"> Bolognini Yves <br />
-																	(Camp2camp)</span><a class="btn pluss js-toggleNext"><i class="fa fa-plus-square"></i>Infos</a>
+																	(Camptocamp)</span><a class="btn pluss js-toggleNext"><i class="fa fa-plus-square"></i>Infos</a>
 													<div class="toggled" style="display:none;">Visualiser des données 3D dans des applications OpenLayers, c'est l'objectif du projet OL3-Cesium. Le globe 3D Cesium fonctionne sur tout navigateur équipé de WebGL, y compris les navigateurs mobiles , et ne nécessite pas de plugin. Grâce à l'intégration entre OpenLayers 3 et Cesium, il est possible de partager des données, de les afficher de façon dynamique (clustering)  et d'interagir avec le   globe   3D  (interrogation).  OL3-Cesium   est   déjà   utilisé   dans   plusieurs   projets   et   son développement   est   actuellement   particulièrement   actif.  La   présentation   sera   axée   sur   des   cas d'utilisation concrets, allant de la visualisation de points d'intérêt à l'insertion de bâtiments 3D sur un terrain.</div>
 																</td>
 															</tr>
