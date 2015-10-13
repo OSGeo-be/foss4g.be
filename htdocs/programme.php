@@ -75,7 +75,7 @@
 											
 											<tr>
 												<td>10h10</td>
-												<td class="talk" colspan="3" style="text-align:left;padding-left:30px">Open standards (OGC)<br /><span class="author">  </span></td>
+												<td class="talk" colspan="3" style="text-align:left;padding-left:30px">Open standards (OGC)<br /><span class="author">Bart De Lathouwer (OGC)</span></td>
 												
 											</tr>
 											
@@ -129,7 +129,7 @@
 																<td style="background-color: #fff;text-align:left;font-weight:300">
 																	 Sensor web enablement: a first implementation with istSOS<br />
 																	<span class="author"> Daan Asma <br />
-																	(Geosolution)</span><a class="btn pluss js-toggleNext"><i class="fa fa-plus-square"></i>Infos</a>
+																	(Geosolutions)</span><a class="btn pluss js-toggleNext"><i class="fa fa-plus-square"></i>Infos</a>
 													<div class="toggled" style="display:none;">At FOSS4G, we would like to present our first implementation of the istSOS software. At our office buildings, we installed several sensors that are continuously monitoring two environment parameters. By means of the OGC Sensor Observations Service (SOS) InsertObservation request, the measurement values are sent to our istSOS platform, where they are stored according to the OGC Observations & Measurements data model in a PostgreSQL database.Besides the measurement and storage of the data, we also built a web mapping component to display the temporal and spatial distribution of our observations. .</div>
 																</td>
 															</tr>
@@ -138,7 +138,7 @@
 															
 																<td style="width:10%;background-color: #fff">11h25</td>
 																<td style="background-color: #fff;text-align:left;font-weight:300">
-																	Cataloguing open geodata with CKAN : new features, belgian perspective<br />
+																	Cataloguing open geodata with CKAN : new features, Belgian perspective<br />
 																	<span class="author">  Philippe Duchesne<br />
 																	(High Latitudes)</span>
 																	<a class="btn pluss js-toggleNext"><i class="fa fa-plus-square"></i>Infos</a>
@@ -243,7 +243,7 @@
 																	<span class="author"> Julien Radoux <br />
 																	(UCL)</span>
 																	<a class="btn pluss js-toggleNext"><i class="fa fa-plus-square"></i>Infos</a>
-													<div class="toggled" style="display:none;">Basically, our aim is to impower biodiversity research by developing open datasets and tools. Technically, we are processing large time series (hundreds of Tb) with Orfeo Toolbox (www.orfeo-toolbox.org), then we publish it with MapServer and display everything in Openlayer. We also organise QGIS training for biodiversity scientists.</div>
+													<div class="toggled" style="display:none;">Basically, our aim is to impower biodiversity research by developing open datasets and tools. Technically, we are processing large time series (hundreds of Tb) with Orfeo Toolbox (www.orfeo-toolbox.org), then we publish it with MapServer and display everything in Openlayers. We also organise QGIS training for biodiversity scientists.</div>
 																</td>														
 																<td style="background-color: #fff;text-align:left;font-weight:300">
 																	Démonstration Live du WebGIS BruGIS<br />
@@ -285,7 +285,7 @@
 																<td style="width:10%;background-color: #fff">14h50</td>
 																<td style="background-color: #fff;text-align:left;font-weight:300">
 																	Managing the Flemish Functional Cycle Network: a FOSS4G solution<br />
-																	<span class="author">  Karel Dieussaert<br />
+																	<span class="author">  Karel Dieussaert<br/> (Geosolutions)<br />
 																	</span>
 																	<a class="btn pluss js-toggleNext"><i class="fa fa-plus-square"></i>Infos</a>
 													<div class="toggled" style="display:none;">Everyday people make a lot of movements between their home and attraction poles in cities and municipalities such as work, school, stores,.... A lot of these functional movements could be done by bike if the appropriate infrastructure would be there. More than 10 years ago, The Flemish Ministry of Mobility and Public Works defined a Functional Cycling Network (FCN) to realise a logical and safe infrastructure for functional cycle movements between these environments. The scope of this project was to provide a GIS-based web tool to manage the data and provide tools to monitor, analyse and report about the FCN. This to improve the FCN according to defined standards for cycling infrastructure. As this tool is going to be used by the responsibles in every municipality of Flanders, they expect a reliable, performant and stable system that can manage this kind of data. </div>
@@ -309,7 +309,7 @@
 																<td style="background-color: #fff;text-align:left;font-weight:300">
 																	Maps for  the  bicentenary  of Waterloo<br />
 																	<span class="author">Christophe Cloquet <br />
-																	(Poppys)</span>
+																	(Poppy)</span>
 																	<!-- -->
 																	<a class="btn pluss js-toggleNext"><i class="fa fa-plus-square"></i>Infos</a>
 													<div class="toggled" style="display:none;">We  built online  and  printed  maps for  the  bicentenary  of  the  battle of Waterloo using open  source tools.  The  resulting  work  has  been  used  by  the  organizer,  the  fire  brigades,  the  police  and  the medical services before and during the event.</div>
@@ -326,7 +326,7 @@
 																<td style="background-color: #fff;text-align:left;font-weight:300">
 																	Managing Web GIS maps using the Geomajas Deskmanager<br />
 																	<span class="author">  Oliver May <br />
-																	(Geomajas)</span><a class="btn pluss js-toggleNext"><i class="fa fa-plus-square"></i>Infos</a>
+																	(Geosparc)</span><a class="btn pluss js-toggleNext"><i class="fa fa-plus-square"></i>Infos</a>
 													<div class="toggled" style="display:none;">The presentation is about the current state of the Geomajas Deskmanager plug-in, a configuration GUI for the Geomajas web GIS framework. We will demonstrate the usage of the management application and take a brief peek under the hood. The management interface allows you to configure maps, add external data from OGC sources, apply SLD styles, hide maps behind security, and so on. Finally the roadmap of the Deskmanager is discussed, mainly how to integrate with other OSS web GIS clients.</div>
 																</td>
 															</tr>
@@ -349,7 +349,7 @@
 																<td style="background-color: #fff;text-align:left;font-weight:300">
 																	OL3-Cesium, La 3D pour OpenLayers<br />
 																	<span class="author"> Bolognini Yves <br />
-																	(xxx)</span><a class="btn pluss js-toggleNext"><i class="fa fa-plus-square"></i>Infos</a>
+																	(Camp2camp)</span><a class="btn pluss js-toggleNext"><i class="fa fa-plus-square"></i>Infos</a>
 													<div class="toggled" style="display:none;">Visualiser des données 3D dans des applications OpenLayers, c'est l'objectif du projet OL3-Cesium. Le globe 3D Cesium fonctionne sur tout navigateur équipé de WebGL, y compris les navigateurs mobiles , et ne nécessite pas de plugin. Grâce à l'intégration entre OpenLayers 3 et Cesium, il est possible de partager des données, de les afficher de façon dynamique (clustering)  et d'interagir avec le   globe   3D  (interrogation).  OL3-Cesium   est   déjà   utilisé   dans   plusieurs   projets   et   son développement   est   actuellement   particulièrement   actif.  La   présentation   sera   axée   sur   des   cas d'utilisation concrets, allant de la visualisation de points d'intérêt à l'insertion de bâtiments 3D sur un terrain.</div>
 																</td>
 															</tr>
