@@ -55,7 +55,7 @@ $lang['CECI'] 	= 'images/foss4gbe-nl.svg';
 $lang['CECI-G'] = 'images/foss4gbe-nl-g.svg';
 
 // CALL-TO_ACTION
-$lang['CALL_1'] = 'Registraties';
+$lang['CALL_1'] = 'Inschrijvingen';
 $lang['CALL_2'] = 'Oproep voor sponsors';
 $lang['CALL_3'] = 'Oproep voor bijdragen';
 $lang['PROGRAMME'] = 'Programma';
@@ -214,17 +214,17 @@ $lang['PAPERS_BUTTON'] ='Contact us now to participate';
 
 // INFORMATION AND VENUE PAGE ------------------------------------------------------------------------------------------------/
 
-$lang['INFO_TITLE'] ='Venue & Information';
-$lang['INFO_TAGLINE'] ='&laquo; The where\'s <span>and how\'s</span> <span>in a nutshell</span> &raquo;';
+$lang['INFO_TITLE'] ='Plaats &amp; Informatie';
+$lang['INFO_TAGLINE'] ='&laquo; Waar <span> en hoe</span> <span>in een notendop</span> &raquo;';
 
 $lang['INFO_REG'] ='Registrations';
-$lang['INFO_REG_TXT'] ='The event is <u>free for all</u>, but the available seats are limited and registration is required! Meanwhile, do not hesitate to <a href="contact.php">send us an email to express your interest</a>, you will be the first to be informed when registration opens.';
+$lang['INFO_REG_TXT'] ='Het evenement is <u>gratis voor allen</u> maar het aantal plaatsen is beperkt en <a href="inscription.php">registratie</a> is vereist. ';
 
-$lang['INFO_FOOD'] ='Catering & Amenities';
-$lang['INFO_FOOD_TXT'] ='Greenhouse gas emissions, water consumption, impacts on biodiversity, waste production... The environmental impacts of our food are enormous. Brussels Environment applies an ambitious and dynamic policy on sustainable food, which is why the BEL restaurant is exemplary in this respect. The food served there includes organic, local and seasonal dishes and vegetarian alternatives. Discover the <a href="http://www.biorganicfactory.be/fr/concept.php" target="_blank">Biorganic Factory</a>';
+$lang['INFO_FOOD'] ='Catering';
+$lang['INFO_FOOD_TXT'] ='Broeikasgassen, waterverbruik, impact op biodiversiteit, afvalproductie... De milieuimpact van ons voedsel zijn enorm. Brussel Leefmilieu voert een ambitieus en dynamisch beleid rond duurzame voeding waardoor het BEL restaurant een voorbeeld moet zijn. De geserveerde voeding bevat biologische, lokale en seizoenseigen gerechten met vegetarische alternatieven. Ontdek de <a href="http://www.biorganicfactory.be/fr/concept.php" target="_blank">Biorganic Factory</a>';
 
-$lang['INFO_PROG'] ='Programme';
-$lang['INFO_PROG_TEXT1'] ='	Tuesday, October the 29th, 2015
+$lang['INFO_PROG'] ='Agenda';
+$lang['INFO_PROG_TEXT1'] ='	Dinsdag 29 oktober, 2015
 							<ul class="alt" style="font-size:80%">
 								<li>08:00-09:00 - Setup of exhibition space</li>
 								<li>09:00-09:30 - Registration</li>
@@ -240,7 +240,7 @@ $lang['INFO_PROG_TEXT1'] ='	Tuesday, October the 29th, 2015
 							</ul>';
 $lang['INFO_PROG_TEXT2'] ='The detailed and complete programme will be available very soon';							
 
-$lang['INFO_ADRES'] ='Address';
+$lang['INFO_ADRES'] ='Adres';
 $lang['INFO_ADRES_TEXT1'] ='The event will be hosted at <a href="http://bel.brussels/" target="_blank" name="Bel">the BEL on the Tour & Taxis site</a> :<br /> Avenue du Port 86c/3002, B-1000 Brussels, Belgium.';
 $lang['INFO_ADRES_TEXT2'] ='BEL is an initiative of Brussels Environment, the Environment and Energy Agency of the Brussels-Capital Region';
 
@@ -265,25 +265,25 @@ $lang['INFO_TT_CAR'] ='Parking Tour & Taxis / 3 euros/uur';
 
 // REGISTRATION PAGE ------------------------------------------------------------------------------------------------/
 
-$lang['REGISTRATION_TXT'] = 'The event is <u>free for all</u>, but the available seats are limited and registration is required! Meanwhile, do not hesitate to <a href="contact.php">contact us or send an email to express your interest</a>, you will be the first to be informed when registration opens.';
+$lang['REGISTRATION_TXT'] = 'Het evenement is gratis maar het aantal plaatsen is beperkt en registratie is noodzakelijk. Noteer dat er in de buurt weinig mogelijkheden tot lunch zijn: indien geen lunch besteld wordt neem je die best zelf mee. Indien je reeds geregistreerd bent voor een ticket kan je op onderstaande pagina ook een bijkomend lunchticket aankopen.';
 
 $lang['REGISTRATION_TAGLINE'] ='Nous n\'avons qu\'un nombre de places limitées, mais si les inscriptions sont clôturées, vous pouvez toujours vous inscrire sur une liste d\'attente via le <a href="contact.php">formulaire de contact</a>';
 
 // CONTACT PAGE ------------------------------------------------------------------------------------------------/
 
 // Contact
-$lang['CONTACT_TITLE'] = 'Contact us';
-$lang['CONTACT_SUBTITLE'] = 'For any inquiries you can send an email to info@foss4g.be';
+$lang['CONTACT_TITLE'] = 'Contacteer ons';
+$lang['CONTACT_SUBTITLE'] = 'Voor alle vragen kan je een e-mail sturen naar info@foss4g.be (NL/FR/EN)';
 $lang['CONTACT_FORM'] = 'Contact';
-$lang['CONTACT_NAME_T'] = 'Name';
-$lang['CONTACT_NAME'] = 'Your name';
+$lang['CONTACT_NAME_T'] = 'Naam';
+$lang['CONTACT_NAME'] = 'Je Naam';
 $lang['CONTACT_EMAIL_T'] = 'Email';
-$lang['CONTACT_EMAIL'] = 'Your Email';
-$lang['CONTACT_MESSAGE_T'] = 'Message';
+$lang['CONTACT_EMAIL'] = 'Je Email';
+$lang['CONTACT_MESSAGE_T'] = 'Bericht';
 $lang['CONTACT_MESSAGE'] = 'Comments';
 $lang['CONTACT_SUBMIT'] = 'Submit';
-$lang['CONTACT_SEND'] = 'Send';
-$lang['CONTACT_CALC'] ='Calculate: 2 + 2 = ';
+$lang['CONTACT_SEND'] = 'Verzenden';
+$lang['CONTACT_CALC'] ='Bereken: 2 + 2 = ';
 
 $lang['CONTACT_THX'] = 'Thank you';
 $lang['CONTACT_THX_TXT'] = 'We will get back to you very shortly';
@@ -294,18 +294,18 @@ $lang['CONTACT_THX_TXT2'] = 'In the meantime for more information you can visit<
 // PARTNERS
 
 // PROGRAMME
-$lang['OPENING_SESSION'] = 'Opening Session';
-$lang['REGISTRATION'] = 'Registration';
-$lang['WELCOME'] = 'Welcome & presentation of OSGeo and OSGeo.be';
-$lang['FIRST_COFFEE'] = 'First coffee break';
-$lang['PROG_PLENARY'] = 'Plenary';
-$lang['PROG_SIDE'] = 'Demo/Research track';
-$lang['PROG_DEV'] = 'Development track';
-$lang['PROG_LUNCH'] = 'Lunch Time';
-$lang['SECOND_COFFEE'] = 'Second coffee break';
-$lang['PROG_CLOSING'] = 'Closing Session';
-$lang['PROG_CONCLUSIONS'] = 'Conclusions and Outlook for OSGeo.be';
-$lang['PROG_DRINK'] = 'Closing Drink and Networking';
+$lang['OPENING_SESSION'] = 'Opening sessie';
+$lang['REGISTRATION'] = 'Registratie';
+$lang['WELCOME'] = 'Welkom en voorstelling van OSGeo en OSGeo.be';
+$lang['FIRST_COFFEE'] = 'Eerste koffiepauze';
+$lang['PROG_PLENARY'] = 'Plenaire sessie';
+$lang['PROG_SIDE'] = 'Demo/Onderzoek traject';
+$lang['PROG_DEV'] = 'Ontwikkelingstraject track';
+$lang['PROG_LUNCH'] = 'Lunch';
+$lang['SECOND_COFFEE'] = 'Tweede Koffiepauze';
+$lang['PROG_CLOSING'] = 'Afsluitende sessie';
+$lang['PROG_CONCLUSIONS'] = 'Conclusies en toekomstplannen voor OSGeo.be';
+$lang['PROG_DRINK'] = 'Afsluitende drink en netwerking';
 
 // FOOTER
 
