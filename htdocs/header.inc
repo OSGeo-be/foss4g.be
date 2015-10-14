@@ -6,11 +6,10 @@
 							<a href="" class="icon fa-angle-down"><?php echo $lang['MENU_INFOS']; ?></a>
 							<ul>
 								<li><a href="about.php"><?php echo $lang['MENU_ABOUT']; ?></a></li>
-								<li><a href="call.php"><?php echo $lang['MENU_CALL2']; ?></a></li>
-								<li><a href="programme.php"><?php echo $lang['MENU_PROGRAMME']; ?></a></li>									
-								<li><a href="infos.php"><?php echo $lang['MENU_PRACTICAL']; ?></a></li>								
-								<li><a href="programme.php"><?php echo $lang['MENU_PROGRAM']; ?></a></li>
+								<li><a href="programme.php"><?php echo $lang['MENU_PROGRAM']; ?></a></li>									
+								<li><a href="infos.php"><?php echo $lang['MENU_PRACTICAL']; ?></a></li>	
 								<li><a href="sponsors.php">Sponsors</a></li>
+								<li><a href="call.php"><?php echo $lang['MENU_CALL2']; ?></a></li>
 								<li><a href="contact.php"><?php echo $lang['MENU_CONTACT']; ?></a></li>
 							</ul>
 						</li>

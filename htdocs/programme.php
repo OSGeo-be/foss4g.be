@@ -36,7 +36,7 @@
 		<!-- Main -->
 			<section id="main" class="container">
 				<header>
-					<h2>Programme</h2>
+					<h2><?php echo $lang['MENU_PROGRAM']; ?></h2>
 					<p><?php echo $lang['SITE_DATATOP']; ?></p>
 				</header>
 				<div class="row">
