@@ -363,11 +363,11 @@
 											</tr>
 																						
 											<tr class="progr-1">
-												<td colspan="3" style="background-color: #f8f8f8"><i class="fa fa-university"></i>Séance de clôture</td>
+												<td colspan="3" style="background-color: #f8f8f8"><i class="fa fa-university"></i>Closing Session</td>
 											</tr>
 											<tr style="background-color: #fff">
 												<td>16h30<br />17h00</td>
-												<td class="talk">Conclusions and Outlook for OSGeo-BE<br /><i class="fa fa-glass"></i> Verre de l'amitié & Networking</td>
+												<td class="talk">Conclusions and Outlook for OSGeo-BE<br /><i class="fa fa-glass"></i> Glass of the friendship & Networking</td>
 												<!--<td><a href="infos.html#plenieres">UB4.136</a></td> -->
 											</tr>											
 										</tbody>
