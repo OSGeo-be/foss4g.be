@@ -43,7 +43,7 @@
 				<div class="row">
 					<div class="8u">
 						<ul class="actions">
-							<li><a href="inscription.php" class="button alt">Inscrivez-vous</a></li>
+							<li><a href="inscription.php" class="button alt"><?php echo $lang['MENU_REG']; ?></a></li>
 						</ul>
 					</div>
 					<div class="table-wrapper">
