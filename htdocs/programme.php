@@ -36,7 +36,7 @@
 		<!-- Main -->
 			<section id="main" class="container">
 				<header>
-					<h2>Programme</h2>
+					<h2><?php echo $lang['MENU_PROGRAMME']; ?></h2>
 					<p><?php echo $lang['SITE_DATATOP']; ?></p>
 				</header>
 				<div class="row">
@@ -50,7 +50,7 @@
 									
 										<tbody>
 											<tr class="progr-1">
-												<td colspan="3"><i class="fa fa-rocket"></i>Séance d'ouverture</td>
+												<td colspan="3"><i class="fa fa-rocket"></i>Opening session</td>
 											</tr>
 												
 											
