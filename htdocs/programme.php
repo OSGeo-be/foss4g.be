@@ -92,7 +92,7 @@
 															
 																<td colspan="2" style="width:32%;text-align:center;"><h4><i class="fa fa-rocket fa-2x"></i><?php echo $lang['PROG_PLENARY'];?></h4>
 																<a href="infos.html#plenieres" style="font-weight:300">Atrium</a></td> 
-																<td colspan="2" style="width:32%;text-align:center;"><h4><i class="fa fa-university fa-2x"></i> <?php echo lang['PROG_SIDE']?></h4>
+																<td colspan="2" style="width:32%;text-align:center;"><h4><i class="fa fa-university fa-2x"></i> <?php echo $lang['PROG_SIDE']?></h4>
 																<a href="infos.html#workshops" style="font-weight:300">Sylva</a></td>
 																<td colspan="2" style="width:30%;text-align:center;"><h4><i class="fa fa-gears fa-2x"></i><?php echo $lang['PROG_DEV'];?></h4>
 																<a href="infos.html#workshops" style="font-weight:300">Aqua - Terra</a></td>
