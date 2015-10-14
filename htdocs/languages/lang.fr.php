@@ -28,7 +28,7 @@ $lang['MENU_ABOUT'] = 'A propos';
 $lang['MENU_REG'] = 'Inscription';
 $lang['MENU_CALL2'] = 'Appel à sponsors';
 $lang['MENU_CALL3'] = 'Appel à contributions';
-$lang['MENU_PROGRAMME'] = 'Programme';
+//$lang['MENU_PROGRAMME'] = 'Programme';
 $lang['MENU_PRACTICAL'] = 'Accès & Info';
 
 $lang['MENU_PROGRAM'] = 'Programme';
