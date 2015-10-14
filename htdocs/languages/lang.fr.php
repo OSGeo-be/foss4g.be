@@ -289,6 +289,20 @@ $lang['CONTACT_THX_TXT2'] = 'En attendant pour de plus amples informations vous 
 
 // PARTNERS
 
+// PROGRAMME
+$lang['OPENING_SESSION'] = 'Opening Session';
+$lang['REGISTRATION'] = 'Registration';
+$lang['WELCOME'] = 'Welcome & presentation of OSGeo and OSGeo.be';
+$lang['FIRST_COFFEE'] = 'First coffee break';
+$lang['PROG_PLENARY'] = 'Plenary';
+$lang['PROG_SIDE'] = 'Demo/Research track';
+$lang['PROG_DEV'] = 'Development track';
+$lang['PROG_LUNCH'] = 'Lunch Time';
+$lang['SECOND_COFFEE'] = 'Second coffee break';
+$lang['PROG_CLOSING'] = 'Closing Session';
+$lang['PROG_CONCLUSIONS'] = 'Conclusions and Outlook for OSGeo.be';
+$lang['PROG_DRINK'] = 'Closing Drink and Networking';
+
 // FOOTER
 
 	// CTA
