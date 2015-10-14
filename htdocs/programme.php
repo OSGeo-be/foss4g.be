@@ -381,8 +381,8 @@
 
 
 						</div>
-					</div>
-				<div class="nav bottom"><prev></prev><a href="a-propos.html" title="A propos">A propos</a> <a href="infos.html" title="Infos">Informations pratiques</a><next></next></div>
+					</div></div>
+				<div class="nav bottom" style="margin-bottom:5vh"><prev></prev><a href="papers.php" title="<?php echo $lang['MENU_CALL3']; ?>"><?php echo $lang['MENU_CALL3']; ?></a> <a href="contact.php" title="<?php echo $lang['MENU_CONTACT']; ?>"><?php echo $lang['MENU_CONTACT']; ?></a><next></next></div>
 			</section>
 
 			
