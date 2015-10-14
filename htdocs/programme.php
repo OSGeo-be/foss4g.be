@@ -37,7 +37,7 @@
 			<section id="main" class="container">
 				<header>
 					<h2>Programme</h2>
-					<p>DRAFT - PROVISOIRE - VOORLOPIG</p>
+					<!--<p>DRAFT - PROVISOIRE - VOORLOPIG</p>-->
 					<p><?php echo $lang['SITE_DATATOP']; ?></p>
 				</header>
 				<div class="row">
@@ -61,7 +61,7 @@
 											</tr>
 											<tr>
 												<td>9h30</td>
-												<td class="talk" colspan="3" style="text-align:left;padding-left:30px">Welcome & presentation OSGeo/OSGeo-BE<br /><!--<span class="author"> Mr  & Mr </span>--></td>
+												<td class="talk" colspan="3" style="text-align:left;padding-left:30px">Welcome & presentation OSGeo/OSGeo-BE<br /><span class="author"> Dirk Frigne  & Johan Van de Wauw </span></td>
 												
 											</tr>
 											<tr>
