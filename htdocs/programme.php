@@ -50,17 +50,17 @@
 									
 										<tbody>
 											<tr class="progr-1">
-												<td colspan="3"><i class="fa fa-rocket"></i>Séance d'ouverture</td>
+												<td colspan="3"><i class="fa fa-rocket"></i><?php echo $lang["OPENING_SESSION"];?></td>
 											</tr>
 												
 											
 											<tr>
 												<td>9h00</td>
-												<td class="talk" colspan="3" style="text-align:left;padding-left:30px">Inscription<br /></td>
+												<td class="talk" colspan="3" style="text-align:left;padding-left:30px"><?php echo $lang['REGISTRATION']?><br /></td>
 											</tr>
 											<tr>
 												<td>9h30</td>
-												<td class="talk" colspan="3" style="text-align:left;padding-left:30px">Welcome & presentation OSGeo/OSGeo-BE<br /><span class="author"> Dirk Frigne  & Johan Van de Wauw </span></td>
+												<td class="talk" colspan="3" style="text-align:left;padding-left:30px"><?php echo $lang['WELCOME']?><br /><span class="author"> Dirk Frigne  &amp; Johan Van de Wauw </span></td>
 												
 											</tr>
 											<tr>
@@ -76,7 +76,7 @@
 											</tr>
 											
 												<tr class="progr-2">
-												<td colspan="3">10h30 <i class="fa fa-coffee"></i>First coffee break</td>
+												<td colspan="3">10h30 <i class="fa fa-coffee"></i><?php echo $lang['FIRST_COFFEE'];?></td>
 											</tr>
 											
 											<!--<tr>
@@ -90,11 +90,11 @@
 														<tbody>
 															<tr>
 															
-																<td colspan="2" style="width:32%;text-align:center;"><h4><i class="fa fa-rocket fa-2x"></i> Plénière</h4>
+																<td colspan="2" style="width:32%;text-align:center;"><h4><i class="fa fa-rocket fa-2x"></i><?php echo $lang['PROG_PLENARY'];?></h4>
 																<a href="infos.html#plenieres" style="font-weight:300">Atrium</a></td> 
-																<td colspan="2" style="width:32%;text-align:center;"><h4><i class="fa fa-university fa-2x"></i> Side Track Demo/Research</h4>
+																<td colspan="2" style="width:32%;text-align:center;"><h4><i class="fa fa-university fa-2x"></i> <?php echo lang['PROG_SIDE']?></h4>
 																<a href="infos.html#workshops" style="font-weight:300">Sylva</a></td>
-																<td colspan="2" style="width:30%;text-align:center;"><h4><i class="fa fa-gears fa-2x"></i> Side Track Dev</h4>
+																<td colspan="2" style="width:30%;text-align:center;"><h4><i class="fa fa-gears fa-2x"></i><?php echo $lang['PROG_DEV'];?></h4>
 																<a href="infos.html#workshops" style="font-weight:300">Aqua - Terra</a></td>
 															</tr>
 															<tr>
@@ -215,7 +215,7 @@
 												</td>
 											</tr>
 											<tr class="progr-2">
-												<td colspan="3" style="background-color: #f8f8f8">12h15<i class="fa fa-cutlery"></i>Lunch Time</td>
+												<td colspan="3" style="background-color: #f8f8f8">12h15<i class="fa fa-cutlery"></i><?php echo $lang['PROG_LUNCH'];?></td>
 											</tr>
 											
 											<!-- Apres-midi -->
@@ -359,15 +359,15 @@
 											
 											
 												<tr class="progr-2">
-												<td colspan="3">16h10 <i class="fa fa-coffee"></i>Second coffee break</td>
+												<td colspan="3">16h10 <i class="fa fa-coffee"></i><?php echo $lang['SECOND_COFFEE'];?></td>
 											</tr>
 																						
 											<tr class="progr-1">
-												<td colspan="3" style="background-color: #f8f8f8"><i class="fa fa-university"></i>Séance de clôture</td>
+												<td colspan="3" style="background-color: #f8f8f8"><i class="fa fa-university"></i><?php echo $lang['PROG_CLOSING'];?></td>
 											</tr>
 											<tr style="background-color: #fff">
 												<td>16h30<br />17h00</td>
-												<td class="talk">Conclusions and Outlook for OSGeo-BE<br /><i class="fa fa-glass"></i> Verre de l'amitié & Networking</td>
+												<td class="talk"><?php echo $lang['PROG_CONCLUSIONS'];?><br /><i class="fa fa-glass"></i><?php echo $lang['PROG_DRINK']?></td>
 												<!--<td><a href="infos.html#plenieres">UB4.136</a></td> -->
 											</tr>											
 										</tbody>

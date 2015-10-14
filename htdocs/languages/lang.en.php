@@ -292,7 +292,7 @@ $lang['CONTACT_THX_TXT2'] = 'In the meantime for more information you can visit<
 // PROGRAMME
 $lang['OPENING_SESSION'] = 'Opening Session';
 $lang['REGISTRATION'] = 'Registration';
-$lang['WELCOME'] = 'Welcome & presentation of OSGeo and OSGeo.be';
+$lang['WELCOME'] = 'Welcome &amp; presentation of OSGeo and OSGeo.be';
 $lang['FIRST_COFFEE'] = 'First coffee break';
 $lang['PROG_PLENARY'] = 'Plenary';
 $lang['PROG_SIDE'] = 'Demo/Research track';
