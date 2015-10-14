@@ -56,6 +56,7 @@
 						  <dt class="spons"><a href="#" class="accordionTitle sponsors gold"> <?php echo $lang['SPONSORS_2_TITLE']; ?> <span class="spon2"><?php echo $lang['SPONSORS_2_TAGLINE']; ?></span></a></dt>
 						  <dd class="accordionItem accordionItem">
 							<a href="http://www.idgeo.fr/" class="sponsor icon idgeo"><span class="label">IdGeo</span></a>
+							<a href="http://www.geospatialworldforum.org" class="sponsor icon gsw"><span class="label">Geospatial World Forum</span></a>
 							<a href="http://www.gim.be/" class="sponsor icon gim"><span class="label">GIM</span></a>
 							<a href="http://www.champs-libres.coop/" class="sponsor icon champs-libres"><span class="label">Champs-libres</span></a>
 							<a href="http://www.merkator.be" class="sponsor icon merkator"><span class="label">Merkator</span></a>

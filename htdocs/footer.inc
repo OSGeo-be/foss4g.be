@@ -5,6 +5,7 @@
 				<li><a href="http://cirb.brussels/" class="icon cirb"><span class="label">CIRB</span></a></li>
 				<li><a href="http://www.geosolutions.be" class="icon geosolutions"><span class="label">Geosolutions</span></a></li>
 				<li><a href="http://www.geosparc.com/" class="icon geosparc"><span class="label">Geosparc</span></a></li>
+				<li><a href="http://www.geospatialworldforum.org/" class="icon gsw"><span class="label">Geospatial World Forum/span></a></li>
 				<li><a href="http://www.gim.be" class="icon gim"><span class="label">GIM</span></a></li>
 				<li><a href="http://www.idgeo.fr/" class="icon idgeo"><span class="label">IdGeo</span></a></li>
 				<li><a href="http://igeat.ulb.ac.be/" class="icon igeat"><span class="label">ULB Igeat</span></a></li>
