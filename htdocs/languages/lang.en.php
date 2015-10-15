@@ -214,7 +214,7 @@ $lang['INFO_TITLE'] ='Venue & Information';
 $lang['INFO_TAGLINE'] ='&laquo; The where\'s <span>and how\'s</span> <span>in a nutshell</span> &raquo;';
 
 $lang['INFO_REG'] ='Registrations';
-$lang['INFO_REG_TXT'] ='The event is <u>free for all</u>, but the available seats are limited and registration is required! Meanwhile, do not hesitate to <a href="contact.php">send us an email to express your interest</a>, you will be the first to be informed when registration opens.';
+$lang['INFO_REG_TXT'] ='The event is <u>free for all</u>, but the available seats are limited and registration is required! Please do not forget to order your lunch or bring your own.';
 
 $lang['INFO_FOOD'] ='Catering & Amenities';
 $lang['INFO_FOOD_TXT'] ='Greenhouse gas emissions, water consumption, impacts on biodiversity, waste production... The environmental impacts of our food are enormous. Brussels Environment applies an ambitious and dynamic policy on sustainable food, which is why the BEL restaurant is exemplary in this respect. The food served there includes organic, local and seasonal dishes and vegetarian alternatives. Discover the <a href="http://www.biorganicfactory.be/fr/concept.php" target="_blank">Biorganic Factory</a>';
