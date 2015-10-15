@@ -363,20 +363,11 @@
 											</tr>
 																						
 											<tr class="progr-1">
-												<td colspan="3" style="background-color: #f8f8f8"><i class="fa fa-university"></i><?php echo $lang['PROG_CLOSING'];?></td>
-											</tr>
-											<tr style="background-color: #fff">
-												<td>16h30</td>
-												<td class="talk"><?php echo $lang['PROG_CONCLUSIONS'];?></td>
-												<!--<td><a href="infos.html#plenieres">UB4.136</a></td> -->
-											</tr>											
-												<tr class="progr-2"><td colspan="3">17h00 <i class="fa fa-glass"></i><?php echo $lang['PROG_DRINK']?></td></tr>
-											<tr class="progr-1">
 												<td colspan="3" style="background-color: #f8f8f8"><i class="fa fa-university"></i>Panel discussion: Where's the money? Disruptive Business Models in Geospatial Industry<br>
 </td>
 											</tr>
 											<tr style="background-color: #fff">
-												<td>17h30</td>
+												<td>16h30</td>
 												<td class="talk">Note: this is a panel discussion cohosted with FOSS4G jointly organised by the Geospatial World Forum and OSGeo.be . The discussion will be in English (no translation provided).<br>
 Speakers:<br/>
 <ul style="text-align:left">
@@ -391,6 +382,13 @@ Geospatial Consortium (OGC)</li>
 <li>Dirk Frigne, CEO, Geosparc</li>
 </ul>
 </td>
+</tr>
+											<tr style="background-color: #fff">
+												<td>17h45</td>
+												<td class="talk"><?php echo $lang['PROG_CONCLUSIONS'];?><br>Johan Van de Wauw</td>
+												<!--<td><a href="infos.html#plenieres">UB4.136</a></td> -->
+											</tr>											
+												<tr class="progr-2"><td colspan="3">18h15<i class="fa fa-glass"></i><?php echo $lang['PROG_DRINK']?></td></tr>
 										</tbody>
 									</table>
 								</div>	
