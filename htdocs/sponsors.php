@@ -64,6 +64,7 @@
 						  <dt class="spons"><a href="#" class="accordionTitle sponsors silver"> <?php echo $lang['SPONSORS_3_TITLE']; ?> <span class="spon3"><?php echo $lang['SPONSORS_3_TAGLINE']; ?></span></a></dt>
 						  <dd class="accordionItem accordionItem">
 							<a href="http://aquaterra.be/" class="sponsor icon aquaterra"><span class="label">Aquaterra</span></a>
+				<a href="http://stedelijke-ontwikkeling.irisnet.be/" class="sponsor icon bdu"><span class="label">Bruxelles Développement Urbain</span></a>
 							<a href="http://www.my-poppy.eu/" class="sponsor icon poppy"><span class="label">Poppy</span></a>
 						  </dd>
 						  <dt class="spons"><a href="#" class="accordionTitle sponsors bronze"> <?php echo $lang['SPONSORS_4_TITLE']; ?> <span class="spon4"><?php echo $lang['SPONSORS_4_TAGLINE']; ?></span></a></dt>

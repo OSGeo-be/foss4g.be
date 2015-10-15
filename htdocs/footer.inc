@@ -1,5 +1,6 @@
 			<ul class="icons">
 				<li><a href="http://aquaterra.be/" class="icon aquaterra"><span class="label">Aquaterra</span></a></li>
+				<li><a href="http://stedelijke-ontwikkeling.irisnet.be/" class="icon bdu"><span class="label">Bruxelles Développement Urbain</span></a></li>
 				<li><a href="http://www.bruxellesenvironnement.be/" class="icon bxlenv"><span class="label">Bruxelles Environnement</span></a></li>
 				<li><a href="http://www.champs-libres.coop/" class="icon champs-libres"><span class="label">Champs libres</span></a></li>
 				<li><a href="http://cirb.brussels/" class="icon cirb"><span class="label">CIRB</span></a></li>
