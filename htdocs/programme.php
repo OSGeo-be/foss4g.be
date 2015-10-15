@@ -385,7 +385,7 @@ Geospatial Consortium (OGC)</li>
 </tr>
 											<tr style="background-color: #fff">
 												<td>17h45</td>
-												<td class="talk"><?php echo $lang['PROG_CONCLUSIONS'];?><br>Johan Van de Wauw</td>
+												<td class="talk"><?php echo $lang['PROG_CONCLUSIONS'];?><br><span class="author">Johan Van de Wauw</span></td>
 												<!--<td><a href="infos.html#plenieres">UB4.136</a></td> -->
 											</tr>											
 												<tr class="progr-2"><td colspan="3">18h15<i class="fa fa-glass"></i><?php echo $lang['PROG_DRINK']?></td></tr>
