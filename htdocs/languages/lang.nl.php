@@ -218,7 +218,7 @@ $lang['INFO_TITLE'] ='Plaats &amp; Informatie';
 $lang['INFO_TAGLINE'] ='&laquo; Waar <span> en hoe</span> <span>in een notendop</span> &raquo;';
 
 $lang['INFO_REG'] ='Registrations';
-$lang['INFO_REG_TXT'] ='Het evenement is <u>gratis voor allen</u> maar het aantal plaatsen is beperkt en <a href="inscription.php">registratie</a> is vereist. Vergeet niet om uw lunch bestellen of zelf meenemen. ';
+$lang['INFO_REG_TXT'] ='Het evenement is <u>gratis voor allen</u> maar het aantal plaatsen is beperkt en <a href="inscription.php">registratie</a> is vereist. Vergeet niet om uw lunch te bestellen of zelf mee te nemen. ';
 
 $lang['INFO_FOOD'] ='Catering';
 $lang['INFO_FOOD_TXT'] ='Broeikasgassen, waterverbruik, impact op biodiversiteit, afvalproductie... De milieuimpact van ons voedsel zijn enorm. Brussel Leefmilieu voert een ambitieus en dynamisch beleid rond duurzame voeding waardoor het BEL restaurant een voorbeeld moet zijn. De geserveerde voeding bevat biologische, lokale en seizoenseigen gerechten met vegetarische alternatieven. Ontdek de <a href="http://www.biorganicfactory.be/fr/concept.php" target="_blank">Biorganic Factory</a>';
