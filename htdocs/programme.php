@@ -380,6 +380,8 @@ Commission</li>
 Geospatial Consortium (OGC)</li>
 <li>Claudio Mingrino, VP Executive Director EMEA, Hexagon Geospatial</li>
 <li>Dirk Frigne, CEO, Geosparc</li>
+<li>Vincent Dessard, CloudEO AG, Member of the Board &amp; Senior Consultant,
+President/CEO of Arama</li>
 </ul>
 </td>
 </tr>
