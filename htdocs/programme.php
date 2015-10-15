@@ -366,10 +366,31 @@
 												<td colspan="3" style="background-color: #f8f8f8"><i class="fa fa-university"></i><?php echo $lang['PROG_CLOSING'];?></td>
 											</tr>
 											<tr style="background-color: #fff">
-												<td>16h30<br />17h00</td>
-												<td class="talk"><?php echo $lang['PROG_CONCLUSIONS'];?><br /><i class="fa fa-glass"></i><?php echo $lang['PROG_DRINK']?></td>
+												<td>16h30</td>
+												<td class="talk"><?php echo $lang['PROG_CONCLUSIONS'];?></td>
 												<!--<td><a href="infos.html#plenieres">UB4.136</a></td> -->
 											</tr>											
+												<tr class="progr-2"><td colspan="3">17h00 <i class="fa fa-glass"></i><?php echo $lang['PROG_DRINK']?></td></tr>
+											<tr class="progr-1">
+												<td colspan="3" style="background-color: #f8f8f8"><i class="fa fa-university"></i>Panel discussion: Where's the money? Disruptive Business Models in Geospatial Industry<br>
+</td>
+											</tr>
+											<tr style="background-color: #fff">
+												<td>17h30</td>
+												<td class="talk">Note: this is a panel discussion cohosted with FOSS4G jointly organised by the Geospatial World Forum and OSGeo.be . The discussion will be in English (no translation provided).<br>
+Speakers:<br/>
+<ul style="text-align:left">
+<li>Andreas Veispak, Acting Head of Unit, Unit Space Data for Societal
+Challenges and Growth, DG GROW, European Commission</li>
+<li>Joeri Robbrecht, Policy Analyst - Environmental Information Management,
+Unit Governance, Information and reporting, DG Environment, European
+Commission</li>
+<li>Bart De Lathouwer, Director, Interoperability Programs, Europe, Open
+Geospatial Consortium (OGC)</li>
+<li>Claudio Mingrino, VP Executive Director EMEA, Hexagon Geospatial</li>
+<li>Dirk Frigne, CEO, Geosparc</li>
+</ul>
+</td>
 										</tbody>
 									</table>
 								</div>	
