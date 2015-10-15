@@ -363,12 +363,13 @@
 											</tr>
 																						
 											<tr class="progr-1">
-												<td colspan="3" style="background-color: #f8f8f8"><i class="fa fa-university"></i>Panel discussion: Where's the money? Disruptive Business Models in Geospatial Industry<br>
+												<td colspan="3" style="background-color: #f8f8f8"><i class="fa fa-university"></i> <?php echo $lang['PROG_CLOSING'];?><br>
 </td>
 											</tr>
 											<tr style="background-color: #fff">
 												<td>16h30</td>
-												<td class="talk">Note: this is a panel discussion cohosted with FOSS4G jointly organised by the Geospatial World Forum and OSGeo.be . The discussion will be in English (no translation provided).<br>
+												<td class="talk" style="text-align:left; padding-left:30px">Panel discussion: Where's the money? Disruptive Business Models in Geospatial Industry<br />
+<div style="font-size: 80%">Note: this is a panel discussion cohosted with FOSS4G jointly organised by the Geospatial World Forum and OSGeo.be . The discussion will be in English (no translation provided).<br>
 Speakers:<br/>
 <ul style="text-align:left">
 <li>Andreas Veispak, Acting Head of Unit, Unit Space Data for Societal
@@ -381,11 +382,12 @@ Geospatial Consortium (OGC)</li>
 <li>Claudio Mingrino, VP Executive Director EMEA, Hexagon Geospatial</li>
 <li>Dirk Frigne, CEO, Geosparc</li>
 </ul>
+</div>
 </td>
 </tr>
 											<tr style="background-color: #fff">
 												<td>17h45</td>
-												<td class="talk"><?php echo $lang['PROG_CONCLUSIONS'];?><br><span class="author">Johan Van de Wauw</span></td>
+												<td class="talk" style="text-align:left;padding-left:30px"><?php echo $lang['PROG_CONCLUSIONS'];?><br><span class="author">Johan Van de Wauw</span></td>
 												<!--<td><a href="infos.html#plenieres">UB4.136</a></td> -->
 											</tr>											
 												<tr class="progr-2"><td colspan="3">18h15<i class="fa fa-glass"></i><?php echo $lang['PROG_DRINK']?></td></tr>
