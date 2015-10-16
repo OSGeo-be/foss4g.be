@@ -214,7 +214,7 @@ $lang['INFO_TITLE'] ='Information & facilités';
 $lang['INFO_TAGLINE'] ='&laquo; Tout ce que <span>vous devez une fois</span> <span>bien savoir pour venir</span> &raquo;';
 
 $lang['INFO_REG'] ='Inscriptions';
-$lang['INFO_REG_TXT'] ='L’événement est <u>gratuit pour tous</u>, mais les places sont limitées et l\'inscription est donc obligatoire! En attendant l\'ouverture des inscriptions n\'hésitez pas à <a href="contact.php">nous contacter pour manifester votre intérêt</a>, vous serez les premiers avertis lors de l\'ouverture des inscriptions.';
+$lang['INFO_REG_TXT'] ='L’événement est <u>gratuit pour tous</u>, mais les places sont limitées et l\'inscription est donc obligatoire! N\'oubliez pas de reserver votre lunch ou de le prendre avec vous.';
 
 $lang['INFO_FOOD'] ='Repas & Facilités';
 $lang['INFO_FOOD_TXT'] ='Un restaurant exemplaire à plus d\'un titre sera disponible sur le site. On vous y propose des aliments bio, locaux, de saison, proposant des alternatives végétariennes... Plus d\'infos à propos de <a href="http://www.biorganicfactory.be/fr/concept.php" target="_blank">Biorganic Factory</a>.';
