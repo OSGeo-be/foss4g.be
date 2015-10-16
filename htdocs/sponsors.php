@@ -65,6 +65,7 @@
 						  <dd class="accordionItem accordionItem">
 							<a href="http://aquaterra.be/" class="sponsor icon aquaterra"><span class="label">Aquaterra</span></a>
 				<a href="http://stedelijke-ontwikkeling.irisnet.be/" class="sponsor icon bdu"><span class="label">Bruxelles Développement Urbain</span></a>
+							<a href="http://www.opengeode.be" class="sponsor icon geode"><span class="label">Open Geode</span></a>
 							<a href="http://www.my-poppy.eu/" class="sponsor icon poppy"><span class="label">Poppy</span></a>
 							<a href="http://www.realdolmen.com" class="sponsor icon realdolmen"><span class="label">RealDolmen</span></a>
 						  </dd>
