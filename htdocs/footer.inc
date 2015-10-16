@@ -4,6 +4,7 @@
 				<li><a href="http://www.bruxellesenvironnement.be/" class="icon bxlenv"><span class="label">Bruxelles Environnement</span></a></li>
 				<li><a href="http://www.champs-libres.coop/" class="icon champs-libres"><span class="label">Champs libres</span></a></li>
 				<li><a href="http://cirb.brussels/" class="icon cirb"><span class="label">CIRB</span></a></li>
+				<li><a href="http://www.opengeode.be" class="icon geode"><span class="label">Open Geode</span></a></li>
 				<li><a href="http://www.geosolutions.be" class="icon geosolutions"><span class="label">Geosolutions</span></a></li>
 				<li><a href="http://www.geosparc.com/" class="icon geosparc"><span class="label">Geosparc</span></a></li>
 				<li><a href="http://www.geospatialworldforum.org/" class="icon gsw"><span class="label">Geospatial World Forum/span></a></li>
