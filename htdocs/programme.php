@@ -195,7 +195,7 @@
 																
 																</td>
 																<td style="background-color: #fff;text-align:left;font-weight:300">
-																	   A method to create hydrological models worldwide by using only open data<br />
+																	   Building and visualising hydrological models in 3di using open source software<br />
 																	<span class="author"> Jonas van Schrojenstein Lantman <br />
 																	(Nelen & Schuurmans)</span>
 																	<a class="btn pluss js-toggleNext"><i class="fa fa-plus-square"></i>Infos</a>
