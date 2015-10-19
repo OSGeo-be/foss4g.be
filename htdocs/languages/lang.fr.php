@@ -310,7 +310,56 @@ $lang['FOOTER_THANKS'] = 'FOSS4G est un événement gratuit. Nous remercions nos
 $lang['FOOTER_THANKS_ALL'] = '<a href="http://www.bruxellesenvironnement.be/" title="Bruxelles Environnement" style="color:#fff">Bruxelles Environnement</a><!-- - L\'<a href="http://igeat.ulb.ac.be/" title="IGEAT" style="color:#fff">Institut de Gestion de l\'Environnement et d\'Aménagement du Territoire</a> (IGEAT/ULB) - <a href="http://checksum.be/" style="color:#fff">Checksum</a> -->';
 
 	// FOOTER
+// Hackathon
+$lang['HACK_DATE'] = '<div class="foss4g"></div> 28 Oct 2015 - CIRB-CIBG - Avenue des Arts, 21 - Bruxelles';
+$lang['HACK_TXT'] ='<p style="text-align: center;">Le Foss4g.be est fière d\'annoncer la réalisation d\'un Hackathon.</p>
 
+<p>Cet évènement se déroulera au <a href="http://cirb.brussels" target="_blank">CIRB</a> (Centre d\'Informatique pour la Région Bruxelloise ) durant <strong>la seule journée du mercredi 28 octobre 2015.</strong>
+L\'organisation de la journée permettra &agrave; différentes équipes de s\'affronter cordialement dans la conception de projets en relation avec les thèmes de l\'<em>Open Data</em> et du <em>Smart City </em>(Mobilité &ndash; environnement &ndash; service administratif (au citoyen) &ndash; qualité et service de vie- &hellip; )</p>
+A la clef, un prix en argent ainsi qu\'un coaching par des professionnels et une présentation en pleniere au Foss4g.be<br />
+Un catering est prévu durant la journée pour assurer les besoins vitaux des participants.
+Une présentation des équipes et objectifs est prevue ce jeudi 22 octobre de 14h &agrave; 16h</p>
+
+<table border="1" cellpadding="1" cellspacing="1" style="width: 500px;">
+	<tbody>
+		<tr>
+			<td><strong>INSCRIPTION</strong></td>
+			<td style="text-align: center;">http://doodle.com/poll/serug76hrg5rpifh</td>
+		</tr>
+		<tr>
+			<td><strong>CONTACT </strong></td>
+			<td style="text-align: center;">channecart@cirb.brussels</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><br />
+Les objectifs et les opportunités sont multiples.<br />
+Il sera possible de découvrir et d\'exploiter de nombreuses ressources <em>Open Data</em> disponibles en région Bruxelloise et d\'ailleurs.<br />
+Une plateforme &laquo; <em>CKAN</em> &raquo; sera déployée spécifiquement pour l\'évènement, et il sera possible de se familiariser ou de se perfectionner dans l\'utilisation de ressources logicielles disponibles au travers d\'<a href="http://live.osgeo.org" target="_blank">OSGeo-Live</a>.<br />
+<br />
+Nous sommes bien conscients qu\'une seule journée ne sera pas suffisante pour finaliser les projets.<br />
+C\'est pourquoi, &agrave; la fin des délibérations, en plus du <ins>prix qui sera attribué par INNOVIRIS</ins>, cet organisme en charge de la promotion de la recherche et de l\'innovation en Région bruxelloise propose également d\'évaluer la faisabilité de développer commercialement le projet lauréat.<br />
+Cette journée est une excellente occasion offerte &agrave; des personnes ayant des profils différents (data manager, webdesigner, développeur, géomaticien, &hellip;) et venant d\'horizons divers (administrations, entreprises, secteur associatif&hellip;) d\'unir leurs efforts pour promouvoir les valeurs de l\'Open Source.<br />
+<br />
+Afin de préparer au mieux les participants, mais également pour assurer un déroulement optimal de la journée du 28 octobre, <strong>une séance d\'information (facultatives) est organisée le jeudi&nbsp; 22 octobre de 14h &agrave; 16h</strong>. <ins>Ordre du Jour</ins> :</p>
+
+<ul>
+	<li>Présentation de la plateforme CKAN&nbsp;</li>
+	<li>Présentation des Données&nbsp;</li>
+	<li>Sélection des thématiques</li>
+</ul>
+
+<p>L\'adresse pour l\'ensemble de ces évènements est le <strong>CIRB</strong> :</p>
+
+<center>Avenue des Arts 21, 1000 Bruxelles</center>
+
+<p>la personne de référence est M Claude HANNECART (channecart@cirb.brussels ) ou info@foss4g.be<br />
+Pour une organisation optimale pouvez-vous nous confirmer votre participation soit par mail soit via le Doodle (Attention, le nombre des places est limité)</p>
+
+<center><a href="http://doodle.com/poll/serug76hrg5rpifh" target="_blank"><ins><strong>&nbsp;http://doodle.com/poll/serug76hrg5rpifh</strong></ins></a></center>';
+
+$lang['MENU_HACK'] = 'Hackathon';
 // ERROR CODES -------------------------------------------------------------------------------------------------------/
 // 404
 $lang['404_TITLE'] ='Erreur 404 - Page non trouvée';
