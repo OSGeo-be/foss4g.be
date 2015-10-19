@@ -292,7 +292,61 @@ $lang['CONTACT_THX_TXT2'] = 'In the meantime for more information you can visit<
 // SPONSORS
 
 // PARTNERS
+$lang['HACK_DATE'] = '<div class="foss4g"></div> 28 Oct 2015 - CIRB-CIBG - Avenue des Arts, 21 - Bruxelles';
+$lang['HACK_TXT'] ='<html>
+<head>
+	<title></title>
+</head>
+<body>
+<p style="text-align: center;">Foss4g.be is trots om de implementatie van een Hackathon aan te kondigen.</p>
 
+<p>Dit evenement zal plaats vinden in het CIBG (Centrum voor Informatica van het Brusselse Gewest) <u><strong>op woensdag 28 oktober 2015 gedurende een ganse dag</strong></u>. De indeling van de dag zal de verschillende ploegen de mogelijkheid geven zich vriendschappelijk te meten in het ontwikkelen van projecten in relatie met Open Data en Smart City (Mobiliteit &ndash; Leefomgeving &ndash; administratieve diensten (aan de burger) &ndash; levenskwaliteit)<br />
+<br />
+In beloning, een prijs in geld, een coaching door bedrijven en een presentatie in plenaire zitting aan Foss4g.be.<br />
+Gedurende de dag is een catering voorzien om in de levensbehoeften van de deelnemers te voorzien.</p>
+
+<table border="1" cellpadding="1" cellspacing="1" style="width: 500px;">
+	<tbody>
+		<tr>
+			<td><strong>INSCHRIJVINGEN</strong></td>
+			<td style="text-align: center;">http://doodle.com/poll/serug76hrg5rpifh</td>
+		</tr>
+		<tr>
+			<td><strong>CONTACT</strong></td>
+			<td style="text-align: center;">channecart@cirb.brussels</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>De objectieven en opportuniteiten zijn veelvoudig.<br />
+Het zal namelijk mogelijk zijn om de talrijke Open Data bronnen die beschikbaar zijn in het Brussels Gewest, en elders, te ontdekken en te gebruiken.
+Speciaal voor dit evenement zal er een &ldquo;CKAN&rdquo; platform ontwikkeld worden en zal het mogelijk zijn zich vertrouwd te maken of zich te verbeteren in het gebruik van software doorheen &nbsp;<a href="http://live.osgeo.org/en/" target="_blank">OSGeo-Live</a> .</p>
+
+<p>Wij zijn er ons van bewust dat &eacute;&eacute;n dag niet voldoende zal zijn om de projecten af te werken.<br />
+Het is daarom dat aan het einde van de deliberaties, bovenop de prijs die zal toegekend worden door INNOVIRIS - het organisme dat instaat voor de promotie van het onderzoek en innovatie in het Brusselse Gewest - voorstelt om de haalbaarheid te evalueren van de commerci&euml;le ontwikkeling van het winnende project.</p>
+
+<p>Deze dag is een uitgelezen mogelijkheid die aangeboden wordt aan personen met een uit&eacute;&eacute;nlopend profiel (data manager, webdesigner, ontwikkelaar, geomaticus &hellip;) komende van verschillende achtergronden (administraties, ondernemingen, sociale associaties &hellip;) om de krachten te verenigen om de waarden van de Open Source te bevorderen.</p>
+
+<p>Om de deelnemers zo goed mogelijk voor te bereiden, maar ook om het optimale verloop van de dag op 28 oktober te verzekeren, <strong>wordt er een informatiezitting georganiseerd (facultatief) op donderdag 22 oktober 2015 van 14h tot 16h</strong><br />
+<u>Agenda</u>:</p>
+
+<ul>
+	<li>presentatie van het platform CKAN</li>
+	<li>presentatie van de gegevens</li>
+	<li>selectie van de thema&rsquo;s &hellip;</li>
+</ul>
+
+<p>Het adres voor het geheel van de evenementen is het <a href="http://cibg.brussels" target="_blank">CIBG</a>, Kunstlaan 21, 1000 Brussel. De contactpersoon is Mr Claude HANNECART (<a href="mailto:channecart@cirb.brussels">channecart@cirb.brussels</a> ) of info@foss4g.be</p>
+
+<p>Voor een optimale organisatie, kan U ons uw deelname bevestigen per mail of via de Doodle (Opgelet het aantal plaatsen is beperkt)</p>
+
+<p style="text-align: center;"><a href="http://doodle.com/serug76rg5rpifh">http://doodle.com/serug76rg5rpifh</a></p>
+
+<p>Wij danken U bij voorbaat en zijn er reeds zeker van het slagen van dit evenement dank zij uw engagement.</p>
+
+';
+
+$lang['MENU_HACK'] = 'Hackathon';
 // PROGRAMME
 $lang['OPENING_SESSION'] = 'Opening sessie';
 $lang['REGISTRATION'] = 'Registratie';
