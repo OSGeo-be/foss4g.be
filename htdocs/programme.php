@@ -91,9 +91,9 @@
 															<tr>
 															
 																<td colspan="2" style="width:32%;text-align:center;"><h4><i class="fa fa-rocket fa-2x"></i><?php echo $lang['PROG_PLENARY'];?></h4>
-																<a href="infos.html#plenieres" style="font-weight:300">Atrium</a></td> 
+																<a href="infos.php#plenieres" style="font-weight:300">Atrium</a></td> 
 																<td colspan="2" style="width:32%;text-align:center;"><h4><i class="fa fa-university fa-2x"></i> <?php echo $lang['PROG_SIDE']?></h4>
-																<a href="infos.html#workshops" style="font-weight:300">Sylva</a></td>
+																<a href="infos.php#workshops" style="font-weight:300">Sylva</a></td>
 																<td colspan="2" style="width:30%;text-align:center;"><h4><i class="fa fa-gears fa-2x"></i><?php echo $lang['PROG_DEV'];?></h4>
 																<a href="infos.html#workshops" style="font-weight:300">Aqua - Terra</a></td>
 															</tr>
@@ -390,7 +390,7 @@ President/CEO of Arama</li>
 											<tr style="background-color: #fff">
 												<td>17h45</td>
 												<td class="talk" style="text-align:left;padding-left:30px"><?php echo $lang['PROG_CONCLUSIONS'];?><br><span class="author">Johan Van de Wauw</span></td>
-												<!--<td><a href="infos.html#plenieres">UB4.136</a></td> -->
+												<!--<td><a href="infos.php#plenieres">UB4.136</a></td> -->
 											</tr>											
 												<tr class="progr-2"><td colspan="3">18h15<i class="fa fa-glass"></i><?php echo $lang['PROG_DRINK']?></td></tr>
 										</tbody>
