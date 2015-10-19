@@ -309,7 +309,7 @@ Gedurende de dag is een catering voorzien om in de levensbehoeften van de deelne
 	<tbody>
 		<tr>
 			<td><strong>INSCHRIJVINGEN</strong></td>
-			<td style="text-align: center;">http://doodle.com/poll/serug76hrg5rpifh</td>
+			<td style="text-align: center;"><a href="http://doodle.com/poll/serug76hrg5rpifh" target="_blank"><ins><strong> http://doodle.com/poll/serug76hrg5rpifh</strong></ins></a></td>
 		</tr>
 		<tr>
 			<td><strong>CONTACT</strong></td>
