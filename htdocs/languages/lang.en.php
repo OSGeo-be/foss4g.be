@@ -303,6 +303,47 @@ $lang['PROG_CLOSING'] = 'Closing Session';
 $lang['PROG_CONCLUSIONS'] = 'Conclusions and Outlook for OSGeo.be';
 $lang['PROG_DRINK'] = 'Closing Drink and Networking';
 
+//
+// Hack
+
+$lang['HACK_DATE'] = '<div class="foss4g"></div> 28 Oct 2015 - CIRB-CIBG - Avenue des Arts, 21 - Bruxelles';
+$lang['HACK_TXT'] ='<p style = "text-align: center;"> Foss4g.be is proud to announce the implementation of a Hackathon </ p>.
+<p> This event will take place in the BRIC (Center for Informatics of the Brussels Region) <u> <strong> Wednesday, October 28th, 2015 during a whole day </ strong> </ u>. The format of the day will the different teams with the opportunity to compete amicably in the development of projects in relation with Open Data and Smart City (Mobility &ndash; Environment &ndash; administrative services (to citizens) &ndash; quality of life) <br / >
+<br />
+In reward, prize money, coaching by companies and a presentation in plenary on Foss4g.be. <br />
+During the day, a catering equipped to meet the vital needs of the participants. </ P>
+<table border = "1" cellpadding = "1" cellspacing = "1" style = "width: 500px;">
+<tbody>
+<tr>
+<td> <strong> REGISTRATION </ strong> </ td>
+<td style = "text-align: center;"> <a href="http://doodle.com/poll/serug76hrg5rpifh" target="_blank"> <ins> <strong> http://doodle.com/ poll / serug76hrg5rpifh </ strong> </ ins> </a> </ td>
+</ tr>
+<tr>
+<td> <strong> CONTACT </ strong> </ td>
+<td style = "text-align: center;"> channecart@cirb.brussels </ td>
+</ tr>
+</ tbody>
+</ table>
+<p> The objectives and opportunities are multiple. <br />
+For it will be possible for the numerous open data sources available in the Brussels Region, and elsewhere, to discover and use.
+For this event there will be a &ldquo; CKAN &rdquo; platform will be developed and it will be possible to familiarize themselves or to improve in the use of software through &nbsp; <a href="http://live.osgeo.org/en/" target="_blank"> OSGeo- Live </a>. </ p>
+<p> We are aware that &eacute; &eacute;. one day will not be enough to complete the projects <br />
+That is why at the end of the deliberations, in addition to the price that will be paid by INNOVIRIS - the organization responsible for the promotion of research and innovation in the Brussels Region - proposes to assess the feasibility of the BUSINESS le development the winning project. </ p>
+<p> This day is an excellent opportunity for people with offered from &eacute; &eacute; nlopend profile (data manager, web designer, developer, geomatician &hellip;) coming from different backgrounds (administrations, enterprises, social associations &hellip;) to the to unite forces in order to promote the values ​​of the Open Source. </ p>
+<p> To the participants to prepare as well as possible, but also to ensure the optimum course of the day on October 28, <strong> An information session is being organized (optional) on Thursday, October 22, 2015 from 14h to 16h </ strong> <br />
+<u> Calendar </ u> </ p>
+<ul>
+<li> Presentation of the platform CKAN </li>
+<li> presentation of the data </li>
+<li> select the theme </li>
+</ ul>
+<p> The address for all of the events is the <a target="_blank"> href="http://cibg.brussels" CIRB </a>, Avenue des Arts 21, 1000 Brussels. The contact person is Mr. Claude HANNECART (<a href="mailto:channecart@cirb.brussels"> channecart@cirb.brussels </a>) or info@foss4g.be </ p>
+<p> For the best organization, you can contact us to confirm your participation by e-mail or via Doodle (Note the number of places is limited) </ p>
+<p style = "text-align: center;"> <a href="http://doodle.com/serug76rg5rpifh"> http://doodle.com/serug76rg5rpifh </a> </ p>
+<p> We thank you in advance and there are already sure of the success of this event thanks to your commitment. </ p>
+';
+
+$lang['MENU_HACK'] = 'Hackathon';
 // FOOTER
 
 	// CTA
