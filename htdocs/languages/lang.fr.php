@@ -324,7 +324,7 @@ Une présentation des équipes et objectifs est prevue ce jeudi 22 octobre de 14
 	<tbody>
 		<tr>
 			<td><strong>INSCRIPTION</strong></td>
-			<td style="text-align: center;">http://doodle.com/poll/serug76hrg5rpifh</td>
+			<td style="text-align: center;"><a href="http://doodle.com/poll/serug76hrg5rpifh" target="_blank"><ins><strong> http://doodle.com/poll/serug76hrg5rpifh</strong></ins></a></td>
 		</tr>
 		<tr>
 			<td><strong>CONTACT </strong></td>
@@ -357,7 +357,7 @@ Afin de préparer au mieux les participants, mais également pour assurer un dé
 <p>la personne de référence est M Claude HANNECART (channecart@cirb.brussels ) ou info@foss4g.be<br />
 Pour une organisation optimale pouvez-vous nous confirmer votre participation soit par mail soit via le Doodle (Attention, le nombre des places est limité)</p>
 
-<center><a href="http://doodle.com/poll/serug76hrg5rpifh" target="_blank"><ins><strong>&nbsp;http://doodle.com/poll/serug76hrg5rpifh</strong></ins></a></center>';
+<center><a href="http://doodle.com/poll/serug76hrg5rpifh" target="_blank"><ins><strong> http://doodle.com/poll/serug76hrg5rpifh</strong></ins></a></center>';
 
 $lang['MENU_HACK'] = 'Hackathon';
 // ERROR CODES -------------------------------------------------------------------------------------------------------/
