@@ -293,11 +293,7 @@ $lang['CONTACT_THX_TXT2'] = 'In the meantime for more information you can visit<
 
 // PARTNERS
 $lang['HACK_DATE'] = '<div class="foss4g"></div> 28 Oct 2015 - CIRB-CIBG - Avenue des Arts, 21 - Bruxelles';
-$lang['HACK_TXT'] ='<html>
-<head>
-	<title></title>
-</head>
-<body>
+$lang['HACK_TXT'] ='
 <p style="text-align: center;">Foss4g.be is trots om de implementatie van een Hackathon aan te kondigen.</p>
 
 <p>Dit evenement zal plaats vinden in het CIBG (Centrum voor Informatica van het Brusselse Gewest) <u><strong>op woensdag 28 oktober 2015 gedurende een ganse dag</strong></u>. De indeling van de dag zal de verschillende ploegen de mogelijkheid geven zich vriendschappelijk te meten in het ontwikkelen van projecten in relatie met Open Data en Smart City (Mobiliteit &ndash; Leefomgeving &ndash; administratieve diensten (aan de burger) &ndash; levenskwaliteit)<br />
