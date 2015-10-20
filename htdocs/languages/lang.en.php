@@ -308,7 +308,7 @@ $lang['PROG_DRINK'] = 'Closing Drink and Networking';
 
 $lang['HACK_DATE'] = '<div class="foss4g"></div> 28 Oct 2015 - CIRB-CIBG - Avenue des Arts, 21 - Bruxelles';
 $lang['HACK_TXT'] ='<p style = "text-align: center;"> Foss4g.be is proud to announce the implementation of a Hackathon </p>.
-<p> This event will take place in the BRIC (Center for Informatics of the Brussels Region) <u> <strong> Wednesday, October 28th, 2015 during a whole day </ strong> </ u>. The format of the day will the different teams with the opportunity to compete amicably in the development of projects in relation with Open Data and Smart City (Mobility &ndash; Environment &ndash; administrative services (to citizens) &ndash; quality of life) <br />
+<p> This event will take place in the BRIC (Center for Informatics of the Brussels Region) <u> <strong> Wednesday, October 28th, 2015 during a whole day </strong> </u>. The format of the day will the different teams with the opportunity to compete amicably in the development of projects in relation with Open Data and Smart City (Mobility &ndash; Environment &ndash; administrative services (to citizens) &ndash; quality of life) <br />
 <br />
 In reward, prize money, coaching by companies and a presentation in plenary on Foss4g.be. <br />
 During the day, a catering equipped to meet the vital needs of the participants. </p>
