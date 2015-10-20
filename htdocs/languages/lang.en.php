@@ -339,7 +339,7 @@ That is why at the end of the deliberations, in addition to the price that will 
 </ul>
 <p> The address for all of the events is the <a target="_blank"> href="http://cibg.brussels" CIRB </a>, Avenue des Arts 21, 1000 Brussels. The contact person is Mr. Claude HANNECART (<a href="mailto:channecart@cirb.brussels"> channecart@cirb.brussels </a>) or info@foss4g.be </p>
 <p> For the best organization, you can contact us to confirm your participation by e-mail or via Doodle (Note the number of places is limited) </p>
-<p style = "text-align: center;"> <a href="http://doodle.com/serug76rg5rpifh"> http://doodle.com/serug76rg5rpifh </a> </p>
+<p style = "text-align: center;"> <a href="http://doodle.com/poll/serug76hrg5rpifh"> http://doodle.com/poll/serug76hrg5rpifh </a> </p>
 <p> We thank you in advance and there are already sure of the success of this event thanks to your commitment. </p>
 ';
 
