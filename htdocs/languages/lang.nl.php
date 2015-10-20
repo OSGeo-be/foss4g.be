@@ -336,7 +336,7 @@ Het is daarom dat aan het einde van de deliberaties, bovenop de prijs die zal to
 
 <p>Voor een optimale organisatie, kan U ons uw deelname bevestigen per mail of via de Doodle (Opgelet het aantal plaatsen is beperkt)</p>
 
-<p style="text-align: center;"><a href="http://doodle.com/serug76rg5rpifh">http://doodle.com/serug76rg5rpifh</a></p>
+<p style="text-align: center;"><a href="http://doodle.com/poll/serug76hrg5rpifh">http://doodle.com/poll/serug76hrg5rpifh</a></p>
 
 <p>Wij danken U bij voorbaat en zijn er reeds zeker van het slagen van dit evenement dank zij uw engagement.</p>
 
