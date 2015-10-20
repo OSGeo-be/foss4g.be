@@ -331,12 +331,12 @@ For this event there will be a &ldquo; CKAN &rdquo; platform will be developed a
 That is why at the end of the deliberations, in addition to the price that will be paid by INNOVIRIS - the organization responsible for the promotion of research and innovation in the Brussels Region - proposes to assess the feasibility of the BUSINESS le development the winning project. </ p>
 <p> This day is an excellent opportunity for people with offered from &eacute; &eacute; nlopend profile (data manager, web designer, developer, geomatician &hellip;) coming from different backgrounds (administrations, enterprises, social associations &hellip;) to the to unite forces in order to promote the values ​​of the Open Source. </ p>
 <p> To the participants to prepare as well as possible, but also to ensure the optimum course of the day on October 28, <strong> An information session is being organized (optional) on Thursday, October 22, 2015 from 14h to 16h </ strong> <br />
-<u> Calendar </ u> </ p>
+<u> Calendar </u> </ p>
 <ul>
 <li> Presentation of the platform CKAN </li>
 <li> presentation of the data </li>
 <li> select the theme </li>
-</ ul>
+</ul>
 <p> The address for all of the events is the <a target="_blank"> href="http://cibg.brussels" CIRB </a>, Avenue des Arts 21, 1000 Brussels. The contact person is Mr. Claude HANNECART (<a href="mailto:channecart@cirb.brussels"> channecart@cirb.brussels </a>) or info@foss4g.be </ p>
 <p> For the best organization, you can contact us to confirm your participation by e-mail or via Doodle (Note the number of places is limited) </ p>
 <p style = "text-align: center;"> <a href="http://doodle.com/serug76rg5rpifh"> http://doodle.com/serug76rg5rpifh </a> </ p>
