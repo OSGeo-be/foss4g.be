@@ -325,14 +325,104 @@ Une présentation des équipes et objectifs est prevue ce jeudi 22 octobre de 14
 		<tr>
 			<td><strong>INSCRIPTION</strong></td>
 			<td style="text-align: center;"><a href="http://doodle.com/poll/serug76hrg5rpifh" target="_blank"><ins><strong> http://doodle.com/poll/serug76hrg5rpifh</strong></ins></a></td>
-		</tr>
-		<tr>
+		
 			<td><strong>CONTACT </strong></td>
 			<td style="text-align: center;">channecart@cirb.brussels</td>
 		</tr>
 	</tbody>
 </table>
+<p><strong>Organisation de la journ&eacute;e</strong></p>
 
+<table border="0" cellpadding="0" cellspacing="0" style="width:530px;" width="530">
+	<tbody>
+		<tr>
+			<td style="width:91px;height:20px;">
+			<p>9&nbsp;h</p>
+			</td>
+			<td style="width:440px;height:20px;">
+			<p>Accueil</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:91px;height:75px;">
+			<p>9&nbsp;h&nbsp;30</p>
+			</td>
+			<td style="width:440px;height:75px;">
+			<p>Pr&eacute;sentation des objectifs de l&rsquo;Hackathon<br />
+			Pr&eacute;sentation des donn&eacute;es disponibles/potentielles<br />
+			Pr&eacute;sentations des outils &agrave; disposition</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:91px;height:20px;">
+			<p>10&nbsp;h&nbsp;30</p>
+			</td>
+			<td style="width:440px;height:20px;">
+			<p>Constitution des &eacute;quipes</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:91px;height:20px;">
+			<p>11hh -12h30</p>
+			</td>
+			<td style="width:440px;height:20px;">
+			<p>Brainstorming en &eacute;quipes pour d&eacute;finir le projet</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:91px;height:20px;">
+			<p>12&nbsp;h&nbsp;30 - 13&nbsp;h&nbsp;30</p>
+			</td>
+			<td style="width:440px;height:20px;">
+			<p>Buffet party</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:91px;height:80px;">
+			<p>13&nbsp;h&nbsp;30 -16h30</p>
+			</td>
+			<td style="width:440px;height:80px;">
+			<p>Cr&eacute;ation d&#39;une architecture projet avec pour finalit&eacute;&nbsp;:</p>
+
+			<ul>
+				<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; une pr&eacute;sentation en ppt de 10 minutes</li>
+				<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; une pr&eacute;sentation &eacute;ventuelle&nbsp;:
+				<ul style="list-style-type:circle;">
+					<li>&nbsp;&nbsp; de module,</li>
+					<li>&nbsp;&nbsp; de code</li>
+					<li>&nbsp;&nbsp; d&rsquo;utilisation sp&eacute;cifique de ressource</li>
+					<li>&nbsp;&nbsp; &nbsp;de design</li>
+				</ul>
+				</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:91px;height:20px;">
+			<p>16&nbsp;h&nbsp;30 -17h15</p>
+			</td>
+			<td style="width:440px;height:20px;">
+			<p>Pr&eacute;sentation des projets</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:91px;height:60px;">
+			<p>17&nbsp;h&nbsp;15 17&nbsp;h&nbsp;25</p>
+			</td>
+			<td style="width:440px;height:60px;">
+			<p>D&eacute;lib&eacute;rationet vote du Jury</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:91px;height:20px;">
+			<p>17&nbsp;h&nbsp;30</p>
+			</td>
+			<td style="width:440px;height:20px;">
+			<p>Proclamation par M Sebastian SERRANO (Innoviris) et verre de l&#39;amiti&eacute;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
 <p><br />
 Les objectifs et les opportunités sont multiples.<br />
 Il sera possible de découvrir et d\'exploiter de nombreuses ressources <em>Open Data</em> disponibles en région Bruxelloise et d\'ailleurs.<br />
