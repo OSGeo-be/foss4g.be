@@ -232,7 +232,7 @@
 																	<span class="author"> Pieter De Graef <br />
 																	(Geosparc)</span>
 																	<a class="btn pluss js-toggleNext"><i class="fa fa-plus-square"></i>Infos</a>
-													<div class="toggled" style="display:none;">This presentation demonstrates the case of the Flemish government regarding soil and subsoil data (Databank Ondergrond Vlaanderen – DOV) and it's responsibility towards Inspire. We'll discuss design decisions, application infrastructure, and why the choice for open source was made.</div>
+													<div class="toggled" style="display:none;">This presentation demonstrates the case of the Flemish government regarding soil and subsoil data (Databank Ondergrond Vlaanderen – DOV) and its responsibility towards Inspire. We'll discuss design decisions, application infrastructure, and why the choice for open source was made.</div>
 																</td>
 																<td style="background-color: #fff;text-align:left;font-weight:300">
 																	 the frame of Lifewatch-WB (european infrastructure for biodiversity and ecosystem research)<br />
