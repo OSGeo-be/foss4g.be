@@ -11,6 +11,7 @@
 				<li><a href="http://www.gim.be" class="icon gim"><span class="label">GIM</span></a></li>
 				<li><a href="http://www.idgeo.fr/" class="icon idgeo"><span class="label">IdGeo</span></a></li>
 				<li><a href="http://igeat.ulb.ac.be/" class="icon igeat"><span class="label">ULB Igeat</span></a></li>
+				<li><a href="http://www.innoviris.be" class="icon innoviris"><span class="label">Innoviris</span></a></li>
 				<li><a href="http://www.merkator.be/" class="icon merkator"><span class="label">Merkator</span></a></li>
 				<li><a href="http://www.neogeo-online.net/" class="icon neogeo"><span class="label">neogeo</span></a></li>
 				<li><a href="http://wiki.osgeo.org/wiki/Belgium" class="icon osgeobe"><span class="label">OSGEObe</span></a></li>
