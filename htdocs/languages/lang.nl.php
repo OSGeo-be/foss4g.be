@@ -298,7 +298,7 @@ $lang['HACK_TXT'] ='
 
 <p>Dit evenement zal plaats vinden in het CIBG (Centrum voor Informatica van het Brusselse Gewest) <u><strong>op woensdag 28 oktober 2015 gedurende een ganse dag</strong></u>. De indeling van de dag zal de verschillende ploegen de mogelijkheid geven zich vriendschappelijk te meten in het ontwikkelen van projecten in relatie met Open Data en Smart City (Mobiliteit &ndash; Leefomgeving &ndash; administratieve diensten (aan de burger) &ndash; levenskwaliteit)<br />
 <br />
-In beloning, een prijs in geld, een coaching door bedrijven en een presentatie in plenaire zitting aan Foss4g.be.<br />
+In beloning, een prijs in geld dankzij onze sponsor Innoviris ondersteunen van technologische innovatie en een presentatie in plenaire zitting aan Foss4g.be.<br />
 Gedurende de dag is een catering voorzien om in de levensbehoeften van de deelnemers te voorzien.</p>
 
 <table border="1" cellpadding="1" cellspacing="1" style="width: 500px;">
@@ -306,12 +306,104 @@ Gedurende de dag is een catering voorzien om in de levensbehoeften van de deelne
 		<tr>
 			<td><strong>INSCHRIJVINGEN</strong></td>
 			<td style="text-align: center;"><a href="http://doodle.com/poll/serug76hrg5rpifh" target="_blank"><ins><strong> http://doodle.com/poll/serug76hrg5rpifh</strong></ins></a></td>
-		</tr>
-		<tr>
+		
 			<td><strong>CONTACT</strong></td>
 			<td style="text-align: center;">channecart@cirb.brussels</td>
 		</tr>
 	</tbody>
+	
+	<p><strong>Agenda</strong></p>
+
+<table border="0" cellpadding="0" cellspacing="0" style="width:530px;" width="530">
+	<tbody>
+		<tr>
+			<td style="width:91px;height:20px;">
+			<p>9&nbsp;h</p>
+			</td>
+			<td style="width:440px;height:20px;">
+			<p>Welkom</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:91px;height:75px;">
+			<p>9&nbsp;h&nbsp;30</p>
+			</td>
+			<td style="width:440px;height:75px;">
+			<p>Presentatie van de doelstellingen van de Hackathon<br />
+			Presentatie van de beschikbare data / potentieel<br />
+			Presentaties beschikbare tools</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:91px;height:20px;">
+			<p>10&nbsp;h&nbsp;30</p>
+			</td>
+			<td style="width:440px;height:20px;">
+			<p>Grondwet teams</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:91px;height:20px;">
+			<p>11hh -12h30</p>
+			</td>
+			<td style="width:440px;height:20px;">
+			<p>Brainstormen in teams om het project te defini&euml;ren</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:91px;height:20px;">
+			<p>12&nbsp;h&nbsp;30 - 13&nbsp;h&nbsp;30</p>
+			</td>
+			<td style="width:440px;height:20px;">
+			<p>Buffet party</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:91px;height:80px;">
+			<p>13&nbsp;h&nbsp;30 -16h30</p>
+			</td>
+			<td style="width:440px;height:80px;">
+			<p>Maak een project architectuur met de doelstelling van :</p>
+
+			<ul>
+				<li>een presentatie (ppt 10 minuten)</li>
+				<li>een de presentatie van
+				<ul style="list-style-type:circle;">
+					<li>modules</li>
+					<li>code</li>
+					<li>specifieke gebruik van bronnen</li>
+					<li>design</li>
+				</ul>
+				</li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:91px;height:20px;">
+			<p>16&nbsp;h&nbsp;30 -17h15</p>
+			</td>
+			<td style="width:440px;height:20px;">
+			<p>Presentatie van de projecten</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:91px;height:60px;">
+			<p>17&nbsp;h&nbsp;15 17&nbsp;h&nbsp;25</p>
+			</td>
+			<td style="width:440px;height:60px;">
+			<p>Jury beraadslaging en stemming</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:91px;height:20px;">
+			<p>17&nbsp;h&nbsp;30</p>
+			</td>
+			<td style="width:440px;height:20px;">
+			<p>Proclamatie door Sebastian M SERRANO (Innoviris) en vriendelijke drankje</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
 </table>
 
 <p>De objectieven en opportuniteiten zijn veelvoudig.<br />
