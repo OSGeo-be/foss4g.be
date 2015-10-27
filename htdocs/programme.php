@@ -389,7 +389,9 @@ President/CEO of Arama</li>
 </tr>
 											<tr style="background-color: #fff">
 												<td>17h45</td>
-												<td class="talk" style="text-align:left;padding-left:30px"><?php echo $lang['PROG_CONCLUSIONS'];?><br><span class="author">Johan Van de Wauw</span></td>
+												<td class="talk" style="text-align:left;padding-left:30px"><?php echo $lang['PROG_CONCLUSIONS'];?><br>
+												<div style="font-size: 80%">Award ceremony for the Hackathon <span class="author">Innoviris</span></div>
+												<span class="author">Johan Van de Wauw</span></td>
 												<!--<td><a href="infos.php#plenieres">UB4.136</a></td> -->
 											</tr>											
 												<tr class="progr-2"><td colspan="3">18h15<i class="fa fa-glass"></i><?php echo $lang['PROG_DRINK']?></td></tr>
