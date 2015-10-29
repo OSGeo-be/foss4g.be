@@ -43,6 +43,7 @@
 					<li><a href="inscription.php" class="button"><?php echo $lang['CALL_1']; ?></a></li>
 					<li><a href="hackathon.php" class="button">Hackathon</a></li>
 					<li><a href="programme.php" class="button"><?php echo $lang['PROGRAMME']; ?></a></li>
+					<li><a href="https://docs.google.com/forms/d/1Yt8CPBM1JaLY334ILxvtBsSG36LpeWBO_wXzgZQZvlY/viewform" class="button" style="font-size:large"><u>Evaluation</u></a></li>
 				</ul>
 				<p><?php echo $lang['SITE_DATABIG']; ?></p>
 			</section>
