@@ -55,6 +55,8 @@ $lang['CECI'] = 'images/foss4gbe.svg';
 $lang['CECI-G'] = 'images/foss4gbe-g.svg';
 
 // CALL-TO_ACTION
+
+$lang['CALL_foto'] = 'Photos';
 $lang['CALL_1'] = 'Inscriptions';
 $lang['CALL_2'] = 'Appel à sponsors';
 $lang['CALL_3'] = 'Appel à contributions';
