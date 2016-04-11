@@ -1,0 +1,240 @@
+
+	<body>
+
+		<!-- Header -->
+			<header id="header">
+				<h1><a href="index.html"><sub>be</sub><span>Open</span>GIS<sup>fr</sup></a> le 6 Novembre 2014 - ULB - Bruxelles</h1>
+				<nav id="nav">
+					<ul>
+						<li><a href="index.html">Accueil</a></li>
+						<li>
+							<a href="" class="icon fa-angle-down">Information</a>
+							<ul>
+								<li><a href="a-propos.html">A propos</a></li>
+								<li><a href="programme.html">Programme</a></li>								
+								<li><a href="infos.html">Infos pratiques</a></li>
+								<li><a href="contact.html">Contact</a></li>
+							</ul>
+						</li>
+						<li><a href="https://www.facebook.com/beopengisfr" class="button icon fa-facebook default azul" title="Facebook"><span class="label">Facebook</span></a></li>
+					</ul>
+				</nav>
+			</header>
+
+		<!-- Main -->
+			<section id="main" class="container">
+				<header>
+					<h2>Programme provisoire</h2>
+					<p>Jeudi 6 Novembre 2014, de 8h00 à 18h00</p>
+				</header>
+				<div class="row">
+					<div class="8u">
+						<ul class="actions">
+							<li><a href="inscription.html" class="button alt">Inscrivez-vous</a></li>
+						</ul>
+					</div>
+					<div class="4u">
+							<p style="float:right"><i class="fa fa-cubes"></i><span style="margin-left:0.2em">Outils FOSS4G</span><br />
+							<i class="fa fa-database"></i><span style="margin-left:0.6em">Données et services disponibles</span><br />
+							<i class="fa fa-globe"></i><span style="margin-left:0.6em">Applications concrètes</span></p>
+							<a name="conferences"></a>
+					</div>
+				</div>
+				<div class="row">
+					<div class="12u">
+
+						<!-- Table -->
+							<section class="box">				
+								<!-- <h4><i class="fa fa-rocket fa-2x"></i> Plénières</h4>
+								<p class="heure">de 8h00 à 12h25</p>-->
+								<div class="table-wrapper">
+									<table class="alt">
+										<thead>
+											<tr>
+												<th>Heure</th>
+												<th>Description</th>
+												<th>Salle</th>
+											</tr>
+										</thead>
+										<tbody>
+											<tr class="progr-1">
+												<td colspan="3"><i class="fa fa-rocket"></i>Séance d'ouverture</td>
+											</tr>
+											<tr>
+												<td>8h00</td>
+												<td class="talk">Accueil<br /></td>
+												<td><a href="infos.html#plenieres">UB4.136</a></td>
+											</tr>
+											<tr>
+												<td>8h30</td>
+												<td class="talk">Presentation OSGeo-fr<br /><span class="author">Moritz Lennert & Olivier Courtin</span></td>
+												<td><a href="infos.html#plenieres">UB4.136</a></td>
+											</tr>
+											
+											<tr>
+												<td colspan="3" style="text-align:left;padding-left:30px"><i class="fa fa-database"></i>Données et services disponibles</td>
+											</tr>
+											<tr>
+												<td>9h00</td>
+												<td class="talk">Place du DOV dans l'infrastructure d'information géographique en Région flamande, accessible via Geopunt<br /><span class="author">Marleen Van Damme (Autorité flamande, Département de l'Environnement, de la Nature et de l'Energie, DOV - Base de données sur les sols et sous-sol en Flandre)</span></td>
+												<td><a href="infos.html#plenieres">UB4.136</a></td>
+											</tr>
+											<tr style="background-color: #fff;">
+												<td>9h20</td>
+												<td class="talk">Géo.Brussels, l'accès aux données en Région bruxelloise<br /><span class="author">Line Jussiant (IBSA)</span></td>
+												<td><a href="infos.html#plenieres">UB4.136</a></td>
+											</tr>
+											<tr>
+												<td>9h40</td>
+												<td class="talk">Geoportail, l'accès aux données en Région wallonne<br /><span class="author"> Dominique Buffet (SPW)</span></td>
+												<td><a href="infos.html#plenieres">UB4.136</a></td>
+											</tr>
+											<tr style="background-color: #fff;">
+												<td>10h00</td>
+												<td class="talk">La situation des données spatiales en Afrique de l'Ouest<br /><span class="author">Gildas Boko(RECTAS, Nigéria)</span></td>
+												<td><a href="infos.html#plenieres">UB4.136</a></td>
+											</tr>
+											<tr class="progr-2">
+												<td colspan="3">10h30 <i class="fa fa-coffee"></i>Pause Café</td>
+											</tr>
+											<tr>
+												<td colspan="3" style="text-align:left;padding-left:30px"><i class="fa fa-cubes"></i>Outils FOSS4G</td>
+											</tr>
+											<tr>
+												<td>11h00</td>
+												<td>"Copie interdite"<br /><span class="author">Karl Determe (Bruxelles-Mobilité)</span></td>
+												<td><a href="infos.html#plenieres">UB4.136</a></td>
+											</tr>
+											<tr style="background-color: #fff;">
+												<td>11h20</td>
+												<td>PostGIS et QGIS : Composants clés de vos applications SIG<br /><span class="author">Olivier Courtin (Oslandia)</span></td>
+												<td><a href="infos.html#plenieres">UB4.136</a></td>
+											</tr>
+											<tr>
+												<td>11h40</td>
+												<td>Utilisation de solutions libres au CIRB : hasard ou nécessité ?<br /><span class="author">Eric Auquière (CIRB)</span></td>
+												<td><a href="infos.html#plenieres">UB4.136</a></td>
+											</tr>	
+											<tr>
+												<td colspan="3" style="text-align:left;padding-left:30px"><i class="fa fa-globe"></i>Applications concrètes</td>
+</tr>										<tr>											
+											<tr style="background-color: #fff;">
+												<td>12h00</td>
+												<td>QGIS et PostGIS au sein de l'infrastructure de la Police<br /><span class="author">Isabelle Van den Steen (Police fédérale) </span></td>
+												<td><a href="infos.html#plenieres">UB4.136</a></td>
+											</tr>
+											<tr class="progr-2">
+												<td colspan="3">12h30<i class="fa fa-cutlery"></i>Pause de midi</td>
+											</tr>
+											<tr>
+												<td>14h00</td>
+												<td>Difficulté de mise en place d'un SIG cadastral au Burkina Faso<br /><span class="author">Pauline Oho Bognounou (Service du Cadastre et des Travaux Fonciers<br />de la Région des Impôts du Plateau Central, Burkina Faso)</span></td>
+												<td><a href="infos.html#plenieres">UB4.136</a></td>
+											</tr>
+											<tr style="background-color: #fff;">
+												<td>14h20</td>
+												<td>Réutilisation et intégrations de données OpenStreetMap pour des projets associatifs<br /><span class="author">Julien Fastré (Champs-Libres)</span></td>
+												<td><a href="infos.html#plenieres">UB4.136</a></td>
+											</tr>
+											
+											<tr class="progr-2">
+												<td colspan="3">14h45<i class="fa fa-coffee"></i>Pause Café</td>
+											</tr>
+											<tr style="background-color: #fff;">
+												<td colspan="3">
+													<div class="table-wrapper">
+													<table class="alt tarde">
+														<tbody>
+															<tr>
+																<td colspan="2" style="width:50%;text-align:center;"><h4><i class="fa fa-rocket fa-2x"></i> Démos</h4>
+																<a href="infos.html#plenieres" style="font-weight:300">Salle UB4.136</a></td> 
+																<td colspan="2" style="width:50%;text-align:center;"><h4><i class="fa fa-gears fa-2x"></i> Workshops</h4>
+																<a href="infos.html#workshops" style="font-weight:300">Salles UB4.130</a><span style="padding:0.5em">-</span><a href="infos.html#workshops" style="font-weight:300">Salle UB4.126</a></td>
+															</tr>
+															<tr>
+																<td style="width:10%;background-color: #fff">15h15</td>
+																<td style="background-color: #fff;text-align:left;font-weight:300">
+																	Cartographie et Analyse vectorielle avec R<br />
+																	<span class="author">Nicolas Lambert (UMS Riate, Paris) & <br />
+																	Timothée Giraud (UMS Riate, Paris)</span>
+																</td>
+																<td colspan="2" style="background-color: #f8f8f8; text-align:left"><i class="fa fa-gears"></i> Workshop 1 <span style="float:right;text-align:right;font-size:80%;width:30%"><a href="infos.html#workshops" style="font-weight:300">Salle UB4.130</a><span></td>
+															</tr>
+															<tr>
+																<td style="background-color: #fff">15h40</td>
+																<td style="background-color: #fff;text-align:left;font-weight:300">
+																	Analyse matricielle et modélisation spatiale avec R<br />
+																	<span class="author">Catherine Linard (LUBIES/ULB)</span>
+																</td>
+																<td style="width:10%;background-color: #fff">15h15<br/>17h30</td>
+																<td style="background-color: #fff;text-align:left;font-weight:300">De la donnée ... au WebGIS ou comment publier ses cartes sur le Net<br /><span class="author">Karl Determe (Bruxelles-Mobilité) & <br /> Gaël Kruwialis (Bruxelles-Environnement)</td>
+															</tr>
+															<tr>
+																<td style="background-color: #fff">16h05</td>
+																<td style="background-color: #fff;text-align:left;font-weight:300">Les nouveautés de GRASS7 et quelques exemples d'analyses spatiales<br /><span class="author">Moritz Lennert (Géographie/ULB)
+																</span></td>
+																<td style="width:10%;background-color: #fff"></td>
+																<td style="background-color: #fff;text-align:left;font-weight:300"></td>
+															</tr>
+
+															<tr>
+																<td style="width:10%;background-color: #fff">16h30</td>
+																<td style="background-color: #fff;text-align:left;font-weight:300">Cartes d'aléa et de risque d'inondation & Visualisation 3D des ondes GSM à Bruxelles-Capitale<br /><span class="author">Michaël Antoine & Aurélie Dierge (Bruxelles-Environnement)
+																</span></td>
+																<td colspan="2" style="background-color: #f8f8f8; text-align:left"><i class="fa fa-gears"></i> Workshop 2 <span style="float:right;text-align:right;font-size:80%;width:30%"><a href="infos.html#workshops" style="font-weight:300">Salle UB4.126</a><span></td>
+															</tr>
+															<tr>
+																<td style="background-color: #fff">16h55</td>
+																<td style="background-color: #fff;text-align:left;font-weight:300">QGIS et PostGIS pour collecte données terrain<br /><span class="author">Didier Peeters (IGEAT/ULB)
+																</span></td>
+																<td style="width:10%;background-color: #fff">15h15<br/>17h30</td>
+																<td style="background-color: #fff;text-align:left;font-weight:300">Création d'une application sur mesure avec QGIS<br /><span class="author">Olivier Courtin (Oslandia)</span></td>
+															</tr>
+															<tr>
+																<td style="background-color: #fff">17h20</td>
+																<td style="background-color: #fff;text-align:left;font-weight:300">Les application webmapping en opensource: présentation d'architectures et exemples<br /><span class="author">Christophe Adriaensen (GIM)
+																</span></td>
+																<td style="width:10%;background-color: #fff"></td>
+																<td style="background-color: #fff;text-align:left;font-weight:300"></td>
+															</tr>
+														</tbody>
+													</table>
+													</div>
+												</td>
+											</tr>
+											<tr class="progr-1">
+												<td colspan="3" style="background-color: #f8f8f8"><i class="fa fa-university"></i>Séance de clôture</td>
+											</tr>
+											<tr style="background-color: #fff">
+												<td>17h45<br />18h00</td>
+												<td class="talk">Séance de clôture et perspectives du FOSS4G en Belgique<br /><i class="fa fa-glass"></i> Verre de l'amitié</td>
+												<td><a href="infos.html#plenieres">UB4.136</a></td>
+											</tr>											
+										</tbody>
+									</table>
+								</div>	
+							</section>
+						</div>
+					</div>
+				<div class="nav bottom"><prev></prev><a href="a-propos.html" title="A propos">A propos</a> <a href="infos.html" title="Infos">Informations pratiques</a><next></next></div>
+			</section>
+
+		<!-- Footer -->
+		<footer id="footer">
+			<ul class="icons">
+				<li><a href="http://www.ulb.ac.be/" class="icon ulb"><span class="label">ULB - Université Libre de Bruxelles</span></a></li>
+				<li><a href="http://osgeo.asso.fr/" class="icon osgeofr"><span class="label">OSGEOfr</span></a></li>
+				<li><a href="http://igeat.ulb.ac.be/" class="icon igeat"><span class="label">Igeat</span></a></li>
+				<li><a href="http://www.bruxellesenvironnement.be/" class="icon ibge"><span class="label">Bruxelles Environnement</span></a></li>
+				<li><a href="http://www.oslandia.com/" class="icon oslandia"><span class="label">Oslandia</span></a></li>
+				<li><a href="http://www.gim.be/" class="icon gim"><span class="label">GIM</span></a></li>
+				<li><a href="http://www.bruxellesmobilite.irisnet.be/" class="icon bxlmobilite"><span class="label">Bruxelles Mobilité</span></a></li>
+			</ul>
+			<ul class="copyleft">
+				<li><i class="fa fa-copyright fa-flip-horizontal"></i> <sub>be</sub><strong>Open</strong>GIS<sup>fr</sup> 2014</li>
+				<li><i class="fa fa-facebook-square"></i> <a href="https://www.facebook.com/beopengisfr" title="Facebook">Facebook </a></li>
+				<li><a href="credits.html">Crédits</a></li>
+			</ul>
+		</footer>
+	</body>
+
