@@ -51,7 +51,7 @@ $lang['FOSS4G_LOAD'] ='Loading...';
 $lang['CECI_1'] = 'this';
 $lang['CECI_2'] = 'is not';
 $lang['CECI_3'] = 'a conference';
-$lang['CECI'] 	= 'images/foss4gbe-en.svg';
+$lang['CECI'] 	= 'images/foss4g2016.svg';
 $lang['CECI-G'] = 'images/foss4gbe-en-g.svg';
 
 // CALL-TO_ACTION
