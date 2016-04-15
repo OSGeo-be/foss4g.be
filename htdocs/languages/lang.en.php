@@ -6,10 +6,10 @@ $lang = array();
 $lang['URL_INDEX_1'] = 'index.php?lang=en'; /* switch to EN */
 $lang['URL_INDEX_2'] = 'index.php?lang=nl'; /* switch to NL */
 $lang['URL_INDEX_3'] = 'index.php?lang=fr'; /* switch to FR */
-	$lang['URL_SHORT'] = 'en';
-	$lang['URL_NAME_1'] = 'English';
-	$lang['URL_NAME_2'] = 'Dutch';
-	$lang['URL_NAME_3'] = 'French';
+$lang['URL_SHORT'] = 'en';
+$lang['URL_NAME_1'] = 'English';
+$lang['URL_NAME_2'] = 'Dutch';
+$lang['URL_NAME_3'] = 'French';
 $lang['URL_CONTACT'] = 'contact.php';
 
 // SITE NAME AND HEADERS
@@ -62,7 +62,8 @@ $lang['CALL_3'] = 'Call for Papers';
 $lang['PROGRAMME'] = 'Programme';
 
 // HOME ABOUT
-$lang['ABOUT_TITLE'] = 'After different successful events, such as <strong><a href="http://www.geomajas.org/osgeogent2013" alt="OSGeo Ghent">OSGeo Ghent</a></strong> (2013), <a href="http://be-opengis.ulb.ac.be/" alt="be OpenGIS fr"><strong><sub>be</sub><span style="color:rgba(113,191,69,1);">Open</span>GIS<sup>fr</sup></strong></a> (2014) and the geospatial devroom at <strong><a href="https://fosdem.org/2015/schedule/track/geospatial/" alt="geospatial devroom at FOSDEM">FOSDEM</a></strong> (2015), the Dutch speaking and French speaking Open GIS communities in Belgium have decided to join their forces in a Belgian chapter of the <strong><a href="http://www.osgeo.org/" alt="OSGEO">OSGEO foundation</a></strong> and to organise the first <strong>FOSS4G Belgium</strong>.';
+$lang['ABOUT_TITLE'] = 'After the very succesful <a href="http://2016.foss4g.be">FOSS4G Belgium</a> event in 2015, <a href="http://www.osgeo.be">OSGeo.be</a>  announces the date of the next FOSS4G Belgium Conference: <b>22 September 2016</b>. Stay tuned for more info! <br>
+Interested in joining the organisation? Get in touch with info@foss4g.be';
 
 // HOME SECTION CONFERENCES
 $lang['HOME_S1_TITLE'] = 'Conferences and Workshops';
@@ -105,46 +106,46 @@ $lang['ABOUT_A_TEXT2'] ='<a href="http://www.osgeo.org/">The Open Source Geospat
 $lang['SPONSORS_TITLE'] ='Call for Sponsors';
 $lang['SPONSORS_SUBTITLE'] ='Help making our first 2015 edition a success';
 $lang['SPONSORS_CALL'] ='The FOSS4G Belgian Local Organizing Committee is calling for sponsors.<br />
-						The available sponsorship opportunities are listed and detailed here, <a href="contact.php">please contact us with any question on the packages</a>.<br /><br />Attention: no more exhibition spaces are available (Platinum and Gold sponsors) !!!';
+					The available sponsorship opportunities are listed and detailed here, <a href="contact.php">please contact us with any question on the packages</a>.<br /><br />Attention: no more exhibition spaces are available (Platinum and Gold sponsors) !!!';
 $lang['SPONSORS_BUTTON'] ='Contact us now to become a sponsor';
 
-	$lang['SPONSORS_1_TITLE'] ='Platinum';
-	$lang['SPONSORS_1_TAGLINE'] ='1000€';
-	$lang['SPONSORS_1_TXT1'] ='Mention on stage';
-	$lang['SPONSORS_1_TXT2'] ='Exhibition space';
-	$lang['SPONSORS_1_TXT3'] ='Page in programme (1 page)';
-	$lang['SPONSORS_1_TXT4'] ='Page in programme (1/2 page)';
-	$lang['SPONSORS_1_TXT5'] ='Logo on main web page';
-	$lang['SPONSORS_1_TXT6'] ='Logo on sponsors web page';
-	
-	$lang['SPONSORS_2_TITLE'] ='Gold';
-	$lang['SPONSORS_2_TAGLINE'] ='750€';
-	$lang['SPONSORS_2_TXT1'] ='Exhibition space, Page in programme  (1/2 page) , Logo on main web page, Logo on web page of sponsors.';
-	
-	$lang['SPONSORS_3_TITLE'] ='Silver';
-	$lang['SPONSORS_3_TAGLINE'] ='500€';
-	$lang['SPONSORS_3_TXT'] ='Logo on main web page, Logo on web page of sponsors.';
-	
-	$lang['SPONSORS_4_TITLE'] ='Bronze';
-	$lang['SPONSORS_4_TAGLINE'] ='250€';
-	$lang['SPONSORS_4_TXT'] ='Logo on web page of sponsors.';
-	
+$lang['SPONSORS_1_TITLE'] ='Platinum';
+$lang['SPONSORS_1_TAGLINE'] ='1000€';
+$lang['SPONSORS_1_TXT1'] ='Mention on stage';
+$lang['SPONSORS_1_TXT2'] ='Exhibition space';
+$lang['SPONSORS_1_TXT3'] ='Page in programme (1 page)';
+$lang['SPONSORS_1_TXT4'] ='Page in programme (1/2 page)';
+$lang['SPONSORS_1_TXT5'] ='Logo on main web page';
+$lang['SPONSORS_1_TXT6'] ='Logo on sponsors web page';
+
+$lang['SPONSORS_2_TITLE'] ='Gold';
+$lang['SPONSORS_2_TAGLINE'] ='750€';
+$lang['SPONSORS_2_TXT1'] ='Exhibition space, Page in programme  (1/2 page) , Logo on main web page, Logo on web page of sponsors.';
+
+$lang['SPONSORS_3_TITLE'] ='Silver';
+$lang['SPONSORS_3_TAGLINE'] ='500€';
+$lang['SPONSORS_3_TXT'] ='Logo on main web page, Logo on web page of sponsors.';
+
+$lang['SPONSORS_4_TITLE'] ='Bronze';
+$lang['SPONSORS_4_TAGLINE'] ='250€';
+$lang['SPONSORS_4_TXT'] ='Logo on web page of sponsors.';
+
 $lang['SPONSORS_WHY_TITLE'] ='Why Sponsor OSGeo';
 
-	$lang['SPONSORS_WHY1_1'] ='Your Organization Depends on OSGeo Software</strong><br /> Your company or government agency uses OSGeo technologies in its day-to-day work, allowing you to compete effectively and deliver services in an efficient manner.';
-	$lang['SPONSORS_WHY1_2'] ='By helping sustain OSGeo you also support your current operations into the future knowing that a strong OSGeo is behind your business activities.';
-	
-	$lang['SPONSORS_WHY2_1'] ='You represent a Community of Practice that has Adopted OSGeo Software</strong><br /> Communities representing a wide range of domains, from professional associations to non-government organizations, leverage OSGeo software as a critical component of their end-user applications. Your community has an interest in ensuring the software can be sustained into the future.';
-	$lang['SPONSORS_WHY2_2'] ='By sponsoring OSGeo you demonstrate support for your members\' software selection.';
-	
-	$lang['SPONSORS_WHY3_1'] ='Your Goals are aligned with OSGeo\'s Support for Open Standards and Other Priorities</strong><br /> Help achieve your own organization\'s objectives by sponsoring OSGeo as a like-minded organization and benefit from the volunteer efforts of a rapidly growing world-wide community.';
-	$lang['SPONSORS_WHY3_2'] ='By sponsoring OSGeo you achieve your own goals.';
-	
-	$lang['SPONSORS_WHY4_1'] ='Demonstrate Your Leadership in Open Source Geospatial Technologies</strong><br /> By sponsoring OSGeo you will help align your business with the activities of thousands of adopters of OSGeo software around the world.';
-	$lang['SPONSORS_WHY4_2'] ='As a sponsor of OSGeo, you will align your business growth with the momentum behind OSGeo in the marketplace.';
-	
-	$lang['SPONSORS_WHY5_1'] ='Benefit from Sponsor Networking Opportunities</strong><br /> As a sponsor of OSGeo, you will benefit from unique opportunities to meet and share ideas with key members of OSGeo, other OSGeo sponsors and affiliated like-minded individuals and organizations.';
-	$lang['SPONSORS_WHY5_2'] ='By sponsoring OSGeo you will enhance your business opportunities.';
+$lang['SPONSORS_WHY1_1'] ='Your Organization Depends on OSGeo Software</strong><br /> Your company or government agency uses OSGeo technologies in its day-to-day work, allowing you to compete effectively and deliver services in an efficient manner.';
+$lang['SPONSORS_WHY1_2'] ='By helping sustain OSGeo you also support your current operations into the future knowing that a strong OSGeo is behind your business activities.';
+
+$lang['SPONSORS_WHY2_1'] ='You represent a Community of Practice that has Adopted OSGeo Software</strong><br /> Communities representing a wide range of domains, from professional associations to non-government organizations, leverage OSGeo software as a critical component of their end-user applications. Your community has an interest in ensuring the software can be sustained into the future.';
+$lang['SPONSORS_WHY2_2'] ='By sponsoring OSGeo you demonstrate support for your members\' software selection.';
+
+$lang['SPONSORS_WHY3_1'] ='Your Goals are aligned with OSGeo\'s Support for Open Standards and Other Priorities</strong><br /> Help achieve your own organization\'s objectives by sponsoring OSGeo as a like-minded organization and benefit from the volunteer efforts of a rapidly growing world-wide community.';
+$lang['SPONSORS_WHY3_2'] ='By sponsoring OSGeo you achieve your own goals.';
+
+$lang['SPONSORS_WHY4_1'] ='Demonstrate Your Leadership in Open Source Geospatial Technologies</strong><br /> By sponsoring OSGeo you will help align your business with the activities of thousands of adopters of OSGeo software around the world.';
+$lang['SPONSORS_WHY4_2'] ='As a sponsor of OSGeo, you will align your business growth with the momentum behind OSGeo in the marketplace.';
+
+$lang['SPONSORS_WHY5_1'] ='Benefit from Sponsor Networking Opportunities</strong><br /> As a sponsor of OSGeo, you will benefit from unique opportunities to meet and share ideas with key members of OSGeo, other OSGeo sponsors and affiliated like-minded individuals and organizations.';
+$lang['SPONSORS_WHY5_2'] ='By sponsoring OSGeo you will enhance your business opportunities.';
 
 // SPONSORS THANKS ------------------------------------------------------------------------------------------------------------/	
 
@@ -222,18 +223,18 @@ $lang['INFO_FOOD_TXT'] ='Greenhouse gas emissions, water consumption, impacts on
 
 $lang['INFO_PROG'] ='Programme';
 $lang['INFO_PROG_TEXT1'] ='	Tuesday, October the 29th, 2015
-							<ul class="alt" style="font-size:80%">
-								<li>08:00-09:00 - Setup of exhibition space</li>
-								<li>09:00-09:30 - Registration</li>
-								<li>09:30-10:00 - Welcome and presentation of OSGeo/OSGeo-BE</li>
-								<li>10:00-10:30 - Plenary Keynotes</li>
-								<li>10:30-11:00 - Coffee Break</li>
-								<li>11:00-12:40 - Concurrent Sessions: Main track - Side track 1 - Side track 2</li>
-								<li>12:40-14:00 - Lunch Break</li>
-								<li>14:00-16:10 - Concurrent Sessions: Main track - Side track 1 - Side track 2</li>
-								<li>16:10-16:40 - Coffee Break</li>
-								<li>16:40-17:00 - Conclusions and Outlook for OSGeo-BE</li>
-								<li> >18:30     - Networking</li>
+						<ul class="alt" style="font-size:80%">
+							<li>08:00-09:00 - Setup of exhibition space</li>
+							<li>09:00-09:30 - Registration</li>
+							<li>09:30-10:00 - Welcome and presentation of OSGeo/OSGeo-BE</li>
+							<li>10:00-10:30 - Plenary Keynotes</li>
+							<li>10:30-11:00 - Coffee Break</li>
+							<li>11:00-12:40 - Concurrent Sessions: Main track - Side track 1 - Side track 2</li>
+							<li>12:40-14:00 - Lunch Break</li>
+							<li>14:00-16:10 - Concurrent Sessions: Main track - Side track 1 - Side track 2</li>
+							<li>16:10-16:40 - Coffee Break</li>
+							<li>16:40-17:00 - Conclusions and Outlook for OSGeo-BE</li>
+							<li> >18:30     - Networking</li>
 							</ul>';
 $lang['INFO_PROG_TEXT2'] ='The detailed and complete programme will be available very soon';							
 

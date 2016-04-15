@@ -39,15 +39,15 @@
 		<!-- Banner -->
 			<section id="banner">
 				<img src="<?php echo $lang['CECI']; ?>" alt="<?php echo $lang['SITE_NAME']; ?> - <?php echo $lang['CECI_1']; ?> <?php echo $lang['CECI_2']; ?> <?php echo $lang['CECI_3']; ?>">
-				<ul class="actions">
+				<!--<ul class="actions">
 					<li><a href="http://2015.foss4g.be" class="button"><?php echo $lang['edition_2015']; ?></a></li>
 				</ul>
 				<p><?php echo $lang['SITE_DATABIG']; ?></p>
+				-->
 			</section>
 
 		<!-- Main -->
-			<section id="main" class="container">
-		
+			<section id="main" class="container" style="padding-top: 0">
 				<section class="box special">
 					<header class="major logo">
 						<img src="images/chapeau-earth.png">
@@ -55,40 +55,12 @@
 					</header>
 					<span class="image featured"><img src="images/foss4g2016.svg" alt="" /></span>
 				</section>
-						
-				<section class="box special features">
-					<div class="features-row">
-						<section>
-							<span class="icon major fa-rocket accent4"></span>
-							<h3><?php echo $lang['HOME_S1_TITLE']; ?></h3>
-							<p><?php echo $lang['HOME_S1_TEXT']; ?></p>
-						</section>
-						<section>
-							<span class="icon major fa-cubes accent2"></span>
-							<h3><?php echo $lang['HOME_S2_TITLE']; ?></h3>
-							<p><?php echo $lang['HOME_S2_TEXT']; ?></p>
-						</section>
-					</div>
-					<div class="features-row">
-						<section>
-							<span class="icon major fa-database accent2"></span>
-							<h3><?php echo $lang['HOME_S3_TITLE']; ?></h3>
-							<p><?php echo $lang['HOME_S3_TEXT']; ?></p>
-						</section>
-						<section>
-							<span class="icon major fa-globe accent2"></span>
-							<h3><?php echo $lang['HOME_S4_TITLE']; ?></h3>
-							<p><?php echo $lang['HOME_S4_TEXT']; ?></p>
-						</section>
-					</div>
-				</section>
+
 			</section>
 			
 		<!-- CTA -->
 			<section id="cta">
 				
-				<p><?php echo $lang['FOOTER_THANKS']; ?><p>
-				<p><?php echo $lang['FOOTER_THANKS_ALL']; ?></p>
 				<p><?php echo $lang['FOOTER_MORE']; ?></p>
 				
 			</section>
