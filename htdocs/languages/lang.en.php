@@ -13,13 +13,13 @@ $lang['URL_INDEX_3'] = 'index.php?lang=fr'; /* switch to FR */
 $lang['URL_CONTACT'] = 'contact.php';
 
 // SITE NAME AND HEADERS
-$lang['SITE_NAME'] = 'FOSS4G Belgium 2015';
-$lang['SITE_TITLE'] = 'FOSS4G Belgium 2015';
-$lang['SITE_DESCRIPTION'] = 'FOSS4G Belgium 2015';
+$lang['SITE_NAME'] = 'FOSS4G Belgium 2016';
+$lang['SITE_TITLE'] = 'FOSS4G Belgium 2016';
+$lang['SITE_DESCRIPTION'] = 'FOSS4G Belgium 2016';
 $lang['SITE_KEYWORDS'] = 'FOSS4G Geo marker GIS Open Source Brussels';
 $lang['SITE_AUTHOR'] = 'FOSS4G Belgium';
-$lang['SITE_DATATOP'] = ' <div class="foss4g"></div> 29 Oct 2015 - BEL Tour & Taxis - Brussels';
-$lang['SITE_DATABIG'] = '<a href="http://bel.brussels/" alt="BEL Building" style="color:white" target="_blank">Brussels Environment and Energy Agency</a> - 29th of October 2015';
+$lang['SITE_DATATOP'] = ' <div class="foss4g"></div> 22 september 2016';
+$lang['SITE_DATABIG'] = '<a href="http://bel.brussels/" alt="BEL Building" style="color:white" target="_blank">Brussels Environment and Energy Agency</a> - 22 September 2016';
 
 // MENU
 $lang['MENU_HOME'] = 'Home';

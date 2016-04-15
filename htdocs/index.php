@@ -10,7 +10,7 @@
 		/*<meta name="geo.placename" content="Avenue du Port 86 C/3002, Tour & Taxis, 1000 Brussels, Belgium" />
 		<meta name="geo.position" content="50.866248;4.349073" />
 		<meta name="geo.region" content="BE-Brussels" />
-		<meta name="ICBM" content="50.866248, 4.349073" />	*/	
+		<meta name="ICBM" content="50.866248, 4.349073" />	*/?>	
 		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->		
 		<script src="js/jquery.min.js" type="text/javascript"></script>
 		<script src="js/jquery.dropotron.min.js" type="text/javascript"></script>
@@ -40,10 +40,7 @@
 			<section id="banner">
 				<img src="<?php echo $lang['CECI']; ?>" alt="<?php echo $lang['SITE_NAME']; ?> - <?php echo $lang['CECI_1']; ?> <?php echo $lang['CECI_2']; ?> <?php echo $lang['CECI_3']; ?>">
 				<ul class="actions">
-					<li><a href="photos.html" class="button"><?php echo $lang['CALL_foto']; ?></a></li>
-					<li><a href="hackathon.php" class="button">Hackathon</a></li>
-					<li><a href="programme.php" class="button"><?php echo $lang['PROGRAMME']; ?></a></li>
-					<li><a href="https://docs.google.com/forms/d/1Yt8CPBM1JaLY334ILxvtBsSG36LpeWBO_wXzgZQZvlY/viewform" class="button" style="font-size:large"><u>Evaluation</u></a></li>
+					<li><a href="http://2015.foss4g.be" class="button"><?php echo $lang['edition_2015']; ?></a></li>
 				</ul>
 				<p><?php echo $lang['SITE_DATABIG']; ?></p>
 			</section>
