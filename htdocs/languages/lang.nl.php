@@ -18,7 +18,7 @@ $lang['SITE_TITLE'] = 'FOSS4G België 2015';
 $lang['SITE_DESCRIPTION'] = 'FOSS4G België 2015';
 $lang['SITE_KEYWORDS'] = 'Foss4G Geo GIS Open Source Brussel OSGeo OSGeoBE België';
 $lang['SITE_AUTHOR'] = 'FOSS4G Belgium';
-$lang['SITE_DATATOP'] = '29 Okt 2015 - BEL Tour & Taxis - Brussel';
+$lang['SITE_DATATOP'] = '22 September 2015 - Brussel';
 $lang['SITE_DATABIG'] = '<a href="http://bel.brussels/" alt="BEL Gebouw"  style="color:white" target="_blank">BEL Gebouw Leefmilieu Brussel</a> - 29 Oktober 2015';
 
 // MENU
@@ -62,7 +62,8 @@ $lang['CALL_3'] = 'Oproep voor bijdragen';
 $lang['PROGRAMME'] = 'Programma';
 
 // HOME OVER ONS
-$lang['ABOUT_TITLE'] = 'Na verschillende succesvolle activiteiten, zoals <strong><a href="http://www.geomajas.org/osgeogent2013" alt="OSGeo Gent">OSGeo Gent</a></strong> (2013), <a href="http://be-opengis.ulb.ac.be/" alt="be OpenGIS fr"><strong><sub>be</sub><span style="color:rgba(113,191,69,1);">Open</span>GIS<sup>fr</sup></strong></a> (2014) en de geospatial devroom op <strong><a href="https://fosdem.org/2015/schedule/track/geospatial/" alt="geospatial devroom at FOSDEM">FOSDEM</a></strong> (2015) hebben de Nederlandstalige en Franstalige OpenGIS gemeenschap besloten de handen in elkaar te slaan om de eerste <strong>FOSS4G België</strong> te organiseren.';
+$lang['ABOUT_TITLE'] = 'After the very succesful <a href="http://2016.foss4g.be">FOSS4G Belgium</a> event in 2015, <a href="http://www.osgeo.be">OSGeo.be</a>  announces the date of the next FOSS4G Belgium Conference: <b>22 September 2016</b>. Stay tuned for more info! <br>
+Interested in joining the organisation? Get in touch with info@foss4g.be';
 
 // HOME SECTION CONFERENTIES
 $lang['HOME_S1_TITLE'] = 'Presentaties en Workshops';

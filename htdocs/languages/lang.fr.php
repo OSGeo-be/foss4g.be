@@ -18,7 +18,7 @@ $lang['SITE_TITLE'] = 'FOSS4G Belgique 2015';
 $lang['SITE_DESCRIPTION'] = 'FOSS4G Belgique 2015';
 $lang['SITE_KEYWORDS'] = 'FOSS4G Geo marqueur GIS Open Source Bruxelles';
 $lang['SITE_AUTHOR'] = 'FOSS4G Belgium';
-$lang['SITE_DATATOP'] = '<div class="foss4g"></div> 29 Oct 2015 - BEL Tour & Taxis - Bruxelles';
+$lang['SITE_DATATOP'] = '<div class="foss4g"></div> 22 Septembre - Bruxelles';
 $lang['SITE_DATABIG'] = '<a href="http://bel.brussels/" alt="BEL Building" style="color:white" target="_blank">BEL - Bruxelles Environnement</a> - 29 octobre 2015';
 
 // MENU
@@ -63,7 +63,8 @@ $lang['CALL_3'] = 'Appel à contributions';
 $lang['PROGRAMME'] = 'Programme';
 
 // HOME A PROPOS
-$lang['ABOUT_TITLE'] = 'Après différents évènements fructueux, comme <strong><a href="http://www.geomajas.org/osgeogent2013" alt="OSGeo Ghent">OSGeo Ghent</a></strong> (2013), <a href="http://be-opengis.ulb.ac.be/" alt="be OpenGIS fr"><strong><sub>be</sub><span style="color:rgba(113,191,69,1);">Open</span>GIS<sup>fr</sup></strong></a> (2014) et la géospatiale devroom au <strong><a href="https://fosdem.org/2015/schedule/track/geospatial/" alt="geospatial devroom at FOSDEM">FOSDEM</a></strong> (2015), les communautés Open GIS francophone et néerlandophone de Belgique ont décidé de joindre leurs forces en une section belge de la fondation OSGEO et d\'organiser le premier <strong>FOSS4G Belgique</strong>.';
+$lang['ABOUT_TITLE'] = 'After the very succesful <a href="http://2016.foss4g.be">FOSS4G Belgium</a> event in 2015, <a href="http://www.osgeo.be">OSGeo.be</a>  announces the date of the next FOSS4G Belgium Conference: <b>22 September 2016</b>. Stay tuned for more info! <br>
+';
 
 // HOME SECTION CONFERENCES
 $lang['HOME_S1_TITLE'] = 'Conférences et ateliers';
