@@ -6,10 +6,11 @@
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="<?php echo $lang['SITE_DESCRIPTION']; ?>" />
 		<meta name="keywords" content="<?php echo $lang['SITE_KEYWORDS']; ?>" />
-		<meta name="geo.placename" content="Avenue du Port 86 C/3002, Tour & Taxis, 1000 Brussels, Belgium" />
+		<?php
+		/*<meta name="geo.placename" content="Avenue du Port 86 C/3002, Tour & Taxis, 1000 Brussels, Belgium" />
 		<meta name="geo.position" content="50.866248;4.349073" />
 		<meta name="geo.region" content="BE-Brussels" />
-		<meta name="ICBM" content="50.866248, 4.349073" />		
+		<meta name="ICBM" content="50.866248, 4.349073" />	*/	
 		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->		
 		<script src="js/jquery.min.js" type="text/javascript"></script>
 		<script src="js/jquery.dropotron.min.js" type="text/javascript"></script>
@@ -17,8 +18,7 @@
 		<script src="js/skel.min.js" type="text/javascript"></script>
 		<script src="js/skel-layers.min.js" type="text/javascript"></script>
 		<script src="js/init.js" type="text/javascript"></script>
-		<script src="http://openlayers.org/en/v3.6.0/build/ol.js" type="text/javascript"></script>
-		<link rel="canonical" href="http://www.foss4g.be/" />
+		<link rel="canonical" href="http://2016.foss4g.be/" />
 		<noscript>
 			<link rel="stylesheet" href="css/skel.css" />
 			<link rel="stylesheet" href="css/style.css" />
