@@ -13,13 +13,13 @@ $lang['URL_INDEX_3'] = 'index.php?lang=fr'; /* switch to FR */
 $lang['URL_CONTACT'] = 'contact.php';
 
 // SITE NAME AND HEADERS
-$lang['SITE_NAME'] = 'FOSS4G Belgium 2015';
-$lang['SITE_TITLE'] = 'FOSS4G België 2015';
-$lang['SITE_DESCRIPTION'] = 'FOSS4G België 2015';
+$lang['SITE_NAME'] = 'FOSS4G Belgium 2016';
+$lang['SITE_TITLE'] = 'FOSS4G België 2016';
+$lang['SITE_DESCRIPTION'] = 'FOSS4G België 2016';
 $lang['SITE_KEYWORDS'] = 'Foss4G Geo GIS Open Source Brussel OSGeo OSGeoBE België';
 $lang['SITE_AUTHOR'] = 'FOSS4G Belgium';
-$lang['SITE_DATATOP'] = '22 September 2015 - Brussel';
-$lang['SITE_DATABIG'] = '<a href="http://bel.brussels/" alt="BEL Gebouw"  style="color:white" target="_blank">BEL Gebouw Leefmilieu Brussel</a> - 29 Oktober 2015';
+$lang['SITE_DATATOP'] = '22 September 2016 - Brussel';
+$lang['SITE_DATABIG'] = '<a href="http://bel.brussels/" alt="BEL Gebouw"  style="color:white" target="_blank">BEL Gebouw Leefmilieu Brussel</a> - 22 September 2016';
 
 // MENU
 $lang['MENU_HOME'] = 'Home';
@@ -104,9 +104,13 @@ $lang['ABOUT_A_TEXT2'] ='NL TODO <a href="http://www.osgeo.org/">The Open Source
 // SPONSORS PAGE CALL ------------------------------------------------------------------------------------------------------------/
 
 $lang['SPONSORS_TITLE'] ='Oproep voor sponsors';
-$lang['SPONSORS_SUBTITLE'] ='Help om een succesvolle eerste editie te beleven';
-$lang['SPONSORS_CALL'] ='De Belgische FOSS4G lokale organisatie maakt een oproep op sponsors.<br />
-						De verschillende sponsor mogelijkheden worden hieronder uitgelegd, <a href="contact.php">aub neem contact op indien u nog vragen zou hebben</a>.<br /><br />Let op: er zijn geen stands meer beschikbaar (Platinum en Gold sponsors) !!';
+$lang['SPONSORS_SUBTITLE'] ='Help ons om editie 2016 te organiseren';
+$lang['SPONSORS_CALL'] ='Na de eerste geslaagde editie van het <a href="http://2015.foss4g.be">Belgisch FOSS4G event in 2015</a>, organiseert OSGeo.be een nieuwe editie van de FOSS4G.BE conferentie op donderdag 22 september 2016.<br />
+
+FOSS4G conferenties brengen ontwikkelaars en gebruikers (ook managers als beslissers) van open source geomatica software uit de hele wereld samen, om nieuwe richtingen, sprekende implementaties en groeiende zakelijke kansen in het gebied te bespreken. De afgelopen jaren hebben we veel veranderingen in de geo-ict sector gezien. Een van deze veranderingen is de toenemende volwassenheid van open source oplossingen en hun implementatie. Vaak gebruiken organisaties een combinatie van open source en eigen oplossingen. <b>Momenteel zijn we op zoek naar sponsors voor dit tweede Belgische FOSS4G.</b>
+</br>
+
+De verschillende sponsor mogelijkheden worden hieronder uitgelegd, <a href="contact.php">aub neem contact op indien u nog vragen zou hebben</a>.';
 $lang['SPONSORS_BUTTON'] ='Neem contact op om FOSS4G BE te sponsoren';
 
 	$lang['SPONSORS_1_TITLE'] ='Platina';
