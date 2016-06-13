@@ -41,7 +41,8 @@
 				<div class="box">
 
 					<h3><?php echo $lang['ABOUT_A_SUBTITLE']; ?></h3>
-					<p><?php echo $lang['ABOUT_A_TEXT']; ?></p>
+					<p><span class="image left"><img src="images/osgeo-site.png" alt="OSGeo.be" /></span> <?php echo $lang['ABOUT_A_TEXT']; ?></p>
+<?php echo $lang['ABOUT_A_TEXT']; ?></p>
 					<hr>
 					<h3><?php echo $lang['ABOUT_A_SUBTITLE2']; ?></h3>
 					<p><span class="image left"><img src="images/logo-osgeo.png" alt="OSGeo" /></span> <?php echo $lang['ABOUT_A_TEXT2']; ?></p>

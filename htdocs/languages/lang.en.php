@@ -52,7 +52,7 @@ $lang['CECI_1'] = 'this';
 $lang['CECI_2'] = 'is not';
 $lang['CECI_3'] = 'a conference';
 $lang['CECI'] 	= 'images/foss4g2016.svg';
-$lang['CECI-G'] = 'images/foss4gbe-en-g.svg';
+$lang['CECI-G'] = 'images/foss4gbe-en-g.svg';//TODO
 
 // CALL-TO_ACTION
 $lang['CALL_foto'] = 'Photos';
@@ -91,11 +91,12 @@ $lang['HOME_COOKIE_LAW'] = 'More info about the EU law';
 
 // ABOUT US TOP
 $lang['ABOUT_A_TITLE'] ='About us';
-$lang['ABOUT_A_SUBTITLE'] ='FOSS4G Belgian Team';
+$lang['ABOUT_A_SUBTITLE'] ='OSGeo.be - FOSS4G Belgian team';
 
-$lang['ABOUT_A_TEXT'] ='The local active OSGeo members from Belgium are proud to announce <a href="http://wiki.osgeo.org/wiki/Belgium" target="_blank">the birth of the Belgian local Chapter</a>. Today the Belgian community members are either active in the <a href="http://osgeo.nl/" target="_blank">OSGeo.nl</a>, the <a href="http://osgeo.asso.fr/" target="_blank">OSGeo.fr</a> or in several <a href="http://www.osgeo.org/community.html" target="_blank">OSGeo communities</a>. OSGeo Belgium will therefore act as a bridge between the language communities and cultures, because of it\'s unique multilingual composition.</p>
-<p>The Belgium chapter will actively work on the promotion of open source Geo solutions and the continuation of all the good work based on the existing software stacks. Together with the Belgian eco-system of administrations, industry and schools, we want to build on a more open world.</p>
-<p>On the 29<sup>th</sup> of October 2015, we will organise the first FOSS4G-BE and officialise the birth of the (legal) organisation to the public.';
+$lang['ABOUT_A_TEXT'] ='
+<a href=http://www.osgeo.be/>OSGeo.be</a>
+
+';
 
 $lang['ABOUT_A_SUBTITLE2'] ='OSGeo';
 $lang['ABOUT_A_TEXT2'] ='<a href="http://www.osgeo.org/">The Open Source Geospatial Foundation (OSGeo)</a>, is a not-for-profit organization whose mission is to support the collaborative development of open source geospatial software, and promote its widespread use. The foundation provides financial, organizational and legal support to the broader open source geospatial community. It also serves as an independent legal entity to which community members can contribute code, funding and other resources, secure in the knowledge that their contributions will be maintained for public benefit. OSGeo also serves as an outreach and advocacy organization for the open source geospatial community, and provides a common forum and shared infrastructure for improving cross-project collaboration.</p><p>The foundation\'s projects are all freely available and usable under an <a href="http://opensource.org/pressreleases/certified-open-source.php" target="_blank">OSI-certified open source license</a>.</p>';
@@ -156,9 +157,15 @@ $lang['SPONSORS_T_SUBTITLE'] ='We would like to thank our sponsors for making th
 // PAPERS PAGE CALL ------------------------------------------------------------------------------------------------------------/
 
 $lang['PAPERS_TITLE'] ='Call for papers';
-$lang['PAPERS_SUBTITLE'] ='Help making our first 2015 edition a success';
-$lang['PAPERS_CALL'] ='On the 29th of October 2015, OSGeo-be will host an event dedicated to free geomatics in Brussels at BEL, the Environment and Energy Agency of Brussels. FOSS4Gbe will be a day of conferences, demonstrations, debates and meetings about OSGeo topics. It will also be an opportunity <strong>to bring together the community</strong> of users, developers, policy makers or just curious FOSS geomatics.</p>
-<p><strong>The event is expected to gather around 250 to 400 people</strong>.<br />We will share knowledge and experiences during the whole event through presentations and demonstrations with <strong>25 minutes each at most</strong>.</p>';
+$lang['PAPERS_SUBTITLE'] ='Help making our 2016 edition a success';
+$lang['PAPERS_CALL'] ='After the very succesful FOSS4G Belgium event in 2015, OSGeo.be will organise another edition of the FOSS4G Belgium Conference on Thursday 22 September 2016.<br />
+
+FOSS4G conferences gather developers and users of Open Source geospatial software as well as managers and decision-makers from around the world to discuss new directions, exciting implementations, and growing business opportunities in this domain. Recent years have seen substantial changes in the geospatial industry. One of those changes has been the growth in maturity and adoption of Free and Open Source solutions. In many cases organizations are using a mixture of open and closed source solutions.
+<br />
+We will share knowledge and experiences during the whole event through presentations and demonstrations with 25 minutes each at most.
+<br />
+<b>We are looking for contributors who want to present at this event.</b>
+';
 
 // Plenary Session
 $lang['PAPERS_CALL_T_TXT1'] ='Presentations and side tracks';
@@ -199,9 +206,9 @@ $lang['PAPERS_SUM_TYPE'] ='The nature of your intervention (Explanatory / Applic
 
 
 // DEADLINE + HOW EVALUATE 
-$lang['PAPERS_DEADLINE'] ='Deadline for submissions: October 2';
+$lang['PAPERS_DEADLINE'] ='Deadline for submissions: <b>June 24</b>';
 $lang['PAPERS_CALL2T'] ='Deadline';
-$lang['PAPERS_CALL2'] ='Deadline for submission is October 2, but we invite presenters to send their title as soon as possible. Abstracts will be evaluated by a program committee and authors will be notified of their acceptance on October the 7th, 2015.<br />All the presentations will be made available on the event website.</p>';
+$lang['PAPERS_CALL2'] ='Deadline for submission is June 24, but we invite presenters to send their title as soon as possible. Abstracts will be evaluated by a program committee and authors will be notified of their acceptance the first week of July.<br />All the presentations will be made available on the event website.</p>';
 $lang['PAPERS_CALL3T'] ='How do we evaluate';
 $lang['PAPERS_CALL3'] ='<p>The choice of presentations will be based on the quality of the submitted material, its interest for professional and student audiences and also its consistency with the program. The decision of the selection committee will be final and binding. Committee members speak on their own behalf, their choices do not reflect the position of their employer.</p>';
 $lang['PAPERS_CALL4'] ='<p>The Dutch and French coordinators of the program committee are Johan Van de Wauw (NL) and Gaël Kruwialis (FR).</p>
@@ -222,7 +229,7 @@ $lang['INFO_FOOD'] ='Catering & Amenities';
 $lang['INFO_FOOD_TXT'] ='Greenhouse gas emissions, water consumption, impacts on biodiversity, waste production... The environmental impacts of our food are enormous. Brussels Environment applies an ambitious and dynamic policy on sustainable food, which is why the BEL restaurant is exemplary in this respect. The food served there includes organic, local and seasonal dishes and vegetarian alternatives. Discover the <a href="http://www.biorganicfactory.be/fr/concept.php" target="_blank">Biorganic Factory</a>';
 
 $lang['INFO_PROG'] ='Programme';
-$lang['INFO_PROG_TEXT1'] ='	Tuesday, October the 29th, 2015
+$lang['INFO_PROG_TEXT1'] ='	Thursday, September the 22th, 2016
 						<ul class="alt" style="font-size:80%">
 							<li>08:00-09:00 - Setup of exhibition space</li>
 							<li>09:00-09:30 - Registration</li>

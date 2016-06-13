@@ -19,7 +19,7 @@ $lang['SITE_DESCRIPTION'] = 'FOSS4G Belgique 2015';
 $lang['SITE_KEYWORDS'] = 'FOSS4G Geo marqueur GIS Open Source Bruxelles';
 $lang['SITE_AUTHOR'] = 'FOSS4G Belgium';
 $lang['SITE_DATATOP'] = '<div class="foss4g"></div> 22 Septembre - Bruxelles';
-$lang['SITE_DATABIG'] = '<a href="http://bel.brussels/" alt="BEL Building" style="color:white" target="_blank">BEL - Bruxelles Environnement</a> - 29 octobre 2015';
+$lang['SITE_DATABIG'] = '<a href="http://bel.brussels/" alt="BEL Building" style="color:white" target="_blank">BEL - Bruxelles Environnement</a> - 22 septembre 2016';
 
 // MENU
 $lang['MENU_HOME'] = 'Accueil';
@@ -94,9 +94,9 @@ $lang['HOME_COOKIE_LAW'] = 'Plus d\'infos à propos de la loi européenne';
 $lang['ABOUT_A_TITLE'] ='A propos';
 $lang['ABOUT_A_SUBTITLE'] ='Équipe belge FOSS4G';
 
-$lang['ABOUT_A_TEXT'] ='<p>Les membres actifs d\'OSGeo en Belgique sont fiers <a href="http://wiki.osgeo.org/wiki/Belgium" target="_blank">d\'annoncer la naissance de la section locale belge</a>. Aujourd\'hui, les membres de la communauté belge sont soit actifs au sein d\'<a href="http://osgeo.nl/" target="_blank">OSGeo.nl</a>, d\'<a href="http://osgeo.asso.fr/" target="_blank">OSGeo.fr</a>, ou dans plusieurs <a href="http://www.osgeo.org/community.html" target="_blank">communautés OSGeo</a>. OsGeo Belgique agira donc comme un pont entre les communautés linguistiques et les cultures, grâce à sa composition multilingue unique.</p>
-<p>La section belge travaillera activement à la promotion des solutions Geo Open Source et à la poursuite de tout le bon travail basé sur les solutions logicielles existantes. Avec l\'éco-système belge des administrations, industries et écoles, nous voulons construire un monde plus ouvert.</p>
-<p>Le 29 octobre 2015, nous organiserons le premier FOSS4G-BE et officialiserons publiquement la naissance de l\'organisation légale.</p>';
+$lang['ABOUT_A_TEXT'] ='
+<a href="http://www.osgeo.be">
+';
 
 $lang['ABOUT_A_SUBTITLE2'] ='OSGeo';
 $lang['ABOUT_A_TEXT2'] ='<a href="http://www.osgeo.org/">La fondation Open Source Geospatial (OSGeo)</a>, est une organisation sans but lucratif dont la mission est d\'aider et de promouvoir le développement collaboratif des données et des technologies ouvertes en géomatique. La fondation fournit une aide financière, organisationnelle et légale à l\'immense communauté open-source de ce domaine. En outre, elle sert d\'entité légale indépendante à laquelle les membres de la communauté peuvent contribuer (développements informatiques, dons, autres ressources) tout en ayant l\'assurance que leurs contributions resteront au bénéfice de tous. Aussi, l\'OSGeo sert d\'assistance et de défense pour la communauté géospatiale libre, et fournit un forum commun et une infrastructure partagée pour améliorer la collaboration entre ses différents projets.</p><p>Les projets de la fondation sont tous librement disponibles et utilisables sous une <a href="http://opensource.org/pressreleases/certified-open-source.php" target="_blank">licence open source certifiée par l\'OSI</a>.</p>';
@@ -158,9 +158,11 @@ $lang['SPONSORS_T_SUBTITLE'] ='Merci à nos sponsors pour leur soutien';
 // APPEL A CONTRIBUTIONS  ------------------------------------------------------------------------------------------------------------/
 
 $lang['PAPERS_TITLE'] ='Appel à contributions';
-$lang['PAPERS_SUBTITLE'] ='Participez au succès de cette 1<sup>ère</sup> édition 2015';
-$lang['PAPERS_CALL'] ='Le 29 octobre 2015, l\'OSGeo-be organise un événement dédié à la géomatique libre à Bruxelles dans le BEL de Bruxelles Environnement. Le FOSS4G-be sera une journée de conférences, démonstrations, débats et de rencontres sur les thématiques de l’OSGeo. Ce sera aussi l\'occasion <strong>de rassembler la communauté</strong> des utilisateurs, développeurs, décideurs, ou simples curieux de logiciels libres en géomatique.</p>
-<p><strong>L\'événement devrait rassembler entre 250 à 400 personnes</strong>.<br />Cette rencontre permettra de partager nos connaissances et nos expériences sous la forme de conférences et démonstrations, d\'une durée de <strong>25min</strong> chacune.';
+$lang['PAPERS_SUBTITLE'] ='Participez au succès de l\'édition 2016';
+$lang['PAPERS_CALL'] ='
+Le 22 septembre 2016, l\'OSGeo-be organise un événement dédié à la géomatique libre à Bruxelles dans le BEL de Bruxelles Environnement. Le FOSS4G-be sera une journée de conférences, démonstrations, débats et de rencontres sur les thématiques de l’OSGeo. Ce sera aussi l\'occasion <strong>de rassembler la communauté</strong> des utilisateurs, développeurs, décideurs, ou simples curieux de logiciels libres en géomatique.</p>
+<p><strong>L\'événement devrait rassembler entre 250 à 400 personnes</strong>.<br />Cette rencontre permettra de partager nos connaissances et nos expériences sous la forme de conférences et démonstrations, d\'une durée de <strong>25min</strong> chacune.
+';
 
 // Plenary Session
 $lang['PAPERS_CALL_T_TXT1'] ='Plénière & présentations';
@@ -201,9 +203,9 @@ $lang['PAPERS_SUM_TYPE'] ='La nature de votre intervention (Explicative / Applic
 
 
 // DATE LIMITE + COMMENT EVALUONS-NOUS 
-$lang['PAPERS_DEADLINE'] ='Date limite pour les soumissions: 2 octobre 2015';
+$lang['PAPERS_DEADLINE'] ='Date limite pour les soumissions: 24 juin 2016';
 $lang['PAPERS_CALL2T'] ='Date limite';
-$lang['PAPERS_CALL2'] ='Les résumés seront évalués par un comité de programme et les auteurs retenus en seront avertis le 7 octobre 2015. Toutes les présentations seront mises en ligne sur le site de l\'événement.';
+$lang['PAPERS_CALL2'] ='Les résumés seront évalués par un comité de programme et les auteurs retenus en seront avertis la première semaine de juillet. Toutes les présentations seront mises en ligne sur le site de l\'événement.';
 $lang['PAPERS_CALL3T'] ='Méthode d\'évaluation';
 $lang['PAPERS_CALL3'] ='<p>Le choix des présentations sera basé sur la qualité des descriptions soumises, son intérêt pour une audience professionnelle et étudiante, et la cohérence du programme de la journée. La décision du comité de sélection sera finale et sans appel. Les membres du comité s\'expriment en leur nom propre et leurs choix ne reflètent pas la position de leur employeur.<p>';
 $lang['PAPERS_CALL4'] ='Les coordinateurs néerlandais et francophones du comité de programme sont Johan Van de Wauw (NL) and Gaël Kruwialis (FR).</p><p>Nous vous encourageons à <a href="mailto:&#112;&#114;&#101;&#115;&#101;&#110;&#116;&#97;&#116;&#105;&#111;&#110;&#64;&#102;&#111;&#115;&#115;&#52;&#103;&#46;&#98;&#101;" title="&#112;&#114;&#101;&#115;&#101;&#110;&#116;&#97;&#116;&#105;&#111;&#110;&#64;&#102;&#111;&#115;&#115;&#52;&#103;&#46;&#98;&#101;"> nous envoyer un mail pour toutes demandes </a>.</p>';

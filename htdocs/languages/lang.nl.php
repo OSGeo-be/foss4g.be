@@ -160,9 +160,9 @@ $lang['SPONSORS_T_SUBTITLE'] ='Dank aan onze sponsors om dit mogelijk te maken';
 // PAPERS PAGE CALL ------------------------------------------------------------------------------------------------------------/
 
 $lang['PAPERS_TITLE'] ='Oproep voor bijdragen';
-$lang['PAPERS_SUBTITLE'] ='Help ons de eerste editie 2015 een succes te maken';
+$lang['PAPERS_SUBTITLE'] ='Help ons editie 2016 een succes te maken';
 $lang['PAPERS_CALL'] ='
-Op 29 Oktober 2015 zal OSGeo-be een een Open GIS conferentie organiseren in Brussel in BEL, het leefmilieu en energieagentschap van Brussel. FOSS4G-BE wordt een dag van presentaties, demo\'s, debatten over OSGeo thema\'s. Het is ook een kans om de <strong>gemeenschap</strong> van gebruikers, ontwikkelaars, beleidsmaker en andere geïnteresseerden <strong>samen te brengen</strong>.
+Op 22 september 2016 zal OSGeo.be een een Open GIS conferentie organiseren in Brussel in BEL, het leefmilieu en energieagentschap van Brussel. FOSS4G-BE wordt een dag van presentaties, demo\'s, debatten over OSGeo thema\'s. Het is ook een kans om de <strong>gemeenschap</strong> van gebruikers, ontwikkelaars, beleidsmaker en andere geïnteresseerden <strong>samen te brengen</strong>.
 <p>
 <strong>De bedoeling van de dag is om tussen de 240 en 400 mensen samen te brengen</strong>
 <br />
@@ -186,9 +186,9 @@ $lang['PAPERS_CALL_TXT8'] ='If you meet any of these, STOP and... <a href="mailt
 // Workshops 
 $lang['PAPERS_CALL_T2_TXT1'] ='Topics & Debates';
 $lang['PAPERS_CALL_S2_TXT1'] ='Tools &#8226; Goals &#8226; Applications';
-$lang['PAPERS_CALL_2TXT1'] ='<strong>Foss4G’s Tools</strong>: What are the current offers for storage, treatment and web distribution of spatial data?<br />How do Open Source tools allow you to successfully personalize software for your needs?';
-$lang['PAPERS_CALL_2TXT2'] ='<strong>Goals</strong>: How can OSGeo help you in your organization? How to build an effective Open Source solution?<br />How to choose between different solutions?';
-$lang['PAPERS_CALL_2TXT3'] ='<strong>Applications</strong>: Which Open Geomatics tools are deployed and used by administrations, companies, teachers and researchers? What about INSPIRE infrastructures, climate change and smart cities? What are the problems and opportunities that you encountered during migration of commercial software to Open Source software?';
+$lang['PAPERS_CALL_2TXT1'] ='<strong>Foss4G software</strong>Wat zijn de huidige mogelijkheden voor de opslag, analyse en visualisatie van ruimtelijke data? Hoe kan je met succes Open Source gebruiken om software aan te passen aan je behoeften?';
+$lang['PAPERS_CALL_2TXT2'] ='<strong>Doelen</strong>: Hoe kan OSGeo in jouw organisatie gebruikt worden? Hoe kan een effectieve Open Source oplossing gebouwd worden? Hoe kan er tussen verschillende oplossingen gekozen worden?';
+$lang['PAPERS_CALL_2TXT3'] ='<strong>Toepassingen</strong>: Welke open source GIS programma\'s worden uitgerold en gebruikt door administraties, bedrijven, onderwijs en onderzoek? Hoe zit het met infrastructuur voor INSPIRE, klimaatsverandering en smart cities? Wat zijn problemen en mogelijkheden die U bent tegengekomen tijdens de migratie/het samenwerken met proprietary software?';
 
 // PRESENTATIONS FORMAT
 $lang['PAPERS_FORMAT'] ='Format of presentations';
