@@ -42,10 +42,8 @@
                     <li><a href="call.php" class="button"><?php echo $lang['MENU_CALL2']; ?></a></li>
                     <li><a href="papers.php" class="button"><?php echo $lang['MENU_CALL3']; ?></a></li>
                 </ul>
-            </section>
 
-		<!-- Banner -->
-			<section id="banner">
+
 				<img src="<?php echo $lang['CECI']; ?>" alt="<?php echo $lang['SITE_NAME']; ?> - <?php echo $lang['CECI_1']; ?> <?php echo $lang['CECI_2']; ?> <?php echo $lang['CECI_3']; ?>">
 				<!--<ul class="actions">
 					<li><a href="http://2015.foss4g.be" class="button"><?php echo $lang['edition_2015']; ?></a></li>
