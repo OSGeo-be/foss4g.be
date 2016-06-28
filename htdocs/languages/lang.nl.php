@@ -35,6 +35,9 @@ $lang['MENU_PROGRAM'] = 'Agenda';
 $lang['MENU_CONTACT'] = 'Contact';
 $lang['MENU_LANG'] = 'Taal';
 
+// BUTTON
+$lang['BUTTON_2015_EDITION'] = '2015 editie';
+
 
 // ALGEMENE ELEMENTEN
 $lang['READMORE'] ='Méér weten';

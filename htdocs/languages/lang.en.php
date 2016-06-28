@@ -35,6 +35,9 @@ $lang['MENU_PROGRAM'] = 'Schedule';
 $lang['MENU_CONTACT'] = 'Contact';
 $lang['MENU_LANG'] = 'Lang';
 
+// BUTTON
+$lang['BUTTON_2015_EDITION'] = '2015 edition';
+
 
 // COMMON ELEMENTS
 $lang['READMORE'] ='Read more';

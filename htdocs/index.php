@@ -42,7 +42,7 @@
                 <ul class="actions">
                     <li><a href="call.php" class="button"><?php echo $lang['MENU_CALL2']; ?></a></li>
                     <li><a href="papers.php" class="button"><?php echo $lang['MENU_CALL3']; ?></a></li>
-                    <li><a href="http://2015.foss4g.be" class="button"><?php echo $lang['edition_2015']; ?></a></li>
+                    <li><a href="http://2015.foss4g.be" class="button"><?php echo $lang['BUTTON_2015_EDITION']; ?></a></li>
                 </ul>
                 <p><?php echo $lang['SITE_DATABIG']; ?></p>
 			</section>
