@@ -38,22 +38,17 @@
             
         <!-- Banner -->
             <section id="banner">
+                <img src="<?php echo $lang['CECI']; ?>" alt="<?php echo $lang['SITE_NAME']; ?> - <?php echo $lang['CECI_1']; ?> <?php echo $lang['CECI_2']; ?> <?php echo $lang['CECI_3']; ?>">
                 <ul class="actions">
                     <li><a href="call.php" class="button"><?php echo $lang['MENU_CALL2']; ?></a></li>
                     <li><a href="papers.php" class="button"><?php echo $lang['MENU_CALL3']; ?></a></li>
+                    <li><a href="http://2015.foss4g.be" class="button"><?php echo $lang['edition_2015']; ?></a></li>
                 </ul>
-
-
-				<img src="<?php echo $lang['CECI']; ?>" alt="<?php echo $lang['SITE_NAME']; ?> - <?php echo $lang['CECI_1']; ?> <?php echo $lang['CECI_2']; ?> <?php echo $lang['CECI_3']; ?>">
-				<!--<ul class="actions">
-					<li><a href="http://2015.foss4g.be" class="button"><?php echo $lang['edition_2015']; ?></a></li>
-				</ul>
-				<p><?php echo $lang['SITE_DATABIG']; ?></p>
-				-->
+                <p><?php echo $lang['SITE_DATABIG']; ?></p>
 			</section>
 
 		<!-- Main -->
-			<section id="main" class="container" style="padding-top: 0">
+			<section id="main" class="container">
 				<section class="box special">
 					<header class="major logo">
 						<img src="images/chapeau-earth.png">
@@ -61,7 +56,6 @@
 					</header>
 					<span class="image featured"><img src="images/foss4g2016.svg" alt="" /></span>
 				</section>
-
 			</section>
 			
 		<!-- CTA -->
