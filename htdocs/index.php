@@ -35,6 +35,14 @@
 			<header id="header" class="alt">
 				<?php include 'header.inc'; ?>
 			</header>
+            
+        <!-- Banner -->
+            <section id="banner">
+                <ul class="actions">
+                    <li><a href="call.php" class="button"><?php echo $lang['MENU_CALL2']; ?></a></li>
+                    <li><a href="papers.php" class="button"><?php echo $lang['MENU_CALL3']; ?></a></li>
+                </ul>
+            </section>
 
 		<!-- Banner -->
 			<section id="banner">
