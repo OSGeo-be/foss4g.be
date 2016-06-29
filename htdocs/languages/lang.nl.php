@@ -210,9 +210,9 @@ $lang['PAPERS_SUM_TYPE'] ='The nature of your intervention (Explanatory / Applic
 
 
 // DEADLINE + HOW EVALUATE 
-$lang['PAPERS_DEADLINE'] ='Datum: ten laatste op 2 Oktober';
+$lang['PAPERS_DEADLINE'] ='Datum: ten laatste op 24 Juli';
 $lang['PAPERS_CALL2T'] ='Deadline';
-$lang['PAPERS_CALL2'] ='Abstracts will be evaluated by a program committee and authors will be notified of their acceptance on October the 7th, 2015.<br />All the presentations will be made available on the event website.</p>';
+$lang['PAPERS_CALL2'] ='Abstracts will be evaluated by a program committee and authors will be notified of their acceptance on the first week of August.<br />All the presentations will be made available on the event website.</p>';
 $lang['PAPERS_CALL3T'] ='How do we evaluate';
 $lang['PAPERS_CALL3'] ='<p>The choice of presentations will be based on the quality of the submitted material, its interest for professional and student audiences and also its consistency with the program. The decision of the selection committee will be final and binding. Committee members speak on their own behalf, their choices do not reflect the position of their employer.</p>';
 $lang['PAPERS_CALL4'] ='<p>The Dutch and French coordinators of the program committee are Johan Van de Wauw (NL) and Gaël Kruwialis (FR).</p>
