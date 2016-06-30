@@ -206,7 +206,7 @@ $lang['PAPERS_SUM_TYPE'] ='La nature de votre intervention (Explicative / Applic
 
 
 // DATE LIMITE + COMMENT EVALUONS-NOUS 
-$lang['PAPERS_DEADLINE'] ='Date limite pour les soumissions: 24 juin 2016';
+$lang['PAPERS_DEADLINE'] ='Date limite pour les soumissions: 24 juillet 2016';
 $lang['PAPERS_CALL2T'] ='Date limite';
 $lang['PAPERS_CALL2'] ='Les résumés seront évalués par un comité de programme et les auteurs retenus en seront avertis la première semaine de juillet. Toutes les présentations seront mises en ligne sur le site de l\'événement.';
 $lang['PAPERS_CALL3T'] ='Méthode d\'évaluation';
