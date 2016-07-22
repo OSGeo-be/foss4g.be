@@ -1,5 +1,8 @@
    <ul class="icons">
                                 <li><a href="http://aquaterra.be/" class="icon aquaterra"><span class="label">Aquaterra</span></a></li>
+                                <li><a href="http://www.geosparc.com/" class="icon geosparc"><span class="label">Geosparc</span></a></li>
+                                <li><a href="http://www.my-poppy.eu/" class="icon poppy"><span class="label">Poppy</span></a></li>
+
 </ul>
 			<ul class="copyleft">
 				<li><i class="fa fa-copyright fa-flip-horizontal"></i> FOSS4G 2016</li>
