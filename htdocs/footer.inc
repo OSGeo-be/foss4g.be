@@ -1,5 +1,6 @@
    <ul class="icons">
                                 <li><a href="http://aquaterra.be/" class="icon aquaterra"><span class="label">Aquaterra</span></a></li>
+				<li><a href="http://cirb.brussels/" class="icon cirb"><span class="label">CIRB</span></a></li>
                                 <li><a href="http://www.geosparc.com/" class="icon geosparc"><span class="label">Geosparc</span></a></li>
 				<li><a href="http://oslandia.com/" class="icon oslandia"><span class="label">Oslandia</span></a></li>
                                 <li><a href="http://www.my-poppy.eu/" class="icon poppy"><span class="label">Poppy</span></a></li>
