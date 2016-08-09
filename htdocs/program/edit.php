@@ -3,14 +3,16 @@ $password='qsdfghjklm';
 $user='website';
 $db = 'foss4g-2016';
 
-mysql_connect(localhost,$user,$password);
-@mysql_select_db($db) or die( "Unable to select database");
+$link = mysqli_connect('localhost',$user,$password,$db);
+if (mysqli_connect_errno()) {
+    printf("Connect failed: %s\n", mysqli_connect_error());
+        exit();
+	}
+
 $query='select * FROM presentations';
-$result = mysql_query($query);
-if (!$result) {
-    die('Could not query:' . mysql_error());
-    }
-echo mysql_result($result, 0, "presenter");
-mysql_close();
+
+$row = mysqli_fetch_array($result, MYSQLI_ASSOC);
+printf ("%s (%s)\n", $row["presenter"], $row["guid"]);
+mysql_close($link);
 
 ?>
