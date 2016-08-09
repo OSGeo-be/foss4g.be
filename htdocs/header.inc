@@ -7,6 +7,7 @@
 							<ul>
 								<li><a href="about.php"><?php echo $lang['MENU_ABOUT']; ?></a></li>
 								<li><a href="papers.php"><?php echo $lang['MENU_CALL3']; ?></a></li>
+                                <li><a href="sponsors.php">Sponsors</a></li>
 								<li><a href="call.php"><?php echo $lang['MENU_CALL2']; ?></a></li>
 								<li><a href="contact.php"><?php echo $lang['MENU_CONTACT']; ?></a></li>
 							</ul>
@@ -23,4 +24,3 @@
 						<li><a href="https://twitter.com/foss4gbe" class="button icon fa-twitter default azulito" title="Twitter"><span class="label">Twitter</span></a></li>
 					</ul>
 				</nav>
-		
