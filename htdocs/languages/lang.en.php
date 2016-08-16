@@ -55,7 +55,7 @@ $lang['CECI_1'] = 'this';
 $lang['CECI_2'] = 'is not';
 $lang['CECI_3'] = 'a conference';
 $lang['CECI'] 	= 'images/foss4g2016.svg';
-$lang['CECI-G'] = 'images/foss4gbe-en-g.svg';//TODO
+$lang['CECI-G'] = 'images/foss4g2016-g.svg';
 
 // CALL-TO_ACTION
 $lang['CALL_foto'] = 'Photos';
@@ -447,6 +447,55 @@ That is why at the end of the deliberations, in addition to the price that will 
 ';
 
 $lang['MENU_HACK'] = 'Hackathon';
+
+
+// Call for Maps
+
+$lang['MAPS_TITLE'] = 'Call for Maps';
+$lang['MAPS_TXT'] ='
+<p>As a geospatial conference, maps should certainly be a part of it ! That\'s why we decided to organise a Map Gallery exhibit : We invite contributions to the FOSS4G Map Gallery in order to create an exciting and vibrant exhibit of the very best in mapping. Contributing to the FOSS4G.be Map Gallery is simple: make a map involving at least open source technology or open data.</p>
+
+<p>Your map can be the result of a commercial venture or a personal challenge. We encourage all attendees to submit their work on paper (A1) or via email (please also add a screenshot). Interactive maps are welcome as well (please provide us with an URL). You will also be asked to provide us with a short description of your map and possibly a brief statement of the methods, software and data you used in your map design and production.</p>
+
+<p>To make it simple, the two criteria\'s for submitting your work are :
+<ul>
+<li>The Map must have been created in 2015-2016</li>
+<li>At least one step of the production process must have been achieved using open source technology or open data.</li>
+We invite all users, inventors or map creators from anywhere in Belgium or elsewhere to contribute to what will surely be an amazing Map Gallery.
+</ul>
+</p>
+<br/>
+<h4>On-Site Submission Guidelines</h4>
+<p>Email map@foss4g.be (before September 18) and tell us to reserve a space in the gallery for you. Bring a paper copy of your map with you to the conference to hang in the gallery. The gallery map boards accommodate A1 paper maps. Larger maps are not allowed.</p>
+<br/>
+<h4>Online Submission Guidelines</h4>
+<p>
+Submit your map by September 18 via email (map@foss4g.be).
+Maps submitted online must meet the following criteria:
+<ul>
+<li>Must be in .pdf format only (Include all fonts or convert to outlines.)</li>
+<li>Minimum resolution : 2342 x 3311 pixels (we’ll print the maps in A1)</li>
+</ul>
+If you made a interactive map, please provide us with the URL
+</p>
+<br/>
+<h4>Include this information with your map submission</h4>
+<p>
+<ul>
+<li>Title of Map</li>
+<li>Name</li>
+<li>Date</li>
+<li>Organization</li>
+<li>Additional map authors</li>
+<li>Brief description of map. Please mention software and data used.</li>
+<li>Screeshot (if paper copy)</li>
+</ul>
+</p>
+';
+
+$lang['MENU_MAPS'] = 'Call for Maps';
+
+
 // FOOTER
 
 	// CTA
