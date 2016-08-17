@@ -17,7 +17,6 @@
 		<script src="js/skel.min.js" type="text/javascript"></script>
 		<script src="js/skel-layers.min.js" type="text/javascript"></script>
 		<script src="js/init.js" type="text/javascript"></script>
-		<script src="http://openlayers.org/en/v3.6.0/build/ol.js" type="text/javascript"></script>
 		<link rel="canonical" href="http://www.foss4g.be/" />
 		<noscript>
 			<link rel="stylesheet" href="css/skel.css" />
