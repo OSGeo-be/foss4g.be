@@ -1,5 +1,5 @@
 <?php
-include_once("../mysql.php")
+include_once("../mysql.php");
 $languages= array(0=>"?",1=>"nl", 2=>"fr",3=>"en");
 ?>
 <html>

@@ -1,5 +1,5 @@
 <?php
-include_once("../mysql.php")
+include_once("../mysql.php");
 
 /** handle the uploaded form **/
 
