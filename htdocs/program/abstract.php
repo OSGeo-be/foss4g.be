@@ -1,5 +1,5 @@
 <?php
-include_once("mysql.php");
+include_once("../mysql.php");
 
 $start=$_GET['start'];
 $track=$_GET['track'];
