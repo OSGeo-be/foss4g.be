@@ -1,15 +1,6 @@
 <?php
-$password='qsdfghjklm';
-$user='website';
+include_once("../mysql.php")
 
-$db = 'foss4g-2016';
-
-$link = mysqli_connect('localhost',$user,$password,$db);
-if (mysqli_connect_errno()) {
-    printf("Connect failed: %s\n", mysqli_connect_error());
-        exit();
-	}
-	
 /** handle the uploaded form **/
 
 
@@ -28,15 +19,12 @@ if(!empty($_POST['submit']) && $_POST['submit'] == "save changes" && !empty($_PO
 <head>
 <!-- Google Fonts -->
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic">
-
 <!-- CSS Reset -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.css">
-
 <!-- Milligram CSS minified -->
 <link rel="stylesheet" href="https://milligram.github.io/css/milligram.min.css">
 </head>
 <body>
-
 <?php
 /** render the page **/
 $guid = ($_GET['id']);
@@ -71,7 +59,7 @@ $row = mysqli_fetch_array($result, MYSQLI_ASSOC);
 <label for="title">Presentation Title:</label>
 <input type="text" name="title" value="<?php echo htmlentities($row['title'])?>" />
 <label for="abstract">Abstract:</label>
-<textarea name="abstract" id="abstract">
+<textarea name="abstract" id="abstract" rows="5">
 <?php echo htmlentities ($row['abstract'])?></textarea>
 <label for="language">Language:</label><span>Note that for track 1 we provide translations (<b>NL->FR</b>) and (<b>FR->NL</b>). <br />For other tracks we prefer presentations in English (for our international audience), but presenters can choose the language they prefer.</span>
 <select id="language" name="language">
