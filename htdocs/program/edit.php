@@ -23,6 +23,9 @@ if(!empty($_POST['submit']) && $_POST['submit'] == "save changes" && !empty($_PO
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.css">
 <!-- Milligram CSS minified -->
 <link rel="stylesheet" href="https://milligram.github.io/css/milligram.min.css">
+<style>
+ textarea { height: 10em;}
+</style>
 </head>
 <body>
 <?php
