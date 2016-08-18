@@ -59,6 +59,7 @@
 						  <dd class="accordionItem accordionItem">
                             <a href="http://www.geosparc.com/" class="sponsor icon geosparc"><span class="label">Geosparc</span></a>
                             <a href="http://www.merkator.com" class="sponsor icon merkator"><span class="label">Merkator</span></a>
+                            <a href="http://www.opengeode.be" class="sponsor icon geode"><span class="label">OpenGeode</span></a>
 						  </dd>
 						  <dt class="spons"><a href="#" class="accordionTitle sponsors bronze"> <?php echo $lang['SPONSORS_4_TITLE']; ?> <span class="spon4"><?php echo $lang['SPONSORS_4_TAGLINE']; ?></span></a></dt>
 						  <dd class="accordionItem accordionItem">
