@@ -55,35 +55,44 @@ $languages= array(0=>"?",1=>"nl", 2=>"fr",3=>"en");
 					</div>
 					<div class="table-wrapper">
 									
-						<table>
-<tbody>
-<tr><th>time</th><th>track 1</th><th>track 2</th><th>track3</th><th>track 4</th></tr>
-<?php
-$query = "select * FROM presentations order by start, track";
-$result = mysqli_query($link,$query);
+						<table class="alt">
+							<tbody>
+							<tr><th>time</th><th>track 1</th><th>track 2</th><th>track3</th><th>track 4</th></tr>
+							<?php
+							$query = "select * FROM presentations order by start, track";
+							$result = mysqli_query($link,$query);
 
-$lasttrack =0;
-while ($row = mysqli_fetch_array($result, MYSQLI_ASSOC))
-{
-	if ($row['track']==0)
-	{
-		printf ("<tr><td>%s</td><td colspan='4'>%s</td></tr>", $row['start'], $row['title']);
-	}
-	else
-	{
-	if ($lasttrack >=$row['track']) echo '<tr>';
-	if ($lasttrack+2==$row['track']) echo '<td></td>';
-	if ($row['track']==1)
-		{printf( '<tr><td>%s</td>',$row['start']);}
-	
-	printf("<td>%s<br><span class='author'>%s</span><span class='lang'>[%s]</span><span start='%s' track='%s' class='oa'><a class='btn pluss'><i class='fa fa-plus-square'></i></a></span><div class='abstract toggled'></div></td>", $row['title'],htmlentities($row['presenter']), $languages[$row['language']],$row['start'],$row['track']);
-	$lasttrack = $row['track'];
-	}
-}
-echo '</tr>';
-?>
-</tbody>
-</table>
+							$lasttrack =0;
+							while ($row = mysqli_fetch_array($result, MYSQLI_ASSOC))
+							{
+								$start = substr_replace($row['start'], 'h', -2, 0);
+								if ($row['track']==0)
+								{
+									$symbol='';
+									if ($row['type']=='coffee') $symbol = '<i class="fa fa-coffee"></i>';
+									if ($row['type']=='lunch') $symbol = '<i class="fa fa-cutlery"></i>';
+									printf ("<tr class='progr-2'><td>%s</td><td colspan='4'>$symbol%s</td></tr>", $start, $row['title']);
+								}
+								else
+								{
+									if ($lasttrack >=$row['track']) {
+										$width = 4-$lasttrack;
+										echo "<td colspan='$width'></td></tr>";
+										
+									}
+										
+									if ($lasttrack+2==$row['track']) echo '<td></td>';
+									if ($row['track']==1)
+										{printf( '<tr><td>%s</td>',$start);}
+									
+									printf("<td>%s<br><span class='author'>%s</span><span class='lang'>[%s]</span><span start='%s' track='%s' class='oa'><a class='btn pluss'><i class='fa fa-plus-square'></i></a></span><div class='abstract toggled'></div></td>", $row['title'],htmlentities($row['presenter']), $languages[$row['language']],$row['start'],$row['track']);
+									$lasttrack = $row['track'];
+								}
+							}
+							echo '</tr>';
+							?>
+							</tbody>
+							</table>
 					
 				</div>
 				<div class="row">
