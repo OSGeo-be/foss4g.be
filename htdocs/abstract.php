@@ -14,6 +14,6 @@ mysqli_stmt_execute($stmt);
 mysqli_stmt_bind_result($stmt,$abstract);
 mysqli_stmt_fetch($stmt);
 header('Content-type: application/json');
-echo json_encode(htmlentities($abstract));
+echo json_encode(nl2br(htmlentities($abstract)));
 
 ?>
