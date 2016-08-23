@@ -63,6 +63,7 @@ $lang['CALL_1'] = 'Registration';
 $lang['CALL_2'] = 'Call for Sponsors';
 $lang['CALL_3'] = 'Call for Papers';
 $lang['PROGRAMME'] = 'Programme';
+$lang['PROGRAMCANCHANGE'] = '(subject to change)';
 
 // HOME ABOUT
 $lang['ABOUT_TITLE'] = 'After the very succesful <a href="http://2015.foss4g.be">FOSS4G Belgium event in 2015</a>, <a href="http://www.osgeo.be">OSGeo.be</a>  announces the date of the next FOSS4G Belgium Conference: <b>22 September 2016</b>. Stay tuned for more info! <br>
