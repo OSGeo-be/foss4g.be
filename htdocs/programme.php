@@ -68,6 +68,7 @@ $languages= array(0=>"?",1=>"nl", 2=>"fr",3=>"en");
 								$start = substr_replace($row['start'], 'h', -2, 0);
 								if ($row['track']==0)
 								{
+									$lasttrack = 0;
 									if  ($row['type'] !='plenary'){
 											#breaks
 										$symbol='';
