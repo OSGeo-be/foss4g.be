@@ -16,9 +16,9 @@
 						<li>
 							<a href="" class="icon fa-angle-down"><?php echo $lang['MENU_LANG']; ?></a>
 							<ul>
-								<li><a href="<?php echo $lang['URL_INDEX_1']; ?>"><?php echo $lang['URL_NAME_1']; ?></a></li>
-								<li><a href="<?php echo $lang['URL_INDEX_2']; ?>"><?php echo $lang['URL_NAME_2']; ?></a></li>
-								<li><a href="<?php echo $lang['URL_INDEX_3']; ?>"><?php echo $lang['URL_NAME_3']; ?></a></li>
+							<li><a href="<?php echo $_SERVER['PHP_SELF'] . "?lang=en"; ?>"><?php echo $lang['URL_NAME_1']; ?></a></li>
+								<li><a href="<?php echo $_SERVER['PHP_SELF'] . "?lang=nl"; ?>"><?php echo $lang['URL_NAME_2']; ?></a></li>
+								<li><a href="<?php echo $_SERVER['PHP_SELF'] . "?lang=fr"; ?>"><?php echo $lang['URL_NAME_3']; ?></a></li>
 							</ul>
 						</li>
 						<li><a href="https://www.facebook.com/pages/Foss4g-Belgium/863691603712207" class="button icon fa-facebook default azul" title="Facebook"><span class="label">Facebook</span></a></li>
