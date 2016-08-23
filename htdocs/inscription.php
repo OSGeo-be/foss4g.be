@@ -9,8 +9,8 @@
 		<meta name="geo.placename" content="Avenue du Port 86 C/3002, Tour & Taxis, 1000 Brussels, Belgium" />
 		<meta name="geo.position" content="50.866248;4.349073" />
 		<meta name="geo.region" content="BE-Brussels" />
-		<meta name="ICBM" content="50.866248, 4.349073" />		
-		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->		
+		<meta name="ICBM" content="50.866248, 4.349073" />
+		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
 		<script src="js/jquery.min.js" type="text/javascript"></script>
 		<script src="js/jquery.dropotron.min.js" type="text/javascript"></script>
 		<script src="js/jquery.scrollgress.min.js" type="text/javascript"></script>
@@ -39,14 +39,14 @@
 					<p><?php echo $lang['REGISTRATION_TXT']; ?></p>
 					<!-- <p><?php echo $lang['REGISTRATION_TAGLINE']; ?></p> -->
 				</header>
-				<section class="box">
-					<div style="width:100%; text-align:left;" >
-					<iframe  src="//eventbrite.fr/tickets-external?eid=17952694994&ref=etckt" frameborder="0" height="600" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
-					</div>
-					</section>
+                <section class="box">
+                    <div style="width:100%; text-align:left;" >
+                        <iframe  src="//eventbrite.fr/tickets-external?eid=27152152820&ref=etckt" frameborder="0" height="260" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
+                    </div>
+                </section>
 		</section>
 		<div class="nav bottom" style="margin-bottom:5vh"><prev></prev><a href="index.php" title="<?php echo $lang['MENU_HOME']; ?>"><?php echo $lang['MENU_HOME']; ?></a> <a href="call.php" title="<?php echo $lang['MENU_CALL2']; ?>"><?php echo $lang['MENU_CALL2']; ?></a><next></next></div>
-	
+
 		<!-- Footer -->
 		<footer id="footer">
 			<?php include 'footer.inc'; ?>
