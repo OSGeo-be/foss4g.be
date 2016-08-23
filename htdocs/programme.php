@@ -74,11 +74,11 @@ $languages= array(0=>"?",1=>"nl", 2=>"fr",3=>"en");
 										$symbol='';
 										if ($row['type']=='coffee') $symbol = '<i class="fa fa-coffee"></i>';
 										if ($row['type']=='lunch') $symbol = '<i class="fa fa-cutlery"></i>';
-										printf ("<tr class='progr-2'><td>%s</td><td colspan='4'>$symbol%s</td></tr>", $start, $row['title']); }
+										printf ("<tr class='progr-2'><td>%s</td><td colspan='4'>$symbol%s</td></tr>", $start, htmlentities($row['title'])); }
 									else
 									{
 										#plenary sessions
-										printf ("<tr class='progr-1'><td>%s</td><td colspan='4'>%s</td></tr>", $start, $row['title']); }
+										printf ("<tr class='progr-1'><td>%s</td><td colspan='4'>%s</td></tr>", $start, htmlentities($row['title'])); }
 						
 									
 								}
@@ -94,7 +94,7 @@ $languages= array(0=>"?",1=>"nl", 2=>"fr",3=>"en");
 									if ($row['track']==1)
 										{printf( '<tr><td>%s</td>',$start);}
 									
-									printf("<td>%s<br><span class='author'>%s</span><span class='lang'>[%s]</span><span start='%s' track='%s' class='oa'><a class='btn pluss'><i class='fa fa-plus-square'></i></a></span><div class='abstract toggled'></div></td>", $row['title'],htmlentities($row['presenter']), $languages[$row['language']],$row['start'],$row['track']);
+									printf("<td>%s<br><span class='author'>%s</span><span class='lang'>[%s]</span><span start='%s' track='%s' class='oa'><a class='btn pluss'><i class='fa fa-plus-square'></i></a></span><div class='abstract toggled'></div></td>", htmlentities($row['title']),htmlentities($row['presenter']), $languages[$row['language']],$row['start'],$row['track']);
 									$lasttrack = $row['track'];
 								}
 							}
