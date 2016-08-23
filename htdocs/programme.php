@@ -55,7 +55,7 @@ $languages= array(0=>"?",1=>"nl", 2=>"fr",3=>"en");
 					</div>
 					<div class="table-wrapper">
 									
-						<table class="alt">
+						<table class="alt tarde">
 							<tbody>
 							<tr><th>time</th><th>track 1</th><th>track 2</th><th>track3</th><th>track 4</th></tr>
 							<?php
@@ -68,13 +68,21 @@ $languages= array(0=>"?",1=>"nl", 2=>"fr",3=>"en");
 								$start = substr_replace($row['start'], 'h', -2, 0);
 								if ($row['track']==0)
 								{
-									$symbol='';
-									if ($row['type']=='coffee') $symbol = '<i class="fa fa-coffee"></i>';
-									if ($row['type']=='lunch') $symbol = '<i class="fa fa-cutlery"></i>';
-									printf ("<tr class='progr-2'><td>%s</td><td colspan='4'>$symbol%s</td></tr>", $start, $row['title']);
+									if  ($row['type'] !='plenary'){
+											#breaks
+										$symbol='';
+										if ($row['type']=='coffee') $symbol = '<i class="fa fa-coffee"></i>';
+										if ($row['type']=='lunch') $symbol = '<i class="fa fa-cutlery"></i>';
+										printf ("<tr class='progr-2'><td>%s</td><td colspan='4'>$symbol%s</td></tr>", $start, $row['title']); }
+									else
+									{
+										#plenary sessions
+										printf ("<tr class='progr-1'><td>%s</td><td colspan='4'>%s</td></tr>", $start, $row['title']); }
+						
+									
 								}
 								else
-								{
+								{ #normal sessions
 									if ($lasttrack >=$row['track']) {
 										$width = 4-$lasttrack;
 										echo "<td colspan='$width'></td></tr>";
