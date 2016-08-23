@@ -10,8 +10,8 @@
 		/*<meta name="geo.placename" content="Avenue du Port 86 C/3002, Tour & Taxis, 1000 Brussels, Belgium" />
 		<meta name="geo.position" content="50.866248;4.349073" />
 		<meta name="geo.region" content="BE-Brussels" />
-		<meta name="ICBM" content="50.866248, 4.349073" />	*/?>	
-		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->		
+		<meta name="ICBM" content="50.866248, 4.349073" />	*/?>
+		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
 		<script src="js/jquery.min.js" type="text/javascript"></script>
 		<script src="js/jquery.dropotron.min.js" type="text/javascript"></script>
 		<script src="js/jquery.scrollgress.min.js" type="text/javascript"></script>
@@ -35,14 +35,14 @@
 			<header id="header" class="alt">
 				<?php include 'header.inc'; ?>
 			</header>
-            
+
         <!-- Banner -->
             <section id="banner">
                 <img src="<?php echo $lang['CECI']; ?>" alt="<?php echo $lang['SITE_NAME']; ?> - <?php echo $lang['CECI_1']; ?> <?php echo $lang['CECI_2']; ?> <?php echo $lang['CECI_3']; ?>">
                 <ul class="actions">
-                    <li><a href="call.php" class="button"><?php echo $lang['MENU_CALL2']; ?></a></li>
+                    <li><a href="inscription.php" class="button"><?php echo $lang['MENU_REG']; ?></a></li>
 					<li><a href="maps.php" class="button"><?php echo $lang['MENU_MAPS']; ?></a></li>
-                    <li><a href="http://2015.foss4g.be" class="button"><?php echo $lang['BUTTON_2015_EDITION']; ?></a></li>
+                    <li><a href="call.php" class="button"><?php echo $lang['MENU_CALL2']; ?></a></li>
                 </ul>
                 <p><?php echo $lang['SITE_DATABIG']; ?></p>
 			</section>
@@ -57,14 +57,14 @@
 					<span class="image featured"><img src="images/foss4g2016.svg" alt="" /></span>
 				</section>
 			</section>
-			
+
 		<!-- CTA -->
 			<section id="cta">
-				
+
 				<p><?php echo $lang['FOOTER_MORE']; ?></p>
-				
+
 			</section>
-			
+
 	<!-- Footer -->
 		<footer id="footer">
 			<?php include 'footer.inc'; ?>
