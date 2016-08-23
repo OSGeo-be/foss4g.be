@@ -71,7 +71,7 @@ var $ = function(selector){
 var accordion = $('.accordion');
 accordion.addEventListener("click",function(e) {
   e.stopPropagation();
-  e.preventDefault();
+  //e.preventDefault(); // if the default action is prevented links inside our sponsors "accordeon" don't work, so I (johanvdw) disabled this
   if(e.target && e.target.nodeName == "A") {
     var classes = e.target.className.split(" ");
     if(classes) {
