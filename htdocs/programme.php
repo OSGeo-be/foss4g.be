@@ -44,7 +44,7 @@ $languages= array(0=>"?",1=>"nl", 2=>"fr",3=>"en");
 		<!-- Main -->
 			<section id="main" class="container">
 				<header>
-					<h2><?php echo $lang['MENU_PROGRAM']; ?></h2>
+					<h2><?php echo $lang['MENU_PROGRAM']; ?></h2><h3><?php echo $lang['PROGRAMCANCHANGE']; ?></h3>
 					<p><?php echo $lang['SITE_DATATOP']; ?></p>
 				</header>
 				<div class="row">
@@ -55,7 +55,7 @@ $languages= array(0=>"?",1=>"nl", 2=>"fr",3=>"en");
 					</div>
 					<div class="table-wrapper">
 									
-						<table class="alt">
+						<table class="alt tarde">
 							<tbody>
 							<tr><th>time</th><th>track 1</th><th>track 2</th><th>track3</th><th>track 4</th></tr>
 							<?php
@@ -68,13 +68,22 @@ $languages= array(0=>"?",1=>"nl", 2=>"fr",3=>"en");
 								$start = substr_replace($row['start'], 'h', -2, 0);
 								if ($row['track']==0)
 								{
-									$symbol='';
-									if ($row['type']=='coffee') $symbol = '<i class="fa fa-coffee"></i>';
-									if ($row['type']=='lunch') $symbol = '<i class="fa fa-cutlery"></i>';
-									printf ("<tr class='progr-2'><td>%s</td><td colspan='4'>$symbol%s</td></tr>", $start, $row['title']);
+									$lasttrack = 0;
+									if  ($row['type'] !='plenary'){
+											#breaks
+										$symbol='';
+										if ($row['type']=='coffee') $symbol = '<i class="fa fa-coffee"></i>';
+										if ($row['type']=='lunch') $symbol = '<i class="fa fa-cutlery"></i>';
+										printf ("<tr class='progr-2'><td>%s</td><td colspan='4'>$symbol%s</td></tr>", $start, htmlentities($row['title'])); }
+									else
+									{
+										#plenary sessions
+										printf ("<tr class='progr-1'><td>%s</td><td colspan='4'>%s</td></tr>", $start, htmlentities($row['title'])); }
+						
+									
 								}
 								else
-								{
+								{ #normal sessions
 									if ($lasttrack >=$row['track']) {
 										$width = 4-$lasttrack;
 										echo "<td colspan='$width'></td></tr>";
@@ -85,7 +94,7 @@ $languages= array(0=>"?",1=>"nl", 2=>"fr",3=>"en");
 									if ($row['track']==1)
 										{printf( '<tr><td>%s</td>',$start);}
 									
-									printf("<td>%s<br><span class='author'>%s</span><span class='lang'>[%s]</span><span start='%s' track='%s' class='oa'><a class='btn pluss'><i class='fa fa-plus-square'></i></a></span><div class='abstract toggled'></div></td>", $row['title'],htmlentities($row['presenter']), $languages[$row['language']],$row['start'],$row['track']);
+									printf("<td>%s<br><span class='author'>%s</span><span class='lang'>[%s]</span><span start='%s' track='%s' class='oa'><a class='btn pluss'><i class='fa fa-plus-square'></i></a></span><div class='abstract toggled'></div></td>", htmlentities($row['title']),htmlentities($row['presenter']), $languages[$row['language']],$row['start'],$row['track']);
 									$lasttrack = $row['track'];
 								}
 							}
