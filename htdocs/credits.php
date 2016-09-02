@@ -44,24 +44,8 @@
 						<!-- Text -->
 							<section class="box">
 								<h3>Organizing Committee</h3>
-								<p>This year we (OSGeoBE) have the ambition to organise a first FOSS4G-BE on 29 October 2015 in Brussels. This event will also be used to announce the birth of our Chapter. In preparation for this official expression of interest, a couple of meetings have already taken place, one physical, most of them trough digital communication (skype/IRC). <a href="http://wiki.osgeo.org/wiki/Belgium">The meeting minutes can be found on the OSGeo wiki.</a></p>							
-								<header>
-								<h4 style="margin-top:20px">Belgium OSGEO Chapter</h4>
-								<p>The Belgium OSGeo Chapter has the support of the following initial founding members (alphabetic - first name):</p>
-									<ul>
-										<li>Ben Abelhausen - liason with OSM - Belgium community</li>
-										<li>Dirk Frigne - founding member of the Geomajas community</li>
-										<li>Gaël Kruwialis - active member of the local FOSS momement in the Brussels area - contact with the Brussels administration</li>
-										<li>Johan Van de Wauw - OSGeo Charter Member</li>
-										<li>Maëlle Vercauteren Drubbel - Supervisor and trainer in the Free GIS ARES internship at the IGEAT/ULB</li>
-										<li>Marc Ducobu - liason with OSGeo.fr</li>
-										<li>Moritz Lennert - GRASS GIS PSC Member, contact with academic world</li>
-										<li>Oliver May - PSC member of the Geomajas project</li>
-										<li>Pieter Colpaert - link with the open knowledge foundation</li>
-										<li>Ruben Capelle</li>
-										<li>Tommy Oozeer - OSGeo Advocate</li>
-									</ul>
-								</header>
+								The FOSS4G conference is organised by the Belgian chapter of OSGeo: <a href="http://www.osgeo.be">OSGeo.be</a>.
+								<p><img src="http://osgeo.foss4g.be/wp-content/uploads/2016/04/osgeo-site.png" /></p>
 								
 
 								<hr />
