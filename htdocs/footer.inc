@@ -8,6 +8,7 @@
                 <li><a href="http://www.merkator.com" class="icon merkator"><span class="label">Merkator</span></a></li>
                 <li><a href="http://www.opengeode.be" class="icon geode"><span class="label">OpenGeode</span></a></li>
 				<li><a href="http://oslandia.com/" class="icon oslandia"><span class="label">Oslandia</span></a></li>
+				<li><a href="http://www.osgeo.be" class="icon osgeobe"><span class="label">OSGeo.be</span></a></li>
             </ul>
 
             <ul class="copyleft">
