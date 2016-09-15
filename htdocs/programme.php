@@ -57,7 +57,7 @@ $languages= array(0=>"?",1=>"nl", 2=>"fr",3=>"en");
 									
 						<table class="alt tarde">
 							<tbody>
-							<tr><th>time</th><th>track 1</th><th>track 2</th><th>track3</th><th>track 4</th></tr>
+							<tr><th>time</th><th>track 1 (Auditorium)</th><th>track 2 (Sylva)</th><th>track3 (Expo)</th><th>track 4 (Aqua)</th></tr>
 							<?php
 							$query = "select * FROM presentations order by start, track";
 							$result = mysqli_query($link,$query);
