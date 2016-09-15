@@ -4,6 +4,7 @@
 				<li><a href="http://cirb.brussels/" class="icon cirb"><span class="label">CIRB</span></a></li>
                 <li><a href="http://www.geosparc.com/" class="icon geosparc"><span class="label">Geosparc</span></a></li>
                 <li><a href="http://www.gim.be" class="icon gim"><span class="label">GIM</span></a></li>
+		<li><a href="http://www.innoviris.be" class="icon innoviris"><span class="label">Innoviris</span></a></li>
                 <li><a href="http://www.merkator.com" class="icon merkator"><span class="label">Merkator</span></a></li>
                 <li><a href="http://www.opengeode.be" class="icon geode"><span class="label">OpenGeode</span></a></li>
 				<li><a href="http://oslandia.com/" class="icon oslandia"><span class="label">Oslandia</span></a></li>
