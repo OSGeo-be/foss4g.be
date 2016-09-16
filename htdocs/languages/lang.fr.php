@@ -272,6 +272,10 @@ $lang['INFO_TT_CAR'] ='Parking Tour & Taxis / 3 euros/heure';
 // PAGE INSCRIPTION ------------------------------------------------------------------------------------------------/
 
 $lang['REGISTRATION_TXT'] ='L’événement est <u>gratuit pour tous</u>, mais les places sont limitées et l\'inscription est donc obligatoire! En attendant l\'ouverture des inscriptions n\'hésitez pas à <a href="contact.php">nous contacter pour manifester votre intérêt</a>, vous serez les premiers prévenus lors de l\'ouverture celles-ci.';
+$lang['REGISTRATION_SURVEYORS_TXT'] = "La conférence FOSS4G BELGIUM 2016 a également été reconnue par le Conseil fédéral des géomètres-experts et peut donner jusqu’à 5 heures de formation permanente, selon le temps de présence effective.<br/>
+Bien que notre évènement soit gratuit pour tous, des frais de dossiers s'élevant à 25 € seront demandés pour l'obtention de cette attestation.<br/>
+Si vous souhaitez obtenir une attestation, merci de bien vouloir vous inscrire en sélectionnant un ticket \"géomètre - landmeter\". Les organisateurs reprendront par la suite contact avec vous afin de régler les formalités.";
+
 
 $lang['REGISTRATION_TAGLINE'] ='Nous n\'avons qu\'un nombre de places limitées. Si les inscriptions sont clôturées, vous pouvez toujours vous inscrire sur une liste d\'attente via le <a href="contact.php">formulaire de contact</a>';
 
