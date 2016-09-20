@@ -49,6 +49,7 @@
 							<a href="http://cirb.brussels" class="sponsor icon cirb"><span class="label">CIRB</span></a>
 							<a href="http://www.innoviris.be" class="sponsor icon innoviris"><span class="label">Innoviris</span></a>
                             <a href="http://oslandia.com/" class="sponsor icon oslandia"><span class="label">Oslandia</span></a>
+			    <a href="http://www.geosolutions.be" class="sponsor icon geosolutions"><span class="label">Geosolustions</span></a>
 						  </dd>
 						  <dt class="spons"><a href="#" class="accordionTitle sponsors gold"> <?php echo $lang['SPONSORS_2_TITLE']; ?> <span class="spon2"><?php echo $lang['SPONSORS_2_TAGLINE']; ?></span></a></dt>
 						  <dd class="accordionItem accordionItem">
