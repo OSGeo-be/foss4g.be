@@ -37,11 +37,12 @@
 					<img src="images/chapeau-earth.png" style="width:8vw;opacity:0.2;text-align:center;">
 					<h2><?php echo $lang['MENU_REG']; ?></h2>
 					<p><?php echo $lang['INFO_REG_TXT']; ?></p>
+					<p><?php echo $lang['REGISTRATION_SURVEYORS_TXT']; ?></p>
 					<!-- <p><?php echo $lang['REGISTRATION_TAGLINE']; ?></p> -->
 				</header>
                 <section class="box">
                     <div style="width:100%; text-align:left;" >
-                        <iframe  src="//eventbrite.fr/tickets-external?eid=27152152820&ref=etckt" frameborder="0" height="330" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
+                        <iframe  src="//eventbrite.fr/tickets-external?eid=27152152820&ref=etckt" frameborder="0" height="600" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
                     </div>
                 </section>
 		</section>
