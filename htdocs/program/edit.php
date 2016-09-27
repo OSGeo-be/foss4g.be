@@ -9,7 +9,7 @@ if(!empty($_POST['submit']) && $_POST['submit'] == "save changes" && !empty($_PO
 	$sql = "UPDATE presentations set presenter=?, email=?, 
 		affiliation=?,url=?,title=?,abstract=?,language=?,presentation_url=? where guid=?";
 	$upd = mysqli_prepare ($link, $sql);
-	mysqli_stmt_bind_param($upd,"ssssssis",$_POST['presenter'],$_POST['email'],$_POST['affiliation'],$_POST['url'],$_POST['title'],$_POST['abstract'],$_POST['language'],$_POST['presentation_url'],$_POST['id']);
+	mysqli_stmt_bind_param($upd,"ssssssiss",$_POST['presenter'],$_POST['email'],$_POST['affiliation'],$_POST['url'],$_POST['title'],$_POST['abstract'],$_POST['language'],$_POST['presentation_url'],$_POST['id']);
 
 	mysqli_stmt_execute($upd);
 	/* note that for invalid ID's nothing will happen */
@@ -70,8 +70,8 @@ $row = mysqli_fetch_array($result, MYSQLI_ASSOC);
 	<option value="2"<?php if ($row['language'] == '2') echo ' selected="selected"'; ?>>fr</option>
 	<option value="3"<?php if ($row['language'] == '3') echo ' selected="selected"'; ?>>en</option>
 </select>
-
-<input type="text" name="presentation_url" value="<?php echo htmlentities($row['presentation_url'l])?>" />
+<label for="presentation_url">Link to slides</label>
+<input type="text" id="presentation_url" name="presentation_url" value="<?php echo htmlentities($row['presentation_url'])?>" />
 
 
 <input type="submit" name="submit" value="save changes"/>

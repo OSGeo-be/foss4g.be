@@ -1,6 +1,6 @@
 <?php
-$password='qsdfghjklm';
-$user='website';
+$password='';
+$user='root';
 $db = 'foss4g-2016';
 
 $link = mysqli_connect('localhost',$user,$password,$db);

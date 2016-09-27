@@ -94,7 +94,10 @@ $languages= array(0=>"?",1=>"nl", 2=>"fr",3=>"en");
 									if ($row['track']==1)
 										{printf( '<tr><td>%s</td>',$start);}
 									
-									printf("<td>%s<br><span class='author'>%s</span><span class='lang'>[%s]</span><span start='%s' track='%s' class='oa'><a class='btn pluss'><i class='fa fa-plus-square'></i></a></span><div class='abstract toggled'></div></td>", htmlentities($row['title']),htmlentities($row['presenter']), $languages[$row['language']],$row['start'],$row['track']);
+									$slides = '';
+									if ($row['presentation_url']!='')
+										$slides ='<div><a class="slidelogo" href="'. htmlentities($row['presentation_url']).'">&nbsp;</a></div>';
+									printf("<td>%s<br><span class='author'>%s</span><span class='lang'>[%s]</span><span start='%s' track='%s' class='oa'><a class='btn pluss'><i class='fa fa-plus-square'></i></a></span><div class='abstract toggled'></div>%s</td>", htmlentities($row['title']),htmlentities($row['presenter']), $languages[$row['language']],$row['start'],$row['track'],$slides);
 									$lasttrack = $row['track'];
 								}
 							}
