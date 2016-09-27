@@ -71,7 +71,7 @@ $row = mysqli_fetch_array($result, MYSQLI_ASSOC);
 	<option value="3"<?php if ($row['language'] == '3') echo ' selected="selected"'; ?>>en</option>
 </select>
 
-<input type="text" name="presentation_url" value="<?php echo htmlentities($row['presentation_url])?>" />
+<input type="text" name="presentation_url" value="<?php echo htmlentities($row['presentation_url'l])?>" />
 
 
 <input type="submit" name="submit" value="save changes"/>
