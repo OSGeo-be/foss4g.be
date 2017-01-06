@@ -12,9 +12,19 @@ $headers .= "X-Mailer: PHP/".phpversion();
 	E-Mail: $email\n\n
 	$subject\n
 	$message";
-mail($to, $from, $body, $headers);
-header('Location: gracias.php');
-exit();
+if ($_POST['calculate']=='4')
+{
+	mail($to, $from, $body, $headers);
+	header('Location: gracias.php');
+	exit();
+}
+else
+{
+	   echo "<h1>Error</h1>\n
+      <p>Invalid calculate field</p>";
+   exit;
+}
+
 if (!isset($_POST['submit'])) {
    echo "<h1>Error</h1>\n
       <p>Accessing this page directly is not allowed.</p>";
