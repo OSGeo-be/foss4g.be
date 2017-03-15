@@ -51,7 +51,7 @@ $lang['FOSS4G_LOAD'] ='Loading...';
 $lang['CECI_1'] = 'this';
 $lang['CECI_2'] = 'is not';
 $lang['CECI_3'] = 'a conference';
-$lang['CECI'] 	= 'images/foss4g2016.svg';
+$lang['CECI'] 	= 'images/foss4g2017.svg';
 $lang['CECI-G'] = 'images/foss4gbe-en-g.svg';
 
 // CALL-TO_ACTION
@@ -104,7 +104,7 @@ $lang['ABOUT_A_TEXT2'] ='<a href="http://www.osgeo.org/">The Open Source Geospat
 // SPONSORS PAGE CALL ------------------------------------------------------------------------------------------------------------/
 
 $lang['SPONSORS_TITLE'] ='Call for Sponsors';
-$lang['SPONSORS_SUBTITLE'] ='Help making our 2016 edition a success';
+$lang['SPONSORS_SUBTITLE'] ='Help making our 2017 edition a success';
 $lang['SPONSORS_CALL'] ='The FOSS4G Belgian Local Organizing Committee is calling for sponsors.<br />
 					The available sponsorship opportunities are listed and detailed here, <a href="contact.php">please contact us with any question on the packages</a>.';
 $lang['SPONSORS_BUTTON'] ='Contact us now to become a sponsor';
