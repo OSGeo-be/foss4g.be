@@ -13,13 +13,13 @@ $lang['URL_INDEX_3'] = 'index.php?lang=fr'; /* switch to FR */
 $lang['URL_CONTACT'] = 'contact.php';
 
 // SITE NAME AND HEADERS
-$lang['SITE_NAME'] = 'FOSS4G Belgium 2016';
-$lang['SITE_TITLE'] = 'FOSS4G België 2016';
-$lang['SITE_DESCRIPTION'] = 'FOSS4G België 2016';
+$lang['SITE_NAME'] = 'FOSS4G Belgium 2017';
+$lang['SITE_TITLE'] = 'FOSS4G België 2017';
+$lang['SITE_DESCRIPTION'] = 'FOSS4G België 2017';
 $lang['SITE_KEYWORDS'] = 'Foss4G Geo GIS Open Source Brussel OSGeo OSGeoBE België';
 $lang['SITE_AUTHOR'] = 'FOSS4G Belgium';
-$lang['SITE_DATATOP'] = '22 September 2016 - Brussel';
-$lang['SITE_DATABIG'] = '<a href="http://bel.brussels/" alt="BEL Gebouw"  style="color:white" target="_blank">BEL Gebouw Leefmilieu Brussel</a> - 22 September 2016';
+$lang['SITE_DATATOP'] = '26 Oktober 2017 - Brussel';
+$lang['SITE_DATABIG'] = '26 October 2017';
 
 // MENU
 $lang['MENU_HOME'] = 'Home';
@@ -62,7 +62,7 @@ $lang['CALL_3'] = 'Oproep voor bijdragen';
 $lang['PROGRAMME'] = 'Programma';
 
 // HOME OVER ONS
-$lang['ABOUT_TITLE'] = 'After the very succesful <a href="http://2015.foss4g.be">FOSS4G Belgium event in 2015</a>, <a href="http://www.osgeo.be">OSGeo.be</a>  announces the date of the next FOSS4G Belgium Conference: <b>22 September 2016</b>. Stay tuned for more info! <br>
+$lang['ABOUT_TITLE'] = 'After the very succesful FOSS4G Belgium events in 2015 and 2016, <a href="http://www.osgeo.be">OSGeo.be</a>  announces the date of the next FOSS4G Belgium Conference: <b>26 Oktober 2017</b>. Stay tuned for more info! <br>
 Interested in joining the organisation? Get in touch with info@foss4g.be';
 
 // HOME SECTION CONFERENTIES

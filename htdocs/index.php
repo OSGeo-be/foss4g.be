@@ -6,12 +6,6 @@
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="<?php echo $lang['SITE_DESCRIPTION']; ?>" />
 		<meta name="keywords" content="<?php echo $lang['SITE_KEYWORDS']; ?>" />
-		<?php
-		/*<meta name="geo.placename" content="Avenue du Port 86 C/3002, Tour & Taxis, 1000 Brussels, Belgium" />
-		<meta name="geo.position" content="50.866248;4.349073" />
-		<meta name="geo.region" content="BE-Brussels" />
-		<meta name="ICBM" content="50.866248, 4.349073" />	*/?>	
-		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->		
 		<script src="js/jquery.min.js" type="text/javascript"></script>
 		<script src="js/jquery.dropotron.min.js" type="text/javascript"></script>
 		<script src="js/jquery.scrollgress.min.js" type="text/javascript"></script>

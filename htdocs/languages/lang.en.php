@@ -13,13 +13,13 @@ $lang['URL_NAME_3'] = 'French';
 $lang['URL_CONTACT'] = 'contact.php';
 
 // SITE NAME AND HEADERS
-$lang['SITE_NAME'] = 'FOSS4G Belgium 2016';
-$lang['SITE_TITLE'] = 'FOSS4G Belgium 2016';
-$lang['SITE_DESCRIPTION'] = 'FOSS4G Belgium 2016';
+$lang['SITE_NAME'] = 'FOSS4G Belgium 2017';
+$lang['SITE_TITLE'] = 'FOSS4G Belgium 2017';
+$lang['SITE_DESCRIPTION'] = 'FOSS4G Belgium 2017';
 $lang['SITE_KEYWORDS'] = 'FOSS4G Geo marker GIS Open Source Brussels';
 $lang['SITE_AUTHOR'] = 'FOSS4G Belgium';
-$lang['SITE_DATATOP'] = ' <div class="foss4g"></div> 22 september 2016';
-$lang['SITE_DATABIG'] = '<a href="http://bel.brussels/" alt="BEL Building" style="color:white" target="_blank">Brussels Environment and Energy Agency</a> - 22 September 2016';
+$lang['SITE_DATATOP'] = ' <div class="foss4g"></div> 26 october 2017';
+$lang['SITE_DATABIG'] = '26 October 2017';
 
 // MENU
 $lang['MENU_HOME'] = 'Home';
@@ -62,7 +62,7 @@ $lang['CALL_3'] = 'Call for Papers';
 $lang['PROGRAMME'] = 'Programme';
 
 // HOME ABOUT
-$lang['ABOUT_TITLE'] = 'After the very succesful <a href="http://2015.foss4g.be">FOSS4G Belgium event in 2015</a>, <a href="http://www.osgeo.be">OSGeo.be</a>  announces the date of the next FOSS4G Belgium Conference: <b>22 September 2016</b>. Stay tuned for more info! <br>
+$lang['ABOUT_TITLE'] = 'After the very succesful FOSS4G Belgium events in 2015 and 2016, <a href="http://www.osgeo.be">OSGeo.be</a>  announces the date of the next FOSS4G Belgium Conference: <b>26 Oktober 2017</b>. Stay tuned for more info! <br>
 Interested in joining the organisation? Get in touch with info@foss4g.be';
 
 // HOME SECTION CONFERENCES
