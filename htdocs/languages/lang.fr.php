@@ -63,8 +63,8 @@ $lang['CALL_3'] = 'Appel à contributions';
 $lang['PROGRAMME'] = 'Programme';
 
 // HOME A PROPOS
-$lang['ABOUT_TITLE'] = 'After the very succesful FOSS4G Belgium events in 2015 and 2016, <a href="http://www.osgeo.be">OSGeo.be</a>  announces the date of the next FOSS4G Belgium Conference: <b>26 Oktober 2017</b>. Stay tuned for more info! <br>
-Interested in joining the organisation? Get in touch with info@foss4g.be';
+$lang['ABOUT_TITLE'] = 'Après les succès du FOSS4G Belgium en 2015 et 2016, OSGeo.be organisera <b>le jeudi 26 Octobre 2017</b> une nouvelle édition de la conférence FOSS4G.BE à Bruxelles. Restez à l\'écoute pour plus d\'infos! <br>
+Envie de participer à l\'organisation de cet évènement ? Contactez-nous sur info@foss4g.be';
 
 // HOME SECTION CONFERENCES
 $lang['HOME_S1_TITLE'] = 'Conférences et ateliers';
@@ -158,24 +158,25 @@ $lang['SPONSORS_T_SUBTITLE'] ='Merci à nos sponsors pour leur soutien';
 // APPEL A CONTRIBUTIONS  ------------------------------------------------------------------------------------------------------------/
 
 $lang['PAPERS_TITLE'] ='Appel à contributions';
-$lang['PAPERS_SUBTITLE'] ='Participez au succès de cette 1<sup>ère</sup> édition 2015';
-$lang['PAPERS_CALL'] ='Le 29 octobre 2015, l\'OSGeo-be organise un événement dédié à la géomatique libre à Bruxelles dans le BEL de Bruxelles Environnement. Le FOSS4G-be sera une journée de conférences, démonstrations, débats et de rencontres sur les thématiques de l’OSGeo. Ce sera aussi l\'occasion <strong>de rassembler la communauté</strong> des utilisateurs, développeurs, décideurs, ou simples curieux de logiciels libres en géomatique.</p>
+$lang['PAPERS_SUBTITLE'] ='Participez au succès de l\'édition 2017';
+$lang['PAPERS_CALL'] ='Le 26 octobre 2017, l\'OSGeo-be organise un événement dédié à la géomatique libre à Bruxelles dans le BEL de Bruxelles Environnement. Le FOSS4G-be sera une journée de conférences, démonstrations, débats et de rencontres sur les thématiques de l’OSGeo. Ce sera aussi l\'occasion <strong>de rassembler la communauté</strong> des utilisateurs, développeurs, décideurs, ou simples curieux de logiciels libres en géomatique.</p>
 <p><strong>L\'événement devrait rassembler entre 250 à 400 personnes</strong>.<br />Cette rencontre permettra de partager nos connaissances et nos expériences sous la forme de conférences et démonstrations, d\'une durée de <strong>25min</strong> chacune.';
 
 // Plenary Session
 $lang['PAPERS_CALL_T_TXT1'] ='Plénière & présentations';
-$lang['PAPERS_CALL_S_TXT1'] ='Nous aurons trois sessions parallèles';
+$lang['PAPERS_CALL_S_TXT1'] ='Nous aurons quatre sessions parallèles';
 $lang['PAPERS_CALL_TXT1a'] ='Plénière';
-$lang['PAPERS_CALL_TXT1b'] ='Session parallèle';
+$lang['PAPERS_CALL_TXT1b'] ='2 sessions spécifiques';
 $lang['PAPERS_CALL_TXT1c'] ='Session dev';
 
 $lang['PAPERS_CALL_TXT3'] ='<strong>La Plénière</strong> sera consacré à des demonstrations d\'implémentation réussie pour les entreprises, l\'éducation et au sein des administrations.';
-$lang['PAPERS_CALL_TXT4'] ='<strong>Une session parallèle</strong> sera centrée sur des demonstrations interactives pour les opérateurs IT, avec une concentration sur les problématiques spécifiques liées à l\'introduction et l\'utilisation de FOSS4G dans des environnements institutionnels spécifiques.';
+$lang['PAPERS_CALL_TXT4'] ='<strong>Une session spéciale</strong> sera centrée sur OpenStreetMap.';
+$lang['PAPERS_CALL_TXT4b'] ='<strong>Une session spéciale</strong> traitera de l\'utilisation de la géomatique open source dans le monde académique.';
 $lang['PAPERS_CALL_TXT5'] ='<strong>La session dev</strong> portera sur la présentation et les derniers développements en cours au sein du FOSS4G';
 
 $lang['PAPERS_CALL_TXT6'] ='Êtes-vous un expert en <a href="https://fr.wikipedia.org/wiki/Syst%C3%A8me_d%27information_g%C3%A9ographique" target="_blank"> GIS <i class="fa fa-external-link"></i></a>?';
 $lang['PAPERS_CALL_TXT7'] ='Avez-vous utilisé des outils OSGeo dans un contexte spécifique pour votre organisation? Tels qu\'un projet d\'envergure, des données très volumineuses, un client reconnu, un projet innovant, etc?';
-$lang['PAPERS_CALL_TXT8'] ='Si vous vous reconnaissez dans ce programme à propos de l\'un ou l\'autre aspect, ARRETEZ TOUT et <a href="mailto:&#112;&#114;&#101;&#115;&#101;&#110;&#116;&#97;&#116;&#105;&#111;&#110;&#64;&#102;&#111;&#115;&#115;&#52;&#103;&#46;&#98;&#101;" alt="&#112;&#114;&#101;&#115;&#101;&#110;&#116;&#97;&#116;&#105;&#111;&#110;&#64;&#102;&#111;&#115;&#115;&#52;&#103;&#46;&#98;&#101;"> envoyez nous la présentation à propos de votre talent ou domaine d\'expertise</a>.';
+$lang['PAPERS_CALL_TXT8'] ='Si vous vous reconnaissez dans ce programme à propos de l\'un ou l\'autre aspect, ARRETEZ TOUT et <a href="http://2017.foss4g.be/submit-paper.php" alt="http://2017.foss4g.be/submit-paper.php"> envoyez nous la présentation à propos de votre talent ou domaine d\'expertise</a>.';
 
 // Workshops
 $lang['PAPERS_CALL_T2_TXT1'] ='Sujets & débats';
@@ -191,19 +192,19 @@ $lang['PAPERS_FORMAT_2'] ='Chaque présentation disposera de 20 minutes et de 5 
 $lang['PAPERS_FORMAT_3'] ='Les présentations soumises peuvent l\'être en anglais, français ou néerlandais (et adhérer au modèle en format ODT bientôt disponible).';
 
 $lang['PAPERS_SUM'] ='Soumettre votre présentation';
-$lang['PAPERS_SUM_SUB'] ='Les résumés doivent être envoyés par e-mail à l\'adresse suivante: <a href="mailto:&#112;&#114;&#101;&#115;&#101;&#110;&#116;&#97;&#116;&#105;&#111;&#110;&#64;&#102;&#111;&#115;&#115;&#52;&#103;&#46;&#98;&#101;" title="&#112;&#114;&#101;&#115;&#101;&#110;&#116;&#97;&#116;&#105;&#111;&#110;&#64;&#102;&#111;&#115;&#115;&#52;&#103;&#46;&#98;&#101;">&#112;&#114;&#101;&#115;&#101;&#110;&#116;&#97;&#116;&#105;&#111;&#110;&#64;&#102;&#111;&#115;&#115;&#52;&#103;&#46;&#98;&#101;</a> en spécifant les éléments suivants:';
+$lang['PAPERS_SUM_SUB'] ='Les résumés doivent être envoyés à l\'aide du <a href="http://2017.foss4g.be/submit-paper.php" title="http://2017.foss4g.be/submit-paper.php">formulaire de soumission</a> en spécifant les éléments suivants:';
 $lang['PAPERS_SUM_NAME'] ='Votre Nom et Prénom;';
 $lang['PAPERS_SUM_EMAIL'] ='Un email de contact;';
 $lang['PAPERS_SUM_ORG'] ='Votre entreprise (organisation) et/ou employeur;';
 $lang['PAPERS_SUM_TITLE'] ='Le titre de votre intervention;';
-$lang['PAPERS_SUM_ABSTRACT'] ='Une courte introduction (200 caractères max.) + Une description plus longue (700 caractères max.);';
+$lang['PAPERS_SUM_ABSTRACT'] ='Une courte introduction (300 mots max. + éventuelles notes biblios)';
 $lang['PAPERS_SUM_TYPE'] ='La nature de votre intervention (Explicative / Applicative / Demonstrative);';
 
 
 // DATE LIMITE + COMMENT EVALUONS-NOUS 
-$lang['PAPERS_DEADLINE'] ='Date limite pour les soumissions: 2 octobre 2015';
+$lang['PAPERS_DEADLINE'] ='Date limite pour les soumissions: 4 septembre 2017';
 $lang['PAPERS_CALL2T'] ='Date limite';
-$lang['PAPERS_CALL2'] ='Les résumés seront évalués par un comité de programme et les auteurs retenus en seront avertis le 7 octobre 2015. Toutes les présentations seront mises en ligne sur le site de l\'événement.';
+$lang['PAPERS_CALL2'] ='Les résumés seront évalués par un comité de programme et les auteurs retenus en seront avertis le 9 octobre 2017. Toutes les présentations seront mises en ligne sur le site de l\'événement.';
 $lang['PAPERS_CALL3T'] ='Méthode d\'évaluation';
 $lang['PAPERS_CALL3'] ='<p>Le choix des présentations sera basé sur la qualité des descriptions soumises, son intérêt pour une audience professionnelle et étudiante, et la cohérence du programme de la journée. La décision du comité de sélection sera finale et sans appel. Les membres du comité s\'expriment en leur nom propre et leurs choix ne reflètent pas la position de leur employeur.<p>';
 $lang['PAPERS_CALL4'] ='Les coordinateurs néerlandais et francophones du comité de programme sont Johan Van de Wauw (NL) and Gaël Kruwialis (FR).</p><p>Nous vous encourageons à <a href="mailto:&#112;&#114;&#101;&#115;&#101;&#110;&#116;&#97;&#116;&#105;&#111;&#110;&#64;&#102;&#111;&#115;&#115;&#52;&#103;&#46;&#98;&#101;" title="&#112;&#114;&#101;&#115;&#101;&#110;&#116;&#97;&#116;&#105;&#111;&#110;&#64;&#102;&#111;&#115;&#115;&#52;&#103;&#46;&#98;&#101;"> nous envoyer un mail pour toutes demandes </a>.</p>';
@@ -312,6 +313,7 @@ $lang['PROG_DRINK'] = 'Closing Drink and Networking';
 	// CTA
 $lang['FOOTER_THANKS'] = 'FOSS4G est un événement gratuit. Nous remercions nos sponsors et partenaires de rendre ceci possible.';
 $lang['FOOTER_THANKS_ALL'] = '<a href="http://www.bruxellesenvironnement.be/" title="Bruxelles Environnement" style="color:#fff">Bruxelles Environnement</a><!-- - L\'<a href="http://igeat.ulb.ac.be/" title="IGEAT" style="color:#fff">Institut de Gestion de l\'Environnement et d\'Aménagement du Territoire</a> (IGEAT/ULB) - <a href="http://checksum.be/" style="color:#fff">Checksum</a> -->';
+$lang['FOOTER_MORE'] = 'Si vous souhaitez obtenir plus d\'informations, <a href="contact.php" style="color:#fff">contactez-nous</a>';
 
 	// FOOTER
 // Hackathon

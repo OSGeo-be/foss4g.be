@@ -56,7 +56,8 @@
 							<p class="tracks"><i class="fa fa-lightbulb-o"></i> <?php echo $lang['PAPERS_CALL_TXT1a']; ?> <i class="fa fa-slideshare"></i> <?php echo $lang['PAPERS_CALL_TXT1b']; ?> <i class="fa fa-cogs"></i> <?php echo $lang['PAPERS_CALL_TXT1c']; ?></p>
 							<hr>
 							<p><i class="fa fa-caret-right"></i> <?php echo $lang['PAPERS_CALL_TXT3']; ?></p>	
-							<p><i class="fa fa-caret-right"></i> <?php echo $lang['PAPERS_CALL_TXT4']; ?></p>	
+							<p><i class="fa fa-caret-right"></i> <?php echo $lang['PAPERS_CALL_TXT4']; ?></p>
+							<p><i class="fa fa-caret-right"></i> <?php echo $lang['PAPERS_CALL_TXT4b']; ?></p>
 							<p><i class="fa fa-caret-right"></i> <?php echo $lang['PAPERS_CALL_TXT5']; ?></p>	
 							<hr>	
 							<p><i class="fa fa-question-circle"></i> <?php echo $lang['PAPERS_CALL_TXT6']; ?></p>
@@ -92,7 +93,6 @@
 							<li><?php echo $lang['PAPERS_SUM_ORG']; ?></li>
 							<li><?php echo $lang['PAPERS_SUM_TITLE']; ?></li>
 							<li><?php echo $lang['PAPERS_SUM_ABSTRACT']; ?></li>
-							<li><?php echo $lang['PAPERS_SUM_TYPE']; ?></li>
 						</ol>
 						<h4 style="text-align:left"><?php echo $lang['PAPERS_CALL2T']; ?></h4>
 						<p><a href="contact.php" class="button icon fa-warning specialo small" style="float:right"><?php echo $lang['PAPERS_DEADLINE']; ?></a> <?php echo $lang['PAPERS_CALL2']; ?></p>
@@ -103,7 +103,7 @@
 					</div>
 				</div>
 				
-				<div class="nav bottom"><prev></prev><a href="call.php" title="<?php echo $lang['MENU_CALL2']; ?>"><?php echo $lang['MENU_CALL2']; ?></a> <a href="infos.php" title="<?php echo $lang['MENU_PRACTICAL']; ?>"><?php echo $lang['MENU_PRACTICAL']; ?></a><next></next></div>
+				<!--<div class="nav bottom"><prev></prev><a href="call.php" title="<?php echo $lang['MENU_CALL2']; ?>"><?php echo $lang['MENU_CALL2']; ?></a> <a href="infos.php" title="<?php echo $lang['MENU_PRACTICAL']; ?>"><?php echo $lang['MENU_PRACTICAL']; ?></a><next></next></div>-->
 			</section>
 
 			
