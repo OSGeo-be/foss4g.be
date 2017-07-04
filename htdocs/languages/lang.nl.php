@@ -19,7 +19,7 @@ $lang['SITE_DESCRIPTION'] = 'FOSS4G België 2017';
 $lang['SITE_KEYWORDS'] = 'Foss4G Geo GIS Open Source Brussel OSGeo OSGeoBE België';
 $lang['SITE_AUTHOR'] = 'FOSS4G Belgium';
 $lang['SITE_DATATOP'] = '26 Oktober 2017 - Brussel';
-$lang['SITE_DATABIG'] = '26 October 2017';
+$lang['SITE_DATABIG'] = '26 Oktober 2017';
 
 // MENU
 $lang['MENU_HOME'] = 'Home';
@@ -62,8 +62,7 @@ $lang['CALL_3'] = 'Oproep voor bijdragen';
 $lang['PROGRAMME'] = 'Programma';
 
 // HOME OVER ONS
-$lang['ABOUT_TITLE'] = 'After the very succesful FOSS4G Belgium events in 2015 and 2016, <a href="http://www.osgeo.be">OSGeo.be</a>  announces the date of the next FOSS4G Belgium Conference: <b>26 Oktober 2017</b>. Stay tuned for more info! <br>
-Interested in joining the organisation? Get in touch with info@foss4g.be';
+$lang['ABOUT_TITLE'] = 'Na succesvolle edities in 2015 en 2016 , organiseert OSGeo.be een nieuwe editie van deze FOSS4G.BE conferentie op <b>donderdag 26 oktober 2017</b> in Brussel.';
 
 // HOME SECTION CONFERENTIES
 $lang['HOME_S1_TITLE'] = 'Presentaties en Workshops';
@@ -160,28 +159,24 @@ $lang['SPONSORS_T_SUBTITLE'] ='Dank aan onze sponsors om dit mogelijk te maken';
 // PAPERS PAGE CALL ------------------------------------------------------------------------------------------------------------/
 
 $lang['PAPERS_TITLE'] ='Oproep voor bijdragen';
-$lang['PAPERS_SUBTITLE'] ='Help ons de eerste editie 2015 een succes te maken';
+$lang['PAPERS_SUBTITLE'] ='Help ons de editie in 2017 een succes te maken';
 $lang['PAPERS_CALL'] ='
-Op 29 Oktober 2015 zal OSGeo-be een een Open GIS conferentie organiseren in Brussel in BEL, het leefmilieu en energieagentschap van Brussel. FOSS4G-BE wordt een dag van presentaties, demo\'s, debatten over OSGeo thema\'s. Het is ook een kans om de <strong>gemeenschap</strong> van gebruikers, ontwikkelaars, beleidsmaker en andere geïnteresseerden <strong>samen te brengen</strong>.
-<p>
-<strong>De bedoeling van de dag is om tussen de 240 en 400 mensen samen te brengen</strong>
-<br />
-We zullen kennis en ervaringen delen gedurende de hele dag met presentaties en demo\'s van <strong>maximaal 25 minuten</strong>.';
-
+';
 // Plenary Session
-$lang['PAPERS_CALL_T_TXT1'] ='Presentations and side tracks';
-$lang['PAPERS_CALL_S_TXT1'] ='We will be having 3 parallel streams';
-$lang['PAPERS_CALL_TXT1a'] ='Plenary';
-$lang['PAPERS_CALL_TXT1b'] ='Side Track';
-$lang['PAPERS_CALL_TXT1c'] ='Dev Track';
+$lang['PAPERS_CALL_T_TXT1'] ='Presentaties en sessies';
+$lang['PAPERS_CALL_S_TXT1'] ='We voorzien 4 parallele sessies';
+$lang['PAPERS_CALL_TXT1a'] ='Plenaire sessie';
+$lang['PAPERS_CALL_TXT1b'] ='2 speciale sessies';
+$lang['PAPERS_CALL_TXT1c'] ='Ontwikkelaars sessie';
 
-$lang['PAPERS_CALL_TXT3'] ='<strong>Plenary sessions</strong> will be show cases of FOSS4G usages within business, administration, education and research.';
-$lang['PAPERS_CALL_TXT4'] ='The <strong>side track</strong> will be dedicated to interactive demonstrations for IT-Officers, with more concrete issues linked to the introduction and use of FOSS4G into a specific institutional environment.';
-$lang['PAPERS_CALL_TXT5'] ='The <strong>dev track</strong> will be a sort of dev room and presentation of latest developments within FOSS4G.';
+$lang['PAPERS_CALL_TXT3'] ='De <strong>plenaire sessie</strong> zal voorbeelden tonen van het gebruik van FOSS4G binnen bedrijven, administraties, onderwijs en onderzoek.';
+$lang['PAPERS_CALL_TXT4'] ='Één speciale track zal gefocused zijn op OpenStreetMap';
+$lang['PAPERS_CALL_TXT4b'] ='Één speicale track heeft behandelt Free en Open Source software in Geo-onderwijs';
+$lang['PAPERS_CALL_TXT5'] ='De development track zal presentaties laten zien van de laatste ontwikkelingen in FOSS4G';
 
-$lang['PAPERS_CALL_TXT6'] ='Are you <a href="https://en.wikipedia.org/wiki/Geographic_information_system" target="_blank">an expert in GIS <i class="fa fa-external-link"></i></a>? ';
-$lang['PAPERS_CALL_TXT7'] ='Did you used OSGeo’s tools in a specific context - large SDI, Big Data, specific customer, innovative project, etc. - for your own business, research or for education?';
-$lang['PAPERS_CALL_TXT8'] ='If you meet any of these, STOP and... <a href="mailto:&#112;&#114;&#101;&#115;&#101;&#110;&#116;&#97;&#116;&#105;&#111;&#110;&#64;&#102;&#111;&#115;&#115;&#52;&#103;&#46;&#98;&#101;" alt="&#112;&#114;&#101;&#115;&#101;&#110;&#116;&#97;&#116;&#105;&#111;&#110;&#64;&#102;&#111;&#115;&#115;&#52;&#103;&#46;&#98;&#101;">feel free to suggest a presentation!</a>';
+$lang['PAPERS_CALL_TXT6'] ='Ben je <a href="https://en.wikipedia.org/wiki/Geographic_information_system" target="_blank">een expert in GIS <i class="fa fa-external-link"></i></a>? ';
+$lang['PAPERS_CALL_TXT7'] ='Heb je OSGeo toepassingen gebruikt in een specifieke context - spatial data infrastructure, Big Data, specifieke klanten, innovatieve projecten, .... voor je bedrijf, onderzoeksinstelling of in onderwijs? ';
+$lang['PAPERS_CALL_TXT8'] ='Als je aan één van deze voorwaarden voldoet, twijfel niet en a href="http://2017.foss4g.be/submit-paper.php" alt="http://2017.foss4g.be/submit-paper.php">verstuur nu je presentatie!</a>';
 
 // Workshops 
 $lang['PAPERS_CALL_T2_TXT1'] ='Topics & Debates';
@@ -194,7 +189,7 @@ $lang['PAPERS_CALL_2TXT3'] ='<strong>Applications</strong>: Which Open Geomatics
 $lang['PAPERS_FORMAT'] ='Format of presentations';
 $lang['PAPERS_FORMAT_1'] ='Presentation will take place both in English and in the major official languages of Belgium: Dutch and French.';
 $lang['PAPERS_FORMAT_2'] ='Each individual presentation will be allowed about 20 minutes and 5 minutes for Q&A.';
-$lang['PAPERS_FORMAT_3'] ='Submissions can be written in English, French or Dutch (and adhere to the template available soon in ODT format).';
+$lang['PAPERS_FORMAT_3'] ='Submissions can be written in English, French or Dutch.';
 
 $lang['PAPERS_SUM'] ='Submission';
 $lang['PAPERS_SUM_SUB'] ='Summaries must be sent by e-mail to the following address: <a href="mailto:&#112;&#114;&#101;&#115;&#101;&#110;&#116;&#97;&#116;&#105;&#111;&#110;&#64;&#102;&#111;&#115;&#115;&#52;&#103;&#46;&#98;&#101;" title="&#112;&#114;&#101;&#115;&#101;&#110;&#116;&#97;&#116;&#105;&#111;&#110;&#64;&#102;&#111;&#115;&#115;&#52;&#103;&#46;&#98;&#101;">&#112;&#114;&#101;&#115;&#101;&#110;&#116;&#97;&#116;&#105;&#111;&#110;&#64;&#102;&#111;&#115;&#115;&#52;&#103;&#46;&#98;&#101;</a> by specifying the following elements:';
