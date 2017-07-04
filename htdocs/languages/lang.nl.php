@@ -181,30 +181,30 @@ $lang['PAPERS_CALL_TXT8'] ='Als je aan één van deze voorwaarden voldoet, twijf
 // Workshops 
 $lang['PAPERS_CALL_T2_TXT1'] ='Topics & Debates';
 $lang['PAPERS_CALL_S2_TXT1'] ='Tools &#8226; Goals &#8226; Applications';
-$lang['PAPERS_CALL_2TXT1'] ='<strong>Foss4G’s Tools</strong>: What are the current offers for storage, treatment and web distribution of spatial data?<br />How do Open Source tools allow you to successfully personalize software for your needs?';
-$lang['PAPERS_CALL_2TXT2'] ='<strong>Goals</strong>: How can OSGeo help you in your organization? How to build an effective Open Source solution?<br />How to choose between different solutions?';
-$lang['PAPERS_CALL_2TXT3'] ='<strong>Applications</strong>: Which Open Geomatics tools are deployed and used by administrations, companies, teachers and researchers? What about INSPIRE infrastructures, climate change and smart cities? What are the problems and opportunities that you encountered during migration of commercial software to Open Source software?';
+$lang['PAPERS_CALL_2TXT1'] ='<strong>Foss4G’s Tools</strong>: Wat zijn de huidige oplossingen voor opslag, bewerken en verspreiden van geo-data? Hoe kan je Open Source tools gebruiken om software aan je noden aan te passen?';
+$lang['PAPERS_CALL_2TXT2'] ='<strong>Doelen</strong>: Hoe kan OSGeo jou in je organisatie helpen? Hoe kan je een goede Open Sourceoplossing bouwen? Hoe te kiezen tussen verschillende producten?';
+$lang['PAPERS_CALL_2TXT3'] ='<strong>Toepassingen</strong>: Welke Open Geomatica toepassingen zijn in gebruik bij administraties, bedrijven, lesgevers en onderzoekers? WWat met INSPIRE infrastructuur, klimaatverandering en smart cities? Wat zijn de problemen en kansen die je kan tegenkomen bij de migratie van commerciële software naar Open Source software?';
 
 // PRESENTATIONS FORMAT
-$lang['PAPERS_FORMAT'] ='Format of presentations';
-$lang['PAPERS_FORMAT_1'] ='Presentation will take place both in English and in the major official languages of Belgium: Dutch and French.';
-$lang['PAPERS_FORMAT_2'] ='Each individual presentation will be allowed about 20 minutes and 5 minutes for Q&A.';
-$lang['PAPERS_FORMAT_3'] ='Submissions can be written in English, French or Dutch.';
+$lang['PAPERS_FORMAT'] ='Formaat van de presentaties';
+$lang['PAPERS_FORMAT_1'] ='Presentaties zullen plaatsvinden in het Engels of in de belangrijkste talen van België: Nederlands en Frans.';
+$lang['PAPERS_FORMAT_2'] ='Elke presentatie krijgt ongeveer 20 minuten voor een presentatie en 5 minuten voor vragen.';
+$lang['PAPERS_FORMAT_3'] ='Voorstellen kunnen ingediend worden in het Nederlands, Frans of Engels';
 
-$lang['PAPERS_SUM'] ='Submission';
-$lang['PAPERS_SUM_SUB'] ='Summaries must be sent by e-mail to the following address: <a href="mailto:&#112;&#114;&#101;&#115;&#101;&#110;&#116;&#97;&#116;&#105;&#111;&#110;&#64;&#102;&#111;&#115;&#115;&#52;&#103;&#46;&#98;&#101;" title="&#112;&#114;&#101;&#115;&#101;&#110;&#116;&#97;&#116;&#105;&#111;&#110;&#64;&#102;&#111;&#115;&#115;&#52;&#103;&#46;&#98;&#101;">&#112;&#114;&#101;&#115;&#101;&#110;&#116;&#97;&#116;&#105;&#111;&#110;&#64;&#102;&#111;&#115;&#115;&#52;&#103;&#46;&#98;&#101;</a> by specifying the following elements:';
-$lang['PAPERS_SUM_NAME'] ='Your name and first name;';
-$lang['PAPERS_SUM_EMAIL'] ='A contact email;';
-$lang['PAPERS_SUM_ORG'] ='Your company (organization) and/or employer;';
-$lang['PAPERS_SUM_TITLE'] ='Your intervention\'s title;';
-$lang['PAPERS_SUM_ABSTRACT'] ='A short abstract (200 characters max.) + A long description (700 characters max.);';
-$lang['PAPERS_SUM_TYPE'] ='The nature of your intervention (Explanatory / Application / Demonstration);';
+$lang['PAPERS_SUM'] ='Insturen';
+$lang['PAPERS_SUM_SUB'] ='Presentaties kunnen ingestuurd worden op <a href="http://2017.foss4g.be/submit-paper.php"> volgend formulier. Vermeld volgende gegevens:';
+$lang['PAPERS_SUM_NAME'] ='Je naam en voornaam;';
+$lang['PAPERS_SUM_EMAIL'] ='Een contacte-mailadres;';
+$lang['PAPERS_SUM_ORG'] ='Je bedrijf/organisatie/werkgever;';
+$lang['PAPERS_SUM_TITLE'] ='Een titel;';
+$lang['PAPERS_SUM_ABSTRACT'] ='Een korte abstract;';
+$lang['PAPERS_SUM_TYPE'] ='';
 
 
 // DEADLINE + HOW EVALUATE 
-$lang['PAPERS_DEADLINE'] ='Datum: ten laatste op 2 Oktober';
+$lang['PAPERS_DEADLINE'] ='Datum: ten laatste op 4 september';
 $lang['PAPERS_CALL2T'] ='Deadline';
-$lang['PAPERS_CALL2'] ='Abstracts will be evaluated by a program committee and authors will be notified of their acceptance on October the 7th, 2015.<br />All the presentations will be made available on the event website.</p>';
+$lang['PAPERS_CALL2'] ='Abstracts will be evaluated by a program committee and authors will be notified of their acceptance.<br />All the presentations will be made available on the event website.</p>';
 $lang['PAPERS_CALL3T'] ='How do we evaluate';
 $lang['PAPERS_CALL3'] ='<p>The choice of presentations will be based on the quality of the submitted material, its interest for professional and student audiences and also its consistency with the program. The decision of the selection committee will be final and binding. Committee members speak on their own behalf, their choices do not reflect the position of their employer.</p>';
 $lang['PAPERS_CALL4'] ='<p>The Dutch and French coordinators of the program committee are Johan Van de Wauw (NL) and Gaël Kruwialis (FR).</p>
