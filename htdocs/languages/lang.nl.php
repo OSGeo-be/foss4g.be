@@ -204,13 +204,17 @@ $lang['PAPERS_SUM_TYPE'] ='';
 // DEADLINE + HOW EVALUATE 
 $lang['PAPERS_DEADLINE'] ='Datum: ten laatste op 4 september';
 $lang['PAPERS_CALL2T'] ='Deadline';
-$lang['PAPERS_CALL2'] ='Abstracts will be evaluated by a program committee and authors will be notified of their acceptance.<br />All the presentations will be made available on the event website.</p>';
-$lang['PAPERS_CALL3T'] ='How do we evaluate';
-$lang['PAPERS_CALL3'] ='<p>The choice of presentations will be based on the quality of the submitted material, its interest for professional and student audiences and also its consistency with the program. The decision of the selection committee will be final and binding. Committee members speak on their own behalf, their choices do not reflect the position of their employer.</p>';
-$lang['PAPERS_CALL4'] ='<p>The Dutch and French coordinators of the program committee are Johan Van de Wauw (NL) and Gaël Kruwialis (FR).</p>
-<p>We encourage you to <a href="mailto:&#112;&#114;&#101;&#115;&#101;&#110;&#116;&#97;&#116;&#105;&#111;&#110;&#64;&#102;&#111;&#115;&#115;&#52;&#103;&#46;&#98;&#101;" title="&#112;&#114;&#101;&#115;&#101;&#110;&#116;&#97;&#116;&#105;&#111;&#110;&#64;&#102;&#111;&#115;&#115;&#52;&#103;&#46;&#98;&#101;">send us an email for any inquiries</a>.</p>';
+$lang['PAPERS_CALL2'] ='<p>Bijdragen zullen geevalueerd worden door een programmacommitee en de auteurs zullen bericht krijgen of hun bijdrage aanvaard werd. <br />
+Alle presentaties zullen op de website van het congres geplaatst worden.</p>
+';
+$lang['PAPERS_CALL3T'] ='Evaluatiecriteria';
+$lang['PAPERS_CALL3'] ='<p>
+De keuze van presentaties zal gebaseerd zijn op de kwaliteit van de ingestuurde voorstellen, de relevantie voor het publiek en de plaats binnen het programma.
+De keuze van het programmacommitee is finaal en bindend. De beslissingen van het programmacommittee reflecteren niet de mening van de eventuele werkgevers van de leden.</p>';
+$lang['PAPERS_CALL4'] ='<p>De Nederlandstalige en Franstalige coordinatoren van het programma zijn Johan Van de Wauw (NL) en Gaël Kruwialis (FR). </p>
+<p>Als je nog vragen hebt kan je hen steeds bereiken op presentation <AT> foss4g <dot> be.</p>';
 
-$lang['PAPERS_BUTTON'] ='Contact us now to participate';
+$lang['PAPERS_BUTTON'] ='Neem nu contact op om deel te nemen!';
 
 
 // INFORMATION AND VENUE PAGE ------------------------------------------------------------------------------------------------/
