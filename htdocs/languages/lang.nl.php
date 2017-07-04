@@ -62,7 +62,7 @@ $lang['CALL_3'] = 'Oproep voor bijdragen';
 $lang['PROGRAMME'] = 'Programma';
 
 // HOME OVER ONS
-$lang['ABOUT_TITLE'] = 'Na succesvolle edities in 2015 en 2016 , organiseert OSGeo.be een nieuwe editie van deze FOSS4G.BE conferentie op <b>donderdag 26 oktober 2017</b> in Brussel.';
+$lang['ABOUT_TITLE'] = 'Na succesvolle edities in 2015 en 2016 organiseert OSGeo.be een nieuwe editie van deze FOSS4G.BE conferentie op <b>donderdag 26 oktober 2017</b> in Brussel.';
 
 // HOME SECTION CONFERENTIES
 $lang['HOME_S1_TITLE'] = 'Presentaties en Workshops';
@@ -92,21 +92,21 @@ $lang['HOME_COOKIE_LAW'] = 'Meer informatie over de Europese wetgeving';
 $lang['ABOUT_A_TITLE'] ='Over ons';
 $lang['ABOUT_A_SUBTITLE'] ='Belgische FOSS4G team';
 
-$lang['ABOUT_A_TEXT'] ='NL TODO The local active OSGeo members from Belgium are proud to announce <a href="http://wiki.osgeo.org/wiki/Belgium" target="_blank">the birth of the Belgian local Chapter</a>. Today the Belgian community members are either active in the <a href="http://osgeo.nl/" target="_blank">OSGeo.nl</a>, the <a href="http://osgeo.asso.fr/" target="_blank">OSGeo.fr</a> or in several <a href="http://www.osgeo.org/community.html" target="_blank">OSGeo communities</a>. OSGeo Belgium will therefore act as a bridge between the language communities and cultures, because of it\'s unique multilingual composition.</p>
-<p>The Belgium chapter will actively work on the promotion of open source Geo solutions and the continuation of all the good work based on the existing software stacks. Together with the Belgian eco-system of administrations, industry and schools, we want to build on a more open world.</p>
-<p>On the 29<sup>th</sup> of October 2015, we will organise the first FOSS4G-BE and officialise the birth of the (legal) organisation to the public.';
+$lang['ABOUT_A_TEXT'] ='The local active OSGeo members from Belgium are proud to announce <a href="http://wiki.osgeo.org/wiki/Belgium" target="_blank">the birth of the Belgian local Chapter</a>. Today the Belgian community members are either active in the <a href="http://osgeo.nl/" target="_blank">OSGeo.nl</a>, the <a href="http://osgeo.asso.fr/" target="_blank">OSGeo.fr</a> or in several <a href="http://www.osgeo.org/community.html" target="_blank">OSGeo communities</a>. OSGeo Belgium will therefore act as a bridge between the language communities and cultures, because of it\'s unique multilingual composition.</p>
+<p>The Belgium chapter will actively work on the promotion of open source Geo solutions and the continuation of all the good work based on the existing software stacks. Together with the Belgian eco-system of administrations, industry and schools, we want to build on a more open world.';
 
 $lang['ABOUT_A_SUBTITLE2'] ='OSGeo';
-$lang['ABOUT_A_TEXT2'] ='NL TODO <a href="http://www.osgeo.org/">The Open Source Geospatial Foundation (OSGeo)</a>, is a not-for-profit organization whose mission is to support the collaborative development of open source geospatial software, and promote its widespread use. The foundation provides financial, organizational and legal support to the broader open source geospatial community. It also serves as an independent legal entity to which community members can contribute code, funding and other resources, secure in the knowledge that their contributions will be maintained for public benefit. OSGeo also serves as an outreach and advocacy organization for the open source geospatial community, and provides a common forum and shared infrastructure for improving cross-project collaboration.</p><p>The foundation\'s projects are all freely available and usable under an <a href="http://opensource.org/pressreleases/certified-open-source.php" target="_blank">OSI-certified open source license</a>.</p>';
+$lang['ABOUT_A_TEXT2'] ='<a href="http://www.osgeo.org/">The Open Source Geospatial Foundation (OSGeo)</a>, is a not-for-profit organization whose mission is to support the collaborative development of open source geospatial software, and promote its widespread use. The foundation provides financial, organizational and legal support to the broader open source geospatial community. It also serves as an independent legal entity to which community members can contribute code, funding and other resources, secure in the knowledge that their contributions will be maintained for public benefit. OSGeo also serves as an outreach and advocacy organization for the open source geospatial community, and provides a common forum and shared infrastructure for improving cross-project collaboration.</p><p>The foundation\'s projects are all freely available and usable under an <a href="http://opensource.org/pressreleases/certified-open-source.php" target="_blank">OSI-certified open source license</a>.</p>';
 
 
 // SPONSORS PAGE CALL ------------------------------------------------------------------------------------------------------------/
 
 $lang['SPONSORS_TITLE'] ='Oproep voor sponsors';
 $lang['SPONSORS_SUBTITLE'] ='Help ons om editie 2016 te organiseren';
-$lang['SPONSORS_CALL'] ='Na de eerste geslaagde editie van het <a href="http://2015.foss4g.be">Belgisch FOSS4G event in 2015</a>, organiseert OSGeo.be een nieuwe editie van de FOSS4G.BE conferentie op donderdag 22 september 2016.<br />
+$lang['SPONSORS_CALL'] ='
+Na succesvolle edities in 2015 en 2016 organiseert OSGeo.be een nieuwe editie van deze FOSS4G.BE conferentie op <b>donderdag 26 oktober 2017</b> in Brussel.
 
-FOSS4G conferenties brengen ontwikkelaars en gebruikers (ook managers als beslissers) van open source geomatica software uit de hele wereld samen, om nieuwe richtingen, sprekende implementaties en groeiende zakelijke kansen in het gebied te bespreken. De afgelopen jaren hebben we veel veranderingen in de geo-ict sector gezien. Een van deze veranderingen is de toenemende volwassenheid van open source oplossingen en hun implementatie. Vaak gebruiken organisaties een combinatie van open source en eigen oplossingen. <b>Momenteel zijn we op zoek naar sponsors voor dit tweede Belgische FOSS4G.</b>
+FOSS4G conferenties brengen ontwikkelaars en gebruikers (ook managers als beslissers) van open source geomatica software uit de hele wereld samen, om nieuwe richtingen, sprekende implementaties en groeiende zakelijke kansen in het gebied te bespreken. De afgelopen jaren hebben we veel veranderingen in de geo-ict sector gezien. Een van deze veranderingen is de toenemende volwassenheid van open source oplossingen en hun implementatie. Vaak gebruiken organisaties een combinatie van open source en eigen oplossingen. <b>Momenteel zijn we op zoek naar sponsors voor dit derde Belgische FOSS4G.</b>
 </br>
 
 De verschillende sponsor mogelijkheden worden hieronder uitgelegd, <a href="contact.php">aub neem contact op indien u nog vragen zou hebben</a>.';
@@ -176,7 +176,7 @@ $lang['PAPERS_CALL_TXT5'] ='De development track zal presentaties laten zien van
 
 $lang['PAPERS_CALL_TXT6'] ='Ben je <a href="https://en.wikipedia.org/wiki/Geographic_information_system" target="_blank">een expert in GIS <i class="fa fa-external-link"></i></a>? ';
 $lang['PAPERS_CALL_TXT7'] ='Heb je OSGeo toepassingen gebruikt in een specifieke context - spatial data infrastructure, Big Data, specifieke klanten, innovatieve projecten, .... voor je bedrijf, onderzoeksinstelling of in onderwijs? ';
-$lang['PAPERS_CALL_TXT8'] ='Als je aan één van deze voorwaarden voldoet, twijfel niet en a href="http://2017.foss4g.be/submit-paper.php" alt="http://2017.foss4g.be/submit-paper.php">verstuur nu je presentatie!</a>';
+$lang['PAPERS_CALL_TXT8'] ='Als je aan één van deze voorwaarden voldoet, twijfel niet en <a href="http://2017.foss4g.be/submit-paper.php" alt="http://2017.foss4g.be/submit-paper.php">verstuur nu je presentatie!</a>';
 
 // Workshops 
 $lang['PAPERS_CALL_T2_TXT1'] ='Topics & Debates';
