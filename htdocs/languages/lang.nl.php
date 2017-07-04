@@ -459,7 +459,7 @@ $lang['PROG_DRINK'] = 'Afsluitende drink en netwerking';
 
 	// CTA
 $lang['FOOTER_THANKS'] = 'FOSS4G is een gratis evenement. Alvast dank aan onze sponsors en partners om dit mogelijk te maken.';
-$lang['FOOTER_THANKS_ALL'] = '<a href="http://www.leefmilieu.brussels/" title="Leefmilieu Brussel" style="color:#fff">Leefmilieu Brussel</a><!-- - L\'<a href="http://igeat.ulb.ac.be/" title="IGEAT" style="color:#fff">Institut de Gestion de l\'Environnement et d\'Aménagement du Territoire</a> (IGEAT/ULB) - <a href="http://checksum.be/" style="color:#fff">Checksum</a> -->';
+$lang['FOOTER_THANKS_ALL'] = '';
 $lang['FOOTER_MORE'] = 'Indien u meer informatie nodig hebt <a href="contact.php" style="color:#fff">neem contact op</a> of <a href ="https://www.facebook.com/beopengisfr" title="Facebook" style ="color: #fff">volg ons op Facebook</a> of twitter.';
 	// FOOTER
 
