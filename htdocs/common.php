@@ -41,5 +41,6 @@ switch ($lang) {
   $lang_file = 'lang.en.php';
 
 }
+include_once 'languages/lang.en.php'; //always include english translation - so untranslated items get copied as well
 include_once 'languages/'.$lang_file;
 ?>
