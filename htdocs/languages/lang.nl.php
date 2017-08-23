@@ -440,6 +440,55 @@ Het is daarom dat aan het einde van de deliberaties, bovenop de prijs die zal to
 ';
 
 $lang['MENU_HACK'] = 'Hackathon';
+
+// Call for Maps
+
+$lang['MAPS_TITLE'] = 'Oproep voor kaarten';
+$lang['MAPS_TXT'] ='
+<p>Als "GEO" conferentie vormen kaarten een belangrijk onderdeel en de organisatie doet daarom een oproep voor het ter beschikking stellen van allerlei kaarten, waarvan minimaal één stap in het proces gebaseerd is op open source software voor geografische ondersteuning of met behulp van open data.</p>
+<p>We zijn op zoek naar bijdragen om op de FOSS4G kaartgallerij een uitdagende en prikkelende overzicht te presenteren van het beste op vlak van kartering. Maak (of toon) je eigen kaart op basis van om het even welke gegevens.</p>
+<p>Je kaart kan het resultaat zijn van een professionele activiteit of een persoonlijke uitdaging. We verwachten inzendingen op papier (A1), via email (voeg een screenshot toe) of als interactieve kaart (verwijs naar de URL van de kaart). Samen met je inzending bezorg je een korte beschrijving van je kaart en van de methode om ze te creëren, eventueel de gebruikte software en data voor de realisatie ervan.</p>
+<p>De enige criteria om een bijdrage op te sturen zijn:
+<ul>
+<li>de kaart werd in 2015-2016 gemaakt</li>
+<li>minstens één stap in het productieproces is gebaseerd op geografische open source software</li>
+We nodigen iedereen uit: gebruikers, uitvinders of kartografen van België of daarbuiten om een steentje bij te dragen aan de prachtige kaartgallerij.
+</ul>
+</p>
+<br/>
+<h4>Richtlijnen voor fysieke deelname aan de tentoonstelling</h4>
+<p>Email map@foss4g.be (voor 18 september) en vraag ons om je een plaats te reserveren in de gallerij. Breng de dag van de conferentie een afgedrukte versie op papier mee van je kaart om ze in de gallerij te kunnen ophangen. Je kaart moet op een A1 formaat worden afgedrukt om te kunnen passen in de kaders. Grotere kaarten worden niet toegestaan.</p>
+<br/>
+<h4>Richtlijnen voor on-line deelname</h4>
+<p>
+Stuur je kaart door per mail voor 18 september (map@foss4g.be).
+Opgestuurde kaarten moeten voldoen aan volgende criteria:
+
+<ul>
+<li>Enkel.pdf formaat (waarbij alle lettertypes moeten geconverteerd zijn als outlines)</li>
+<li>Minimale resolutie : 2342 x 3311 pixels (We drukken de kaarten af op een A1 formaat)</li>
+</ul>
+Indien je een interactieve kaart doorstuurt, gelieve de url te bezorgen.
+</p>
+<br/>
+<h4>Volgende informatie dient te worden toegevoegd samen met je kaart</h4>
+<p>
+<ul>
+<li>Titel van de kaart</li>
+<li>uw Naam</li>
+<li>Datum waarop de kaart werd gemaakt</li>
+<li>Organisatie</li>
+<li>eventuele overige auteurs van de kaart</li>
+<li>Korte beschrijving van de kaart. Gelieve de gebruikte software en data te vermelden.</li>
+<li>Schermafdruk (indien het een papieren kaart betreft)</li>
+</ul>
+</p>
+';
+
+$lang['MENU_MAPS'] = 'Oproep voor kaarten';
+
+
+
 // PROGRAMME
 $lang['OPENING_SESSION'] = 'Opening sessie';
 $lang['REGISTRATION'] = 'Registratie';
