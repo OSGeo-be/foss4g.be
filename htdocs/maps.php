@@ -35,7 +35,7 @@
 		<!-- Main -->
 			<section id="main" class="container">
 				<header>
-					<img src="img/foss4gbe2017.svg" alt="<?php echo $lang['SITE_NAME']; ?> - <?php echo $lang['CECI_1']; ?> <?php echo $lang['CECI_2']; ?> <?php echo $lang['CECI_3']; ?>" style="width:30vw;text-align:center;">
+					<img src="<?php echo $lang['CECI-G']; ?>" alt="<?php echo $lang['SITE_NAME']; ?> - <?php echo $lang['CECI_1']; ?> <?php echo $lang['CECI_2']; ?> <?php echo $lang['CECI_3']; ?>" style="width:30vw;text-align:center;">
 				</header>
 				<div class="box">
 
