@@ -47,34 +47,19 @@
 						  <dt class="spons"><a class="accordionTitle sponsors platinium" href="#"> <?php echo $lang['SPONSORS_1_TITLE']; ?> <span class="spon1"><?php echo $lang['SPONSORS_1_TAGLINE']; ?></span></a></dt>
 						  <dd class="accordionItem accordionItem">
 							<a href="http://cirb.brussels" class="sponsor icon cirb"><span class="label">CIRB</span></a>
-							<a href="http://www.neogeo-online.net/" class="sponsor icon neogeo"><span class="label">neogeo</span></a>
-							<a href="http://oslandia.com/" class="sponsor icon oslandia"><span class="label">Oslandia</span></a>
-							<a href="http://www.geosolutions.be" class="sponsor icon geosolutions"><span class="label">Geosolustions</span></a>
 							<a href="http://www.geosparc.com/" class="sponsor icon geosparc"><span class="label">Geosparc</span></a>
-							<a href="http://igeat.ulb.ac.be/" class="sponsor icon igeat"><span class="label">ULB Igeat</span></a>
-							<a href="http://www.innoviris.be/" class="sponsor icon innoviris"><span class="label">Innoviris</span></a>
 						  </dd>						  
 						  <dt class="spons"><a href="#" class="accordionTitle sponsors gold"> <?php echo $lang['SPONSORS_2_TITLE']; ?> <span class="spon2"><?php echo $lang['SPONSORS_2_TAGLINE']; ?></span></a></dt>
 						  <dd class="accordionItem accordionItem">
-							<a href="http://www.idgeo.fr/" class="sponsor icon idgeo"><span class="label">IdGeo</span></a>
-							<a href="http://www.geospatialworldforum.org" class="sponsor icon gsw"><span class="label">Geospatial World Forum</span></a>
-							<a href="http://www.gim.be/" class="sponsor icon gim"><span class="label">GIM</span></a>
 							<a href="http://www.champs-libres.coop/" class="sponsor icon champs-libres"><span class="label">Champs-libres</span></a>
-							<a href="http://www.merkator.be" class="sponsor icon merkator"><span class="label">Merkator</span></a>
 						  </dd>
 						  <dt class="spons"><a href="#" class="accordionTitle sponsors silver"> <?php echo $lang['SPONSORS_3_TITLE']; ?> <span class="spon3"><?php echo $lang['SPONSORS_3_TAGLINE']; ?></span></a></dt>
 						  <dd class="accordionItem accordionItem">
-							<a href="http://aquaterra.be/" class="sponsor icon aquaterra"><span class="label">Aquaterra</span></a>
-				<a href="http://stedelijke-ontwikkeling.irisnet.be/" class="sponsor icon bdu"><span class="label">Bruxelles Développement Urbain</span></a>
 							<a href="http://www.opengeode.be" class="sponsor icon geode"><span class="label">Open Geode</span></a>
-							<a href="http://www.my-poppy.eu/" class="sponsor icon poppy"><span class="label">Poppy</span></a>
-							<a href="http://www.realdolmen.com" class="sponsor icon realdolmen"><span class="label">RealDolmen</span></a>
 						  </dd>
 						  <dt class="spons"><a href="#" class="accordionTitle sponsors bronze"> <?php echo $lang['SPONSORS_4_TITLE']; ?> <span class="spon4"><?php echo $lang['SPONSORS_4_TAGLINE']; ?></span></a></dt>
 						  <dd class="accordionItem accordionItem">
-							<a href="http://www.camptocamp.com/" class="sponsor icon c2c"><span class="label">campstocamp</span></a>
-							<a href="http://www.checksum.be/" class="sponsor icon checksum"><span class="label">Checksum</span></a>
-							<a href="http://www.geobusinet.com" class="sponsor icon geobusinet"><span class="label">Geobusinet</span></a>
+							<a href="https://www.my-poppy.eu/" class="sponsor icon poppy"><span class="label">Geobusinet</span></a>
 						  </dd>
 						</dl>
 					  </div>
