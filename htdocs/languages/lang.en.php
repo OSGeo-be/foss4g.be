@@ -93,9 +93,25 @@ $lang['HOME_COOKIE_LAW'] = 'More info about the EU law';
 $lang['ABOUT_A_TITLE'] ='About us';
 $lang['ABOUT_A_SUBTITLE'] ='FOSS4G Belgian Team';
 
-$lang['ABOUT_A_TEXT'] ='The local active OSGeo members from Belgium are proud to announce <a href="http://wiki.osgeo.org/wiki/Belgium" target="_blank">the birth of the Belgian local Chapter</a>. Today the Belgian community members are either active in the <a href="http://osgeo.nl/" target="_blank">OSGeo.nl</a>, the <a href="http://osgeo.asso.fr/" target="_blank">OSGeo.fr</a> or in several <a href="http://www.osgeo.org/community.html" target="_blank">OSGeo communities</a>. OSGeo Belgium will therefore act as a bridge between the language communities and cultures, because of it\'s unique multilingual composition.</p>
-<p>The Belgium chapter will actively work on the promotion of open source Geo solutions and the continuation of all the good work based on the existing software stacks. Together with the Belgian eco-system of administrations, industry and schools, we want to build on a more open world.</p>
-<p>On the 29<sup>th</sup> of October 2015, we will organise the first FOSS4G-BE and officialise the birth of the (legal) organisation to the public.';
+$lang['ABOUT_A_TEXT'] ='
+FOSS4G Belgium is the yearly Belgium event about Free and Open Source Software for Geospatial.
+
+It is organised by the Belgium Chapter of the Open Geospatial Foundation (OSGeo.be), which
+ is one of the more than 50 local chapters of the Open Geospatial Foundation (OSGeo) worldwide.
+As of today, almost every week there is a FOSS4G conference, somewhere on this planet. But only one is located in Brussels, Belgium. <br/><br/>
+
+The conference is for and by everybody who is interested in an open and inclusive world. We promote free and open source software, but also open standards, open data, open government, ...<br/><br/>
+
+We attract for the Belgium conference between 300 and 400 visitors. Thanks to our <a href="sponsors.php">sponsors</a> we can keep the entrance fee for free.
+Volunteers are presenting and sharing their best practises and experiences. Anybody is encouraged to <a href="papers.php">submit a paper to present</a>.
+And because the topic is all about Geo, MAPS are an important topic and we have every year a wall with the most beautiful maps. You can provide your best work by applying for the <a href="maps.php">call for maps</a>. <br /><br />
+
+
+If we have to describe a FOSS4G conference in one sentence, we should describe the fantastic atmosphere and energy around the event.<br/><br/>
+
+This will be the third edition of the Conference in Belgium.
+
+';
 
 $lang['ABOUT_A_SUBTITLE2'] ='OSGeo';
 $lang['ABOUT_A_TEXT2'] ='<a href="http://www.osgeo.org/">The Open Source Geospatial Foundation (OSGeo)</a>, is a not-for-profit organization whose mission is to support the collaborative development of open source geospatial software, and promote its widespread use. The foundation provides financial, organizational and legal support to the broader open source geospatial community. It also serves as an independent legal entity to which community members can contribute code, funding and other resources, secure in the knowledge that their contributions will be maintained for public benefit. OSGeo also serves as an outreach and advocacy organization for the open source geospatial community, and provides a common forum and shared infrastructure for improving cross-project collaboration.</p><p>The foundation\'s projects are all freely available and usable under an <a href="http://opensource.org/pressreleases/certified-open-source.php" target="_blank">OSI-certified open source license</a>.</p>';

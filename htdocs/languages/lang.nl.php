@@ -1,6 +1,6 @@
 <?php
 // NL File
-$lang = array();
+//$lang = array(); we override the english version
 
 // URLs
 $lang['URL_INDEX_1'] = 'index.php?lang=en'; /* switch to EN */
@@ -92,8 +92,10 @@ $lang['HOME_COOKIE_LAW'] = 'Meer informatie over de Europese wetgeving';
 $lang['ABOUT_A_TITLE'] ='Over ons';
 $lang['ABOUT_A_SUBTITLE'] ='Belgische FOSS4G team';
 
+/*
 $lang['ABOUT_A_TEXT'] ='The local active OSGeo members from Belgium are proud to announce <a href="http://wiki.osgeo.org/wiki/Belgium" target="_blank">the birth of the Belgian local Chapter</a>. Today the Belgian community members are either active in the <a href="http://osgeo.nl/" target="_blank">OSGeo.nl</a>, the <a href="http://osgeo.asso.fr/" target="_blank">OSGeo.fr</a> or in several <a href="http://www.osgeo.org/community.html" target="_blank">OSGeo communities</a>. OSGeo Belgium will therefore act as a bridge between the language communities and cultures, because of it\'s unique multilingual composition.</p>
 <p>The Belgium chapter will actively work on the promotion of open source Geo solutions and the continuation of all the good work based on the existing software stacks. Together with the Belgian eco-system of administrations, industry and schools, we want to build on a more open world.';
+*/
 
 $lang['ABOUT_A_SUBTITLE2'] ='OSGeo';
 $lang['ABOUT_A_TEXT2'] ='<a href="http://www.osgeo.org/">The Open Source Geospatial Foundation (OSGeo)</a>, is a not-for-profit organization whose mission is to support the collaborative development of open source geospatial software, and promote its widespread use. The foundation provides financial, organizational and legal support to the broader open source geospatial community. It also serves as an independent legal entity to which community members can contribute code, funding and other resources, secure in the knowledge that their contributions will be maintained for public benefit. OSGeo also serves as an outreach and advocacy organization for the open source geospatial community, and provides a common forum and shared infrastructure for improving cross-project collaboration.</p><p>The foundation\'s projects are all freely available and usable under an <a href="http://opensource.org/pressreleases/certified-open-source.php" target="_blank">OSI-certified open source license</a>.</p>';

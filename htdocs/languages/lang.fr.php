@@ -1,6 +1,6 @@
 <?php
 // FR File
-$lang = array();
+// $lang = array(); //we override the english version
 
 // URLs
 $lang['URL_INDEX_1'] = 'index.php?lang=en'; /* switch to EN */
@@ -94,9 +94,9 @@ $lang['HOME_COOKIE_LAW'] = 'Plus d\'infos à propos de la loi européenne';
 $lang['ABOUT_A_TITLE'] ='A propos';
 $lang['ABOUT_A_SUBTITLE'] ='Équipe belge FOSS4G';
 
-$lang['ABOUT_A_TEXT'] ='<p>Les membres actifs d\'OSGeo en Belgique sont fiers <a href="http://wiki.osgeo.org/wiki/Belgium" target="_blank">d\'annoncer la naissance de la section locale belge</a>. Aujourd\'hui, les membres de la communauté belge sont soit actifs au sein d\'<a href="http://osgeo.nl/" target="_blank">OSGeo.nl</a>, d\'<a href="http://osgeo.asso.fr/" target="_blank">OSGeo.fr</a>, ou dans plusieurs <a href="http://www.osgeo.org/community.html" target="_blank">communautés OSGeo</a>. OsGeo Belgique agira donc comme un pont entre les communautés linguistiques et les cultures, grâce à sa composition multilingue unique.</p>
+/*$lang['ABOUT_A_TEXT'] ='<p>Les membres actifs d\'OSGeo en Belgique sont fiers <a href="http://wiki.osgeo.org/wiki/Belgium" target="_blank">d\'annoncer la naissance de la section locale belge</a>. Aujourd\'hui, les membres de la communauté belge sont soit actifs au sein d\'<a href="http://osgeo.nl/" target="_blank">OSGeo.nl</a>, d\'<a href="http://osgeo.asso.fr/" target="_blank">OSGeo.fr</a>, ou dans plusieurs <a href="http://www.osgeo.org/community.html" target="_blank">communautés OSGeo</a>. OsGeo Belgique agira donc comme un pont entre les communautés linguistiques et les cultures, grâce à sa composition multilingue unique.</p>
 <p>La section belge travaillera activement à la promotion des solutions Geo Open Source et à la poursuite de tout le bon travail basé sur les solutions logicielles existantes. Avec l\'éco-système belge des administrations, industries et écoles, nous voulons construire un monde plus ouvert.</p>
-<p>Le 29 octobre 2015, nous organiserons le premier FOSS4G-BE et officialiserons publiquement la naissance de l\'organisation légale.</p>';
+<p>Le 29 octobre 2015, nous organiserons le premier FOSS4G-BE et officialiserons publiquement la naissance de l\'organisation légale.</p>';*/
 
 $lang['ABOUT_A_SUBTITLE2'] ='OSGeo';
 $lang['ABOUT_A_TEXT2'] ='<a href="http://www.osgeo.org/">La fondation Open Source Geospatial (OSGeo)</a>, est une organisation sans but lucratif dont la mission est d\'aider et de promouvoir le développement collaboratif des données et des technologies ouvertes en géomatique. La fondation fournit une aide financière, organisationnelle et légale à l\'immense communauté open-source de ce domaine. En outre, elle sert d\'entité légale indépendante à laquelle les membres de la communauté peuvent contribuer (développements informatiques, dons, autres ressources) tout en ayant l\'assurance que leurs contributions resteront au bénéfice de tous. Aussi, l\'OSGeo sert d\'assistance et de défense pour la communauté géospatiale libre, et fournit un forum commun et une infrastructure partagée pour améliorer la collaboration entre ses différents projets.</p><p>Les projets de la fondation sont tous librement disponibles et utilisables sous une <a href="http://opensource.org/pressreleases/certified-open-source.php" target="_blank">licence open source certifiée par l\'OSI</a>.</p>';
