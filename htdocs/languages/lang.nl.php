@@ -450,18 +450,18 @@ $lang['MAPS_TXT'] ='
 <p>Je kaart kan het resultaat zijn van een professionele activiteit of een persoonlijke uitdaging. We verwachten inzendingen op papier (A1), via email (voeg een screenshot toe) of als interactieve kaart (verwijs naar de URL van de kaart). Samen met je inzending bezorg je een korte beschrijving van je kaart en van de methode om ze te creëren, eventueel de gebruikte software en data voor de realisatie ervan.</p>
 <p>De enige criteria om een bijdrage op te sturen zijn:
 <ul>
-<li>de kaart werd in 2015-2016 gemaakt</li>
+<li>de kaart werd in 2016-2017 gemaakt</li>
 <li>minstens één stap in het productieproces is gebaseerd op geografische open source software</li>
 We nodigen iedereen uit: gebruikers, uitvinders of kartografen van België of daarbuiten om een steentje bij te dragen aan de prachtige kaartgallerij.
 </ul>
 </p>
 <br/>
 <h4>Richtlijnen voor fysieke deelname aan de tentoonstelling</h4>
-<p>Email map@foss4g.be (voor 18 september) en vraag ons om je een plaats te reserveren in de gallerij. Breng de dag van de conferentie een afgedrukte versie op papier mee van je kaart om ze in de gallerij te kunnen ophangen. Je kaart moet op een A1 formaat worden afgedrukt om te kunnen passen in de kaders. Grotere kaarten worden niet toegestaan.</p>
+<p>Email map@foss4g.be (voor 8 oktober) en vraag ons om je een plaats te reserveren in de gallerij. Breng de dag van de conferentie een afgedrukte versie op papier mee van je kaart om ze in de gallerij te kunnen ophangen. Je kaart moet op een A1 formaat worden afgedrukt om te kunnen passen in de kaders. Grotere kaarten worden niet toegestaan.</p>
 <br/>
 <h4>Richtlijnen voor on-line deelname</h4>
 <p>
-Stuur je kaart door per mail voor 18 september (map@foss4g.be).
+Stuur je kaart door per mail voor 8 oktober (map@foss4g.be).
 Opgestuurde kaarten moeten voldoen aan volgende criteria:
 
 <ul>

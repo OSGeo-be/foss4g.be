@@ -467,19 +467,19 @@ $lang['MAPS_TXT'] ='
 
 <p>Plus simplement, deux critères sont à respecter pour soumettre votre travail :
 <ul>
-<li>La conception de la carte doit être récente 2015-2016</li>
+<li>La conception de la carte doit être récente 2016-2017</li>
 <li>Au moins une étape du processus de production doit être réalisée en utilisant une technologie Open source ou les données libres</li>
 Nous invitons donc vivement tous les utilisateurs, concepteurs ou créateurs de cartes de partout en Belgique ou d\'ailleurs, à contribuer à ce qui sera, sans aucun doute, la plus détonante des Galeries de Cartes.
 </ul>
 </p>
 <br/>
 <h4>Directives dans le cas où vous souhaitez amener votre carte papier sur place</h4>
-<p>Envoyez-nous mail à : map@foss4g.be (avant le 18 septembre 2016) afin de nous demander la réservation d\'un espace dans la galerie.
+<p>Envoyez-nous mail à : map@foss4g.be (avant le 8 octobre 2017) afin de nous demander la réservation d\'un espace dans la galerie.
 Apporter sur place, lors de la conférence, une copie papier à suspendre dans la galerie. Les supports mis à disposition sont prévus pour l\'affichage de cartes papier d\'un format A1. Les cartes de plus grands formats ne sont pas admises.</p>
 <br/>
 <h4>Directives si vous souhaitez soumettre votre carte en ligne</h4>
 <p>
-Transmettez-nous votre carte pour le 18 septembre 2016 via email (map@foss4g.be).
+Transmettez-nous votre carte pour le 8 octobre 2017 via email (map@foss4g.be).
 Les critères à respecter sont les suivants :
 <ul>
 <li>La carte doit être uniquement en format .pdf (Inclure toutes les polices)</li>
