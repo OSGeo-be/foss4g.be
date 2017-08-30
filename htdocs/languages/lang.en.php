@@ -450,18 +450,18 @@ $lang['MAPS_TXT'] ='
 
 <p>To make it simple, the two criteria\'s for submitting your work are :
 <ul>
-<li>The Map must have been created in 2015-2016</li>
+<li>The Map must have been created in 2016-2017</li>
 <li>At least one step of the production process must have been achieved using open source technology or open data.</li>
 We invite all users, inventors or map creators from anywhere in Belgium or elsewhere to contribute to what will surely be an amazing Map Gallery.
 </ul>
 </p>
 <br/>
 <h4>On-Site Submission Guidelines</h4>
-<p>Email map@foss4g.be (before September 18) and tell us to reserve a space in the gallery for you. Bring a paper copy of your map with you to the conference to hang in the gallery. The gallery map boards accommodate A1 paper maps. Larger maps are not allowed.</p>
+<p>Email map@foss4g.be (before October 8) and tell us to reserve a space in the gallery for you. Bring a paper copy of your map with you to the conference to hang in the gallery. The gallery map boards accommodate A1 paper maps. Larger maps are not allowed.</p>
 <br/>
 <h4>Online Submission Guidelines</h4>
 <p>
-Submit your map by September 18 via email (map@foss4g.be).
+Submit your map by October 8 via email (map@foss4g.be).
 Maps submitted online must meet the following criteria:
 <ul>
 <li>Must be in .pdf format only (Include all fonts or convert to outlines.)</li>
@@ -479,7 +479,7 @@ If you made a interactive map, please provide us with the URL
 <li>Organization</li>
 <li>Additional map authors</li>
 <li>Brief description of map. Please mention software and data used.</li>
-<li>Screeshot (if paper copy)</li>
+<li>Screenshot (if paper copy)</li>
 </ul>
 </p>
 ';
