@@ -48,10 +48,12 @@
 						  <dd class="accordionItem accordionItem">
 							<a href="http://cirb.brussels" class="sponsor icon cirb"><span class="label">CIRB</span></a>
 							<a href="http://www.geosparc.com/" class="sponsor icon geosparc"><span class="label">Geosparc</span></a>
+			    				<a href="http://www.geosolutions.be" class="sponsor icon geosolutions"><span class="label">Geosolutions</span></a>
 						  </dd>						  
 						  <dt class="spons"><a href="#" class="accordionTitle sponsors gold"> <?php echo $lang['SPONSORS_2_TITLE']; ?> <span class="spon2"><?php echo $lang['SPONSORS_2_TAGLINE']; ?></span></a></dt>
 						  <dd class="accordionItem accordionItem">
 							<a href="http://www.champs-libres.coop/" class="sponsor icon champs-libres"><span class="label">Champs-libres</span></a>
+                            				<a href="http://www.gim.be/" class="sponsor icon gim"><span class="label">GIM</span></a>
 						  </dd>
 						  <dt class="spons"><a href="#" class="accordionTitle sponsors silver"> <?php echo $lang['SPONSORS_3_TITLE']; ?> <span class="spon3"><?php echo $lang['SPONSORS_3_TAGLINE']; ?></span></a></dt>
 						  <dd class="accordionItem accordionItem">
