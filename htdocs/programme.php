@@ -78,14 +78,14 @@ $languages= array(0=>"?",1=>"nl", 2=>"fr",3=>"en");
 									else
 									{
 										#plenary sessions
-										printf ("<tr class='progr-1'><td>%s</td><td colspan='4'>%s</td></tr>", $start, htmlentities($row['title'])); }
+										printf ("<tr class='progr-1'><td>%s</td><td colspan='3'>%s</td></tr>", $start, htmlentities($row['title'])); }
 						
 									
 								}
 								else
 								{ #normal sessions
 									if ($lasttrack >=$row['track']) {
-										$width = 4-$lasttrack;
+										$width = 3-$lasttrack;
 										echo "<td colspan='$width'></td></tr>";
 										
 									}
