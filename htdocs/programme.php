@@ -74,7 +74,7 @@ $languages= array(0=>"?",1=>"nl", 2=>"fr",3=>"en");
 										$symbol='';
 										if ($row['type']=='coffee') $symbol = '<i class="fa fa-coffee"></i>';
 										if ($row['type']=='lunch') $symbol = '<i class="fa fa-cutlery"></i>';
-										printf ("<tr class='progr-2'><td>%s</td><td colspan='4'>$symbol%s</td></tr>", $start, htmlentities($row['title'])); }
+										printf ("<tr class='progr-2'><td>%s</td><td colspan='3'>$symbol%s</td></tr>", $start, htmlentities($row['title'])); }
 									else
 									{
 										#plenary sessions
