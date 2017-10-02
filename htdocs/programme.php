@@ -78,7 +78,7 @@ $languages= array(0=>"?",1=>"nl", 2=>"fr",3=>"en");
 									else
 									{
 										#plenary sessions
-										printf ("<tr class='progr-1'><td>%s</td><td colspan='3'>%s</td></tr>", $start, htmlspecialchars($row['title'])); }
+										printf ("<tr class='progr-1'><td>%s</td><td colspan='3'>%s</td></tr>", $start, htmlspecialchars($row['title'], ENT_IGNORE, 'UTF-8'))); }
 						
 									
 								}
