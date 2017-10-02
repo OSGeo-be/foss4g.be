@@ -26,29 +26,31 @@
 		</noscript>
 		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
 	</head>
-	<body>
+	<body class="trans">
 
-		<header id="header">
-			<?php include 'header.inc'; ?>
-		</header>
+		<!-- Header -->
+			<header id="header">
+				<?php include 'header.inc'; ?>
+			</header>
 
 		<!-- Main -->
-		<section id="main" class="container">
-				<header>
-					<img src="images/chapeau-earth.png" style="width:8vw;opacity:0.2;text-align:center;">
-					<h2><sub><</sub> <?php echo $lang['MENU_REG']; ?> <sup>/></sup></h2>
-					<p><?php echo $lang['REGISTRATION_TXT']; ?></p>
-					<!-- <p><?php echo $lang['REGISTRATION_TAGLINE']; ?></p> -->
-				</header>
-				<section class="box">
-					<div style="width:100%; text-align:left;" >
-					<iframe  src="//eventbrite.fr/tickets-external?eid=37887228721&ref=etckt" frameborder="0" height="600" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
+				<!-- Banner -->
+			
+			<section id="banner" style="padding:0.8em 0 0 0;background-image:url(images/banner2.jpg);height:25em">
+				<section id="main" class="container small">
+					<header style="margin-bottom:0">
+						<h3><?php echo $lang['CV_TITLE']; ?> <span class="icon fa-send" id="avion" style="top:-20px"></span></h3>
+						<hr>
+						<h4 style="color:#fff"><?php echo $lang['CV_TXT']; ?></h4>
+					</header>
 					</div>
-					</section>
-		</section>
-		<div class="nav bottom" style="margin-bottom:5vh"><prev></prev><a href="index.php" title="<?php echo $lang['MENU_HOME']; ?>"><?php echo $lang['MENU_HOME']; ?></a> <a href="call.php" title="<?php echo $lang['MENU_CALL2']; ?>"><?php echo $lang['MENU_CALL2']; ?></a><next></next></div>
-	
-		<!-- Footer -->
+					<p style="color:#fff"><?php echo $lang['CV_TXT2']; ?></p>
+				</section>
+			</section>
+				
+		
+			
+	<!-- Footer -->
 		<footer id="footer">
 			<?php include 'footer.inc'; ?>
 		</footer>

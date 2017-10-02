@@ -133,7 +133,18 @@ $lang['SPONSORS_1_TXT3'] ='Page in programme (1 page)';
 $lang['SPONSORS_1_TXT4'] ='Page in programme (1/2 page)';
 $lang['SPONSORS_1_TXT5'] ='Logo on main web page';
 $lang['SPONSORS_1_TXT6'] ='Logo on sponsors web page';
-
+//FROM 2017
+	
+	$lang['SPONSORS_1_TXT7'] ='Select your place';
+	$lang['SPONSORS_1_TXT8'] ='CV before the event ';
+	$lang['SPONSORS_1_TXT14'] ='CV after the event '; 
+	$lang['SPONSORS_1_TXT9'] ='Parking(2)'; 
+	$lang['SPONSORS_1_TXT10'] ='Parking(1)';	
+		$lang['SPONSORS_1_TXT11'] ='Poster Track in Auditorium';
+		$lang['SPONSORS_1_TXT12'] ='Poster Track in Aqua & Sylva';		
+		$lang['SPONSORS_1_TXT13'] ='List of participants';
+		$lang['SPONSORS_1_TXT15'] ='Offer';
+		
 $lang['SPONSORS_2_TITLE'] ='Gold';
 $lang['SPONSORS_2_TAGLINE'] ='750€';
 $lang['SPONSORS_2_TXT1'] ='Exhibition space, Page in programme  (1/2 page) , Logo on main web page, Logo on web page of sponsors.';
@@ -304,6 +315,11 @@ $lang['CONTACT_THX'] = 'Thank you';
 $lang['CONTACT_THX_TXT'] = 'We will get back to you very shortly';
 $lang['CONTACT_THX_TXT2'] = 'In the meantime for more information you can visit<br /><a href="http://wiki.osgeo.org/wiki/Belgium" title="OSGeo Belgium" style="color:#fff;font-weight:bold">OSGeo Belgium</a>, <a href="http://osgeo.nl/" target="_blank" style="color:#fff;font-weight:bold">OSGeo.nl</a>, <a href="http://osgeo.asso.fr/" target="_blank" style="color:#fff;font-weight:bold">OSGeo.fr</a> and the<br /><a href="http://www.osgeo.org/" target="_blank" style="color:#fff;font-weight:bold">Open Source Geospatial Foundation</a>.';
 
+//CV
+$lang['CV_TITLE'] = 'Send your CV in the right box';
+$lang['CV_TXT'] = '<a href="cv@foss4g.be" title="CV for our Sponsors" style="color:#fff;font-weight:bold">cv@foss4g.be</a>
+';
+$lang['CV_TXT2'] = ' Taking information from our  <a href="http://2017.foss4g.be/sponsors.php/" target="_blank" style="color:#fff;font-weight:bold">Sponsors</a>';
 // SPONSORS
 
 // PARTNERS
