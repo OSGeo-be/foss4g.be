@@ -18,11 +18,15 @@ if(!empty($_POST['submit']) && $_POST['submit'] == "save changes" && !empty($_PO
 <html>
 <head>
 <!-- Google Fonts -->
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic">
+
 <!-- CSS Reset -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.css">
+<link rel="stylesheet" href="//cdn.rawgit.com/necolas/normalize.css/master/normalize.css">
+
 <!-- Milligram CSS minified -->
-<link rel="stylesheet" href="https://milligram.github.io/css/milligram.min.css">
+<link rel="stylesheet" href="//cdn.rawgit.com/milligram/milligram/master/dist/milligram.min.css">
+
+<!-- You should properly set the path from the main file. -->
 <style>
  textarea { height: 10em;}
 </style>
