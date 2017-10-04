@@ -36,7 +36,7 @@
 				<!-- Button  -->
 				<li><a href="inscription.php" class="button"><?php echo $lang['MENU_REG']; ?></a></li>
 				
-                    <li><a href="papers.php" class="button"><?php echo $lang['MENU_PROGRAM']; ?></a></li>
+                    <li><a href="programme.php" class="button"><?php echo $lang['MENU_PROGRAM']; ?></a></li>
 					<li><a href="maps.php" class="button"><?php echo $lang['MENU_MAPS']; ?></a></li>
                     <li><a href="call.php" class="button"><?php echo $lang['MENU_CALL2']; ?></a></li>
                 </ul>
