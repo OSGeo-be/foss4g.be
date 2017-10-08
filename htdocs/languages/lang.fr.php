@@ -278,7 +278,7 @@ $lang['INFO_TT_CAR'] ='Parking Tour & Taxis / 3 euros/heure';
 
 // PAGE INSCRIPTION ------------------------------------------------------------------------------------------------/
 
-$lang['REGISTRATION_TXT'] ='L’événement est <u>gratuit pour tous</u>, mais les places sont limitées et l\'inscription est donc obligatoire! En attendant l\'ouverture des inscriptions n\'hésitez pas à <a href="contact.php">nous contacter pour manifester votre intérêt</a>, vous serez les premiers prévenus lors de l\'ouverture celles-ci.';
+$lang['REGISTRATION_TXT'] ='L’événement est <u>gratuit pour tous</u>, mais les places sont limitées et l\'inscription est donc obligatoire! N\'oubliez pas de reserver votre lunch ou de le prendre avec vous.';
 
 $lang['REGISTRATION_TAGLINE'] ='Nous n\'avons qu\'un nombre de places limitées. Si les inscriptions sont clôturées, vous pouvez toujours vous inscrire sur une liste d\'attente via le <a href="contact.php">formulaire de contact</a>';
 
