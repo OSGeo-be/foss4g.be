@@ -1,4 +1,4 @@
-AuthUserFile ../../.htpasswd
+AuthUserFile /lamp0/web/vhosts/2017.foss4g.be
 AuthName "Password Protected Area"
 AuthType Basic
 
