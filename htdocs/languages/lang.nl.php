@@ -92,10 +92,43 @@ $lang['HOME_COOKIE_LAW'] = 'Meer informatie over de Europese wetgeving';
 $lang['ABOUT_A_TITLE'] ='Over ons';
 $lang['ABOUT_A_SUBTITLE'] ='Belgische FOSS4G team';
 
-/*
-$lang['ABOUT_A_TEXT'] ='The local active OSGeo members from Belgium are proud to announce <a href="http://wiki.osgeo.org/wiki/Belgium" target="_blank">the birth of the Belgian local Chapter</a>. Today the Belgian community members are either active in the <a href="http://osgeo.nl/" target="_blank">OSGeo.nl</a>, the <a href="http://osgeo.asso.fr/" target="_blank">OSGeo.fr</a> or in several <a href="http://www.osgeo.org/community.html" target="_blank">OSGeo communities</a>. OSGeo Belgium will therefore act as a bridge between the language communities and cultures, because of it\'s unique multilingual composition.</p>
-<p>The Belgium chapter will actively work on the promotion of open source Geo solutions and the continuation of all the good work based on the existing software stacks. Together with the Belgian eco-system of administrations, industry and schools, we want to build on a more open world.';
-*/
+$lang['ABOUT_A_TEXT'] ='
+FOSS4G België is de jaarlijkse hoogmis rond vrije en open source
+software voor Geo-toepassingen (Free and Open Source Software of
+FLOSS). Het event wordt georganiseerd door de Belgische lokale afdeling
+van OSGeo (OSGeo.be), de open Geospatial stichting. OSGeo beschikt
+wereldwijd over meer dan 50 "local chapters", en in België zijn we nu 3
+jaar actief. Vandaag is er ongeveer elke week ergens ter wereld een
+lokale FOSS4G conferentie. FOSS4G België is de enige die doorgaat in
+Brussel. De plaatsen zijn beperkt, de toegang is gratis, zorg dus dat je
+er snel bij bent.
+
+De conferentie is voor iedereen die geïnteresseerd is in Geo
+software, en iedereen, wie wil meewerken aan een open en verdraagzame
+wereld wordt uitgenodigd om mee te participeren in het proces.
+Naast promotie van vrije en open source software free and open source
+software, promoten en versterken we ook open standarden, open data, open
+government, ...
+
+Voor de eerste 2 edities mochten we telkens tussen de 300 en 400 mensen
+verwelkomen op de conferentie. Dank zij onze sponsors kunnen we de
+toegang tot de conferentie gratis houden, en zelfs voorzien in parallel
+vertaling Nederlands/Frans.
+Vrijwilligers presenteren en delen hun ervaring en slimme weetjes.
+Iedereen wordt aangemoedigd om een presentatie in te dienen en zelf te
+presenteren.
+Aangezien het onderwerp volledig gewijd is aan Geo vormen kaarten een
+belangrijk onderdeel van de conferentie. Elk jaar hebben we een
+"posterwand" waar we de beste kaarten ophangen. Iedereen is welkom om
+eigen werk te presenteren via de "call for maps".
+
+Mochten we FOSS4G in één zin moeten beschrijven, we zouden het hebben
+over de fantastische sfeer en de passionele energie die rond het event
+steeds voelbaar aanwezig is. We nodigen jullie van harte uit om het zelf
+te komen ontdekken.
+
+Welkom op de derde editie van de FOSS4G conferentie!
+';
 
 $lang['ABOUT_A_SUBTITLE2'] ='OSGeo';
 $lang['ABOUT_A_TEXT2'] ='<a href="http://www.osgeo.org/">The Open Source Geospatial Foundation (OSGeo)</a>, is a not-for-profit organization whose mission is to support the collaborative development of open source geospatial software, and promote its widespread use. The foundation provides financial, organizational and legal support to the broader open source geospatial community. It also serves as an independent legal entity to which community members can contribute code, funding and other resources, secure in the knowledge that their contributions will be maintained for public benefit. OSGeo also serves as an outreach and advocacy organization for the open source geospatial community, and provides a common forum and shared infrastructure for improving cross-project collaboration.</p><p>The foundation\'s projects are all freely available and usable under an <a href="http://opensource.org/pressreleases/certified-open-source.php" target="_blank">OSI-certified open source license</a>.</p>';
