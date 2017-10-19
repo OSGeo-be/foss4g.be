@@ -292,6 +292,9 @@ $lang['INFO_TT_CAR'] ='Parking Tour & Taxis / 3 euros/hours';
 // REGISTRATION PAGE ------------------------------------------------------------------------------------------------/
 
 $lang['REGISTRATION_TXT'] = 'The event is <u>free for all</u>, but the available seats are limited and registration is required! Please do not forget to order lunch or bring your own. Registration can be done below or on our <a href="https://www.eventbrite.fr/e/billets-foss4g-be-37887228721">eventbrite</a> page.';
+$lang['REGISTRATION_SURVEYORS_TXT'] = 'The FOSS4G BELGIUM 2017 conference has also been accredited by the Federal Council of Surveyors and can give up to 5 hours of permament training, depending on the effective attendance time.<br/>
+Even if our event is free for all, filing fees of 25 € will be charged to obtain this certificate.<br/>
+If you want to receive a certificate, please select the "Surveyor" ticket. The organisers will then take contact with you afterwards to undertake the formalities.';
 
 $lang['REGISTRATION_TAGLINE'] ='Nous n\'avons qu\'un nombre de places limitées, mais si les inscriptions sont clôturées, vous pouvez toujours vous inscrire sur une liste d\'attente via le <a href="contact.php">formulaire de contact</a>';
 
