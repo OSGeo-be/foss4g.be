@@ -317,6 +317,9 @@ $lang['INFO_TT_CAR'] ='Parking Tour & Taxis / 3 euros/uur';
 // REGISTRATION PAGE ------------------------------------------------------------------------------------------------/
 
 $lang['REGISTRATION_TXT'] = 'Het evenement is gratis maar het aantal plaatsen is beperkt en registratie is noodzakelijk. Noteer dat er in de buurt weinig mogelijkheden tot lunch zijn: indien geen lunch besteld wordt neem je die best zelf mee. Indien je reeds geregistreerd bent voor een ticket kan je op onderstaande pagina ook een bijkomend lunchticket aankopen.';
+$lang['REGISTRATION_SURVEYORS_TXT'] = 'De FOSS4G BELGIUM 2017 is erkend door de Federale Raad van landmeters-experten en telt mee, afhankelijk van uw effectieve aanwezigheid, voor  5 uur permanente vorming.<br/>
+Voor het verkrijgen van een attest van deelname worden 25€ administratiekosten aangerekend.<br/>
+Indien u een attest wil krijgen, moet u registeren met een "Surveyor" ticket. De organisatoren zullen daarna contact opnemen met u voor de formaliteiten.';
 
 $lang['REGISTRATION_TAGLINE'] ='Nous n\'avons qu\'un nombre de places limitées, mais si les inscriptions sont clôturées, vous pouvez toujours vous inscrire sur une liste d\'attente via le <a href="contact.php">formulaire de contact</a>';
 

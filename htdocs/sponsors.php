@@ -56,6 +56,7 @@
 						    <a href="https://overheid.vlaanderen.be/informatie-vlaanderen"  class="sponsor icon aiv"><span class="label">Agentschap Informatie Vlaanderen</span></a>
 							<a href="http://www.champs-libres.coop/" class="sponsor icon champs-libres"><span class="label">Champs-libres</span></a>
                             <a href="http://www.gim.be/" class="sponsor icon gim"><span class="label">GIM</span></a>
+			    <a href="http://ngi.be/" class="sponsor icon ngi"><span class="label">NGI</span></a>
                             <a href="http://oslandia.com/" class="sponsor icon oslandia"><span class="label">Oslandia</span></a>
 						  </dd>
 						  <dt class="spons"><a href="#" class="accordionTitle sponsors silver"> <?php echo $lang['SPONSORS_3_TITLE']; ?> <span class="spon3"><?php echo $lang['SPONSORS_3_TAGLINE']; ?></span></a></dt>
