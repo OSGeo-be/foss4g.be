@@ -2372,3 +2372,9 @@ a.pluss:before, a.pluss:after {content:' ' !important;}
     transform: scale(0.8);
   }
 }
+.slidelogo {
+   background:url('../images/slide-icon-32.png');
+   width:32px;
+   float:left;
+ }
+
