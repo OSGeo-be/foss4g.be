@@ -1,0 +1,7 @@
+AuthUserFile /srv/data/web/vhosts/2017.foss4g.be/.htpasswd
+AuthName "Password Protected Area"
+AuthType Basic
+
+<limit GET POST>
+require valid-user
+</limit>
