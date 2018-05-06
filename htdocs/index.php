@@ -12,7 +12,7 @@
 		<script src="js/skel.min.js" type="text/javascript"></script>
 		<script src="js/skel-layers.min.js" type="text/javascript"></script>
 		<script src="js/init.js" type="text/javascript"></script>
-		<link rel="canonical" href="http://2017.foss4g.be/" />
+		<link rel="canonical" href="http://2018.foss4g.be/" />
 		<noscript>
 			<link rel="stylesheet" href="css/skel.css" />
 			<link rel="stylesheet" href="css/style.css" />
@@ -50,7 +50,7 @@
 						<img src="images/chapeau-earth.png">
 						<p><?php echo $lang['ABOUT_TITLE']; ?></p>
 					</header>
-					<span class="image featured"><img src="images/foss4g2016.svg" alt="" /></span>
+					<span class="image featured"><img src="images/foss4g.svg" alt="" /></span>
 				</section>
 
 			</section>
