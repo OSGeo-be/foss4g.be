@@ -13,13 +13,13 @@ $lang['URL_INDEX_3'] = 'index.php?lang=fr'; /* switch to FR */
 $lang['URL_CONTACT'] = 'contact.php';
 
 // NOM DU SITE ET HEADERS
-$lang['SITE_NAME'] = 'FOSS4G Belgium 2017';
-$lang['SITE_TITLE'] = 'FOSS4G Belgique 2017';
-$lang['SITE_DESCRIPTION'] = 'FOSS4G Belgique 2017';
+$lang['SITE_NAME'] = 'FOSS4G Belgium 2018';
+$lang['SITE_TITLE'] = 'FOSS4G Belgique 2018';
+$lang['SITE_DESCRIPTION'] = 'FOSS4G Belgique 2018';
 $lang['SITE_KEYWORDS'] = 'FOSS4G Geo marqueur GIS Open Source Bruxelles';
 $lang['SITE_AUTHOR'] = 'FOSS4G Belgium';
-$lang['SITE_DATATOP'] = '<div class="foss4g"></div> 26 Octobre - Bruxelles';
-$lang['SITE_DATABIG'] = '<a href="http://bel.brussels/" alt="BEL Building" style="color:white" target="_blank">BEL - Bruxelles Environnement</a> - 26 octobre 2017';
+$lang['SITE_DATATOP'] = '<div class="foss4g"></div> 25 Octobre - Bruxelles';
+$lang['SITE_DATABIG'] = '<a href="http://bel.brussels/" alt="BEL Building" style="color:white" target="_blank">BEL - Bruxelles Environnement</a> - 25 octobre 2018';
 
 // MENU
 $lang['MENU_HOME'] = 'Accueil';
@@ -63,7 +63,7 @@ $lang['CALL_3'] = 'Appel à contributions';
 $lang['PROGRAMME'] = 'Programme';
 
 // HOME A PROPOS
-$lang['ABOUT_TITLE'] = 'Après les succès du FOSS4G Belgium en 2015 et 2016, OSGeo.be organisera <b>le jeudi 26 Octobre 2017</b> une nouvelle édition de la conférence FOSS4G.BE à Bruxelles. Restez à l\'écoute pour plus d\'infos! <br>
+$lang['ABOUT_TITLE'] = 'Après les succès du FOSS4G Belgium en 2015, 2016 et 2017, OSGeo.be organisera <b>le jeudi 25 Octobre 2018</b> une nouvelle édition de la conférence FOSS4G.BE à Bruxelles. Restez à l\'écoute pour plus d\'infos! <br>
 Envie de participer à l\'organisation de cet évènement ? Contactez-nous sur info@foss4g.be';
 
 // HOME SECTION CONFERENCES
@@ -170,8 +170,8 @@ $lang['SPONSORS_T_SUBTITLE'] ='Merci à nos sponsors pour leur soutien';
 // APPEL A CONTRIBUTIONS  ------------------------------------------------------------------------------------------------------------/
 
 $lang['PAPERS_TITLE'] ='Appel à contributions';
-$lang['PAPERS_SUBTITLE'] ='Participez au succès de l\'édition 2017';
-$lang['PAPERS_CALL'] ='Le 26 octobre 2017, l\'OSGeo-be organise un événement dédié à la géomatique libre à Bruxelles dans le BEL de Bruxelles Environnement. Le FOSS4G-be sera une journée de conférences, démonstrations, débats et de rencontres sur les thématiques de l’OSGeo. Ce sera aussi l\'occasion <strong>de rassembler la communauté</strong> des utilisateurs, développeurs, décideurs, ou simples curieux de logiciels libres en géomatique.</p>
+$lang['PAPERS_SUBTITLE'] ='Participez au succès de l\'édition 2018';
+$lang['PAPERS_CALL'] ='Le 25 octobre 2018, l\'OSGeo-be organise un événement dédié à la géomatique libre à Bruxelles dans le BEL de Bruxelles Environnement. Le FOSS4G-be sera une journée de conférences, démonstrations, débats et de rencontres sur les thématiques de l’OSGeo. Ce sera aussi l\'occasion <strong>de rassembler la communauté</strong> des utilisateurs, développeurs, décideurs, ou simples curieux de logiciels libres en géomatique.</p>
 <p><strong>L\'événement devrait rassembler entre 250 à 400 personnes</strong>.<br />Cette rencontre permettra de partager nos connaissances et nos expériences sous la forme de conférences et démonstrations, d\'une durée de <strong>25min</strong> chacune.';
 
 // Plenary Session
@@ -188,7 +188,7 @@ $lang['PAPERS_CALL_TXT5'] ='<strong>La session dev</strong> portera sur la prés
 
 $lang['PAPERS_CALL_TXT6'] ='Êtes-vous un expert en <a href="https://fr.wikipedia.org/wiki/Syst%C3%A8me_d%27information_g%C3%A9ographique" target="_blank"> GIS <i class="fa fa-external-link"></i></a>?';
 $lang['PAPERS_CALL_TXT7'] ='Avez-vous utilisé des outils OSGeo dans un contexte spécifique pour votre organisation? Tels qu\'un projet d\'envergure, des données très volumineuses, un client reconnu, un projet innovant, etc?';
-$lang['PAPERS_CALL_TXT8'] ='Si vous vous reconnaissez dans ce programme à propos de l\'un ou l\'autre aspect, ARRETEZ TOUT et <a href="http://2017.foss4g.be/submit-paper.php" alt="http://2017.foss4g.be/submit-paper.php"> envoyez nous la présentation à propos de votre talent ou domaine d\'expertise</a>.';
+$lang['PAPERS_CALL_TXT8'] ='Si vous vous reconnaissez dans ce programme à propos de l\'un ou l\'autre aspect, ARRETEZ TOUT et <a href="http://2018.foss4g.be/submit-paper.php" alt="http://2018.foss4g.be/submit-paper.php"> envoyez nous la présentation à propos de votre talent ou domaine d\'expertise</a>.';
 
 // Workshops
 $lang['PAPERS_CALL_T2_TXT1'] ='Sujets & débats';
@@ -204,7 +204,7 @@ $lang['PAPERS_FORMAT_2'] ='Chaque présentation disposera de 20 minutes et de 5 
 $lang['PAPERS_FORMAT_3'] ='Les présentations soumises peuvent l\'être en anglais, français ou néerlandais (et adhérer au modèle en format ODT bientôt disponible).';
 
 $lang['PAPERS_SUM'] ='Soumettre votre présentation';
-$lang['PAPERS_SUM_SUB'] ='Les résumés doivent être envoyés à l\'aide du <a href="http://2017.foss4g.be/submit-paper.php" title="http://2017.foss4g.be/submit-paper.php">formulaire de soumission</a> en spécifant les éléments suivants:';
+$lang['PAPERS_SUM_SUB'] ='Les résumés doivent être envoyés à l\'aide du <a href="http://2018.foss4g.be/submit-paper.php" title="http://2018.foss4g.be/submit-paper.php">formulaire de soumission</a> en spécifant les éléments suivants:';
 $lang['PAPERS_SUM_NAME'] ='Votre Nom et Prénom;';
 $lang['PAPERS_SUM_EMAIL'] ='Un email de contact;';
 $lang['PAPERS_SUM_ORG'] ='Votre entreprise (organisation) et/ou employeur;';
@@ -214,9 +214,9 @@ $lang['PAPERS_SUM_TYPE'] ='La nature de votre intervention (Explicative / Applic
 
 
 // DATE LIMITE + COMMENT EVALUONS-NOUS 
-$lang['PAPERS_DEADLINE'] ='Date limite pour les soumissions: 4 septembre 2017';
+$lang['PAPERS_DEADLINE'] ='Date limite pour les soumissions: 4 septembre 2018';
 $lang['PAPERS_CALL2T'] ='Date limite';
-$lang['PAPERS_CALL2'] ='Les résumés seront évalués par un comité de programme et les auteurs retenus en seront avertis le 9 octobre 2017. Toutes les présentations seront mises en ligne sur le site de l\'événement.';
+$lang['PAPERS_CALL2'] ='Les résumés seront évalués par un comité de programme et les auteurs retenus en seront avertis le 15 septembre 2018. Toutes les présentations seront mises en ligne sur le site de l\'événement.';
 $lang['PAPERS_CALL3T'] ='Méthode d\'évaluation';
 $lang['PAPERS_CALL3'] ='<p>Le choix des présentations sera basé sur la qualité des descriptions soumises, son intérêt pour une audience professionnelle et étudiante, et la cohérence du programme de la journée. La décision du comité de sélection sera finale et sans appel. Les membres du comité s\'expriment en leur nom propre et leurs choix ne reflètent pas la position de leur employeur.<p>';
 $lang['PAPERS_CALL4'] ='Les coordinateurs néerlandais et francophones du comité de programme sont Johan Van de Wauw (NL) and Gaël Kruwialis (FR).</p><p>Nous vous encourageons à <a href="mailto:&#112;&#114;&#101;&#115;&#101;&#110;&#116;&#97;&#116;&#105;&#111;&#110;&#64;&#102;&#111;&#115;&#115;&#52;&#103;&#46;&#98;&#101;" title="&#112;&#114;&#101;&#115;&#101;&#110;&#116;&#97;&#116;&#105;&#111;&#110;&#64;&#102;&#111;&#115;&#115;&#52;&#103;&#46;&#98;&#101;"> nous envoyer un mail pour toutes demandes </a>.</p>';
@@ -279,7 +279,7 @@ $lang['INFO_TT_CAR'] ='Parking Tour & Taxis / 3 euros/heure';
 // PAGE INSCRIPTION ------------------------------------------------------------------------------------------------/
 
 $lang['REGISTRATION_TXT'] ='L’événement est <u>gratuit pour tous</u>, mais les places sont limitées et l\'inscription est donc obligatoire! N\'oubliez pas de reserver votre lunch ou de le prendre avec vous.';
-$lang['REGISTRATION_SURVEYORS_TXT'] = "La conférence FOSS4G BELGIUM 2017 a également été reconnue par le Conseil fédéral des géomètres-experts et peut donner jusqu’à 5 heures de formation permanente, selon le temps de présence effective.<br/>
+$lang['REGISTRATION_SURVEYORS_TXT'] = "La conférence FOSS4G BELGIUM 2018 a également été reconnue par le Conseil fédéral des géomètres-experts et peut donner jusqu’à 5 heures de formation permanente, selon le temps de présence effective.<br/>
 Bien que notre évènement soit gratuit pour tous, des frais de dossiers s'élevant à 25 € seront demandés pour l'obtention de cette attestation.<br/>
 Si vous souhaitez obtenir une attestation, merci de bien vouloir vous inscrire en sélectionnant un ticket \"Surveyor\". Les organisateurs reprendront par la suite contact avec vous afin de régler les formalités.";
 
@@ -309,7 +309,7 @@ $lang['CV_TITLE'] = 'N\'envoyez plus vos CV au hasard';
 $lang['CV_TXT'] = 'Postez les à cette adresse <br />
 <br /><a href="cv@foss4g.be" title="CV for our Sponsors" style="color:#fff;font-weight:bold">cv@foss4g.be</a>
 ';
-$lang['CV_TXT2'] = ' Et surtout renseignez vous aupres de nos <a href="http://2017.foss4g.be/sponsors.php/" target="_blank" style="color:#fff;font-weight:bold">Sponsors</a>';
+$lang['CV_TXT2'] = ' Et surtout renseignez vous aupres de nos <a href="http://2018.foss4g.be/sponsors.php/" target="_blank" style="color:#fff;font-weight:bold">Sponsors</a>';
 
 
 // SPONSORS
@@ -489,19 +489,19 @@ $lang['MAPS_TXT'] ='
 
 <p>Plus simplement, deux critères sont à respecter pour soumettre votre travail :
 <ul>
-<li>La conception de la carte doit être récente 2016-2017</li>
+<li>La conception de la carte doit être récente 2017-2018</li>
 <li>Au moins une étape du processus de production doit être réalisée en utilisant une technologie Open source ou les données libres</li>
 Nous invitons donc vivement tous les utilisateurs, concepteurs ou créateurs de cartes de partout en Belgique ou d\'ailleurs, à contribuer à ce qui sera, sans aucun doute, la plus détonante des Galeries de Cartes.
 </ul>
 </p>
 <br/>
 <h4>Directives dans le cas où vous souhaitez amener votre carte papier sur place</h4>
-<p>Envoyez-nous mail à : map@foss4g.be (avant le 8 octobre 2017) afin de nous demander la réservation d\'un espace dans la galerie.
+<p>Envoyez-nous mail à : map@foss4g.be (avant le 8 octobre 2018) afin de nous demander la réservation d\'un espace dans la galerie.
 Apporter sur place, lors de la conférence, une copie papier à suspendre dans la galerie. Les supports mis à disposition sont prévus pour l\'affichage de cartes papier d\'un format A1. Les cartes de plus grands formats ne sont pas admises.</p>
 <br/>
 <h4>Directives si vous souhaitez soumettre votre carte en ligne</h4>
 <p>
-Transmettez-nous votre carte pour le 8 octobre 2017 via email (map@foss4g.be).
+Transmettez-nous votre carte pour le 15 septembre 2018 via email (map@foss4g.be).
 Les critères à respecter sont les suivants :
 <ul>
 <li>La carte doit être uniquement en format .pdf (Inclure toutes les polices)</li>
