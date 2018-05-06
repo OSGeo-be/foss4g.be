@@ -18,7 +18,6 @@
 		<script src="js/skel-layers.min.js" type="text/javascript"></script>
 		<script src="js/init.js" type="text/javascript"></script>
 		<script src="js/accordion.js" type="text/javascript"></script>
-		<script src="http://openlayers.org/en/v3.6.0/build/ol.js" type="text/javascript"></script>	
 		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->	
 		<noscript>
 			<link rel="stylesheet" href="css/skel.css" />
