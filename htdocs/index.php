@@ -34,7 +34,7 @@
                 <img src="<?php echo $lang['CECI']; ?>" alt="<?php echo $lang['SITE_NAME']; ?> - <?php echo $lang['CECI_1']; ?> <?php echo $lang['CECI_2']; ?> <?php echo $lang['CECI_3']; ?>">
                 <ul class="actions">
 				<!-- Button  -->
-                    <li><a href="papers.php" class="button"><?php echo $lang['MENU_CALL']; ?></a></li>
+                    <li><a href="papers.php" class="button"><?php echo $lang['MENU_CALL3']; ?></a></li>
 					<li><a href="maps.php" class="button"><?php echo $lang['MENU_MAPS']; ?></a></li>
                     <li><a href="call.php" class="button"><?php echo $lang['MENU_CALL2']; ?></a></li>
                 </ul>

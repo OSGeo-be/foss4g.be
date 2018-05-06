@@ -7,11 +7,11 @@
 							<ul>
 								<li><a href="about.php"><?php echo $lang['MENU_ABOUT']; ?></a></li>
 								<li><a href="call.php"><?php echo $lang['MENU_CALL2']; ?></a></li>
-								<li><a href="inscription.php"><?php echo $lang['MENU_REG']; ?></a></li>
-								<li><a href="programme.php"><?php echo $lang['MENU_PROGRAM']; ?></a></li>
+								<li><a href="papers.php"><?php echo $lang['MENU_CALL3']; ?></a></li>
+								<!--<li><a href="programme.php"><?php echo $lang['MENU_PROGRAM']; ?></a></li>-->
 								
 								<!--<li><a href="maps.php"><?php echo $lang['MENU_MAPS']; ?></a></li>-->
-								<li><a href="sponsors.php">Sponsors</a></li>
+								<!--<li><a href="sponsors.php">Sponsors</a></li>-->
 								<li><a href="contact.php"><?php echo $lang['MENU_CONTACT']; ?></a></li>
 							</ul>
 						</li>
