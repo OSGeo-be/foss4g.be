@@ -43,7 +43,7 @@
 					<p><?php echo $lang['ABOUT_A_TEXT']; ?></p>
 					<hr>
 					<h3><?php echo $lang['ABOUT_A_SUBTITLE2']; ?></h3>
-					<p><span class="image left"><img src="images/logo-osgeo.png" alt="OSGeo" /></span> <?php echo $lang['ABOUT_A_TEXT2']; ?></p>
+					<p><span class="image left"><img src="images/logo-osgeo.svg" alt="OSGeo" /></span> <?php echo $lang['ABOUT_A_TEXT2']; ?></p>
 					
 				</div>
 				<div class="nav bottom"><prev></prev><a href="index.php" title="<?php echo $lang['MENU_HOME']; ?>"><?php echo $lang['MENU_HOME']; ?></a> <a href="call.php" title="<?php echo $lang['MENU_CALL2']; ?>"><?php echo $lang['MENU_CALL2']; ?></a><next></next></div>
