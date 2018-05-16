@@ -10,7 +10,7 @@
 		<meta name="geo.position" content="50.866248;4.349073" />
 		<meta name="geo.region" content="BE-Brussels" />
 		<meta name="ICBM" content="50.866248, 4.349073" />	
-		<link rel="canonical" href="http://www.foss4g.be/" />
+		<link rel="canonical" href="http://2018.foss4g.be/" />
 		<script src="js/jquery.min.js" type="text/javascript"></script>
 		<script src="js/jquery.dropotron.min.js" type="text/javascript"></script>
 		<script src="js/jquery.scrollgress.min.js" type="text/javascript"></script>
@@ -93,7 +93,6 @@
 		</footer>
 
 		<script src="js/accordion.js" type="text/javascript"></script>
-		<script src="http://openlayers.org/en/v3.6.0/build/ol.js" type="text/javascript"></script>	
 		<script>
 		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

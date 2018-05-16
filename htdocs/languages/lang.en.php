@@ -13,13 +13,13 @@ $lang['URL_NAME_3'] = 'French';
 $lang['URL_CONTACT'] = 'contact.php';
 
 // SITE NAME AND HEADERS
-$lang['SITE_NAME'] = 'FOSS4G Belgium 2017';
-$lang['SITE_TITLE'] = 'FOSS4G Belgium 2017';
-$lang['SITE_DESCRIPTION'] = 'FOSS4G Belgium 2017';
+$lang['SITE_NAME'] = 'FOSS4G Belgium 2018';
+$lang['SITE_TITLE'] = 'FOSS4G Belgium 2018';
+$lang['SITE_DESCRIPTION'] = 'FOSS4G Belgium 2018';
 $lang['SITE_KEYWORDS'] = 'FOSS4G Geo marker GIS Open Source Brussels';
 $lang['SITE_AUTHOR'] = 'FOSS4G Belgium';
-$lang['SITE_DATATOP'] = ' <div class="foss4g"></div> 26 october 2017';
-$lang['SITE_DATABIG'] = '<a href="http://bel.brussels/">Brussels Environment and Energy Agency</a> - 26 October 2017';
+$lang['SITE_DATATOP'] = ' <div class="foss4g"></div> 25 october 2018';
+$lang['SITE_DATABIG'] = '<a href="http://bel.brussels/">Brussels Environment and Energy Agency</a> - 25 October 2018';
 
 // MENU
 $lang['MENU_HOME'] = 'Home';
@@ -51,8 +51,8 @@ $lang['FOSS4G_LOAD'] ='Loading...';
 $lang['CECI_1'] = 'this';
 $lang['CECI_2'] = 'is not';
 $lang['CECI_3'] = 'a conference';
-$lang['CECI'] 	= 'images/foss4gbe2017.svg';
-$lang['CECI-G'] = 'images/foss4gbe2017-g.svg';
+$lang['CECI'] 	= 'images/foss4gbe.svg';
+$lang['CECI-G'] = 'images/foss4gbe-g.svg';
 
 // CALL-TO_ACTION
 $lang['CALL_foto'] = 'Photos';
@@ -62,7 +62,7 @@ $lang['CALL_3'] = 'Call for Papers';
 $lang['PROGRAMME'] = 'Programme';
 
 // HOME ABOUT
-$lang['ABOUT_TITLE'] = 'After the very succesful FOSS4G Belgium events in 2015 and 2016, <a href="http://www.osgeo.be">OSGeo.be</a>  announces the date of the next FOSS4G Belgium Conference: <b>26 October 2017</b>. Stay tuned for more info! <br>
+$lang['ABOUT_TITLE'] = 'After the very succesful FOSS4G Belgium events in 2015, 2016 and 2017, <a href="http://www.osgeo.be">OSGeo.be</a>  announces the date of the next FOSS4G Belgium Conference: <b>25 October 2018</b>. Stay tuned for more info! <br>
 Interested in joining the organisation? Get in touch with info@foss4g.be';
 
 // HOME SECTION CONFERENCES
@@ -120,7 +120,7 @@ $lang['ABOUT_A_TEXT2'] ='<a href="http://www.osgeo.org/">The Open Source Geospat
 // SPONSORS PAGE CALL ------------------------------------------------------------------------------------------------------------/
 
 $lang['SPONSORS_TITLE'] ='Call for Sponsors';
-$lang['SPONSORS_SUBTITLE'] ='Help making our 2017 edition a success';
+$lang['SPONSORS_SUBTITLE'] ='Help making our 2018 edition a success';
 $lang['SPONSORS_CALL'] ='The FOSS4G Belgian Local Organizing Committee is calling for sponsors.<br />
 					The available sponsorship opportunities are listed and detailed here, <a href="contact.php">please contact us with any question on the packages</a>.';
 $lang['SPONSORS_BUTTON'] ='Contact us now to become a sponsor';
@@ -183,8 +183,8 @@ $lang['SPONSORS_T_SUBTITLE'] ='We would like to thank our sponsors for making th
 // PAPERS PAGE CALL ------------------------------------------------------------------------------------------------------------/
 
 $lang['PAPERS_TITLE'] ='Call for papers';
-$lang['PAPERS_SUBTITLE'] ='Help making our 2017 edition a success';
-$lang['PAPERS_CALL'] ='On the 26th of October 2017, OSGeo-be will host an event dedicated to free geomatics in Brussels at BEL, the Environment and Energy Agency of Brussels. FOSS4Gbe will be a day of conferences, demonstrations, debates and meetings about OSGeo topics. It will also be an opportunity <strong>to bring together the community</strong> of users, developers, policy makers or just curious FOSS geomatics.</p>
+$lang['PAPERS_SUBTITLE'] ='Help making our 2018 edition a success';
+$lang['PAPERS_CALL'] ='On the 25th of October 2018, OSGeo-be will host an event dedicated to free geomatics in Brussels at BEL, the Environment and Energy Agency of Brussels. FOSS4Gbe will be a day of conferences, demonstrations, debates and meetings about OSGeo topics. It will also be an opportunity <strong>to bring together the community</strong> of users, developers, policy makers or just curious FOSS geomatics.</p>
 <p><strong>The event is expected to gather around 250 to 400 people</strong>.<br />We will share knowledge and experiences during the whole event through presentations and demonstrations with <strong>25 minutes each at most</strong>.</p>';
 
 // Plenary Session
@@ -201,7 +201,7 @@ $lang['PAPERS_CALL_TXT5'] ='The <strong>dev track</strong> will be a sort of dev
 
 $lang['PAPERS_CALL_TXT6'] ='Are you <a href="https://en.wikipedia.org/wiki/Geographic_information_system" target="_blank">an expert in GIS <i class="fa fa-external-link"></i></a>? ';
 $lang['PAPERS_CALL_TXT7'] ='Did you used OSGeo’s tools in a specific context - large SDI, Big Data, specific customer, innovative project, etc. - for your own business, research or for education?';
-$lang['PAPERS_CALL_TXT8'] ='If you meet any of these, STOP and... <a href="http://2017.foss4g.be/submit-paper.php" alt="http://2017.foss4g.be/submit-paper.php">feel free to suggest a presentation!</a>';
+$lang['PAPERS_CALL_TXT8'] ='If you meet any of these, STOP and... <a href="http://2018.foss4g.be/submit-paper.php" alt="http://2018.foss4g.be/submit-paper.php">feel free to suggest a presentation!</a>';
 
 // Workshops 
 $lang['PAPERS_CALL_T2_TXT1'] ='Topics & Debates';
@@ -217,7 +217,7 @@ $lang['PAPERS_FORMAT_2'] ='Each individual presentation will be allowed about 20
 $lang['PAPERS_FORMAT_3'] ='Submissions can be written in English, French or Dutch (and adhere to the template available soon in ODT format).';
 
 $lang['PAPERS_SUM'] ='Submission';
-$lang['PAPERS_SUM_SUB'] ='Summaries must be submitted using this <a href="http://2017.foss4g.be/submit-paper.php" title="http://2017.foss4g.be/submit-paper.php">form</a> by specifying the following elements:';
+$lang['PAPERS_SUM_SUB'] ='Summaries must be submitted using this <a href="http://2018.foss4g.be/submit-paper.php" title="http://2018.foss4g.be/submit-paper.php">form</a> by specifying the following elements:';
 $lang['PAPERS_SUM_NAME'] ='Your name and first name;';
 $lang['PAPERS_SUM_EMAIL'] ='A contact email;';
 $lang['PAPERS_SUM_ORG'] ='Your company (organization) and/or employer;';
@@ -229,7 +229,7 @@ $lang['PAPERS_SUM_TYPE'] ='The nature of your intervention (Explanatory / Applic
 // DEADLINE + HOW EVALUATE 
 $lang['PAPERS_DEADLINE'] ='Deadline for submissions: September 4';
 $lang['PAPERS_CALL2T'] ='Deadline';
-$lang['PAPERS_CALL2'] ='Deadline for submission is September 4, but we invite presenters to send their title as soon as possible. Abstracts will be evaluated by a program committee and authors will be notified of their acceptance on October the 9th, 2017.<br />All the presentations will be made available on the event website.</p>';
+$lang['PAPERS_CALL2'] ='Deadline for submission is September 4, but we invite presenters to send their title as soon as possible. Abstracts will be evaluated by a program committee and authors will be notified of their acceptance on September the 15th, 2018.<br />All the presentations will be made available on the event website.</p>';
 $lang['PAPERS_CALL3T'] ='How do we evaluate';
 $lang['PAPERS_CALL3'] ='<p>The choice of presentations will be based on the quality of the submitted material, its interest for professional and student audiences and also its consistency with the program. The decision of the selection committee will be final and binding. Committee members speak on their own behalf, their choices do not reflect the position of their employer.</p>';
 $lang['PAPERS_CALL4'] ='<p>The Dutch and French coordinators of the program committee are Johan Van de Wauw (NL) and Gaël Kruwialis (FR).</p>
@@ -250,20 +250,6 @@ $lang['INFO_FOOD'] ='Catering & Amenities';
 $lang['INFO_FOOD_TXT'] ='Greenhouse gas emissions, water consumption, impacts on biodiversity, waste production... The environmental impacts of our food are enormous. Brussels Environment applies an ambitious and dynamic policy on sustainable food, which is why the BEL restaurant is exemplary in this respect. The food served there includes organic, local and seasonal dishes and vegetarian alternatives. Discover the <a href="http://www.biorganicfactory.be/fr/concept.php" target="_blank">Biorganic Factory</a>';
 
 $lang['INFO_PROG'] ='Programme';
-$lang['INFO_PROG_TEXT1'] ='	Tuesday, October the 29th, 2015
-						<ul class="alt" style="font-size:80%">
-							<li>08:00-09:00 - Setup of exhibition space</li>
-							<li>09:00-09:30 - Registration</li>
-							<li>09:30-10:00 - Welcome and presentation of OSGeo/OSGeo-BE</li>
-							<li>10:00-10:30 - Plenary Keynotes</li>
-							<li>10:30-11:00 - Coffee Break</li>
-							<li>11:00-12:40 - Concurrent Sessions: Main track - Side track 1 - Side track 2</li>
-							<li>12:40-14:00 - Lunch Break</li>
-							<li>14:00-16:10 - Concurrent Sessions: Main track - Side track 1 - Side track 2</li>
-							<li>16:10-16:40 - Coffee Break</li>
-							<li>16:40-17:00 - Conclusions and Outlook for OSGeo-BE</li>
-							<li> >18:30     - Networking</li>
-							</ul>';
 $lang['INFO_PROG_TEXT2'] ='The detailed and complete programme will be available very soon';							
 
 $lang['INFO_ADRES'] ='Address';
@@ -292,7 +278,7 @@ $lang['INFO_TT_CAR'] ='Parking Tour & Taxis / 3 euros/hours';
 // REGISTRATION PAGE ------------------------------------------------------------------------------------------------/
 
 $lang['REGISTRATION_TXT'] = 'The event is <u>free for all</u>, but the available seats are limited and registration is required! Please do not forget to order lunch or bring your own. Registration can be done below or on our <a href="https://www.eventbrite.fr/e/billets-foss4g-be-37887228721">eventbrite</a> page.';
-$lang['REGISTRATION_SURVEYORS_TXT'] = 'The FOSS4G BELGIUM 2017 conference has also been accredited by the Federal Council of Surveyors and can give up to 5 hours of permament training, depending on the effective attendance time.<br/>
+$lang['REGISTRATION_SURVEYORS_TXT'] = 'The FOSS4G BELGIUM 2018 conference has also been accredited by the Federal Council of Surveyors and can give up to 5 hours of permament training, depending on the effective attendance time.<br/>
 Even if our event is free for all, filing fees of 25 € will be charged to obtain this certificate.<br/>
 If you want to receive a certificate, please select the "Surveyor" ticket. The organisers will then take contact with you afterwards to undertake the formalities.';
 
@@ -322,7 +308,7 @@ $lang['CONTACT_THX_TXT2'] = 'In the meantime for more information you can visit<
 $lang['CV_TITLE'] = 'Send your CV in the right box';
 $lang['CV_TXT'] = '<a href="cv@foss4g.be" title="CV for our Sponsors" style="color:#fff;font-weight:bold">cv@foss4g.be</a>
 ';
-$lang['CV_TXT2'] = ' Taking information from our  <a href="http://2017.foss4g.be/sponsors.php/" target="_blank" style="color:#fff;font-weight:bold">Sponsors</a>';
+$lang['CV_TXT2'] = ' Taking information from our  <a href="http://2018.foss4g.be/sponsors.php/" target="_blank" style="color:#fff;font-weight:bold">Sponsors</a>';
 // SPONSORS
 
 // PARTNERS
@@ -345,132 +331,6 @@ $lang['PROG_DRINK'] = 'Closing Drink and Networking';
 // Hack
 
 $lang['HACK_DATE'] = '<div class="foss4g"></div> 28 Oct 2015 - CIRB-CIBG - Avenue des Arts, 21 - Bruxelles';
-$lang['HACK_TXT'] ='<p style = "text-align: center;"> Foss4g.be is proud to announce the implementation of a Hackathon </p>.
-<p> This event will take place in the BRIC (Center for Informatics of the Brussels Region) <u> <strong> Wednesday, October 28th, 2015 during a whole day </strong> </u>. The format of the day will the different teams with the opportunity to compete amicably in the development of projects in relation with Open Data and Smart City (Mobility &ndash; Environment &ndash; administrative services (to citizens) &ndash; quality of life) <br />
-<br />
-In reward, prize money, coaching by companies and a presentation in plenary on Foss4g.be. <br />
-During the day, a catering equipped to meet the vital needs of the participants. </p>
-<table border = "1" cellpadding = "1" cellspacing = "1" style = "width: 500px;">
-<tbody>
-<tr>
-<td> <strong> REGISTRATION </strong> </td>
-<td style = "text-align: center;"> <a href="http://doodle.com/poll/serug76hrg5rpifh" target="_blank"> <ins> <strong> http://doodle.com/ poll / serug76hrg5rpifh </strong> </ins> </a> </td>
-
-<td> <strong> CONTACT </strong> </td>
-<td style = "text-align: center;"> channecart@cirb.brussels </td>
-</tr>
-</tbody>
-</table>
-<p><strong>Agenda </strong></p>
-
-<table border="0" cellpadding="0" cellspacing="0" style="width:530px;" width="530">
-	<tbody>
-		<tr>
-			<td style="width:91px;height:20px;">
-			<p>9&nbsp;h</p>
-			</td>
-			<td style="width:440px;height:20px;">
-			<p>Welkom</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="width:91px;height:75px;">
-			<p>9&nbsp;h&nbsp;30</p>
-			</td>
-			<td style="width:440px;height:75px;">
-			<p>Presentation of the objectives of the Hackathon<br />
-			Presentation of available data<br />
-			Presentations potential tools available</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="width:91px;height:20px;">
-			<p>10&nbsp;h&nbsp;30</p>
-			</td>
-			<td style="width:440px;height:20px;">
-			<p>Constitution teams</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="width:91px;height:20px;">
-			<p>11hh -12h30</p>
-			</td>
-			<td style="width:440px;height:20px;">
-			<p>Brainstorming in teams to define the project</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="width:91px;height:20px;">
-			<p>12&nbsp;h&nbsp;30 - 13&nbsp;h&nbsp;30</p>
-			</td>
-			<td style="width:440px;height:20px;">
-			<p>Buffet party</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="width:91px;height:80px;">
-			<p>13&nbsp;h&nbsp;30 -16h30</p>
-			</td>
-			<td style="width:440px;height:80px;">
-			<p>Create a project architecture with the aim:</p>
-
-			<ul>
-				<li>a presentation (ppt 10 minutes)</li>
-				<li>possible presentation
-				<ul style="list-style-type:circle;">
-					<li>modules</li>
-					<li>code</li>
-					<li>specific resource use</li>
-					<li>design</li>
-				</ul>
-				</li>
-			</ul>
-			</td>
-		</tr>
-		<tr>
-			<td style="width:91px;height:20px;">
-			<p>16&nbsp;h&nbsp;30 -17h15</p>
-			</td>
-			<td style="width:440px;height:20px;">
-			<p>Presentation of projects</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="width:91px;height:60px;">
-			<p>17&nbsp;h&nbsp;15 17&nbsp;h&nbsp;25</p>
-			</td>
-			<td style="width:440px;height:60px;">
-			<p>Deliberation and vote of the jury</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="width:91px;height:20px;">
-			<p>17&nbsp;h&nbsp;30</p>
-			</td>
-			<td style="width:440px;height:20px;">
-			<p>Proclamation by Sebastian M SERRANO (Innoviris) and friendly drink</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-<p> The objectives and opportunities are multiple. <br />
-For it will be possible for the numerous open data sources available in the Brussels Region, and elsewhere, to discover and use.
-For this event there will be a &ldquo; CKAN &rdquo; platform will be developed and it will be possible to familiarize themselves or to improve in the use of software through &nbsp; <a href="http://live.osgeo.org/en/" target="_blank"> OSGeo- Live </a>. </p>
-<p> We are aware that &eacute; &eacute;. one day will not be enough to complete the projects <br />
-That is why at the end of the deliberations, in addition to the price that will be paid by INNOVIRIS - the organization responsible for the promotion of research and innovation in the Brussels Region - proposes to assess the feasibility of the BUSINESS le development the winning project. </p>
-<p> This day is an excellent opportunity for people with offered from &eacute; &eacute; nlopend profile (data manager, web designer, developer, geomatician &hellip;) coming from different backgrounds (administrations, enterprises, social associations &hellip;) to the to unite forces in order to promote the values ​​of the Open Source. </p>
-<p> To the participants to prepare as well as possible, but also to ensure the optimum course of the day on October 28, <strong> An information session is being organized (optional) on Thursday, October 22, 2015 from 14h to 16h </ strong> <br />
-<u> Calendar </u> </p>
-<ul>
-<li> Presentation of the platform CKAN </li>
-<li> presentation of the data </li>
-<li> select the theme </li>
-</ul>
-<p> The address for all of the events is the <a target="_blank"> href="http://cibg.brussels" CIRB </a>, Avenue des Arts 21, 1000 Brussels. The contact person is Mr. Claude HANNECART (<a href="mailto:channecart@cirb.brussels"> channecart@cirb.brussels </a>) or info@foss4g.be </p>
-<p> For the best organization, you can contact us to confirm your participation by e-mail or via Doodle (Note the number of places is limited) </p>
-<p style = "text-align: center;"> <a href="http://doodle.com/poll/serug76hrg5rpifh"> http://doodle.com/poll/serug76hrg5rpifh </a> </p>
-<p> We thank you in advance and there are already sure of the success of this event thanks to your commitment. </p>
-';
 
 $lang['MENU_HACK'] = 'Hackathon';
 
@@ -485,18 +345,18 @@ $lang['MAPS_TXT'] ='
 
 <p>To make it simple, the two criteria\'s for submitting your work are :
 <ul>
-<li>The Map must have been created in 2016-2017</li>
+<li>The Map must have been created in 2017-2018</li>
 <li>At least one step of the production process must have been achieved using open source technology or open data.</li>
 We invite all users, inventors or map creators from anywhere in Belgium or elsewhere to contribute to what will surely be an amazing Map Gallery.
 </ul>
 </p>
 <br/>
 <h4>On-Site Submission Guidelines</h4>
-<p>Email map@foss4g.be (before October 8) and tell us to reserve a space in the gallery for you. Bring a paper copy of your map with you to the conference to hang in the gallery. The gallery map boards accommodate A1 paper maps. Larger maps are not allowed.</p>
+<p>Email map@foss4g.be (before September 15) and tell us to reserve a space in the gallery for you. Bring a paper copy of your map with you to the conference to hang in the gallery. The gallery map boards accommodate A1 paper maps. Larger maps are not allowed.</p>
 <br/>
 <h4>Online Submission Guidelines</h4>
 <p>
-Submit your map by October 8 via email (map@foss4g.be).
+Submit your map by September 15 via email (map@foss4g.be).
 Maps submitted online must meet the following criteria:
 <ul>
 <li>Must be in .pdf format only (Include all fonts or convert to outlines.)</li>

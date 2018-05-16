@@ -12,7 +12,7 @@
 		<script src="js/skel.min.js" type="text/javascript"></script>
 		<script src="js/skel-layers.min.js" type="text/javascript"></script>
 		<script src="js/init.js" type="text/javascript"></script>
-		<link rel="canonical" href="http://2017.foss4g.be/" />
+		<link rel="canonical" href="http://2018.foss4g.be/" />
 		<noscript>
 			<link rel="stylesheet" href="css/skel.css" />
 			<link rel="stylesheet" href="css/style.css" />
@@ -34,9 +34,7 @@
                 <img src="<?php echo $lang['CECI']; ?>" alt="<?php echo $lang['SITE_NAME']; ?> - <?php echo $lang['CECI_1']; ?> <?php echo $lang['CECI_2']; ?> <?php echo $lang['CECI_3']; ?>">
                 <ul class="actions">
 				<!-- Button  -->
-				<li><a href="inscription.php" class="button"><?php echo $lang['MENU_REG']; ?></a></li>
-				
-                    <li><a href="programme.php" class="button"><?php echo $lang['MENU_PROGRAM']; ?></a></li>
+                    <li><a href="papers.php" class="button"><?php echo $lang['MENU_CALL3']; ?></a></li>
 					<li><a href="maps.php" class="button"><?php echo $lang['MENU_MAPS']; ?></a></li>
                     <li><a href="call.php" class="button"><?php echo $lang['MENU_CALL2']; ?></a></li>
                 </ul>
@@ -50,7 +48,7 @@
 						<img src="images/chapeau-earth.png">
 						<p><?php echo $lang['ABOUT_TITLE']; ?></p>
 					</header>
-					<span class="image featured"><img src="images/foss4g2016.svg" alt="" /></span>
+					<span class="image featured"><img src="images/foss4g.svg" alt="" /></span>
 				</section>
 
 			</section>

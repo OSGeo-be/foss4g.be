@@ -13,13 +13,13 @@ $lang['URL_INDEX_3'] = 'index.php?lang=fr'; /* switch to FR */
 $lang['URL_CONTACT'] = 'contact.php';
 
 // SITE NAME AND HEADERS
-$lang['SITE_NAME'] = 'FOSS4G Belgium 2017';
-$lang['SITE_TITLE'] = 'FOSS4G België 2017';
-$lang['SITE_DESCRIPTION'] = 'FOSS4G België 2017';
+$lang['SITE_NAME'] = 'FOSS4G Belgium 2018';
+$lang['SITE_TITLE'] = 'FOSS4G België 2018';
+$lang['SITE_DESCRIPTION'] = 'FOSS4G België 2018';
 $lang['SITE_KEYWORDS'] = 'Foss4G Geo GIS Open Source Brussel OSGeo OSGeoBE België';
 $lang['SITE_AUTHOR'] = 'FOSS4G Belgium';
-$lang['SITE_DATATOP'] = '26 Oktober 2017 - Brussel';
-$lang['SITE_DATABIG'] = '<a href="http://bel.brussels/nl/content/bereikbaarheid">BEL Brussel</a> - 26 Oktober 2017';
+$lang['SITE_DATATOP'] = '25 Oktober 2018 - Brussel';
+$lang['SITE_DATABIG'] = '<a href="http://bel.brussels/nl/content/bereikbaarheid">BEL Brussel</a> - 26 Oktober 2018';
 
 // MENU
 $lang['MENU_HOME'] = 'Home';
@@ -51,8 +51,8 @@ $lang['FOSS4G_LOAD'] ='Aan het laden...';
 $lang['CECI_1'] = 'dit';
 $lang['CECI_2'] = 'is geen';
 $lang['CECI_3'] = 'conferentie';
-$lang['CECI'] 	= 'images/foss4gbe2017.svg';
-$lang['CECI-G'] = 'images/foss4gbe2017-g.svg';
+$lang['CECI'] 	= 'images/foss4gbe.svg';
+$lang['CECI-G'] = 'images/foss4gbe-g.svg';
 
 // CALL-TO_ACTION
 $lang['CALL_foto'] = 'Fotos';
@@ -62,7 +62,7 @@ $lang['CALL_3'] = 'Oproep voor bijdragen';
 $lang['PROGRAMME'] = 'Programma';
 
 // HOME OVER ONS
-$lang['ABOUT_TITLE'] = 'Na succesvolle edities in 2015 en 2016 organiseert OSGeo.be een nieuwe editie van deze FOSS4G.BE conferentie op <b>donderdag 26 oktober 2017</b> in Brussel.';
+$lang['ABOUT_TITLE'] = 'Na succesvolle edities in 2015, 2016 en 2017 organiseert OSGeo.be een nieuwe editie van deze FOSS4G.BE conferentie op <b>donderdag 25 oktober 2018</b> in Brussel.';
 
 // HOME SECTION CONFERENTIES
 $lang['HOME_S1_TITLE'] = 'Presentaties en Workshops';
@@ -139,7 +139,7 @@ $lang['ABOUT_A_TEXT2'] ='<a href="http://www.osgeo.org/">The Open Source Geospat
 $lang['SPONSORS_TITLE'] ='Oproep voor sponsors';
 $lang['SPONSORS_SUBTITLE'] ='Help ons om editie 2016 te organiseren';
 $lang['SPONSORS_CALL'] ='
-Na succesvolle edities in 2015 en 2016 organiseert OSGeo.be een nieuwe editie van deze FOSS4G.BE conferentie op <b>donderdag 26 oktober 2017</b> in Brussel.
+Na succesvolle edities in 2015 en 2016 organiseert OSGeo.be een nieuwe editie van deze FOSS4G.BE conferentie op <b>donderdag 25 oktober 2018</b> in Brussel.
 
 FOSS4G conferenties brengen ontwikkelaars en gebruikers (ook managers als beslissers) van open source geomatica software uit de hele wereld samen, om nieuwe richtingen, sprekende implementaties en groeiende zakelijke kansen in het gebied te bespreken. De afgelopen jaren hebben we veel veranderingen in de geo-ict sector gezien. Een van deze veranderingen is de toenemende volwassenheid van open source oplossingen en hun implementatie. Vaak gebruiken organisaties een combinatie van open source en eigen oplossingen. <b>Momenteel zijn we op zoek naar sponsors voor dit derde Belgische FOSS4G.</b>
 </br>
@@ -205,7 +205,7 @@ $lang['SPONSORS_T_SUBTITLE'] ='Dank aan onze sponsors om dit mogelijk te maken';
 // PAPERS PAGE CALL ------------------------------------------------------------------------------------------------------------/
 
 $lang['PAPERS_TITLE'] ='Oproep voor bijdragen';
-$lang['PAPERS_SUBTITLE'] ='Help ons de editie in 2017 een succes te maken';
+$lang['PAPERS_SUBTITLE'] ='Help ons de editie in 2018 een succes te maken';
 $lang['PAPERS_CALL'] ='
 ';
 // Plenary Session
@@ -222,7 +222,7 @@ $lang['PAPERS_CALL_TXT5'] ='De development track zal presentaties laten zien van
 
 $lang['PAPERS_CALL_TXT6'] ='Ben je <a href="https://en.wikipedia.org/wiki/Geographic_information_system" target="_blank">een expert in GIS <i class="fa fa-external-link"></i></a>? ';
 $lang['PAPERS_CALL_TXT7'] ='Heb je OSGeo toepassingen gebruikt in een specifieke context - spatial data infrastructure, Big Data, specifieke klanten, innovatieve projecten, .... voor je bedrijf, onderzoeksinstelling of in onderwijs? ';
-$lang['PAPERS_CALL_TXT8'] ='Als je aan één van deze voorwaarden voldoet, twijfel niet en <a href="http://2017.foss4g.be/submit-paper.php" alt="http://2017.foss4g.be/submit-paper.php">verstuur nu je presentatie!</a>';
+$lang['PAPERS_CALL_TXT8'] ='Als je aan één van deze voorwaarden voldoet, twijfel niet en <a href="http://2018.foss4g.be/submit-paper.php" alt="http://2018.foss4g.be/submit-paper.php">verstuur nu je presentatie!</a>';
 
 // Workshops 
 $lang['PAPERS_CALL_T2_TXT1'] ='Topics & Debates';
@@ -238,7 +238,7 @@ $lang['PAPERS_FORMAT_2'] ='Elke presentatie krijgt ongeveer 20 minuten voor een 
 $lang['PAPERS_FORMAT_3'] ='Voorstellen kunnen ingediend worden in het Nederlands, Frans of Engels';
 
 $lang['PAPERS_SUM'] ='Insturen';
-$lang['PAPERS_SUM_SUB'] ='Presentaties kunnen ingestuurd worden op <a href="http://2017.foss4g.be/submit-paper.php"> volgend formulier. Vermeld volgende gegevens:';
+$lang['PAPERS_SUM_SUB'] ='Presentaties kunnen ingestuurd worden op <a href="http://2018.foss4g.be/submit-paper.php"> volgend formulier. Vermeld volgende gegevens:';
 $lang['PAPERS_SUM_NAME'] ='Je naam en voornaam;';
 $lang['PAPERS_SUM_EMAIL'] ='Een contacte-mailadres;';
 $lang['PAPERS_SUM_ORG'] ='Je bedrijf/organisatie/werkgever;';
@@ -317,7 +317,7 @@ $lang['INFO_TT_CAR'] ='Parking Tour & Taxis / 3 euros/uur';
 // REGISTRATION PAGE ------------------------------------------------------------------------------------------------/
 
 $lang['REGISTRATION_TXT'] = 'Het evenement is gratis maar het aantal plaatsen is beperkt en registratie is noodzakelijk. Noteer dat er in de buurt weinig mogelijkheden tot lunch zijn: indien geen lunch besteld wordt neem je die best zelf mee. Indien je reeds geregistreerd bent voor een ticket kan je op onderstaande pagina ook een bijkomend lunchticket aankopen.';
-$lang['REGISTRATION_SURVEYORS_TXT'] = 'De FOSS4G BELGIUM 2017 is erkend door de Federale Raad van landmeters-experten en telt mee, afhankelijk van uw effectieve aanwezigheid, voor  5 uur permanente vorming.<br/>
+$lang['REGISTRATION_SURVEYORS_TXT'] = 'De FOSS4G BELGIUM 2018 is erkend door de Federale Raad van landmeters-experten en telt mee, afhankelijk van uw effectieve aanwezigheid, voor  5 uur permanente vorming.<br/>
 Voor het verkrijgen van een attest van deelname worden 25€ administratiekosten aangerekend.<br/>
 Indien u een attest wil krijgen, moet u registeren met een "Surveyor" ticket. De organisatoren zullen daarna contact opnemen met u voor de formaliteiten.';
 
@@ -346,7 +346,7 @@ $lang['CONTACT_THX_TXT2'] = 'In the meantime for more information you can visit<
 $lang['CV_TITLE'] = 'Send your CV in the right box';
 $lang['CV_TXT'] = '<a href="cv@foss4g.be" title="CV for our Sponsors" style="color:#fff;font-weight:bold">cv@foss4g.be</a>
 ';
-$lang['CV_TXT2'] = ' Taking information from our  <a href="http://2017.foss4g.be/sponsors.php/" target="_blank" style="color:#fff;font-weight:bold">Sponsors</a>';
+$lang['CV_TXT2'] = ' Taking information from our  <a href="http://2018.foss4g.be/sponsors.php/" target="_blank" style="color:#fff;font-weight:bold">Sponsors</a>';
 // SPONSORS
 
 // PARTNERS
@@ -503,7 +503,7 @@ $lang['MAPS_TXT'] ='
 <p>Je kaart kan het resultaat zijn van een professionele activiteit of een persoonlijke uitdaging. We verwachten inzendingen op papier (A1), via email (voeg een screenshot toe) of als interactieve kaart (verwijs naar de URL van de kaart). Samen met je inzending bezorg je een korte beschrijving van je kaart en van de methode om ze te creëren, eventueel de gebruikte software en data voor de realisatie ervan.</p>
 <p>De enige criteria om een bijdrage op te sturen zijn:
 <ul>
-<li>de kaart werd in 2016-2017 gemaakt</li>
+<li>de kaart werd in 2017-2018 gemaakt</li>
 <li>minstens één stap in het productieproces is gebaseerd op geografische open source software</li>
 We nodigen iedereen uit: gebruikers, uitvinders of kartografen van België of daarbuiten om een steentje bij te dragen aan de prachtige kaartgallerij.
 </ul>
