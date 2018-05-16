@@ -44,25 +44,9 @@
 
 						<!-- Text -->
 							<section class="box">
-								<h3>Organizing Committee</h3>
-								<p>This year we (OSGeoBE) have the ambition to organise a first FOSS4G-BE on 29 October 2015 in Brussels. This event will also be used to announce the birth of our Chapter. In preparation for this official expression of interest, a couple of meetings have already taken place, one physical, most of them trough digital communication (skype/IRC). <a href="http://wiki.osgeo.org/wiki/Belgium">The meeting minutes can be found on the OSGeo wiki.</a></p>							
-								<header>
-								<h4 style="margin-top:20px">Belgium OSGEO Chapter</h4>
-								<p>The Belgium OSGeo Chapter has the support of the following initial founding members (alphabetic - first name):</p>
-									<ul>
-										<li>Ben Abelhausen - liason with OSM - Belgium community</li>
-										<li>Dirk Frigne - founding member of the Geomajas community</li>
-										<li>Gaël Kruwialis - active member of the local FOSS momement in the Brussels area - contact with the Brussels administration</li>
-										<li>Johan Van de Wauw - OSGeo Charter Member</li>
-										<li>Maëlle Vercauteren Drubbel - Supervisor and trainer in the Free GIS ARES internship at the IGEAT/ULB</li>
-										<li>Marc Ducobu - liason with OSGeo.fr</li>
-										<li>Moritz Lennert - GRASS GIS PSC Member, contact with academic world</li>
-										<li>Oliver May - PSC member of the Geomajas project</li>
-										<li>Pieter Colpaert - link with the open knowledge foundation</li>
-										<li>Ruben Capelle</li>
-										<li>Tommy Oozeer - OSGeo Advocate</li>
-									</ul>
-								</header>
+                                <h3>Organizing Committee</h3>
+                                <p>FOSS4G Belgium is organised by <a href="http://wiki.osgeo.org/wiki/Belgium">The Belgian chapter of OSGeo</a>
+                                </p>
 								
 
 								<hr />
@@ -72,11 +56,11 @@
 								<blockquote style="font-style:normal">Marcos Peebles <a href="http://twitter.com/MarcosPeebles" title="Marcos Peebles">@marcospeebles</a> and Gaël Kruwailis.</blockquote>
 
 								<h4>Source Codes</h4>
-								<pre>// DESIGN, JS, HTML & CSS
+								<pre>// DESIGN, JS, HTML &amp; CSS
 Base template from http://pixelarity.com/ see licence [ http://pixelarity.com/license ]
 Grab the same and play at http://html5up.net | @n33co (awesome guy!) CCA 3.0 license
 								
-// DESIGN, LOGO, JS, HTML & CSS
+// DESIGN, LOGO, JS, HTML &ampk CSS
 Marcos Peebles - June/July 2015 @marcospeebles [ http://peebles.be ]
 All additional work under the WTFPL Licence [ http://www.wtfpl.net/ ]
 
@@ -112,7 +96,7 @@ wamp [ http://wampserver.com/ ]
 Browserstack [ http://browserstack.com/ ]
 codepen.io [ http://codepen.io ]
 Google Chrome Debugger, Firefox Debugger
-...and Adobe PS & AI CC (yay no GIMP) 
+...and Adobe PS &amp; AI CC (yay no GIMP) 
 </pre>
 								<h4>Hosting</h4>
 								<blockquote style="font-style:normal"><a href="https://www.ovh.com/" title="OVH">OVH</a></blockquote>
