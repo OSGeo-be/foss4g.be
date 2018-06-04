@@ -189,14 +189,10 @@ $lang['PAPERS_CALL'] ='On the 25th of October 2018, OSGeo-be will host an event 
 
 // Plenary Session
 $lang['PAPERS_CALL_T_TXT1'] ='Presentations and side tracks';
-$lang['PAPERS_CALL_S_TXT1'] ='We will be having 4 parallel streams';
-$lang['PAPERS_CALL_TXT1a'] ='Plenary';
-$lang['PAPERS_CALL_TXT1b'] ='2 special tracks';
-$lang['PAPERS_CALL_TXT1c'] ='Dev Track';
+$lang['PAPERS_CALL_S_TXT1'] ='There will be several parallel streams';
+$lang['PAPERS_CALL_S_TXT2'] ='Plenary sessions will be show cases of FOSS4G usages within business, administration, education and research.'
 
 $lang['PAPERS_CALL_TXT3'] ='<strong>Plenary sessions</strong> will be show cases of FOSS4G usages within business, administration, education and research.';
-$lang['PAPERS_CALL_TXT4'] ='One <strong>special track</strong> will be dedicated to OpenStreetMap.';
-$lang['PAPERS_CALL_TXT4b'] ='One <strong>special track</strong> will be dedicated to Free Open Source Software in Geo Education.';
 $lang['PAPERS_CALL_TXT5'] ='The <strong>dev track</strong> will be a sort of dev room and presentation of latest developments within FOSS4G.';
 
 $lang['PAPERS_CALL_TXT6'] ='Are you <a href="https://en.wikipedia.org/wiki/Geographic_information_system" target="_blank">an expert in GIS <i class="fa fa-external-link"></i></a>? ';
@@ -209,6 +205,7 @@ $lang['PAPERS_CALL_S2_TXT1'] ='Tools &#8226; Goals &#8226; Applications';
 $lang['PAPERS_CALL_2TXT1'] ='<strong>Foss4G’s Tools</strong>: What are the current offers for storage, treatment and web distribution of spatial data?<br />How do Open Source tools allow you to successfully personalize software for your needs?';
 $lang['PAPERS_CALL_2TXT2'] ='<strong>Goals</strong>: How can OSGeo help you in your organization? How to build an effective Open Source solution?<br />How to choose between different solutions?';
 $lang['PAPERS_CALL_2TXT3'] ='<strong>Applications</strong>: Which Open Geomatics tools are deployed and used by administrations, companies, teachers and researchers? What about INSPIRE infrastructures, climate change and smart cities? What are the problems and opportunities that you encountered during migration of commercial software to Open Source software?';
+$lang['PAPERS_CALL_2TXT4'] ='<strong>OpenStreetMap</strong>: How do you use OSM data in your work ? You created a cool application with OSM data ? You are an OSM geek and would like to discuss OSM specifics ?;
 
 // PRESENTATIONS FORMAT
 $lang['PAPERS_FORMAT'] ='Format of presentations';
