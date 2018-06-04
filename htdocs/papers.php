@@ -52,8 +52,6 @@
 							<h3><?php echo $lang['PAPERS_CALL_T_TXT1']; ?></h3>
 							<h4><?php echo $lang['PAPERS_CALL_S_TXT1']; ?></h4>
 							<hr>
-							<p class="tracks"><i class="fa fa-lightbulb-o"></i> <?php echo $lang['PAPERS_CALL_TXT1a']; ?> <i class="fa fa-slideshare"></i> <?php echo $lang['PAPERS_CALL_TXT1b']; ?> <i class="fa fa-cogs"></i> <?php echo $lang['PAPERS_CALL_TXT1c']; ?></p>
-							<hr>
 							<p><i class="fa fa-caret-right"></i> <?php echo $lang['PAPERS_CALL_TXT3']; ?></p>	
 							<p><i class="fa fa-caret-right"></i> <?php echo $lang['PAPERS_CALL_TXT4']; ?></p>
 							<hr>	
