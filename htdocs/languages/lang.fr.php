@@ -181,8 +181,8 @@ $lang['PAPERS_CALL_S_TXT1'] ='Il y aura plusieurs sessions parallèles';
 $lang['PAPERS_CALL_TXT3'] ='<strong>La Plénière</strong> sera consacré à des demonstrations d\'implémentation réussie pour les entreprises, l\'éducation et au sein des administrations.';
 $lang['PAPERS_CALL_TXT4'] ='D\'autres sessions seront déterminée en fonction des soumissions reçues, mais nous en acceptons un large panel, de présentations sur des expériences utilisateurs jusqu\'au présentation de développeurs.';
 
-$lang['PAPERS_CALL_TXT6'] ='Êtes-vous un expert en <a href="https://fr.wikipedia.org/wiki/Syst%C3%A8me_d%27information_g%C3%A9ographique" target="_blank"> GIS <i class="fa fa-external-link"></i></a>?';
-$lang['PAPERS_CALL_TXT7'] ='Avez-vous utilisé des outils OSGeo dans un contexte spécifique pour votre organisation? Tels qu\'un projet d\'envergure, des données très volumineuses, un client reconnu, un projet innovant, etc?';
+$lang['PAPERS_CALL_TXT6'] ='Avez-vous utilisé des outils OSGeo dans un contexte spécifique pour votre organisation? Tels qu\'un projet d\'envergure, des données très volumineuses, un client reconnu, un projet innovant, etc?';
+$lang['PAPERS_CALL_TXT7'] ='Êtes-vous un expert en <a href="https://fr.wikipedia.org/wiki/Syst%C3%A8me_d%27information_g%C3%A9ographique" target="_blank"> GIS <i class="fa fa-external-link"></i></a>?';
 $lang['PAPERS_CALL_TXT8'] ='Si vous vous reconnaissez dans ce programme à propos de l\'un ou l\'autre aspect, ARRETEZ TOUT et <a href="http://2018.foss4g.be/submit-paper.php" alt="http://2018.foss4g.be/submit-paper.php"> envoyez nous la présentation à propos de votre talent ou domaine d\'expertise</a>.';
 
 // Workshops
