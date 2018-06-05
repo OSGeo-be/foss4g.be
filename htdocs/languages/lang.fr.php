@@ -176,18 +176,13 @@ $lang['PAPERS_CALL'] ='Le 25 octobre 2018, l\'OSGeo-be organise un événement d
 
 // Plenary Session
 $lang['PAPERS_CALL_T_TXT1'] ='Plénière & présentations';
-$lang['PAPERS_CALL_S_TXT1'] ='Nous aurons quatre sessions parallèles';
-$lang['PAPERS_CALL_TXT1a'] ='Plénière';
-$lang['PAPERS_CALL_TXT1b'] ='2 sessions spécifiques';
-$lang['PAPERS_CALL_TXT1c'] ='Session dev';
+$lang['PAPERS_CALL_S_TXT1'] ='Il y aura plusieurs sessions parallèles';
 
 $lang['PAPERS_CALL_TXT3'] ='<strong>La Plénière</strong> sera consacré à des demonstrations d\'implémentation réussie pour les entreprises, l\'éducation et au sein des administrations.';
-$lang['PAPERS_CALL_TXT4'] ='<strong>Une session spéciale</strong> sera centrée sur OpenStreetMap.';
-$lang['PAPERS_CALL_TXT4b'] ='<strong>Une session spéciale</strong> traitera de l\'utilisation de la géomatique open source dans le monde académique.';
-$lang['PAPERS_CALL_TXT5'] ='<strong>La session dev</strong> portera sur la présentation et les derniers développements en cours au sein du FOSS4G';
+$lang['PAPERS_CALL_TXT4'] ='D\'autres sessions seront déterminée en fonction des soumissions reçues, mais nous en acceptons un large panel, de présentations sur des expériences utilisateurs jusqu\'au présentation de développeurs.';
 
-$lang['PAPERS_CALL_TXT6'] ='Êtes-vous un expert en <a href="https://fr.wikipedia.org/wiki/Syst%C3%A8me_d%27information_g%C3%A9ographique" target="_blank"> GIS <i class="fa fa-external-link"></i></a>?';
-$lang['PAPERS_CALL_TXT7'] ='Avez-vous utilisé des outils OSGeo dans un contexte spécifique pour votre organisation? Tels qu\'un projet d\'envergure, des données très volumineuses, un client reconnu, un projet innovant, etc?';
+$lang['PAPERS_CALL_TXT6'] ='Avez-vous utilisé des outils OSGeo dans un contexte spécifique pour votre organisation? Tels qu\'un projet d\'envergure, des données très volumineuses, un client reconnu, un projet innovant, etc?';
+$lang['PAPERS_CALL_TXT7'] ='Êtes-vous un expert en <a href="https://fr.wikipedia.org/wiki/Syst%C3%A8me_d%27information_g%C3%A9ographique" target="_blank"> GIS <i class="fa fa-external-link"></i></a>?';
 $lang['PAPERS_CALL_TXT8'] ='Si vous vous reconnaissez dans ce programme à propos de l\'un ou l\'autre aspect, ARRETEZ TOUT et <a href="http://2018.foss4g.be/submit-paper.php" alt="http://2018.foss4g.be/submit-paper.php"> envoyez nous la présentation à propos de votre talent ou domaine d\'expertise</a>.';
 
 // Workshops
@@ -196,6 +191,7 @@ $lang['PAPERS_CALL_S2_TXT1'] ='Outils &#8226; Objectifs &#8226; Applications';
 $lang['PAPERS_CALL_2TXT1'] ='<strong>Outils FOSS4G</strong>: Qu\'offrent actuellement les outils libres pour le stockage, le traitement et la diffusion web de données spatiales? Comment les outils libres permettent-ils d\'adapter les logiciels à vos besoins?';
 $lang['PAPERS_CALL_2TXT2'] ='<strong>Objectifs</strong>: Intervention de l\'OSGeo dans votre organisation, comment? Quelles perspectives pour le FOSS4G-be? Comment construire une solution Open Source qui rencontre le succès? Comment choisir entre différentes solutions?';
 $lang['PAPERS_CALL_2TXT3'] ='<strong>Applications</strong>: Quels outils libres déploie-t-on dans votre administration, entreprise, école ou lieu de recherche? Quels impacts pour les infrastructures en lien avec INSPIRE, les changements climatiques ou les SMART Cities? Quelles sont les opportunités ou problèmes rencontrés lors de la migrations d\'outils commerciaux vers le libre?';
+$lang['PAPERS_CALL_2TXT4'] ='<strong>OpenStreetMap</strong>: Comment utilisez-vous les données OSM dans votre travail ? Avez-vous créé une chouette app avec des données OSM ? Etes-vous un geek OSM et souhaitez discuter des détails d\'OSM ?';
 
 // PRESENTATIONS FORMAT
 $lang['PAPERS_FORMAT'] ='Format des présentations';
