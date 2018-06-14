@@ -210,17 +210,16 @@ $lang['PAPERS_CALL'] ='
 ';
 // Plenary Session
 $lang['PAPERS_CALL_T_TXT1'] ='Presentaties en sessies';
-$lang['PAPERS_CALL_S_TXT1'] ='We voorzien 4 parallele sessies';
+$lang['PAPERS_CALL_S_TXT1'] ='We voorzien verschillende parallele sessies';
 $lang['PAPERS_CALL_TXT1a'] ='Plenaire sessie';
 $lang['PAPERS_CALL_TXT1b'] ='2 speciale sessies';
 $lang['PAPERS_CALL_TXT1c'] ='Ontwikkelaars sessie';
 
 $lang['PAPERS_CALL_TXT3'] ='De <strong>plenaire sessie</strong> zal voorbeelden tonen van het gebruik van FOSS4G binnen bedrijven, administraties, onderwijs en onderzoek.';
-$lang['PAPERS_CALL_TXT4'] ='Één speciale track zal gefocused zijn op OpenStreetMap';
-$lang['PAPERS_CALL_TXT4b'] ='Één speicale track heeft behandelt Free en Open Source software in Geo-onderwijs';
+$lang['PAPERS_CALL_TXT4'] ='Andere sessie zullen bepaald worden afhankelijk van de inzendingen, maar we verwelkomen alle presentaties van gebruikerservaringen tot geavanceerde ontwikkelingsonderwerpen.';
+$lang['PAPERS_CALL_TXT4b'] ='Één speciale track heeft behandelt Free en Open Source software in Geo-onderwijs';
 $lang['PAPERS_CALL_TXT5'] ='De development track zal presentaties laten zien van de laatste ontwikkelingen in FOSS4G';
-
-$lang['PAPERS_CALL_TXT6'] ='Ben je <a href="https://en.wikipedia.org/wiki/Geographic_information_system" target="_blank">een expert in GIS <i class="fa fa-external-link"></i></a>? ';
+$lang['PAPERS_CALL_TXT6'] ='Ben je een expert in GIS ? ';
 $lang['PAPERS_CALL_TXT7'] ='Heb je OSGeo toepassingen gebruikt in een specifieke context - spatial data infrastructure, Big Data, specifieke klanten, innovatieve projecten, .... voor je bedrijf, onderzoeksinstelling of in onderwijs? ';
 $lang['PAPERS_CALL_TXT8'] ='Als je aan één van deze voorwaarden voldoet, twijfel niet en <a href="http://2018.foss4g.be/submit-paper.php" alt="http://2018.foss4g.be/submit-paper.php">verstuur nu je presentatie!</a>';
 
@@ -238,9 +237,9 @@ $lang['PAPERS_FORMAT_2'] ='Elke presentatie krijgt ongeveer 20 minuten voor een 
 $lang['PAPERS_FORMAT_3'] ='Voorstellen kunnen ingediend worden in het Nederlands, Frans of Engels';
 
 $lang['PAPERS_SUM'] ='Insturen';
-$lang['PAPERS_SUM_SUB'] ='Presentaties kunnen ingestuurd worden op <a href="http://2018.foss4g.be/submit-paper.php"> volgend formulier. Vermeld volgende gegevens:';
+$lang['PAPERS_SUM_SUB'] ='Presentaties kunnen ingestuurd worden op <a href="http://2018.foss4g.be/submit-paper.php"> volgend formulier</a>. Vermeld volgende gegevens:';
 $lang['PAPERS_SUM_NAME'] ='Je naam en voornaam;';
-$lang['PAPERS_SUM_EMAIL'] ='Een contacte-mailadres;';
+$lang['PAPERS_SUM_EMAIL'] ='Een contact-emailadres;';
 $lang['PAPERS_SUM_ORG'] ='Je bedrijf/organisatie/werkgever;';
 $lang['PAPERS_SUM_TITLE'] ='Een titel;';
 $lang['PAPERS_SUM_ABSTRACT'] ='Een korte abstract;';
@@ -250,7 +249,7 @@ $lang['PAPERS_SUM_TYPE'] ='';
 // DEADLINE + HOW EVALUATE 
 $lang['PAPERS_DEADLINE'] ='Datum: ten laatste op 4 september';
 $lang['PAPERS_CALL2T'] ='Deadline';
-$lang['PAPERS_CALL2'] ='<p>Bijdragen zullen geevalueerd worden door een programmacommitee en de auteurs zullen bericht krijgen of hun bijdrage aanvaard werd. <br />
+$lang['PAPERS_CALL2'] ='<p>Bijdragen zullen geëvalueerd worden door het programmacommitee en de auteurs zullen bericht krijgen of hun bijdrage aanvaard werd. <br />
 Alle presentaties zullen op de website van het congres geplaatst worden.</p>
 ';
 $lang['PAPERS_CALL3T'] ='Evaluatiecriteria';
@@ -258,7 +257,7 @@ $lang['PAPERS_CALL3'] ='<p>
 De keuze van presentaties zal gebaseerd zijn op de kwaliteit van de ingestuurde voorstellen, de relevantie voor het publiek en de plaats binnen het programma.
 De keuze van het programmacommitee is finaal en bindend. De beslissingen van het programmacommittee reflecteren niet de mening van de eventuele werkgevers van de leden.</p>';
 $lang['PAPERS_CALL4'] ='<p>De Nederlandstalige en Franstalige coordinatoren van het programma zijn Johan Van de Wauw (NL) en Gaël Kruwialis (FR). </p>
-<p>Als je nog vragen hebt kan je hen steeds bereiken op presentation <AT> foss4g <dot> be.</p>';
+<p>Als je nog vragen hebt kan je hen steeds bereiken op presentation &lt;AT&gt; foss4g &lt;dot&gt; be.</p>';
 
 $lang['PAPERS_BUTTON'] ='Neem nu contact op om deel te nemen!';
 
