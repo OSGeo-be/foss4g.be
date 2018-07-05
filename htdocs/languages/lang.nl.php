@@ -19,7 +19,7 @@ $lang['SITE_DESCRIPTION'] = 'FOSS4G België 2018';
 $lang['SITE_KEYWORDS'] = 'Foss4G Geo GIS Open Source Brussel OSGeo OSGeoBE België';
 $lang['SITE_AUTHOR'] = 'FOSS4G Belgium';
 $lang['SITE_DATATOP'] = '25 Oktober 2018 - Brussel';
-$lang['SITE_DATABIG'] = '<a href="http://bel.brussels/nl/content/bereikbaarheid">BEL Brussel</a> - 26 Oktober 2018';
+$lang['SITE_DATABIG'] = '<a href="http://bel.brussels/nl/content/bereikbaarheid">BEL Brussel</a> - 25 Oktober 2018';
 
 // MENU
 $lang['MENU_HOME'] = 'Home';
