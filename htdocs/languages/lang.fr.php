@@ -106,7 +106,7 @@ $lang['ABOUT_A_TEXT2'] ='<a href="http://www.osgeo.org/">La fondation Open Sourc
 
 $lang['SPONSORS_TITLE'] ='Appel à sponsors';
 
-$lang['SPONSORS_SUBTITLE'] ='Aidez-nous à faire de notre première édition un succès';
+$lang['SPONSORS_SUBTITLE'] ='Aidez-nous à faire de l\'édition de cette année un nouveau succès';
 $lang['SPONSORS_CALL'] ='Après plusieurs éditions réussies, OSGEO.be organise une nouvelle édition de la conférence FOSS4G Belgique le Jeudi 25 octobre 2018.<br>
 <br>
 La conférence FOSS4G regroupe les développeurs et utilisateurs des logiciels géospatieux open-source mais aussi les gestionnaires et décideurs venant des 
