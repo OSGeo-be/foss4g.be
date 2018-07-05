@@ -776,82 +776,82 @@
 						}
 						
 						ul.icons li .icon.aquaterra, .icon.aquaterra  {
-							background:url(../images/sponsors/aquaterra.png);	
+							background:url(/images/sponsors/aquaterra.png);	
 						}
 						ul.icons li .icon.aiv, .icon.aiv  {
-							background:url(../images/sponsors/aiv.png);	
+							background:url(/images/sponsors/aiv.png);	
 						}
 						ul.icons li .icon.bdu, .icon.bdu  {
-							background:url(../images/sponsors/bdu.jpg);	
+							background:url(/images/sponsors/bdu.jpg);	
 						}
 						ul.icons li .icon.champs-libres, .icon.champs-libres  {
-							background:url(../images/sponsors/champs-libres.png);	
+							background:url(/images/sponsors/champs-libres.png);	
 						}
 						ul.icons li .icon.osgeobe, .icon.osgeobe  {
-							background:url(../images/osgeo-be-small.svg);	
+							background:url(/images/osgeo-be-small.svg);	
 						}
 						ul.icons li .icon.osm, .icon.osm  {
-							background:url(../images/osm.png);	
+							background:url(/images/osm.png);	
 						}
 						ul.icons li .icon.realdolmen, .icon.realdolmen  {
-							background:url(../images/sponsors/realdolmen.png);	
+							background:url(/images/sponsors/realdolmen.png);	
 						}
 						ul.icons li .icon.geosparc, .icon.geosparc  {
-							background:url(../images/sponsors/geosparc.png);	
+							background:url(/images/sponsors/geosparc.png);	
 						}
 						ul.icons li .icon.idgeo , .icon.idgeo {
-							background:url(../images/sponsors/idgeo.png);
+							background:url(/images/sponsors/idgeo.png);
 						}
 						ul.icons li .icon.merkator , .icon.merkator {
-							background:url(../images/sponsors/merkator.png);
+							background:url(/images/sponsors/merkator.png);
 						}
 						ul.icons li .icon.neogeo , .icon.neogeo {
-							background:url(../images/sponsors/neogeo.png);
+							background:url(/images/sponsors/neogeo.png);
 						}
 						ul.icons li .icon.innoviris , .icon.innoviris {
-							background:url(../images/sponsors/innoviris.png);
+							background:url(/images/sponsors/innoviris.png);
 						}
 						ul.icons li .icon.oslandia, .icon.oslandia  {
-							background:url(../images/sponsors/oslandia.png);
+							background:url(/images/sponsors/oslandia.png);
 						}
 						ul.icons li .icon.poppy , .icon.poppy {
-							background:url(../images/sponsors/poppy.png);
+							background:url(/images/sponsors/poppy.png);
 						}
 						ul.icons li .icon.bxlenv, .icon.bxlenv  {
-							background:url(../images/sponsors/bxlenv.png);
+							background:url(/images/sponsors/bxlenv.png);
 						}
 						ul.icons li .icon.checksum, .icon.checksum  {
-							background:url(../images/sponsors/checksum.png);
+							background:url(/images/sponsors/checksum.png);
 						}
 						ul.icons li .icon.c2c, .icon.c2c  {
-							background:url(../images/sponsors/C2C.png);
+							background:url(/images/sponsors/C2C.png);
 						}
 						ul.icons li .icon.gim, .icon.gim {
-							background:url(../images/sponsors/gim.png);
+							background:url(/images/sponsors/gim.png);
 						}
 						ul.icons li .icon.cirb, .icon.cirb  {
-							background:url(../images/sponsors/cirb.png);
+							background:url(/images/sponsors/cirb.png);
 						}
 						ul.icons li .icon.geosolutions, .icon.geosolutions {
-							background:url(../images/sponsors/geosolutions.jpg);
+							background:url(/images/sponsors/geosolutions.jpg);
 						}
 						ul.icons li .icon.geobusinet, .icon.geobusinet{
-							background:url(../images/sponsors/geobusinet.png);
+							background:url(/images/sponsors/geobusinet.png);
 						}
 						ul.icons li .icon.igeat, .icon.igeat{
-							background:url(../images/sponsors/igeat.gif);
+							background:url(/images/sponsors/igeat.gif);
 						}
 						ul.icons li .icon.ngi, .icon.ngi{
-							background:url(../images/sponsors/ngi.png);
+							background:url(/images/sponsors/ngi.png);
 						}
 						ul.icons li .icon.gsw, .icon.gsw{
-							background:url(../images/sponsors/gsw.jpg);
+							background:url(/images/sponsors/gsw.jpg);
 						}
 						ul.icons li .icon.realdolmen, .icon.realdolmen{
-							background:url(../images/sponsors/realdolmen.png);
+							background:url(/images/sponsors/realdolmen.png);
 						}
 						ul.icons li .icon.geode, .icon.geode{
-							background:url(../images/sponsors/geode.png);
+							background:url(/images/sponsors/geode.png);
 						}
 						ul.icons li .icon.aquaterra, ul.icons li .icon.aiv, ul.icons li .icon.champs-libres, ul.icons li .icon.osgeobe, ul.icons li .icon.osm,  ul.icons li .icon.geosparc, ul.icons li .icon.idgeo, ul.icons li .icon.oslandia, ul.icons li .icon.poppy, ul.icons li .icon.bxlenv, ul.icons li .icon.checksum, ul.icons li .icon.merkator, ul.icons li .icon.c2c, ul.icons li .icon.gim, ul.icons li .icon.cirb,ul.icons li .icon.geosolutions, ul.icons li .icon.neogeo, ul.icons li .icon.igeat, ul.icons li .icon.geobusinet, ul.icons li .icon.gsw, ul.icons li .icon.bdu, ul.icons li .icon.realdolmen, ul.icons li .icon.geode, ul.icons li .icon.innoviris, ul.icons li .icon.ngi{	
 							width:164px;
@@ -1399,7 +1399,7 @@
 			#header h1 .foss4g {
 			width:2vw;
 			display:inline-block;
-			 background-image: url(../images/chapeau-melon.svg);
+			 background-image: url(/images/chapeau-melon.svg);
 			 background-size: 3vh;
  			 background-repeat: no-repeat;
 			 background-position: 14px 11px;
@@ -1643,7 +1643,7 @@
 	#banner {
 		background-attachment: scroll, fixed;
 		background-color: #666;
-		background-image: url("images/overlay.png"), url("../images/banner.jpg");
+		background-image: url("images/overlay.png"), url("/images/banner.jpg");
 		background-position: top left, center center;
 		background-repeat: repeat, no-repeat;
 		background-size: auto, cover;
@@ -1659,7 +1659,7 @@
 		#banner .foss4g {
 			width:10vw;
 			display:inline-block;
-			 background-image: url(../images/chapeau-melon.svg);
+			 background-image: url(/images/chapeau-melon.svg);
 			 background-size: 20vh;
  			 background-repeat: no-repeat;
 			 background-position: 3vw 0vh;
@@ -2376,7 +2376,7 @@ a.pluss:before, a.pluss:after {content:' ' !important;}
   }
 }
 .slidelogo {
-   background:url('../images/slide-icon-32.png');
+   background:url('/images/slide-icon-32.png');
    width:32px;
    float:left;
  }
