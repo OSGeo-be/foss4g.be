@@ -58,6 +58,8 @@
 							<a href="#" class="button platinium icon fa-check"><?php echo $lang['SPONSORS_1_TXT6']; ?></a>
 							<a href="#" class="button platinium icon fa-check"><?php echo $lang['SPONSORS_1_TXT7']; ?></a>
 							<a href="#" class="button platinium icon fa-check"><?php echo $lang['SPONSORS_1_TXT9']; ?></a>
+							<a href="#" class="button platinium icon fa-check"><?php echo $lang['SPONSORS_1_TXT13']; ?></a>
+							<a href="#" class="button platinium icon fa-check"><?php echo $lang['SPONSORS_1_TXT11']; ?></a>
 						  </dd>
 						  <dt><a href="#" class="accordionTitle gold"> <?php echo $lang['SPONSORS_2_TITLE']; ?> <span class="spon2"><?php echo $lang['SPONSORS_2_TAGLINE']; ?></span></a></dt>
 						  <dd class="accordionItem accordionItemCollapsed">
@@ -65,22 +67,20 @@
 							<a href="#" class="button gold icon fa-check"><?php echo $lang['SPONSORS_1_TXT4']; ?></a>
 							<a href="#" class="button gold icon fa-check"><?php echo $lang['SPONSORS_1_TXT5']; ?></a>
 							<a href="#" class="button gold icon fa-check"><?php echo $lang['SPONSORS_1_TXT6']; ?></a>
-							<a href="#" class="button gold icon fa-check"><?php echo $lang['SPONSORS_1_TXT8']; ?></a>
 							<a href="#" class="button gold icon fa-check"><?php echo $lang['SPONSORS_1_TXT10']; ?></a>
-							<a href="#" class="button gold icon fa-check"><?php echo $lang['SPONSORS_1_TXT11']; ?></a>
+							<a href="#" class="button gold icon fa-check"><?php echo $lang['SPONSORS_1_TXT13']; ?></a>
+							<a href="#" class="button gold icon fa-check"><?php echo $lang['SPONSORS_1_TXT12']; ?></a>
 						  </dd>
 						  <dt><a href="#" class="accordionTitle silver"> <?php echo $lang['SPONSORS_3_TITLE']; ?> <span class="spon3"><?php echo $lang['SPONSORS_3_TAGLINE']; ?></span></a></dt>
 						  <dd class="accordionItem accordionItemCollapsed">
 							<a href="#" class="button silver icon fa-check"><?php echo $lang['SPONSORS_1_TXT5']; ?></a>
 							<a href="#" class="button silver icon fa-check"><?php echo $lang['SPONSORS_1_TXT6']; ?></a>
-							<a href="#" class="button silver icon fa-check"><?php echo $lang['SPONSORS_1_TXT14']; ?></a>
-							<a href="#" class="button silver icon fa-check"><?php echo $lang['SPONSORS_1_TXT12']; ?></a>
+							<a href="#" class="button silver icon fa-check"><?php echo $lang['SPONSORS_1_TXT13']; ?></a>	
 						  </dd>
 						  <dt><a href="#" class="accordionTitle bronze"> <?php echo $lang['SPONSORS_4_TITLE']; ?> <span class="spon4"><?php echo $lang['SPONSORS_4_TAGLINE']; ?></span></a></dt>
 						  <dd class="accordionItem accordionItemCollapsed">
 							<a href="#" class="button bronze icon fa-check"><?php echo $lang['SPONSORS_1_TXT6']; ?></a>
 							<a href="#" class="button bronze icon fa-check"><?php echo $lang['SPONSORS_1_TXT13']; ?></a>
-							<a href="#" class="button bronze icon fa-check"><?php echo $lang['SPONSORS_1_TXT15']; ?></a>
 						  </dd>
 						</dl>
 					  </div>
