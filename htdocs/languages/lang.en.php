@@ -342,7 +342,7 @@ $lang['MAPS_TXT'] ='<p>As a geospatial conference, maps should definitively be a
 A map intended for printing can be sent in digitally (and we\'ll print them for you) or you can bring it during the conference. In both cases, we ask you to email us beforehand in order to reserve space.
 
 <ul>
-<li>Mail us via <a href="mailto:map@foss4g.be&subject=Map subimssion"/>map@foss4g.be</li> before 15 september.
+<li>Mail us via <a href="mailto:map@foss4g.be&subject=Map submission"/>map@foss4g.be</a> before 15 september.
 <li>There\'ll be enough space provided for an A1-sized map.</li>
 <li>If you send your map digitally, include it in pdf format with a minimum resolution of 2342 x 3311 pixels. Fonts should be included.</li>
 <li>If you bring your own map, please send a small photo or screenshot so that we know what to expect. We might group maps thematically.</li>
