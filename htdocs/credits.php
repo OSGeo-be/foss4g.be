@@ -85,9 +85,6 @@ html5shiv.js (@afarkas @jdalton @jon_neal @rem)
 CSS3 Pie [ http://css3pie.com ]
 background-size polyfill [ http://github.com/louisremi ]
 skel (n33.co)
-openlayers3 [ http://openlayers.org/en/v3.0.0/examples/ ]
-openstreemap [ http://www.openstreetmap.org/ ]
-mapquest [ http://www.mapquest.com/ ]
 
 // IDE
 Notepad++ [ http://notepad-plus-plus.org/fr/ ]
@@ -97,8 +94,6 @@ codepen.io [ http://codepen.io ]
 Google Chrome Debugger, Firefox Debugger
 ...and Adobe PS &amp; AI CC (yay no GIMP) 
 </pre>
-								<h4>Hosting</h4>
-								<blockquote style="font-style:normal"><a href="https://www.ovh.com/" title="OVH">OVH</a></blockquote>
 							</section>
 
 					</div>
