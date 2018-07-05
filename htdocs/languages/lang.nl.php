@@ -229,6 +229,7 @@ $lang['PAPERS_CALL_S2_TXT1'] ='Tools &#8226; Goals &#8226; Applications';
 $lang['PAPERS_CALL_2TXT1'] ='<strong>Foss4G’s Tools</strong>: Wat zijn de huidige oplossingen voor opslag, bewerken en verspreiden van geo-data? Hoe kan je Open Source tools gebruiken om software aan je noden aan te passen?';
 $lang['PAPERS_CALL_2TXT2'] ='<strong>Doelen</strong>: Hoe kan OSGeo jou in je organisatie helpen? Hoe kan je een goede Open Sourceoplossing bouwen? Hoe te kiezen tussen verschillende producten?';
 $lang['PAPERS_CALL_2TXT3'] ='<strong>Toepassingen</strong>: Welke Open Geomatica toepassingen zijn in gebruik bij administraties, bedrijven, lesgevers en onderzoekers? WWat met INSPIRE infrastructuur, klimaatverandering en smart cities? Wat zijn de problemen en kansen die je kan tegenkomen bij de migratie van commerciële software naar Open Source software?';
+$lang['PAPERS_CALL_2TXT4'] ='<strong>OpenStreetMap</strong>: Hoe gebruik jij OSM data in je project? Heb je een coole applicatie gemaakt die OSM gebruikt? Ben je een OSM geek die wil vertellen over een aspect van het mappen?';
 
 // PRESENTATIONS FORMAT
 $lang['PAPERS_FORMAT'] ='Formaat van de presentaties';
