@@ -105,6 +105,7 @@ $lang['ABOUT_A_TEXT2'] ='<a href="http://www.osgeo.org/">La fondation Open Sourc
 // SPONSORS PAGE CALL ------------------------------------------------------------------------------------------------------------/
 
 $lang['SPONSORS_TITLE'] ='Appel à sponsors';
+
 $lang['SPONSORS_SUBTITLE'] ='Aidez-nous à faire de notre première édition un succès';
 $lang['SPONSORS_CALL'] ='Après plusieurs éditions réussies, OSGEO.be organise une nouvelle édition de la conférence FOSS4G Belgique le Jeudi 25 octobre 2018.<br>
 <br>
@@ -119,7 +120,7 @@ $lang['SPONSORS_BUTTON'] ='Contactez-nous dès à présent pour nous soutenir';
 
 	$lang['SPONSORS_1_TITLE'] ='Platine';
 	$lang['SPONSORS_1_TAGLINE'] ='1000€';
-	$lang['SPONSORS_1_TXT1'] ='Logo sur la scène ';
+	$lang['SPONSORS_1_TXT1'] ='Logo sur la scène';
 	$lang['SPONSORS_1_TXT2'] ='Stand de présentation';
 	$lang['SPONSORS_1_TXT3'] ='Page dans le programme remis aux conférenciers (1 page)';
 	$lang['SPONSORS_1_TXT4'] ='Une demie page dans le programme remis aux conférenciers (1/2 page)';
