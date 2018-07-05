@@ -137,14 +137,20 @@ $lang['ABOUT_A_TEXT2'] ='<a href="http://www.osgeo.org/">The Open Source Geospat
 // SPONSORS PAGE CALL ------------------------------------------------------------------------------------------------------------/
 
 $lang['SPONSORS_TITLE'] ='Oproep voor sponsors';
-$lang['SPONSORS_SUBTITLE'] ='Help ons om editie 2016 te organiseren';
+$lang['SPONSORS_SUBTITLE'] ='Help ons om editie 2018 te organiseren';
 $lang['SPONSORS_CALL'] ='
-Na succesvolle edities in 2015 en 2016 organiseert OSGeo.be een nieuwe editie van deze FOSS4G.BE conferentie op <b>donderdag 25 oktober 2018</b> in Brussel.
-
-FOSS4G conferenties brengen ontwikkelaars en gebruikers (ook managers als beslissers) van open source geomatica software uit de hele wereld samen, om nieuwe richtingen, sprekende implementaties en groeiende zakelijke kansen in het gebied te bespreken. De afgelopen jaren hebben we veel veranderingen in de geo-ict sector gezien. Een van deze veranderingen is de toenemende volwassenheid van open source oplossingen en hun implementatie. Vaak gebruiken organisaties een combinatie van open source en eigen oplossingen. <b>Momenteel zijn we op zoek naar sponsors voor dit derde Belgische FOSS4G.</b>
-</br>
-
-De verschillende sponsor mogelijkheden worden hieronder uitgelegd, <a href="contact.php">aub neem contact op indien u nog vragen zou hebben</a>.';
+Na drie succesvolle FOSS4G Belgium events, organiseert OSGeo.be een nieuwe editie van FOSS4G Belgium op donderdag 25
+oktober 2018.<br /><br />
+FOSS4G conferenties brengen ontwikkelaars en gebruikers van Open Source geospatial software van over de hele wereld
+samen om te discussiëren over nieuwe mogelijkheden, boeiende toepassingen en toenemende commerciële kansen
+ in dit domein. De laatste jaren is er veel veranderd in de geospatiale industrie. Een van die veranderingen is een
+ toenemend gebruik en volwassenheid van Free en Open Source oplossingen. In veel gevallen wordt er een mix gebruikt van open
+ en gesloten oplossingen.
+<br /><br />
+We zijn op zoek naar sponsors om dit event tot een succes te maken.
+<br /><br />
+De verschillende sponsor mogelijkheden worden hieronder uitgelegd, <a href="contact.php">neem contact op indien u 
+nog vragen zou hebben</a>.';
 $lang['SPONSORS_BUTTON'] ='Neem contact op om FOSS4G BE te sponsoren';
 
 	$lang['SPONSORS_1_TITLE'] ='Platina';
@@ -157,12 +163,12 @@ $lang['SPONSORS_BUTTON'] ='Neem contact op om FOSS4G BE te sponsoren';
 	$lang['SPONSORS_1_TXT6'] ='Logo op sponsors webpagina';
 	//FROM 2017
 	
-	$lang['SPONSORS_1_TXT7'] ='Select your place';
+	$lang['SPONSORS_1_TXT7'] ='Kies uw standplaats';
 	$lang['SPONSORS_1_TXT9'] ='Parking(2)'; 
 	$lang['SPONSORS_1_TXT10'] ='Parking(1)';
 	$lang['SPONSORS_1_TXT11'] ='Lunch(2)'; 
 	$lang['SPONSORS_1_TXT12'] ='Lunch(1)';
-	$lang['SPONSORS_1_TXT13'] ='List of participants';
+	$lang['SPONSORS_1_TXT13'] ='Deelnemerslijst';
 	
 	$lang['SPONSORS_2_TITLE'] ='Goud';
 	$lang['SPONSORS_2_TAGLINE'] ='750€';
