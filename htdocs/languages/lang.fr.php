@@ -122,14 +122,12 @@ $lang['SPONSORS_BUTTON'] ='Contactez-nous dès à présent pour nous soutenir';
 	//FROM 2017
 	
 	$lang['SPONSORS_1_TXT7'] ='Choix de l\'emplacement';
-	$lang['SPONSORS_1_TXT8'] ='Accès aux CV avant l\'event';
-	$lang['SPONSORS_1_TXT14'] ='Accès aux CV après l\'event'; 
 	$lang['SPONSORS_1_TXT9'] ='Parking(2)'; 
-	$lang['SPONSORS_1_TXT10'] ='Parking(1)';	
-		$lang['SPONSORS_1_TXT11'] ='Poster Track in Auditorium';
-		$lang['SPONSORS_1_TXT12'] ='Poster Track in Aqua & Sylva';		
-		$lang['SPONSORS_1_TXT13'] ='Liste des participants';
-		$lang['SPONSORS_1_TXT15'] ='Offre';
+	$lang['SPONSORS_1_TXT10'] ='Parking(1)';
+	$lang['SPONSORS_1_TXT11'] ='Lunch(2)'; 
+	$lang['SPONSORS_1_TXT12'] ='Lunch(1)';
+	$lang['SPONSORS_1_TXT13'] ='Liste des participants';
+
 		
 	
 	$lang['SPONSORS_2_TITLE'] ='Or';
