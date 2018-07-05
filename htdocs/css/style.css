@@ -790,6 +790,9 @@
 						ul.icons li .icon.osgeobe, .icon.osgeobe  {
 							background:url(../images/sponsors/osgeobe.png);	
 						}
+						ul.icons li .icon.osm, .icon.osm  {
+							background:url(../images/osm.png);	
+						}
 						ul.icons li .icon.realdolmen, .icon.realdolmen  {
 							background:url(../images/sponsors/realdolmen.png);	
 						}
