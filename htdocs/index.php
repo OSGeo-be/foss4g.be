@@ -18,10 +18,6 @@
 			<link rel="stylesheet" href="css/style.css" />
 			<link rel="stylesheet" href="css/style-wide.css" />
 		</noscript>
-		<script type="text/javascript">
-		window.cookieconsent_options = {"message":"<?php echo $lang['HOME_COOKIE_TITLE']; ?>","dismiss":"<?php echo $lang['HOME_COOKIE_OK']; ?>","learnMore":"<?php echo $lang['HOME_COOKIE_LAW']; ?>","link":"http://ec.europa.eu/ipg/basics/legal/cookies/index_en.htm","theme":"light-bottom"};
-		</script>
-		<script type="text/javascript" src="js/cookies.js"></script>
 	</head>
 	<body class="landing">
 		<!-- Header -->
