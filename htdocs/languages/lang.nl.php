@@ -157,15 +157,12 @@ $lang['SPONSORS_BUTTON'] ='Neem contact op om FOSS4G BE te sponsoren';
 	$lang['SPONSORS_1_TXT6'] ='Logo op sponsors webpagina';
 	//FROM 2017
 	
-	 $lang['SPONSORS_1_TXT7'] ='Select your place';
-	$lang['SPONSORS_1_TXT8'] ='CV before the event ';
-	$lang['SPONSORS_1_TXT14'] ='CV after the event '; 
+	$lang['SPONSORS_1_TXT7'] ='Select your place';
 	$lang['SPONSORS_1_TXT9'] ='Parking(2)'; 
-	$lang['SPONSORS_1_TXT10'] ='Parking(1)';	
-		$lang['SPONSORS_1_TXT11'] ='Poster Track in Auditorium';
-		$lang['SPONSORS_1_TXT12'] ='Poster Track in Aqua & Sylva';		
-		$lang['SPONSORS_1_TXT13'] ='List of participants';
-		$lang['SPONSORS_1_TXT15'] ='Offer';
+	$lang['SPONSORS_1_TXT10'] ='Parking(1)';
+	$lang['SPONSORS_1_TXT11'] ='Lunch(2)'; 
+	$lang['SPONSORS_1_TXT12'] ='Lunch(1)';
+	$lang['SPONSORS_1_TXT13'] ='List of participants';
 	
 	$lang['SPONSORS_2_TITLE'] ='Goud';
 	$lang['SPONSORS_2_TAGLINE'] ='750€';
