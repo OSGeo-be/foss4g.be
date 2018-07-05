@@ -357,7 +357,7 @@ If you created a fancy web map, we\'ll showcase it too! For this, a computer wil
 
 
 <ul>
-<li>Mail us via <a href="mailto:map@foss4g.be&subject=Map subimssion"/>map@foss4g.be</li> before 15 september.
+<li>Mail us via <a href="mailto:map@foss4g.be&subject=Map subimssion"/>map@foss4g.be</a> before 15 september.
 <li>Provide a title, author and/or organization, date and description of the map.</li>
 <li>Mention what software and data were used to create the map</li>
 </ul>
