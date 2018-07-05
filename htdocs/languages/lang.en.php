@@ -119,7 +119,15 @@ $lang['ABOUT_A_TEXT2'] ='<a href="http://www.osgeo.org/">The Open Source Geospat
 
 $lang['SPONSORS_TITLE'] ='Call for Sponsors';
 $lang['SPONSORS_SUBTITLE'] ='Help making our 2018 edition a success';
-$lang['SPONSORS_CALL'] ='The FOSS4G Belgian Local Organizing Committee is calling for sponsors.<br />
+$lang['SPONSORS_CALL'] ='After the very successful FOSS4G Belgium events in 2015, 2016 and 2017, 
+OSGeo.be will organise another edition of the FOSS4G Belgium Conference on Thursday October 25, 2018.<br /><br />
+FOSS4G conferences gather developers and users of Open Source geospatial software 
+from around the world to discuss new directions, exciting implementations, and growing business opportunities in this domain. 
+Recent years have seen substantial changes in the geospatial industry. 
+One of those changes has been the growth in maturity and adoption of Free and Open Source solutions. 
+In many cases organizations are using a mixture of open and closed source solutions.
+<br /><br />
+We are looking for sponsors to make this event a succes. <br /><br />
 					The available sponsorship opportunities are listed and detailed here, <a href="contact.php">please contact us with any question on the packages</a>.';
 $lang['SPONSORS_BUTTON'] ='Contact us now to become a sponsor';
 
