@@ -338,45 +338,35 @@ $lang['MENU_HACK'] = 'Hackathon';
 // Call for Maps
 
 $lang['MAPS_TITLE'] = 'Call for Maps';
-$lang['MAPS_TXT'] ='
-<p>As a geospatial conference, maps should certainly be a part of it ! That\'s why we decided to organise a Map Gallery exhibit : We invite contributions to the FOSS4G Map Gallery in order to create an exciting and vibrant exhibit of the very best in mapping. Contributing to the FOSS4G.be Map Gallery is simple: make a map involving at least open source technology or open data.</p>
+$lang['MAPS_TXT'] ='<p>As a geospatial conference, maps should definitively be a part of it! That\'s why we organise a yearly <strong>Map Gallery</strong>: a vibrant  exhibit of the very best maps -both digitally and on paper. The only requirement to be shown is that at least some part was done with some open data or open source technology. Furthermore, in order to get a fresh map each year, we prefer maps that have been created last year.
 
-<p>Your map can be the result of a commercial venture or a personal challenge. We encourage all attendees to submit their work on paper (A1) or via email (please also add a screenshot). Interactive maps are welcome as well (please provide us with an URL). You will also be asked to provide us with a short description of your map and possibly a brief statement of the methods, software and data you used in your map design and production.</p>
 
-<p>To make it simple, the two criteria\'s for submitting your work are :
+<p>If you have created maps that you are proud of, please send them over! Together, we create this yearly highlight! Your map can be the result of a commercial venture, created for your community or a personal challenge,... </p>
+
+<h4>Printed maps</h4>
+
+A map intended for printing can be sent in digitally (and we\'ll print them for you) or you can bring it during the conference. In both cases, we ask you to email us beforehand in order to reserve space.
+
 <ul>
-<li>The Map must have been created in 2017-2018</li>
-<li>At least one step of the production process must have been achieved using open source technology or open data.</li>
-We invite all users, inventors or map creators from anywhere in Belgium or elsewhere to contribute to what will surely be an amazing Map Gallery.
+<li>Mail us via <a href="mailto:map@foss4g.be&subject=Map subimssion"/>map@foss4g.be</li> before 15 september.
+<li>There\'ll be enough space provided for an A1-sized map.</li>
+<li>If you send your map digitally, include it in pdf format with a minimum resolution of 2342 x 3311 pixels. Fonts should be included.</li>
+<li>If you bring your own map, please send a small photo or screenshot so that we know what to expect. We might group maps thematically.</li>
+<li>Provide a title, author and/or organization, date and description of the map.</li>
+<li>Mention what software and data were used to create the map</li>
 </ul>
-</p>
-<br/>
-<h4>On-Site Submission Guidelines</h4>
-<p>Email map@foss4g.be (before September 15) and tell us to reserve a space in the gallery for you. Bring a paper copy of your map with you to the conference to hang in the gallery. The gallery map boards accommodate A1 paper maps. Larger maps are not allowed.</p>
-<br/>
-<h4>Online Submission Guidelines</h4>
-<p>
-Submit your map by September 15 via email (map@foss4g.be).
-Maps submitted online must meet the following criteria:
+
+
+<h4>Interactive maps</h4>
+
+If you created a fancy web map, we\'ll showcase it too! For this, a computer will be placed next to the map wall. If you want to provide an interactive map, then:
+
+
 <ul>
-<li>Must be in .pdf format only (Include all fonts or convert to outlines.)</li>
-<li>Minimum resolution : 2342 x 3311 pixels (we’ll print the maps in A1)</li>
+<li>Mail us via <a href="mailto:map@foss4g.be&subject=Map subimssion"/>map@foss4g.be</li> before 15 september.
+<li>Provide a title, author and/or organization, date and description of the map.</li>
+<li>Mention what software and data were used to create the map</li>
 </ul>
-If you made a interactive map, please provide us with the URL
-</p>
-<br/>
-<h4>Include this information with your map submission</h4>
-<p>
-<ul>
-<li>Title of Map</li>
-<li>Name</li>
-<li>Date</li>
-<li>Organization</li>
-<li>Additional map authors</li>
-<li>Brief description of map. Please mention software and data used.</li>
-<li>Screenshot (if paper copy)</li>
-</ul>
-</p>
 ';
 
 $lang['MENU_MAPS'] = 'Call for Maps';
