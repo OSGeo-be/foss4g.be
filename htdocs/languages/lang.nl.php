@@ -137,14 +137,20 @@ $lang['ABOUT_A_TEXT2'] ='<a href="http://www.osgeo.org/">The Open Source Geospat
 // SPONSORS PAGE CALL ------------------------------------------------------------------------------------------------------------/
 
 $lang['SPONSORS_TITLE'] ='Oproep voor sponsors';
-$lang['SPONSORS_SUBTITLE'] ='Help ons om editie 2016 te organiseren';
+$lang['SPONSORS_SUBTITLE'] ='Help ons om editie 2018 te organiseren';
 $lang['SPONSORS_CALL'] ='
-Na succesvolle edities in 2015 en 2016 organiseert OSGeo.be een nieuwe editie van deze FOSS4G.BE conferentie op <b>donderdag 25 oktober 2018</b> in Brussel.
-
-FOSS4G conferenties brengen ontwikkelaars en gebruikers (ook managers als beslissers) van open source geomatica software uit de hele wereld samen, om nieuwe richtingen, sprekende implementaties en groeiende zakelijke kansen in het gebied te bespreken. De afgelopen jaren hebben we veel veranderingen in de geo-ict sector gezien. Een van deze veranderingen is de toenemende volwassenheid van open source oplossingen en hun implementatie. Vaak gebruiken organisaties een combinatie van open source en eigen oplossingen. <b>Momenteel zijn we op zoek naar sponsors voor dit derde Belgische FOSS4G.</b>
-</br>
-
-De verschillende sponsor mogelijkheden worden hieronder uitgelegd, <a href="contact.php">aub neem contact op indien u nog vragen zou hebben</a>.';
+Na drie succesvolle FOSS4G Belgium events, organiseert OSGeo.be een nieuwe editie van FOSS4G Belgium op donderdag 25
+oktober 2018.<br /><br />
+FOSS4G conferenties brengen ontwikkelaars en gebruikers van Open Source geospatial software van over de hele wereld
+samen om te discussiëren over nieuwe mogelijkheden, boeiende toepassingen en toenemende commerciële kansen
+ in dit domein. De laatste jaren is er veel veranderd in de geospatiale industrie. Een van die veranderingen is een
+ toenemend gebruik en volwassenheid van Free en Open Source oplossingen. In veel gevallen wordt er een mix gebruikt van open
+ en gesloten oplossingen.
+<br /><br />
+We zijn op zoek naar sponsors om dit event tot een succes te maken.
+<br /><br />
+De verschillende sponsor mogelijkheden worden hieronder uitgelegd, <a href="contact.php">neem contact op indien u 
+nog vragen zou hebben</a>.';
 $lang['SPONSORS_BUTTON'] ='Neem contact op om FOSS4G BE te sponsoren';
 
 	$lang['SPONSORS_1_TITLE'] ='Platina';
@@ -157,15 +163,12 @@ $lang['SPONSORS_BUTTON'] ='Neem contact op om FOSS4G BE te sponsoren';
 	$lang['SPONSORS_1_TXT6'] ='Logo op sponsors webpagina';
 	//FROM 2017
 	
-	 $lang['SPONSORS_1_TXT7'] ='Select your place';
-	$lang['SPONSORS_1_TXT8'] ='CV before the event ';
-	$lang['SPONSORS_1_TXT14'] ='CV after the event '; 
+	$lang['SPONSORS_1_TXT7'] ='Kies uw standplaats';
 	$lang['SPONSORS_1_TXT9'] ='Parking(2)'; 
-	$lang['SPONSORS_1_TXT10'] ='Parking(1)';	
-		$lang['SPONSORS_1_TXT11'] ='Poster Track in Auditorium';
-		$lang['SPONSORS_1_TXT12'] ='Poster Track in Aqua & Sylva';		
-		$lang['SPONSORS_1_TXT13'] ='List of participants';
-		$lang['SPONSORS_1_TXT15'] ='Offer';
+	$lang['SPONSORS_1_TXT10'] ='Parking(1)';
+	$lang['SPONSORS_1_TXT11'] ='Lunch(2)'; 
+	$lang['SPONSORS_1_TXT12'] ='Lunch(1)';
+	$lang['SPONSORS_1_TXT13'] ='Deelnemerslijst';
 	
 	$lang['SPONSORS_2_TITLE'] ='Goud';
 	$lang['SPONSORS_2_TAGLINE'] ='750€';
@@ -181,20 +184,31 @@ $lang['SPONSORS_BUTTON'] ='Neem contact op om FOSS4G BE te sponsoren';
 	
 $lang['SPONSORS_WHY_TITLE'] ='Waarom OSGeo sponsoren';
 
-	$lang['SPONSORS_WHY1_1'] ='Your Organization Depends on OSGeo Software</strong><br /> Your company or government agency uses OSGeo technologies in its day-to-day work, allowing you to compete effectively and deliver services in an efficient manner.';
-	$lang['SPONSORS_WHY1_2'] ='By helping sustain OSGeo you also support your current operations into the future knowing that a strong OSGeo is behind your business activities.';
+	$lang['SPONSORS_WHY1_1'] ='Uw organisatie hangt af van OSGeo Software</strong><br /> Omdat uw bedrijf OSGeo technologie gebruikt
+	in zijn dagelijkse werking, waardoor u effectief en efficiënt diensten kunt verlenen.';
+	$lang['SPONSORS_WHY1_2'] ='Door OSGeo te ondersteunen helpt u zichzelf, omdat een sterk OSGeo uw toekomstige productie ondersteunt';
 	
-	$lang['SPONSORS_WHY2_1'] ='You represent a Community of Practice that has Adopted OSGeo Software</strong><br /> Communities representing a wide range of domains, from professional associations to non-government organizations, leverage OSGeo software as a critical component of their end-user applications. Your community has an interest in ensuring the software can be sustained into the future.';
-	$lang['SPONSORS_WHY2_2'] ='By sponsoring OSGeo you demonstrate support for your members\' software selection.';
+	$lang['SPONSORS_WHY2_1'] ='U vertegenwoordigt een Community of Practice die OSGeo software gebruikt.</strong><br /> 
+	Belangenorganisaties, NGO\s en het middenveld gebruiken OSGeo software 
+	in cruciale onderdelen van hun applicaties. Als u lid bent van zo\'n groep,
+	heeft u er voordeel bij dat het OSGeo project kan gezet worden.';
+	$lang['SPONSORS_WHY2_2'] ='Door OSGeo te steunen, toont u aan uw stakeholders dat u hun keuzes ondersteunt.';
 	
-	$lang['SPONSORS_WHY3_1'] ='Your Goals are aligned with OSGeo\'s Support for Open Standards and Other Priorities</strong><br /> Help achieve your own organization\'s objectives by sponsoring OSGeo as a like-minded organization and benefit from the volunteer efforts of a rapidly growing world-wide community.';
-	$lang['SPONSORS_WHY3_2'] ='By sponsoring OSGeo you achieve your own goals.';
+	$lang['SPONSORS_WHY3_1'] ='Uw doelstellingen vallen samen met OSGeo\'s steun voor Open Standaarden</strong><br /> 
+	Als gelijkgestemde organisatie bereikt u uw eigen doelen door OSGeo te sponsoren, en profiteert u mee van de vrijwillige
+	bijdragen van een groeiende, wereldwijde community.';
+	$lang['SPONSORS_WHY3_2'] ='Door OSGeo te sponseren bereikt u uw eigen doelen';
 	
-	$lang['SPONSORS_WHY4_1'] ='Demonstrate Your Leadership in Open Source Geospatial Technologies</strong><br /> By sponsoring OSGeo you will help align your business with the activities of thousands of adopters of OSGeo software around the world.';
-	$lang['SPONSORS_WHY4_2'] ='As a sponsor of OSGeo, you will align your business growth with the momentum behind OSGeo in the marketplace.';
+	$lang['SPONSORS_WHY4_1'] ='Toon uw leiderschap in Open Source Geospatial technologieën.</strong><br /> 
+	Door het sponsoren van OSGeo helpt u uw commerciële activiteiten in lijn te brengen met de activiteiten van duizenden OSGeo gebruikers van over de hele wereld.';
+	$lang['SPONSORS_WHY4_2'] ='Als OSGeo sponsor profiteren uw commerciële activiteiten maximaal van het momentum achter OSGeo in de markt.';
 	
-	$lang['SPONSORS_WHY5_1'] ='Benefit from Sponsor Networking Opportunities</strong><br /> As a sponsor of OSGeo, you will benefit from unique opportunities to meet and share ideas with key members of OSGeo, other OSGeo sponsors and affiliated like-minded individuals and organizations.';
-	$lang['SPONSORS_WHY5_2'] ='By sponsoring OSGeo you will enhance your business opportunities.';
+	$lang['SPONSORS_WHY5_1'] ='Profiteer van netwerkmogelijkheden voor sponsors</strong><br /> 
+	 Als sponsor van OSGeo kunt u profiteren van unieke opportuniteiten om kennis te maken en ideeën uit te wisselen met sleutelspelers binnen OSGeo, andere OSGeo sponsors en gelijkgezinden.';
+	$lang['SPONSORS_WHY5_2'] ='Door het sponsoren van OSGeo zal u uw commerciële kansen vergroten.';
+
+
+
 
 // SPONSORS THANKS ------------------------------------------------------------------------------------------------------------/	
 
@@ -562,7 +576,7 @@ $lang['PROG_DRINK'] = 'Afsluitende drink en netwerking';
 	// CTA
 $lang['FOOTER_THANKS'] = 'FOSS4G is een gratis evenement. Alvast dank aan onze sponsors en partners om dit mogelijk te maken.';
 $lang['FOOTER_THANKS_ALL'] = '<a href="http://www.leefmilieu.brussels/" title="Leefmilieu Brussel" style="color:#fff">Leefmilieu Brussel</a><!-- - L\'<a href="http://igeat.ulb.ac.be/" title="IGEAT" style="color:#fff">Institut de Gestion de l\'Environnement et d\'Aménagement du Territoire</a> (IGEAT/ULB) - <a href="http://checksum.be/" style="color:#fff">Checksum</a> -->';
-$lang['FOOTER_MORE'] = 'Indien u meer informatie nodig hebt <a href="contact.php" style="color:#fff">neem contact op</a> of <a href ="https://www.facebook.com/beopengisfr" title="Facebook" style ="color: #fff">volg ons op Facebook</a> of twitter.';
+$lang['FOOTER_MORE'] = 'Voor meer informatie, <a href="contact.php" style="color:#fff">contacteer ons</a>.';
 	// FOOTER
 
 	
