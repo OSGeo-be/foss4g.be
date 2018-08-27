@@ -1,9 +1,9 @@
 <?php
+    $email = $_POST['email'];
 $headers = "From: Website FOSS4G <info@foss4g.be>\r\n";
 $headers .= "Reply-To: $email\r\n";
 $headers .= "X-Mailer: PHP/".phpversion();
     $name = $_POST['name'];
-    $email = $_POST['email'];
     $message = $_POST['message'];
 	$subject = $_POST['subject'];
     $from = "FOSS4G contact: $name <$email>"; 
