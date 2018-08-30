@@ -62,7 +62,7 @@ $lang['CALL_3'] = 'Oproep voor bijdragen';
 $lang['PROGRAMME'] = 'Programma';
 
 // HOME OVER ONS
-$lang['ABOUT_TITLE'] = 'Na succesvolle edities in 2015, 2016 en 2017 organiseert OSGeo.be een nieuwe editie van deze FOSS4G.BE conferentie op <b>donderdag 25 oktober 2018</b> in Brussel.';
+$lang['ABOUT_TITLE'] = 'Na succesvolle edities in 2015, 2016 en 2017 organiseert OSGeo.be samen met OpenStreetMap België een nieuwe editie van deze FOSS4G.BE conferentie op <b>donderdag 25 oktober 2018</b> in Brussel.';
 
 // HOME SECTION CONFERENTIES
 $lang['HOME_S1_TITLE'] = 'Presentaties en Workshops';

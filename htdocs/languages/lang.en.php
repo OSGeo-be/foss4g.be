@@ -119,8 +119,8 @@ $lang['ABOUT_A_TEXT2'] ='<a href="http://www.osgeo.org/">The Open Source Geospat
 
 $lang['SPONSORS_TITLE'] ='Call for Sponsors';
 $lang['SPONSORS_SUBTITLE'] ='Help making our 2018 edition a success';
-$lang['SPONSORS_CALL'] ='After the very successful FOSS4G Belgium events in 2015, 2016 and 2017, 
-OSGeo.be will organise another edition of the FOSS4G Belgium Conference on Thursday October 25, 2018.<br /><br />
+$lang['SPONSORS_CALL'] ='After the successful FOSS4G Belgium events in 2015, 2016 and 2017, 
+OSGeo.be and OpenStreetMap Belgium will organise another edition of the FOSS4G Belgium Conference on Thursday October 25, 2018.<br /><br />
 FOSS4G conferences gather developers and users of Open Source geospatial software 
 from around the world to discuss new directions, exciting implementations, and growing business opportunities in this domain. 
 Recent years have seen substantial changes in the geospatial industry. 
