@@ -47,21 +47,22 @@
 						  <dt class="spons"><a class="accordionTitle sponsors platinium" href="#"> <?php echo $lang['SPONSORS_1_TITLE']; ?> <span class="spon1"><?php echo $lang['SPONSORS_1_TAGLINE']; ?></span></a></dt>
 						  <dd class="accordionItem accordionItem">
 							<a href="http://http://www.environnement.brussels/" class="sponsor icon bxlenv"><span class="label">Bruxelles Environment</span></a>
-							<!--<a href="http://cirb.brussels" class="sponsor icon cirb"><span class="label">CIRB</span></a>
+							<!--<a href="http://cirb.brussels" class="sponsor icon cirb"><span class="label">CIRB</span></a>-->
 							<a href="http://www.geosparc.com/" class="sponsor icon geosparc"><span class="label">Geosparc</span></a>
-			    				<a href="http://www.geosolutions.be" class="sponsor icon geosolutions"><span class="label">Geosolutions</span></a>-->
+			    				<!--<a href="http://www.geosolutions.be" class="sponsor icon geosolutions"><span class="label">Geosolutions</span></a>-->
 						  </dd>						  
 						  <dt class="spons"><a href="#" class="accordionTitle sponsors gold"> <?php echo $lang['SPONSORS_2_TITLE']; ?> <span class="spon2"><?php echo $lang['SPONSORS_2_TAGLINE']; ?></span></a></dt>
 						  <dd class="accordionItem accordionItem">
-						    <!--<a href="https://overheid.vlaanderen.be/informatie-vlaanderen"  class="sponsor icon aiv"><span class="label">Agentschap Informatie Vlaanderen</span></a>
-							<a href="http://www.champs-libres.coop/" class="sponsor icon champs-libres"><span class="label">Champs-libres</span></a>-->
+<?php /*<a href="https://overheid.vlaanderen.be/informatie-vlaanderen"  class="sponsor icon aiv"><span class="label">Agentschap Informatie Vlaanderen</span></a> */?>
+							<a href="http://www.champs-libres.coop/" class="sponsor icon champs-libres"><span class="label">Champs-libres</span></a>
                             <a href="http://www.gim.be/" class="sponsor icon gim"><span class="label">GIM</span></a>
 			    <a href="http://ngi.be/" class="sponsor icon ngi"><span class="label">NGI</span></a>
                             <a href="http://oslandia.com/" class="sponsor icon oslandia"><span class="label">Oslandia</span></a>
 						  </dd>
 						  <dt class="spons"><a href="#" class="accordionTitle sponsors silver"> <?php echo $lang['SPONSORS_3_TITLE']; ?> <span class="spon3"><?php echo $lang['SPONSORS_3_TAGLINE']; ?></span></a></dt>
 						  <dd class="accordionItem accordionItem">
-						<!--	<a href="http://www.opengeode.be" class="sponsor icon geode"><span class="label">Open Geode</span></a>-->
+						<a href="http://www.idgeo.fr" class="sponsor icon idgeo"><span class="label">idgeo</span></a>
+						<a href="http://www.opengeode.be" class="sponsor icon geode"><span class="label">Open Geode</span></a>
 						  </dd>
 						  <dt class="spons"><a href="#" class="accordionTitle sponsors bronze"> <?php echo $lang['SPONSORS_4_TITLE']; ?> <span class="spon4"><?php echo $lang['SPONSORS_4_TAGLINE']; ?></span></a></dt>
 						  <dd class="accordionItem accordionItem">
