@@ -61,6 +61,7 @@
 						  </dd>
 						  <dt class="spons"><a href="#" class="accordionTitle sponsors silver"> <?php echo $lang['SPONSORS_3_TITLE']; ?> <span class="spon3"><?php echo $lang['SPONSORS_3_TAGLINE']; ?></span></a></dt>
 						  <dd class="accordionItem accordionItem">
+						<a href="https://www.atelier-cartographique.be" class="sponsor icon atelier"><span class="label">atelier-cartographique</span></a>
 						<a href="http://www.idgeo.fr" class="sponsor icon idgeo"><span class="label">idgeo</span></a>
 						<a href="http://www.opengeode.be" class="sponsor icon geode"><span class="label">Open Geode</span></a>
 						  </dd>
