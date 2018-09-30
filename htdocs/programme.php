@@ -44,7 +44,7 @@ $languages= array(0=>"?",1=>"nl", 2=>"fr",3=>"en");
 		<!-- Main -->
 			<section id="main" class="container">
 				<header>
-					<h2><?php echo $lang['MENU_PROGRAM']; ?></h2><h3><?php echo $lang['PROGRAMCANCHANGE']; ?></h3>
+                    <h2><?php echo $lang['MENU_PROGRAM']; ?></h2>
 					<p><?php echo $lang['SITE_DATATOP']; ?></p>
 				</header>
 				<div class="row">
@@ -59,7 +59,7 @@ $languages= array(0=>"?",1=>"nl", 2=>"fr",3=>"en");
 							<tbody>
 							<tr><th>time</th><th>track 1 (Auditorium)</th><th>track 2 (Sylva)</th><th>track3 (Aqua)</th></tr>
 							<?php
-							$query = "select * FROM presentations order by start, track";
+							$query = "select * FROM presentations where accepted=1 order by start, track";
 							$result = mysqli_query($link,$query);
 
 							$lasttrack =0;
