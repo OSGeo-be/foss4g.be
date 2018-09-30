@@ -2381,3 +2381,6 @@ a.pluss:before, a.pluss:after {content:' ' !important;}
    float:left;
  }
 
+@media print {
+    body {transform: scale(.8);}
+}
