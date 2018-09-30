@@ -42,7 +42,7 @@
 				</header>
 				<section class="box">
 					<div style="width:100%; text-align:left;" >
-					<iframe  src="//eventbrite.fr/tickets-external?eid=37887228721&ref=etckt" frameborder="0" height="600" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
+					<iframe  src="//www.eventbrite.fr/e/billets-foss4g-be-50730031891" frameborder="0" height="600" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
 					</div>
 					</section>
 		</section>
