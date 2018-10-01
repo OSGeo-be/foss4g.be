@@ -37,7 +37,7 @@
 					<img src="images/chapeau-earth.png" style="width:8vw;opacity:0.2;text-align:center;">
 					<h2><sub></sub> <?php echo $lang['MENU_REG']; ?> <sup></sup></h2>
 					<p><?php echo $lang['REGISTRATION_TXT']; ?></p>
-					<p><?php echo $lang['REGISTRATION_SURVEYORS_TXT'] ?></p>
+					<!-- <p><?php echo $lang['REGISTRATION_SURVEYORS_TXT'] ?></p>-->
 					<!-- <p><?php echo $lang['REGISTRATION_TAGLINE']; ?></p> -->
 				</header>
 				<section class="box">
