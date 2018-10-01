@@ -244,7 +244,7 @@ $lang['INFO_TITLE'] ='Venue & Information';
 $lang['INFO_TAGLINE'] ='&laquo; The where\'s <span>and how\'s</span> <span>in a nutshell</span> &raquo;';
 
 $lang['INFO_REG'] ='Registrations';
-$lang['INFO_REG_TXT'] ='The event is <u>free for all</u>, but the available seats are limited and registration is required! Please do not forget to order your lunch or bring your own.';
+$lang['INFO_REG_TXT'] ='The event is <u>free for all</u>, but the available seats are limited and registration is required!';
 
 $lang['INFO_FOOD'] ='Catering & Amenities';
 $lang['INFO_FOOD_TXT'] ='Greenhouse gas emissions, water consumption, impacts on biodiversity, waste production... The environmental impacts of our food are enormous. Brussels Environment applies an ambitious and dynamic policy on sustainable food, which is why the BEL restaurant is exemplary in this respect. The food served there includes organic, local and seasonal dishes and vegetarian alternatives. Discover the <a href="http://www.biorganicfactory.be/fr/concept.php" target="_blank">Biorganic Factory</a>';
@@ -277,7 +277,7 @@ $lang['INFO_TT_CAR'] ='Parking Tour & Taxis / 3 euros/hours';
 
 // REGISTRATION PAGE ------------------------------------------------------------------------------------------------/
 
-$lang['REGISTRATION_TXT'] = 'The event is <u>free for all</u>, but the available seats are limited and registration is required! Please do not forget to order lunch or bring your own. Registration can be done below or on our <a href="https://www.eventbrite.fr/e/billets-foss4g-be-37887228721">eventbrite</a> page.';
+$lang['REGISTRATION_TXT'] = 'The event is <u>free for all</u>, but the available seats are limited and registration is required! Registration can be done below or on our <a href="https://www.eventbrite.fr/e/billets-foss4g-be-50730031891">eventbrite</a> page.';
 $lang['REGISTRATION_SURVEYORS_TXT'] = 'The FOSS4G BELGIUM 2018 conference has also been accredited by the Federal Council of Surveyors and can give up to 5 hours of permament training, depending on the effective attendance time.<br/>
 Even if our event is free for all, filing fees of 25 € will be charged to obtain this certificate.<br/>
 If you want to receive a certificate, please select the "Surveyor" ticket. The organisers will then take contact with you afterwards to undertake the formalities.';

@@ -232,7 +232,7 @@ $lang['INFO_TITLE'] ='Information & facilités';
 $lang['INFO_TAGLINE'] ='&laquo; Tout ce que <span>vous devez une fois</span> <span>bien savoir pour venir</span> &raquo;';
 
 $lang['INFO_REG'] ='Inscriptions';
-$lang['INFO_REG_TXT'] ='L’événement est <u>gratuit pour tous</u>, mais les places sont limitées et l\'inscription est donc obligatoire! N\'oubliez pas de reserver votre lunch ou de le prendre avec vous.';
+$lang['INFO_REG_TXT'] ='L’événement est <u>gratuit pour tous</u>, mais les places sont limitées et l\'inscription est donc obligatoire!';
 
 $lang['INFO_FOOD'] ='Repas & Facilités';
 $lang['INFO_FOOD_TXT'] ='Un restaurant exemplaire à plus d\'un titre sera disponible sur le site. On vous y propose des aliments bio, locaux, de saison, proposant des alternatives végétariennes... Plus d\'infos à propos de <a href="http://www.biorganicfactory.be/fr/concept.php" target="_blank">Biorganic Factory</a>.';
@@ -279,7 +279,7 @@ $lang['INFO_TT_CAR'] ='Parking Tour & Taxis / 3 euros/heure';
 
 // PAGE INSCRIPTION ------------------------------------------------------------------------------------------------/
 
-$lang['REGISTRATION_TXT'] ='L’événement est <u>gratuit pour tous</u>, mais les places sont limitées et l\'inscription est donc obligatoire! N\'oubliez pas de reserver votre lunch ou de le prendre avec vous.';
+$lang['REGISTRATION_TXT'] ='L’événement est <u>gratuit pour tous</u>, mais les places sont limitées et l\'inscription est donc obligatoire!';
 $lang['REGISTRATION_SURVEYORS_TXT'] = "La conférence FOSS4G BELGIUM 2018 a également été reconnue par le Conseil fédéral des géomètres-experts et peut donner jusqu’à 5 heures de formation permanente, selon le temps de présence effective.<br/>
 Bien que notre évènement soit gratuit pour tous, des frais de dossiers s'élevant à 25 € seront demandés pour l'obtention de cette attestation.<br/>
 Si vous souhaitez obtenir une attestation, merci de bien vouloir vous inscrire en sélectionnant un ticket \"Surveyor\". Les organisateurs reprendront par la suite contact avec vous afin de régler les formalités.";
