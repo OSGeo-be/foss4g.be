@@ -58,6 +58,7 @@
 			    <a href="http://ngi.be/" class="sponsor icon ngi"><span class="label">NGI</span></a>
                             <a href="http://oslandia.com/" class="sponsor icon oslandia"><span class="label">Oslandia</span></a>
 			    				<a href="http://www.geosolutions.be" class="sponsor icon geosolutions"><span class="label">Geosolutions</span></a>
+			    				<a href="https://spw.wallonie.be/" class="sponsor icon spw"><span class="label">Spw</span></a>
 						  </dd>
 						  <dt class="spons"><a href="#" class="accordionTitle sponsors silver"> <?php echo $lang['SPONSORS_3_TITLE']; ?> <span class="spon3"><?php echo $lang['SPONSORS_3_TAGLINE']; ?></span></a></dt>
 						  <dd class="accordionItem accordionItem">
