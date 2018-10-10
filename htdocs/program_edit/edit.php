@@ -37,17 +37,23 @@ if(!empty($_POST['submit']) && $_POST['submit'] == "save changes" && !empty($_PO
 $guid = ($_GET['id']);
 if (preg_match("/^(\{)?[a-f\d]{8}(-[a-f\d]{4}){4}[a-f\d]{8}(?(1)\})$/i", $guid))
 	{
-		$id= mysql_escape_string($guid);
+		$id= mysqli_real_escape_string($guid);
 	}
 	else
 		
 	{
 		echo "invalid id";
-		exit();}
+        exit();
+    }
 
 $query="select * FROM presentations where guid='$id'";
 $result = mysqli_query($link,$query);
-$row = mysqli_fetch_array($result, MYSQLI_ASSOC);
+if (mysqli_num_rows($result) == 0)
+{
+    echo "id not found";
+    exit();
+}
+$row = mysqli_fetch_array($result);
 ?>
 <h1>Presenter submission</h1>
 <div>This form enables presenters at FOSS4G.be to update the details of their presentation. Please do not share the link as anyone with the link can update all records. Note that start time, end time and track can not be changed using this form.
