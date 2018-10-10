@@ -75,6 +75,8 @@ $row = mysqli_fetch_array($result);
 <?php echo htmlentities ($row['abstract'])?></textarea>
 <label for="language">Language:</label><span>Note that for track 1 we provide translations (<b>NL->FR</b>) and (<b>FR->NL</b>). <br />For other tracks we prefer presentations in English (for our international audience), but presenters can choose the language they prefer.</span>
 <select id="language" name="language">
+    <option value="0"<?php if (!in_array($row['language'],array(1,2,3))) echo ' selected="selected"'; ?>> </option>
+
 	<option value="1"<?php if ($row['language'] == '1') echo ' selected="selected"'; ?>>nl</option>
 	<option value="2"<?php if ($row['language'] == '2') echo ' selected="selected"'; ?>>fr</option>
 	<option value="3"<?php if ($row['language'] == '3') echo ' selected="selected"'; ?>>en</option>
