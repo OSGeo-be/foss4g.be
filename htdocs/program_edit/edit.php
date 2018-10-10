@@ -11,7 +11,7 @@ if(!empty($_POST['submit']) && $_POST['submit'] == "save changes" && !empty($_PO
 	$upd = mysqli_prepare ($link, $sql);
 	mysqli_stmt_bind_param($upd,"ssssssiss",$_POST['presenter'],$_POST['email'],$_POST['affiliation'],$_POST['url'],$_POST['title'],$_POST['abstract'],$_POST['language'],$_POST['presentation_url'],$_POST['id']);
 
-	mysqli_stmt_execute($upd);
+	mysqli_stmt_execute($upd) or die(mysqli_error($link));;
 	/* note that for invalid ID's nothing will happen */
 }
 ?>
