@@ -26,7 +26,7 @@ $languages= array(0=>"?",1=>"nl", 2=>"fr",3=>"en");
 <tbody>
 <tr><th>time</th><th>track 1</th><th>track 2</th><th>track3</th><th>track 4</th></tr>
 <?php
-$query = "select * FROM presentations order by start, track";
+$query = "select * FROM presentations where accepted=1 order by start, track";
 $result = mysqli_query($link,$query);
 
 $lasttrack =0;
