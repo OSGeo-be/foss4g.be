@@ -57,6 +57,7 @@
                             <a href="http://www.gim.be/" class="sponsor icon gim"><span class="label">GIM</span></a>
 			    <a href="http://ngi.be/" class="sponsor icon ngi"><span class="label">NGI</span></a>
                             <a href="http://oslandia.com/" class="sponsor icon oslandia"><span class="label">Oslandia</span></a>
+                            <a href="https://www.fabspace.eu/" class="sponsor icon fabspace"><span class="label">Fabspace 2.0</span></a>
 			    				<a href="http://www.geosolutions.be" class="sponsor icon geosolutions"><span class="label">Geosolutions</span></a>
 			    				<a href="https://spw.wallonie.be/" class="sponsor icon spw"><span class="label">Spw</span></a>
 						  </dd>
