@@ -34,7 +34,7 @@ while ($row = mysqli_fetch_array($result, MYSQLI_ASSOC))
 {
 	if ($row['track']==0)
 	{
-		printf ("<a href=edit.php?id=%s>X</a><tr><td>%s</td><td colspan='4'>%s</td></tr>", $row['start'], $row['title']);
+        printf ("<tr><td>%s</td><td colspan='4'><a href='edit.php?id=%s'>X</a>i %s</td></tr>", $row['start'], $row['guid'], $row['title']);
 	}
 	else
 	{
