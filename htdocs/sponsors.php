@@ -10,7 +10,7 @@
 		<meta name="geo.position" content="50.866248;4.349073" />
 		<meta name="geo.region" content="BE-Brussels" />
 		<meta name="ICBM" content="50.866248, 4.349073" />	
-		<link rel="canonical" href="http://2018.foss4g.be/" />
+		<link rel="canonical" href="https://2019.foss4g.be/" />
 		<script src="js/jquery.min.js" type="text/javascript"></script>
 		<script src="js/jquery.dropotron.min.js" type="text/javascript"></script>
 		<script src="js/jquery.scrollgress.min.js" type="text/javascript"></script>

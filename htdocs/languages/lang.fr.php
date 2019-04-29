@@ -13,13 +13,13 @@ $lang['URL_INDEX_3'] = 'index.php?lang=fr'; /* switch to FR */
 $lang['URL_CONTACT'] = 'contact.php';
 
 // NOM DU SITE ET HEADERS
-$lang['SITE_NAME'] = 'FOSS4G Belgium 2018';
-$lang['SITE_TITLE'] = 'FOSS4G Belgique 2018';
-$lang['SITE_DESCRIPTION'] = 'FOSS4G Belgique 2018';
+$lang['SITE_NAME'] = 'FOSS4G Belgium 2019';
+$lang['SITE_TITLE'] = 'FOSS4G Belgique 2019';
+$lang['SITE_DESCRIPTION'] = 'FOSS4G Belgique 2019';
 $lang['SITE_KEYWORDS'] = 'FOSS4G Geo marqueur GIS Open Source Bruxelles';
 $lang['SITE_AUTHOR'] = 'FOSS4G Belgium';
-$lang['SITE_DATATOP'] = '<div class="foss4g"></div> 25 Octobre - Bruxelles';
-$lang['SITE_DATABIG'] = '<a href="http://bel.brussels/" alt="BEL Building" style="color:white" target="_blank">BEL - Bruxelles Environnement</a> - 25 octobre 2018';
+$lang['SITE_DATATOP'] = '<div class="foss4g"></div> 24 Octobre - Bruxelles';
+$lang['SITE_DATABIG'] = '<a href="http://bel.brussels/" alt="BEL Building" style="color:white" target="_blank">BEL - Bruxelles Environnement</a> - 24 octobre 2019';
 
 // MENU
 $lang['MENU_HOME'] = 'Accueil';
@@ -63,7 +63,7 @@ $lang['CALL_3'] = 'Appel à contributions';
 $lang['PROGRAMME'] = 'Programme';
 
 // HOME A PROPOS
-$lang['ABOUT_TITLE'] = 'Après les succès du FOSS4G Belgium en 2015, 2016 et 2017, OSGeo.be organisera <b>le jeudi 25 Octobre 2018</b> une nouvelle édition de la conférence FOSS4G.BE à Bruxelles. Restez à l\'écoute pour plus d\'infos! <br>
+$lang['ABOUT_TITLE'] = 'Après les succès du FOSS4G Belgium depuis 2015, OSGeo.be organisera <b>le jeudi 24 Octobre 2019</b> une nouvelle édition de la conférence FOSS4G.BE à Bruxelles. Restez à l\'écoute pour plus d\'infos! <br>
 Envie de participer à l\'organisation de cet évènement ? Contactez-nous sur info@foss4g.be';
 
 // HOME SECTION CONFERENCES
@@ -116,7 +116,7 @@ $lang['ABOUT_A_TEXT2'] ='<a href="http://www.osgeo.org/">La fondation Open Sourc
 $lang['SPONSORS_TITLE'] ='Appel à sponsors';
 
 $lang['SPONSORS_SUBTITLE'] ='Aidez-nous à faire de l\'édition de cette année un nouveau succès';
-$lang['SPONSORS_CALL'] ='Après plusieurs éditions réussies, OSGEO.be et OpenStreetMap Belgique organisent une nouvelle édition de la conférence FOSS4G Belgique le Jeudi 25 octobre 2018.<br>
+$lang['SPONSORS_CALL'] ='Après plusieurs éditions réussies, OSGEO.be et OpenStreetMap Belgique organisent une nouvelle édition de la conférence FOSS4G Belgique le Jeudi 24 octobre 2019.<br>
 <br>
 La conférence FOSS4G regroupe les développeurs et utilisateurs des logiciels géospatieux open-source mais aussi les gestionnaires et décideurs venant des 
 quatres coins du Monde pour discuter des nouveaux développements, décisions et des opportunités croissantes dans ce domaine.

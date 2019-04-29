@@ -13,13 +13,13 @@ $lang['URL_INDEX_3'] = 'index.php?lang=fr'; /* switch to FR */
 $lang['URL_CONTACT'] = 'contact.php';
 
 // SITE NAME AND HEADERS
-$lang['SITE_NAME'] = 'FOSS4G Belgium 2018';
-$lang['SITE_TITLE'] = 'FOSS4G België 2018';
-$lang['SITE_DESCRIPTION'] = 'FOSS4G België 2018';
+$lang['SITE_NAME'] = 'FOSS4G Belgium 2019';
+$lang['SITE_TITLE'] = 'FOSS4G België 2019';
+$lang['SITE_DESCRIPTION'] = 'FOSS4G België 2019';
 $lang['SITE_KEYWORDS'] = 'Foss4G Geo GIS Open Source Brussel OSGeo OSGeoBE België';
 $lang['SITE_AUTHOR'] = 'FOSS4G Belgium';
-$lang['SITE_DATATOP'] = '25 Oktober 2018 - Brussel';
-$lang['SITE_DATABIG'] = '<a href="http://bel.brussels/nl/content/bereikbaarheid">BEL Brussel</a> - 25 Oktober 2018';
+$lang['SITE_DATATOP'] = '24 Oktober 2018 - Brussel';
+$lang['SITE_DATABIG'] = '<a href="http://bel.brussels/nl/content/bereikbaarheid">BEL Brussel</a> - 25 Oktober 2019';
 
 // MENU
 $lang['MENU_HOME'] = 'Home';
@@ -29,7 +29,7 @@ $lang['MENU_REG'] = 'Registratie';
 $lang['MENU_CALL2'] = 'Oproep voor sponsors';
 $lang['MENU_CALL3'] = 'Oproep voor bijdragen';
 //$lang['MENU_PROGRAMME'] = 'Programma';
-$lang['MENU_PRACTICAL'] = 'Info & toegang';
+$lang['MENU_PRACTICAL'] = 'Info &amp; toegang';
 
 $lang['MENU_PROGRAM'] = 'Agenda';
 $lang['MENU_CONTACT'] = 'Contact';
@@ -62,7 +62,7 @@ $lang['CALL_3'] = 'Oproep voor bijdragen';
 $lang['PROGRAMME'] = 'Programma';
 
 // HOME OVER ONS
-$lang['ABOUT_TITLE'] = 'Na succesvolle edities in 2015, 2016 en 2017 organiseert OSGeo.be samen met OpenStreetMap België een nieuwe editie van deze FOSS4G.BE conferentie op <b>donderdag 25 oktober 2018</b> in Brussel.';
+$lang['ABOUT_TITLE'] = 'Na succesvolle jaarlijkse edities sinds 2015 organiseert OSGeo.be samen met OpenStreetMap België een nieuwe editie van deze FOSS4G.BE conferentie op <b>donderdag 24 oktober 2019</b> in Brussel.';
 
 // HOME SECTION CONFERENTIES
 $lang['HOME_S1_TITLE'] = 'Presentaties en Workshops';
@@ -137,10 +137,10 @@ $lang['ABOUT_A_TEXT2'] ='<a href="http://www.osgeo.org/">The Open Source Geospat
 // SPONSORS PAGE CALL ------------------------------------------------------------------------------------------------------------/
 
 $lang['SPONSORS_TITLE'] ='Oproep voor sponsors';
-$lang['SPONSORS_SUBTITLE'] ='Help ons om editie 2018 te organiseren';
+$lang['SPONSORS_SUBTITLE'] ='Help ons om editie 2019 te organiseren';
 $lang['SPONSORS_CALL'] ='
 Na drie succesvolle FOSS4G Belgium events, organiseert OSGeo.be een nieuwe editie van FOSS4G Belgium op donderdag 25
-oktober 2018.<br /><br />
+oktober 2019.<br /><br />
 FOSS4G conferenties brengen ontwikkelaars en gebruikers van Open Source geospatial software van over de hele wereld
 samen om te discussiëren over nieuwe mogelijkheden, boeiende toepassingen en toenemende commerciële kansen
  in dit domein. De laatste jaren is er veel veranderd in de geospatiale industrie. Een van die veranderingen is een
@@ -219,7 +219,7 @@ $lang['SPONSORS_T_SUBTITLE'] ='Dank aan onze sponsors om dit mogelijk te maken';
 // PAPERS PAGE CALL ------------------------------------------------------------------------------------------------------------/
 
 $lang['PAPERS_TITLE'] ='Oproep voor bijdragen';
-$lang['PAPERS_SUBTITLE'] ='Help ons de editie in 2018 een succes te maken';
+$lang['PAPERS_SUBTITLE'] ='Help ons de editie in 2019 een succes te maken';
 $lang['PAPERS_CALL'] ='
 ';
 // Plenary Session
@@ -235,7 +235,7 @@ $lang['PAPERS_CALL_TXT4b'] ='Één speciale track heeft behandelt Free en Open S
 $lang['PAPERS_CALL_TXT5'] ='De development track zal presentaties laten zien van de laatste ontwikkelingen in FOSS4G';
 $lang['PAPERS_CALL_TXT6'] ='Ben je een expert in GIS ? ';
 $lang['PAPERS_CALL_TXT7'] ='Heb je OSGeo toepassingen gebruikt in een specifieke context - spatial data infrastructure, Big Data, specifieke klanten, innovatieve projecten, .... voor je bedrijf, onderzoeksinstelling of in onderwijs? ';
-$lang['PAPERS_CALL_TXT8'] ='Als je aan één van deze voorwaarden voldoet, twijfel niet en <a href="http://2018.foss4g.be/submit-paper.php" alt="http://2018.foss4g.be/submit-paper.php">verstuur nu je presentatie!</a>';
+$lang['PAPERS_CALL_TXT8'] ='Als je aan één van deze voorwaarden voldoet, twijfel niet en <a href="https://2019.foss4g.be/submit-paper.php" alt="https://2019.foss4g.be/submit-paper.php">verstuur nu je presentatie!</a>';
 
 // Workshops 
 $lang['PAPERS_CALL_T2_TXT1'] ='Topics & Debates';
@@ -252,7 +252,7 @@ $lang['PAPERS_FORMAT_2'] ='Elke presentatie krijgt ongeveer 20 minuten voor een 
 $lang['PAPERS_FORMAT_3'] ='Voorstellen kunnen ingediend worden in het Nederlands, Frans of Engels';
 
 $lang['PAPERS_SUM'] ='Insturen';
-$lang['PAPERS_SUM_SUB'] ='Presentaties kunnen ingestuurd worden op <a href="http://2018.foss4g.be/submit-paper.php"> volgend formulier</a>. Vermeld volgende gegevens:';
+$lang['PAPERS_SUM_SUB'] ='Presentaties kunnen ingestuurd worden op <a href="https://2019.foss4g.be/submit-paper.php"> volgend formulier</a>. Vermeld volgende gegevens:';
 $lang['PAPERS_SUM_NAME'] ='Je naam en voornaam;';
 $lang['PAPERS_SUM_EMAIL'] ='Een contact-emailadres;';
 $lang['PAPERS_SUM_ORG'] ='Je bedrijf/organisatie/werkgever;';
@@ -331,7 +331,7 @@ $lang['INFO_TT_CAR'] ='Parking Tour & Taxis / 3 euros/uur';
 // REGISTRATION PAGE ------------------------------------------------------------------------------------------------/
 
 $lang['REGISTRATION_TXT'] = 'Het evenement is gratis maar het aantal plaatsen is beperkt en registratie is noodzakelijk.';
-$lang['REGISTRATION_SURVEYORS_TXT'] = 'De FOSS4G BELGIUM 2018 is erkend door de Federale Raad van landmeters-experten en telt mee, afhankelijk van uw effectieve aanwezigheid, voor  5 uur permanente vorming.<br/>
+$lang['REGISTRATION_SURVEYORS_TXT'] = 'FOSS4G BELGIUM 2019 is erkend door de Federale Raad van landmeters-experten en telt mee, afhankelijk van uw effectieve aanwezigheid, voor  5 uur permanente vorming.<br/>
 Voor het verkrijgen van een attest van deelname worden 25€ administratiekosten aangerekend.<br/>
 Indien u een attest wil krijgen, moet u registeren met een "Surveyor" ticket. De organisatoren zullen daarna contact opnemen met u voor de formaliteiten.';
 
@@ -360,151 +360,12 @@ $lang['CONTACT_THX_TXT2'] = 'In the meantime for more information you can visit<
 $lang['CV_TITLE'] = 'Send your CV in the right box';
 $lang['CV_TXT'] = '<a href="cv@foss4g.be" title="CV for our Sponsors" style="color:#fff;font-weight:bold">cv@foss4g.be</a>
 ';
-$lang['CV_TXT2'] = ' Taking information from our  <a href="http://2018.foss4g.be/sponsors.php/" target="_blank" style="color:#fff;font-weight:bold">Sponsors</a>';
+$lang['CV_TXT2'] = ' Taking information from our  <a href="https://2019.foss4g.be/sponsors.php/" target="_blank" style="color:#fff;font-weight:bold">Sponsors</a>';
 // SPONSORS
 
 // PARTNERS
 $lang['HACK_DATE'] = '<div class="foss4g"></div> 28 Oct 2015 - CIRB-CIBG - Avenue des Arts, 21 - Bruxelles';
-$lang['HACK_TXT'] ='
-<p style="text-align: center;">Foss4g.be is trots om de implementatie van een Hackathon aan te kondigen.</p>
-
-<p>Dit evenement zal plaats vinden in het CIBG (Centrum voor Informatica van het Brusselse Gewest) <u><strong>op woensdag 28 oktober 2015 gedurende een ganse dag</strong></u>. De indeling van de dag zal de verschillende ploegen de mogelijkheid geven zich vriendschappelijk te meten in het ontwikkelen van projecten in relatie met Open Data en Smart City (Mobiliteit &ndash; Leefomgeving &ndash; administratieve diensten (aan de burger) &ndash; levenskwaliteit)<br />
-<br />
-In beloning, een prijs in geld dankzij onze sponsor Innoviris ondersteunen van technologische innovatie en een presentatie in plenaire zitting aan Foss4g.be.<br />
-Gedurende de dag is een catering voorzien om in de levensbehoeften van de deelnemers te voorzien.</p>
-
-<table border="1" cellpadding="1" cellspacing="1" style="width: 500px;">
-	<tbody>
-		<tr>
-			<td><strong>INSCHRIJVINGEN</strong></td>
-			<td style="text-align: center;"><a href="http://doodle.com/poll/serug76hrg5rpifh" target="_blank"><ins><strong> http://doodle.com/poll/serug76hrg5rpifh</strong></ins></a></td>
-		
-			<td><strong>CONTACT</strong></td>
-			<td style="text-align: center;">channecart@cirb.brussels</td>
-		</tr>
-	</tbody>
-	
-	<p><strong>Agenda</strong></p>
-
-<table border="0" cellpadding="0" cellspacing="0" style="width:530px;" width="530">
-	<tbody>
-		<tr>
-			<td style="width:91px;height:20px;">
-			<p>9&nbsp;h</p>
-			</td>
-			<td style="width:440px;height:20px;">
-			<p>Welkom</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="width:91px;height:75px;">
-			<p>9&nbsp;h&nbsp;30</p>
-			</td>
-			<td style="width:440px;height:75px;">
-			<p>Presentatie van de doelstellingen van de Hackathon<br />
-			Presentatie van de beschikbare data / potentieel<br />
-			Presentaties beschikbare tools</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="width:91px;height:20px;">
-			<p>10&nbsp;h&nbsp;30</p>
-			</td>
-			<td style="width:440px;height:20px;">
-			<p>Grondwet teams</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="width:91px;height:20px;">
-			<p>11hh -12h30</p>
-			</td>
-			<td style="width:440px;height:20px;">
-			<p>Brainstormen in teams om het project te defini&euml;ren</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="width:91px;height:20px;">
-			<p>12&nbsp;h&nbsp;30 - 13&nbsp;h&nbsp;30</p>
-			</td>
-			<td style="width:440px;height:20px;">
-			<p>Buffet party</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="width:91px;height:80px;">
-			<p>13&nbsp;h&nbsp;30 -16h30</p>
-			</td>
-			<td style="width:440px;height:80px;">
-			<p>Maak een project architectuur met de doelstelling van :</p>
-
-			<ul>
-				<li>een presentatie (ppt 10 minuten)</li>
-				<li>een de presentatie van
-				<ul style="list-style-type:circle;">
-					<li>modules</li>
-					<li>code</li>
-					<li>specifieke gebruik van bronnen</li>
-					<li>design</li>
-				</ul>
-				</li>
-			</ul>
-			</td>
-		</tr>
-		<tr>
-			<td style="width:91px;height:20px;">
-			<p>16&nbsp;h&nbsp;30 -17h15</p>
-			</td>
-			<td style="width:440px;height:20px;">
-			<p>Presentatie van de projecten</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="width:91px;height:60px;">
-			<p>17&nbsp;h&nbsp;15 17&nbsp;h&nbsp;25</p>
-			</td>
-			<td style="width:440px;height:60px;">
-			<p>Jury beraadslaging en stemming</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="width:91px;height:20px;">
-			<p>17&nbsp;h&nbsp;30</p>
-			</td>
-			<td style="width:440px;height:20px;">
-			<p>Proclamatie door Sebastian M SERRANO (Innoviris) en vriendelijke drankje</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-</table>
-
-<p>De objectieven en opportuniteiten zijn veelvoudig.<br />
-Het zal namelijk mogelijk zijn om de talrijke Open Data bronnen die beschikbaar zijn in het Brussels Gewest, en elders, te ontdekken en te gebruiken.
-Speciaal voor dit evenement zal er een &ldquo;CKAN&rdquo; platform ontwikkeld worden en zal het mogelijk zijn zich vertrouwd te maken of zich te verbeteren in het gebruik van software doorheen &nbsp;<a href="http://live.osgeo.org/en/" target="_blank">OSGeo-Live</a> .</p>
-
-<p>Wij zijn er ons van bewust dat &eacute;&eacute;n dag niet voldoende zal zijn om de projecten af te werken.<br />
-Het is daarom dat aan het einde van de deliberaties, bovenop de prijs die zal toegekend worden door INNOVIRIS - het organisme dat instaat voor de promotie van het onderzoek en innovatie in het Brusselse Gewest - voorstelt om de haalbaarheid te evalueren van de commerci&euml;le ontwikkeling van het winnende project.</p>
-
-<p>Deze dag is een uitgelezen mogelijkheid die aangeboden wordt aan personen met een uit&eacute;&eacute;nlopend profiel (data manager, webdesigner, ontwikkelaar, geomaticus &hellip;) komende van verschillende achtergronden (administraties, ondernemingen, sociale associaties &hellip;) om de krachten te verenigen om de waarden van de Open Source te bevorderen.</p>
-
-<p>Om de deelnemers zo goed mogelijk voor te bereiden, maar ook om het optimale verloop van de dag op 28 oktober te verzekeren, <strong>wordt er een informatiezitting georganiseerd (facultatief) op donderdag 22 oktober 2015 van 14h tot 16h</strong><br />
-<u>Agenda</u>:</p>
-
-<ul>
-	<li>presentatie van het platform CKAN</li>
-	<li>presentatie van de gegevens</li>
-	<li>selectie van de thema&rsquo;s &hellip;</li>
-</ul>
-
-<p>Het adres voor het geheel van de evenementen is het <a href="http://cibg.brussels" target="_blank">CIBG</a>, Kunstlaan 21, 1000 Brussel. De contactpersoon is Mr Claude HANNECART (<a href="mailto:channecart@cirb.brussels">channecart@cirb.brussels</a> ) of info@foss4g.be</p>
-
-<p>Voor een optimale organisatie, kan U ons uw deelname bevestigen per mail of via de Doodle (Opgelet het aantal plaatsen is beperkt)</p>
-
-<p style="text-align: center;"><a href="http://doodle.com/poll/serug76hrg5rpifh">http://doodle.com/poll/serug76hrg5rpifh</a></p>
-
-<p>Wij danken U bij voorbaat en zijn er reeds zeker van het slagen van dit evenement dank zij uw engagement.</p>
-
-';
+$lang['HACK_TXT'] ='';
 
 $lang['MENU_HACK'] = 'Hackathon';
 
@@ -517,7 +378,7 @@ $lang['MAPS_TXT'] ='
 <p>Je kaart kan het resultaat zijn van een professionele activiteit of een persoonlijke uitdaging. We verwachten inzendingen op papier (A1), via email (voeg een screenshot toe) of als interactieve kaart (verwijs naar de URL van de kaart). Samen met je inzending bezorg je een korte beschrijving van je kaart en van de methode om ze te creëren, eventueel de gebruikte software en data voor de realisatie ervan.</p>
 <p>De enige criteria om een bijdrage op te sturen zijn:
 <ul>
-<li>de kaart werd in 2017-2018 gemaakt</li>
+<li>de kaart werd in 2018-2019 gemaakt</li>
 <li>minstens één stap in het productieproces is gebaseerd op geografische open source software</li>
 We nodigen iedereen uit: gebruikers, uitvinders of kartografen van België of daarbuiten om een steentje bij te dragen aan de prachtige kaartgallerij.
 </ul>
@@ -575,7 +436,7 @@ $lang['PROG_DRINK'] = 'Afsluitende drink en netwerking';
 
 	// CTA
 $lang['FOOTER_THANKS'] = 'FOSS4G is een gratis evenement. Alvast dank aan onze sponsors en partners om dit mogelijk te maken.';
-$lang['FOOTER_THANKS_ALL'] = '<a href="http://www.leefmilieu.brussels/" title="Leefmilieu Brussel" style="color:#fff">Leefmilieu Brussel</a><!-- - L\'<a href="http://igeat.ulb.ac.be/" title="IGEAT" style="color:#fff">Institut de Gestion de l\'Environnement et d\'Aménagement du Territoire</a> (IGEAT/ULB) - <a href="http://checksum.be/" style="color:#fff">Checksum</a> -->';
+$lang['FOOTER_THANKS_ALL'] = '<a href="https://www.leefmilieu.brussels/" title="Leefmilieu Brussel" style="color:#fff">Leefmilieu Brussel</a>';
 $lang['FOOTER_MORE'] = 'Voor meer informatie, <a href="contact.php" style="color:#fff">contacteer ons</a>.';
 	// FOOTER
 
