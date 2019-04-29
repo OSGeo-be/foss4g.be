@@ -98,30 +98,36 @@ FOSS4G Belgium is the yearly Belgium event about Free and Open Source Software f
 
 It is organised by the Belgium Chapter of the Open Geospatial Foundation (OSGeo.be), which
  is one of the more than 50 local chapters of the Open Geospatial Foundation (OSGeo) worldwide.
-As of today, almost every week there is a FOSS4G conference, somewhere on this planet. But only one is located in Brussels, Belgium. <br/><br/>
+As of today, almost every week there is a FOSS4G conference, somewhere on this planet. But only one is located in Brussels. <br/><br/>
 
 The conference is for and by everybody who is interested in an open and inclusive world. We promote free and open source software, but also open standards, open data, open government, ...<br/><br/>
 
-We attract for the Belgium conference between 300 and 400 visitors. Thanks to our <a href="sponsors.php">sponsors</a> we can keep the entrance fee for free.
-Volunteers are presenting and sharing their best practises and experiences. Anybody is encouraged to <a href="papers.php">submit a paper to present</a>.
-And because the topic is all about Geo, MAPS are an important topic and we have every year a wall with the most beautiful maps. You can provide your best work by applying for the <a href="maps.php">call for maps</a>. <br /><br />
+During the past conferences, around 400 enthusiasts came over. Thanks to our <a href="sponsors.php">sponsors</a>, we can keep the entrance free.
+Volunteers are presenting and sharing their best practices and experiences. Anybody is encouraged to <a href="papers.php">submit a paper to present</a>.
+And because the topic is all about Geo, maps are an important topic so we have a wall with the most beautiful maps. 
+<a href="maps.php">Show of your best by sending in your maps!</a>. <br /><br />
 
 
-If we have to describe a FOSS4G conference in one sentence, we should describe the fantastic atmosphere and energy around the event.<br/><br/>
-
-This will be the third edition of the Conference in Belgium.
-
+If we have to describe a FOSS4G conference in one sentence, we should describe the fantastic atmosphere and energy around the event.
 ';
 
 $lang['ABOUT_A_SUBTITLE2'] ='OSGeo';
-$lang['ABOUT_A_TEXT2'] ='<a href="http://www.osgeo.org/">The Open Source Geospatial Foundation (OSGeo)</a>, is a not-for-profit organization whose mission is to support the collaborative development of open source geospatial software, and promote its widespread use. The foundation provides financial, organizational and legal support to the broader open source geospatial community. It also serves as an independent legal entity to which community members can contribute code, funding and other resources, secure in the knowledge that their contributions will be maintained for public benefit. OSGeo also serves as an outreach and advocacy organization for the open source geospatial community, and provides a common forum and shared infrastructure for improving cross-project collaboration.</p><p>The foundation\'s projects are all freely available and usable under an <a href="http://opensource.org/pressreleases/certified-open-source.php" target="_blank">OSI-certified open source license</a>.</p>';
+$lang['ABOUT_A_TEXT2'] ='<a href="http://www.osgeo.org/">The Open Source Geospatial Foundation (OSGeo)</a> is a non-profit organization whose mission is to support the development of open source geospatial software and promote its use. The foundation provides financial, organizational and legal support to the broader open source geospatial community. It also serves as an independent legal entity to which community members can contribute code, funding and other resources, secure in the knowledge that their contributions will be maintained for public benefit. OSGeo also serves as an outreach and advocacy organization for the open source geospatial community and provides a common forum and shared infrastructure for improving cross-project collaboration.</p><p>The foundation\'s projects are all freely available and usable under an <a href="http://opensource.org/pressreleases/certified-open-source.php" target="_blank">OSI-certified open source license</a>.</p>';
 
 
 // SPONSORS PAGE CALL ------------------------------------------------------------------------------------------------------------/
 
 $lang['SPONSORS_TITLE'] ='Call for Sponsors';
 $lang['SPONSORS_SUBTITLE'] ='Help making our 2018 edition a success';
-$lang['SPONSORS_CALL'] ='The FOSS4G Belgian Local Organizing Committee is calling for sponsors.<br />
+$lang['SPONSORS_CALL'] ='After the successful FOSS4G Belgium events in 2015, 2016 and 2017, 
+OSGeo.be and OpenStreetMap Belgium will organise another edition of the FOSS4G Belgium Conference on Thursday October 25, 2018.<br /><br />
+FOSS4G conferences gather developers and users of Open Source geospatial software 
+from around the world to discuss new directions, exciting implementations, and growing business opportunities in this domain. 
+Recent years have seen substantial changes in the geospatial industry. 
+One of those changes has been the growth in maturity and adoption of Free and Open Source solutions. 
+In many cases organizations are using a mixture of open and closed source solutions.
+<br /><br />
+We are looking for sponsors to make this event a succes. <br /><br />
 					The available sponsorship opportunities are listed and detailed here, <a href="contact.php">please contact us with any question on the packages</a>.';
 $lang['SPONSORS_BUTTON'] ='Contact us now to become a sponsor';
 
@@ -136,14 +142,12 @@ $lang['SPONSORS_1_TXT6'] ='Logo on sponsors web page';
 //FROM 2017
 	
 	$lang['SPONSORS_1_TXT7'] ='Select your place';
-	$lang['SPONSORS_1_TXT8'] ='CV before the event ';
-	$lang['SPONSORS_1_TXT14'] ='CV after the event '; 
 	$lang['SPONSORS_1_TXT9'] ='Parking(2)'; 
-	$lang['SPONSORS_1_TXT10'] ='Parking(1)';	
-		$lang['SPONSORS_1_TXT11'] ='Poster Track in Auditorium';
-		$lang['SPONSORS_1_TXT12'] ='Poster Track in Aqua & Sylva';		
-		$lang['SPONSORS_1_TXT13'] ='List of participants';
-		$lang['SPONSORS_1_TXT15'] ='Offer';
+	$lang['SPONSORS_1_TXT10'] ='Parking(1)';
+	$lang['SPONSORS_1_TXT11'] ='Lunch(2)'; 
+	$lang['SPONSORS_1_TXT12'] ='Lunch(1)';
+	$lang['SPONSORS_1_TXT13'] ='List of participants';
+
 		
 $lang['SPONSORS_2_TITLE'] ='Gold';
 $lang['SPONSORS_2_TAGLINE'] ='750€';
@@ -189,18 +193,13 @@ $lang['PAPERS_CALL'] ='On the 25th of October 2018, OSGeo-be will host an event 
 
 // Plenary Session
 $lang['PAPERS_CALL_T_TXT1'] ='Presentations and side tracks';
-$lang['PAPERS_CALL_S_TXT1'] ='We will be having 4 parallel streams';
-$lang['PAPERS_CALL_TXT1a'] ='Plenary';
-$lang['PAPERS_CALL_TXT1b'] ='2 special tracks';
-$lang['PAPERS_CALL_TXT1c'] ='Dev Track';
+$lang['PAPERS_CALL_S_TXT1'] ='There will be several parallel streams';
 
 $lang['PAPERS_CALL_TXT3'] ='<strong>Plenary sessions</strong> will be show cases of FOSS4G usages within business, administration, education and research.';
-$lang['PAPERS_CALL_TXT4'] ='One <strong>special track</strong> will be dedicated to OpenStreetMap.';
-$lang['PAPERS_CALL_TXT4b'] ='One <strong>special track</strong> will be dedicated to Free Open Source Software in Geo Education.';
-$lang['PAPERS_CALL_TXT5'] ='The <strong>dev track</strong> will be a sort of dev room and presentation of latest developments within FOSS4G.';
+$lang['PAPERS_CALL_TXT4'] ='Other sessions will be defined depending on the submissions received, but we welcome everything from presentations on general user experience to developer talks.';
 
-$lang['PAPERS_CALL_TXT6'] ='Are you <a href="https://en.wikipedia.org/wiki/Geographic_information_system" target="_blank">an expert in GIS <i class="fa fa-external-link"></i></a>? ';
-$lang['PAPERS_CALL_TXT7'] ='Did you used OSGeo’s tools in a specific context - large SDI, Big Data, specific customer, innovative project, etc. - for your own business, research or for education?';
+$lang['PAPERS_CALL_TXT6'] ='Did you use free software tools in a specific context - large SDI, Big Data, specific customer, innovative project, etc. - for your own business, research or for education?';
+$lang['PAPERS_CALL_TXT7'] ='Are you <a href="https://en.wikipedia.org/wiki/Geographic_information_system" target="_blank">an expert in GIS <i class="fa fa-external-link"></i></a>? ';
 $lang['PAPERS_CALL_TXT8'] ='If you meet any of these, STOP and... <a href="http://2018.foss4g.be/submit-paper.php" alt="http://2018.foss4g.be/submit-paper.php">feel free to suggest a presentation!</a>';
 
 // Workshops 
@@ -209,6 +208,7 @@ $lang['PAPERS_CALL_S2_TXT1'] ='Tools &#8226; Goals &#8226; Applications';
 $lang['PAPERS_CALL_2TXT1'] ='<strong>Foss4G’s Tools</strong>: What are the current offers for storage, treatment and web distribution of spatial data?<br />How do Open Source tools allow you to successfully personalize software for your needs?';
 $lang['PAPERS_CALL_2TXT2'] ='<strong>Goals</strong>: How can OSGeo help you in your organization? How to build an effective Open Source solution?<br />How to choose between different solutions?';
 $lang['PAPERS_CALL_2TXT3'] ='<strong>Applications</strong>: Which Open Geomatics tools are deployed and used by administrations, companies, teachers and researchers? What about INSPIRE infrastructures, climate change and smart cities? What are the problems and opportunities that you encountered during migration of commercial software to Open Source software?';
+$lang['PAPERS_CALL_2TXT4'] ='<strong>OpenStreetMap</strong>: How do you use OSM data in your work ? Did you create a cool application with OSM data ? Are you an OSM geek and would like to discuss OSM specifics ?';
 
 // PRESENTATIONS FORMAT
 $lang['PAPERS_FORMAT'] ='Format of presentations';
@@ -244,7 +244,7 @@ $lang['INFO_TITLE'] ='Venue & Information';
 $lang['INFO_TAGLINE'] ='&laquo; The where\'s <span>and how\'s</span> <span>in a nutshell</span> &raquo;';
 
 $lang['INFO_REG'] ='Registrations';
-$lang['INFO_REG_TXT'] ='The event is <u>free for all</u>, but the available seats are limited and registration is required! Please do not forget to order your lunch or bring your own.';
+$lang['INFO_REG_TXT'] ='The event is <u>free for all</u>, but the available seats are limited and registration is required!';
 
 $lang['INFO_FOOD'] ='Catering & Amenities';
 $lang['INFO_FOOD_TXT'] ='Greenhouse gas emissions, water consumption, impacts on biodiversity, waste production... The environmental impacts of our food are enormous. Brussels Environment applies an ambitious and dynamic policy on sustainable food, which is why the BEL restaurant is exemplary in this respect. The food served there includes organic, local and seasonal dishes and vegetarian alternatives. Discover the <a href="http://www.biorganicfactory.be/fr/concept.php" target="_blank">Biorganic Factory</a>';
@@ -277,7 +277,7 @@ $lang['INFO_TT_CAR'] ='Parking Tour & Taxis / 3 euros/hours';
 
 // REGISTRATION PAGE ------------------------------------------------------------------------------------------------/
 
-$lang['REGISTRATION_TXT'] = 'The event is <u>free for all</u>, but the available seats are limited and registration is required! Please do not forget to order lunch or bring your own. Registration can be done below or on our <a href="https://www.eventbrite.fr/e/billets-foss4g-be-37887228721">eventbrite</a> page.';
+$lang['REGISTRATION_TXT'] = 'The event is <u>free for all</u>, but the available seats are limited and registration is required! Registration can be done below or on our <a href="https://www.eventbrite.fr/e/billets-foss4g-be-50730031891">eventbrite</a> page.';
 $lang['REGISTRATION_SURVEYORS_TXT'] = 'The FOSS4G BELGIUM 2018 conference has also been accredited by the Federal Council of Surveyors and can give up to 5 hours of permament training, depending on the effective attendance time.<br/>
 Even if our event is free for all, filing fees of 25 € will be charged to obtain this certificate.<br/>
 If you want to receive a certificate, please select the "Surveyor" ticket. The organisers will then take contact with you afterwards to undertake the formalities.';
@@ -338,45 +338,35 @@ $lang['MENU_HACK'] = 'Hackathon';
 // Call for Maps
 
 $lang['MAPS_TITLE'] = 'Call for Maps';
-$lang['MAPS_TXT'] ='
-<p>As a geospatial conference, maps should certainly be a part of it ! That\'s why we decided to organise a Map Gallery exhibit : We invite contributions to the FOSS4G Map Gallery in order to create an exciting and vibrant exhibit of the very best in mapping. Contributing to the FOSS4G.be Map Gallery is simple: make a map involving at least open source technology or open data.</p>
+$lang['MAPS_TXT'] ='<p>As a geospatial conference, maps should definitively be a part of it! That\'s why we organise a yearly <strong>Map Gallery</strong>: a vibrant  exhibit of the very best maps -both digitally and on paper. The only requirement to be shown is that at least some part was done with some open data or open source technology. Furthermore, in order to get a fresh map each year, we prefer maps that have been created last year.
 
-<p>Your map can be the result of a commercial venture or a personal challenge. We encourage all attendees to submit their work on paper (A1) or via email (please also add a screenshot). Interactive maps are welcome as well (please provide us with an URL). You will also be asked to provide us with a short description of your map and possibly a brief statement of the methods, software and data you used in your map design and production.</p>
 
-<p>To make it simple, the two criteria\'s for submitting your work are :
+<p>If you have created maps that you are proud of, please send them over! Together, we create this yearly highlight! Your map can be the result of a commercial venture, created for your community or a personal challenge,... </p>
+
+<h4>Printed maps</h4>
+
+A map intended for printing can be sent in digitally (and we\'ll print them for you) or you can bring it during the conference. In both cases, we ask you to email us beforehand in order to reserve space.
+
 <ul>
-<li>The Map must have been created in 2017-2018</li>
-<li>At least one step of the production process must have been achieved using open source technology or open data.</li>
-We invite all users, inventors or map creators from anywhere in Belgium or elsewhere to contribute to what will surely be an amazing Map Gallery.
+<li>Mail us via <a href="mailto:map@foss4g.be&subject=Map submission"/>map@foss4g.be</a> before 8 october.
+<li>There\'ll be enough space provided for an A1-sized map.</li>
+<li>If you send your map digitally, include it in pdf format with a minimum resolution of 2342 x 3311 pixels. Fonts should be included.</li>
+<li>If you bring your own map, please send a small photo or screenshot so that we know what to expect. We might group maps thematically.</li>
+<li>Provide a title, author and/or organization, date and description of the map.</li>
+<li>Mention what software and data were used to create the map</li>
 </ul>
-</p>
-<br/>
-<h4>On-Site Submission Guidelines</h4>
-<p>Email map@foss4g.be (before September 15) and tell us to reserve a space in the gallery for you. Bring a paper copy of your map with you to the conference to hang in the gallery. The gallery map boards accommodate A1 paper maps. Larger maps are not allowed.</p>
-<br/>
-<h4>Online Submission Guidelines</h4>
-<p>
-Submit your map by September 15 via email (map@foss4g.be).
-Maps submitted online must meet the following criteria:
+
+
+<h4>Interactive maps</h4>
+
+If you created a fancy web map, we\'ll showcase it too! For this, a computer will be placed next to the map wall. If you want to provide an interactive map, then:
+
+
 <ul>
-<li>Must be in .pdf format only (Include all fonts or convert to outlines.)</li>
-<li>Minimum resolution : 2342 x 3311 pixels (we’ll print the maps in A1)</li>
+<li>Mail us via <a href="mailto:map@foss4g.be&subject=Map subimssion"/>map@foss4g.be</a> before 8 october.
+<li>Provide a title, author and/or organization, date and description of the map.</li>
+<li>Mention what software and data were used to create the map</li>
 </ul>
-If you made a interactive map, please provide us with the URL
-</p>
-<br/>
-<h4>Include this information with your map submission</h4>
-<p>
-<ul>
-<li>Title of Map</li>
-<li>Name</li>
-<li>Date</li>
-<li>Organization</li>
-<li>Additional map authors</li>
-<li>Brief description of map. Please mention software and data used.</li>
-<li>Screenshot (if paper copy)</li>
-</ul>
-</p>
 ';
 
 $lang['MENU_MAPS'] = 'Call for Maps';

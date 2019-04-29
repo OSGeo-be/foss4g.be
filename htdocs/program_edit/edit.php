@@ -11,7 +11,7 @@ if(!empty($_POST['submit']) && $_POST['submit'] == "save changes" && !empty($_PO
 	$upd = mysqli_prepare ($link, $sql);
 	mysqli_stmt_bind_param($upd,"ssssssiss",$_POST['presenter'],$_POST['email'],$_POST['affiliation'],$_POST['url'],$_POST['title'],$_POST['abstract'],$_POST['language'],$_POST['presentation_url'],$_POST['id']);
 
-	mysqli_stmt_execute($upd);
+	mysqli_stmt_execute($upd) or die(mysqli_error($link));;
 	/* note that for invalid ID's nothing will happen */
 }
 ?>
@@ -35,19 +35,24 @@ if(!empty($_POST['submit']) && $_POST['submit'] == "save changes" && !empty($_PO
 <?php
 /** render the page **/
 $guid = ($_GET['id']);
-if (preg_match("/^(\{)?[a-f\d]{8}(-[a-f\d]{4}){4}[a-f\d]{8}(?(1)\})$/i", $guid))
+if(preg_match("/^(\{)?[a-f\d]{8}([a-f\d]{4}){4}[a-f\d]{8}(?(1)\})$/i", $guid))
 	{
-		$id= mysql_escape_string($guid);
+		$id=$guid;
 	}
 	else
 		
 	{
 		echo "invalid id";
-		exit();}
-
+        exit();
+    }
 $query="select * FROM presentations where guid='$id'";
 $result = mysqli_query($link,$query);
-$row = mysqli_fetch_array($result, MYSQLI_ASSOC);
+if (mysqli_num_rows($result) == 0)
+{
+    echo "id not found";
+    exit();
+}
+$row = mysqli_fetch_array($result);
 ?>
 <h1>Presenter submission</h1>
 <div>This form enables presenters at FOSS4G.be to update the details of their presentation. Please do not share the link as anyone with the link can update all records. Note that start time, end time and track can not be changed using this form.
@@ -70,6 +75,8 @@ $row = mysqli_fetch_array($result, MYSQLI_ASSOC);
 <?php echo htmlentities ($row['abstract'])?></textarea>
 <label for="language">Language:</label><span>Note that for track 1 we provide translations (<b>NL->FR</b>) and (<b>FR->NL</b>). <br />For other tracks we prefer presentations in English (for our international audience), but presenters can choose the language they prefer.</span>
 <select id="language" name="language">
+    <option value="0"<?php if (!in_array($row['language'],array(1,2,3))) echo ' selected="selected"'; ?>> </option>
+
 	<option value="1"<?php if ($row['language'] == '1') echo ' selected="selected"'; ?>>nl</option>
 	<option value="2"<?php if ($row['language'] == '2') echo ' selected="selected"'; ?>>fr</option>
 	<option value="3"<?php if ($row['language'] == '3') echo ' selected="selected"'; ?>>en</option>

@@ -94,9 +94,18 @@ $lang['HOME_COOKIE_LAW'] = 'Plus d\'infos à propos de la loi européenne';
 $lang['ABOUT_A_TITLE'] ='A propos';
 $lang['ABOUT_A_SUBTITLE'] ='Équipe belge FOSS4G';
 
-/*$lang['ABOUT_A_TEXT'] ='<p>Les membres actifs d\'OSGeo en Belgique sont fiers <a href="http://wiki.osgeo.org/wiki/Belgium" target="_blank">d\'annoncer la naissance de la section locale belge</a>. Aujourd\'hui, les membres de la communauté belge sont soit actifs au sein d\'<a href="http://osgeo.nl/" target="_blank">OSGeo.nl</a>, d\'<a href="http://osgeo.asso.fr/" target="_blank">OSGeo.fr</a>, ou dans plusieurs <a href="http://www.osgeo.org/community.html" target="_blank">communautés OSGeo</a>. OsGeo Belgique agira donc comme un pont entre les communautés linguistiques et les cultures, grâce à sa composition multilingue unique.</p>
-<p>La section belge travaillera activement à la promotion des solutions Geo Open Source et à la poursuite de tout le bon travail basé sur les solutions logicielles existantes. Avec l\'éco-système belge des administrations, industries et écoles, nous voulons construire un monde plus ouvert.</p>
-<p>Le 29 octobre 2015, nous organiserons le premier FOSS4G-BE et officialiserons publiquement la naissance de l\'organisation légale.</p>';*/
+$lang['ABOUT_A_TEXT'] ='
+FOSS4G Belgique est l\'événement annuel sur le logiciel libre et open source géospatial.
+
+Il est organisé par le chapitre belge de la fondation Open Geospatial (<a href="http://www.osgeo.be">OSGeo.be</a>), un parmi plus de 50 chapitres locaux de la fondation Open Geospatial (<a href="https://www.osgeo.org/">OSGeo</a>). Des conférences FOSS4G sont organisées presque chaque semaine quelquepart sur la planète, mais une seule se trouve à Bruxelles. <br/><br/>
+
+La conférence est par et pour toute personne intéressée dans un monde ouvert et inclusif. Nous promouvons les logiciels libres et open source, ainsi que les standards ouverts, l\'open data, l\'open government, ...<br/><br/>
+
+Les conférences précédentes ont accueilli quelques 400 entousiastes. Merci à nos <a href="sponsors.php">sponsors</a> grâce à qui l\'accès à la conférence est gratuit.<br /><br />
+
+Cet événement est une platforme permettant aux volontaires de présenter, partager leur expéricence et bonnes pratiques. Tout le monde est invité à <a href="papers.php">soumettre un papier à présenter</a>. De plus puisque l\'événement est à propos de géo, <a href="maps.php">les cartes sont les bienvenues</a> pour afficher sur les murs. <br /><br />
+
+Pour résumer une conférence FOSS4G en quelques mots, on retient surtout l\'atmosphère incroyable et l\'énergie autour de l\'événement.';
 
 $lang['ABOUT_A_SUBTITLE2'] ='OSGeo';
 $lang['ABOUT_A_TEXT2'] ='<a href="http://www.osgeo.org/">La fondation Open Source Geospatial (OSGeo)</a>, est une organisation sans but lucratif dont la mission est d\'aider et de promouvoir le développement collaboratif des données et des technologies ouvertes en géomatique. La fondation fournit une aide financière, organisationnelle et légale à l\'immense communauté open-source de ce domaine. En outre, elle sert d\'entité légale indépendante à laquelle les membres de la communauté peuvent contribuer (développements informatiques, dons, autres ressources) tout en ayant l\'assurance que leurs contributions resteront au bénéfice de tous. Aussi, l\'OSGeo sert d\'assistance et de défense pour la communauté géospatiale libre, et fournit un forum commun et une infrastructure partagée pour améliorer la collaboration entre ses différents projets.</p><p>Les projets de la fondation sont tous librement disponibles et utilisables sous une <a href="http://opensource.org/pressreleases/certified-open-source.php" target="_blank">licence open source certifiée par l\'OSI</a>.</p>';
@@ -105,15 +114,22 @@ $lang['ABOUT_A_TEXT2'] ='<a href="http://www.osgeo.org/">La fondation Open Sourc
 // SPONSORS PAGE CALL ------------------------------------------------------------------------------------------------------------/
 
 $lang['SPONSORS_TITLE'] ='Appel à sponsors';
-$lang['SPONSORS_SUBTITLE'] ='Aidez-nous à faire de notre première édition un succès';
-$lang['SPONSORS_CALL'] ='Le comité local belge d\'organisation du FOSS4G-BE lance un appel à sponsors.<br />
-Les opportunités de sponsoring sont listées et détaillées ici, <a href="contact.php">contactez-nous pour toute question</a> à propos des packages
-';
+
+$lang['SPONSORS_SUBTITLE'] ='Aidez-nous à faire de l\'édition de cette année un nouveau succès';
+$lang['SPONSORS_CALL'] ='Après plusieurs éditions réussies, OSGEO.be et OpenStreetMap Belgique organisent une nouvelle édition de la conférence FOSS4G Belgique le Jeudi 25 octobre 2018.<br>
+<br>
+La conférence FOSS4G regroupe les développeurs et utilisateurs des logiciels géospatieux open-source mais aussi les gestionnaires et décideurs venant des 
+quatres coins du Monde pour discuter des nouveaux développements, décisions et des opportunités croissantes dans ce domaine.
+Ces dernières années, de grands changements ont eu lieu dans l\'industrie géospatiale. Un de ces changements est la croissange de la maturité et l\'adoption des
+solutions libres et open-source. Dans beaucoup de cas, les organisations utilisent un mélange de solutions open-source et propriétaires.<br>
+<br>
+<strong>Nous cherchons des sponsors pour faire de cet événement un nouveau succés.</strong><br>
+<br>Les opportunités de sponsoring sont listées et détaillées ici, <a href="contact.php">contactez-nous pour toute question</a> à propos des packages';
 $lang['SPONSORS_BUTTON'] ='Contactez-nous dès à présent pour nous soutenir';
 
 	$lang['SPONSORS_1_TITLE'] ='Platine';
 	$lang['SPONSORS_1_TAGLINE'] ='1000€';
-	$lang['SPONSORS_1_TXT1'] ='Logo sur la scène ';
+	$lang['SPONSORS_1_TXT1'] ='Logo sur la scène';
 	$lang['SPONSORS_1_TXT2'] ='Stand de présentation';
 	$lang['SPONSORS_1_TXT3'] ='Page dans le programme remis aux conférenciers (1 page)';
 	$lang['SPONSORS_1_TXT4'] ='Une demie page dans le programme remis aux conférenciers (1/2 page)';
@@ -122,14 +138,12 @@ $lang['SPONSORS_BUTTON'] ='Contactez-nous dès à présent pour nous soutenir';
 	//FROM 2017
 	
 	$lang['SPONSORS_1_TXT7'] ='Choix de l\'emplacement';
-	$lang['SPONSORS_1_TXT8'] ='Accès aux CV avant l\'event';
-	$lang['SPONSORS_1_TXT14'] ='Accès aux CV après l\'event'; 
 	$lang['SPONSORS_1_TXT9'] ='Parking(2)'; 
-	$lang['SPONSORS_1_TXT10'] ='Parking(1)';	
-		$lang['SPONSORS_1_TXT11'] ='Poster Track in Auditorium';
-		$lang['SPONSORS_1_TXT12'] ='Poster Track in Aqua & Sylva';		
-		$lang['SPONSORS_1_TXT13'] ='Liste des participants';
-		$lang['SPONSORS_1_TXT15'] ='Offre';
+	$lang['SPONSORS_1_TXT10'] ='Parking(1)';
+	$lang['SPONSORS_1_TXT11'] ='Lunch(2)'; 
+	$lang['SPONSORS_1_TXT12'] ='Lunch(1)';
+	$lang['SPONSORS_1_TXT13'] ='Liste des participants';
+
 		
 	
 	$lang['SPONSORS_2_TITLE'] ='Or';
@@ -176,18 +190,13 @@ $lang['PAPERS_CALL'] ='Le 25 octobre 2018, l\'OSGeo-be organise un événement d
 
 // Plenary Session
 $lang['PAPERS_CALL_T_TXT1'] ='Plénière & présentations';
-$lang['PAPERS_CALL_S_TXT1'] ='Nous aurons quatre sessions parallèles';
-$lang['PAPERS_CALL_TXT1a'] ='Plénière';
-$lang['PAPERS_CALL_TXT1b'] ='2 sessions spécifiques';
-$lang['PAPERS_CALL_TXT1c'] ='Session dev';
+$lang['PAPERS_CALL_S_TXT1'] ='Il y aura plusieurs sessions parallèles';
 
 $lang['PAPERS_CALL_TXT3'] ='<strong>La Plénière</strong> sera consacré à des demonstrations d\'implémentation réussie pour les entreprises, l\'éducation et au sein des administrations.';
-$lang['PAPERS_CALL_TXT4'] ='<strong>Une session spéciale</strong> sera centrée sur OpenStreetMap.';
-$lang['PAPERS_CALL_TXT4b'] ='<strong>Une session spéciale</strong> traitera de l\'utilisation de la géomatique open source dans le monde académique.';
-$lang['PAPERS_CALL_TXT5'] ='<strong>La session dev</strong> portera sur la présentation et les derniers développements en cours au sein du FOSS4G';
+$lang['PAPERS_CALL_TXT4'] ='D\'autres sessions seront déterminée en fonction des soumissions reçues, mais nous en acceptons un large panel, de présentations sur des expériences utilisateurs jusqu\'au présentation de développeurs.';
 
-$lang['PAPERS_CALL_TXT6'] ='Êtes-vous un expert en <a href="https://fr.wikipedia.org/wiki/Syst%C3%A8me_d%27information_g%C3%A9ographique" target="_blank"> GIS <i class="fa fa-external-link"></i></a>?';
-$lang['PAPERS_CALL_TXT7'] ='Avez-vous utilisé des outils OSGeo dans un contexte spécifique pour votre organisation? Tels qu\'un projet d\'envergure, des données très volumineuses, un client reconnu, un projet innovant, etc?';
+$lang['PAPERS_CALL_TXT6'] ='Avez-vous utilisé des outils OSGeo dans un contexte spécifique pour votre organisation? Tels qu\'un projet d\'envergure, des données très volumineuses, un client reconnu, un projet innovant, etc?';
+$lang['PAPERS_CALL_TXT7'] ='Êtes-vous un expert en <a href="https://fr.wikipedia.org/wiki/Syst%C3%A8me_d%27information_g%C3%A9ographique" target="_blank"> GIS <i class="fa fa-external-link"></i></a>?';
 $lang['PAPERS_CALL_TXT8'] ='Si vous vous reconnaissez dans ce programme à propos de l\'un ou l\'autre aspect, ARRETEZ TOUT et <a href="http://2018.foss4g.be/submit-paper.php" alt="http://2018.foss4g.be/submit-paper.php"> envoyez nous la présentation à propos de votre talent ou domaine d\'expertise</a>.';
 
 // Workshops
@@ -196,6 +205,7 @@ $lang['PAPERS_CALL_S2_TXT1'] ='Outils &#8226; Objectifs &#8226; Applications';
 $lang['PAPERS_CALL_2TXT1'] ='<strong>Outils FOSS4G</strong>: Qu\'offrent actuellement les outils libres pour le stockage, le traitement et la diffusion web de données spatiales? Comment les outils libres permettent-ils d\'adapter les logiciels à vos besoins?';
 $lang['PAPERS_CALL_2TXT2'] ='<strong>Objectifs</strong>: Intervention de l\'OSGeo dans votre organisation, comment? Quelles perspectives pour le FOSS4G-be? Comment construire une solution Open Source qui rencontre le succès? Comment choisir entre différentes solutions?';
 $lang['PAPERS_CALL_2TXT3'] ='<strong>Applications</strong>: Quels outils libres déploie-t-on dans votre administration, entreprise, école ou lieu de recherche? Quels impacts pour les infrastructures en lien avec INSPIRE, les changements climatiques ou les SMART Cities? Quelles sont les opportunités ou problèmes rencontrés lors de la migrations d\'outils commerciaux vers le libre?';
+$lang['PAPERS_CALL_2TXT4'] ='<strong>OpenStreetMap</strong>: Comment utilisez-vous les données OSM dans votre travail ? Avez-vous créé une chouette app avec des données OSM ? Etes-vous un geek OSM et souhaitez discuter des détails d\'OSM ?';
 
 // PRESENTATIONS FORMAT
 $lang['PAPERS_FORMAT'] ='Format des présentations';
@@ -231,7 +241,7 @@ $lang['INFO_TITLE'] ='Information & facilités';
 $lang['INFO_TAGLINE'] ='&laquo; Tout ce que <span>vous devez une fois</span> <span>bien savoir pour venir</span> &raquo;';
 
 $lang['INFO_REG'] ='Inscriptions';
-$lang['INFO_REG_TXT'] ='L’événement est <u>gratuit pour tous</u>, mais les places sont limitées et l\'inscription est donc obligatoire! N\'oubliez pas de reserver votre lunch ou de le prendre avec vous.';
+$lang['INFO_REG_TXT'] ='L’événement est <u>gratuit pour tous</u>, mais les places sont limitées et l\'inscription est donc obligatoire!';
 
 $lang['INFO_FOOD'] ='Repas & Facilités';
 $lang['INFO_FOOD_TXT'] ='Un restaurant exemplaire à plus d\'un titre sera disponible sur le site. On vous y propose des aliments bio, locaux, de saison, proposant des alternatives végétariennes... Plus d\'infos à propos de <a href="http://www.biorganicfactory.be/fr/concept.php" target="_blank">Biorganic Factory</a>.';
@@ -278,7 +288,7 @@ $lang['INFO_TT_CAR'] ='Parking Tour & Taxis / 3 euros/heure';
 
 // PAGE INSCRIPTION ------------------------------------------------------------------------------------------------/
 
-$lang['REGISTRATION_TXT'] ='L’événement est <u>gratuit pour tous</u>, mais les places sont limitées et l\'inscription est donc obligatoire! N\'oubliez pas de reserver votre lunch ou de le prendre avec vous.';
+$lang['REGISTRATION_TXT'] ='L’événement est <u>gratuit pour tous</u>, mais les places sont limitées et l\'inscription est donc obligatoire!';
 $lang['REGISTRATION_SURVEYORS_TXT'] = "La conférence FOSS4G BELGIUM 2018 a également été reconnue par le Conseil fédéral des géomètres-experts et peut donner jusqu’à 5 heures de formation permanente, selon le temps de présence effective.<br/>
 Bien que notre évènement soit gratuit pour tous, des frais de dossiers s'élevant à 25 € seront demandés pour l'obtention de cette attestation.<br/>
 Si vous souhaitez obtenir une attestation, merci de bien vouloir vous inscrire en sélectionnant un ticket \"Surveyor\". Les organisateurs reprendront par la suite contact avec vous afin de régler les formalités.";

@@ -35,14 +35,14 @@
 		<section id="main" class="container">
 				<header>
 					<img src="images/chapeau-earth.png" style="width:8vw;opacity:0.2;text-align:center;">
-					<h2><sub><</sub> <?php echo $lang['MENU_REG']; ?> <sup>/></sup></h2>
+					<h2><sub></sub> <?php echo $lang['MENU_REG']; ?> <sup></sup></h2>
 					<p><?php echo $lang['REGISTRATION_TXT']; ?></p>
-					<p><?php echo $lang['REGISTRATION_SURVEYORS_TXT'] ?></p>
+					<!-- <p><?php echo $lang['REGISTRATION_SURVEYORS_TXT'] ?></p>-->
 					<!-- <p><?php echo $lang['REGISTRATION_TAGLINE']; ?></p> -->
 				</header>
 				<section class="box">
 					<div style="width:100%; text-align:left;" >
-					<iframe  src="//eventbrite.fr/tickets-external?eid=37887228721&ref=etckt" frameborder="0" height="600" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
+					<iframe  src="//www.eventbrite.fr/e/billets-foss4g-be-50730031891" frameborder="0" height="600" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
 					</div>
 					</section>
 		</section>
@@ -52,14 +52,5 @@
 		<footer id="footer">
 			<?php include 'footer.inc'; ?>
 		</footer>
-		<script>
-		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-		  ga('create', 'UA-163845-56', 'auto');
-		  ga('send', 'pageview');
-		</script>
 	</body>
 </html>

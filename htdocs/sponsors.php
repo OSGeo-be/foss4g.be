@@ -47,25 +47,29 @@
 						  <dt class="spons"><a class="accordionTitle sponsors platinium" href="#"> <?php echo $lang['SPONSORS_1_TITLE']; ?> <span class="spon1"><?php echo $lang['SPONSORS_1_TAGLINE']; ?></span></a></dt>
 						  <dd class="accordionItem accordionItem">
 							<a href="http://http://www.environnement.brussels/" class="sponsor icon bxlenv"><span class="label">Bruxelles Environment</span></a>
-							<a href="http://cirb.brussels" class="sponsor icon cirb"><span class="label">CIRB</span></a>
+							<!--<a href="http://cirb.brussels" class="sponsor icon cirb"><span class="label">CIRB</span></a>-->
 							<a href="http://www.geosparc.com/" class="sponsor icon geosparc"><span class="label">Geosparc</span></a>
-			    				<a href="http://www.geosolutions.be" class="sponsor icon geosolutions"><span class="label">Geosolutions</span></a>
 						  </dd>						  
 						  <dt class="spons"><a href="#" class="accordionTitle sponsors gold"> <?php echo $lang['SPONSORS_2_TITLE']; ?> <span class="spon2"><?php echo $lang['SPONSORS_2_TAGLINE']; ?></span></a></dt>
 						  <dd class="accordionItem accordionItem">
-						    <a href="https://overheid.vlaanderen.be/informatie-vlaanderen"  class="sponsor icon aiv"><span class="label">Agentschap Informatie Vlaanderen</span></a>
+<?php /*<a href="https://overheid.vlaanderen.be/informatie-vlaanderen"  class="sponsor icon aiv"><span class="label">Agentschap Informatie Vlaanderen</span></a> */?>
 							<a href="http://www.champs-libres.coop/" class="sponsor icon champs-libres"><span class="label">Champs-libres</span></a>
                             <a href="http://www.gim.be/" class="sponsor icon gim"><span class="label">GIM</span></a>
 			    <a href="http://ngi.be/" class="sponsor icon ngi"><span class="label">NGI</span></a>
                             <a href="http://oslandia.com/" class="sponsor icon oslandia"><span class="label">Oslandia</span></a>
+                            <a href="https://www.fabspace.eu/" class="sponsor icon fabspace"><span class="label">Fabspace 2.0</span></a>
+			    				<a href="http://www.geosolutions.be" class="sponsor icon geosolutions"><span class="label">Geosolutions</span></a>
+			    				<a href="https://spw.wallonie.be/" class="sponsor icon spw"><span class="label">Spw</span></a>
 						  </dd>
 						  <dt class="spons"><a href="#" class="accordionTitle sponsors silver"> <?php echo $lang['SPONSORS_3_TITLE']; ?> <span class="spon3"><?php echo $lang['SPONSORS_3_TAGLINE']; ?></span></a></dt>
 						  <dd class="accordionItem accordionItem">
-							<a href="http://www.opengeode.be" class="sponsor icon geode"><span class="label">Open Geode</span></a>
+						<a href="https://www.atelier-cartographique.be" class="sponsor icon atelier"><span class="label">atelier-cartographique</span></a>
+						<a href="http://www.idgeo.fr" class="sponsor icon idgeo"><span class="label">idgeo</span></a>
+						<a href="http://www.opengeode.be" class="sponsor icon geode"><span class="label">Open Geode</span></a>
 						  </dd>
 						  <dt class="spons"><a href="#" class="accordionTitle sponsors bronze"> <?php echo $lang['SPONSORS_4_TITLE']; ?> <span class="spon4"><?php echo $lang['SPONSORS_4_TAGLINE']; ?></span></a></dt>
 						  <dd class="accordionItem accordionItem">
-							<a href="https://www.my-poppy.eu/" class="sponsor icon poppy"><span class="label">Geobusinet</span></a>
+							<a href="https://www.my-poppy.eu/" class="sponsor icon poppy"><span class="label">My poppy</span></a>
 						  </dd>
 						</dl>
 					  </div>
@@ -93,14 +97,5 @@
 		</footer>
 
 		<script src="js/accordion.js" type="text/javascript"></script>
-		<script>
-		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-		  ga('create', 'UA-163845-56', 'auto');
-		  ga('send', 'pageview');
-		</script>
 	</body>
 </html>

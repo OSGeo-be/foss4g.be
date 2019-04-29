@@ -44,7 +44,7 @@ $languages= array(0=>"?",1=>"nl", 2=>"fr",3=>"en");
 		<!-- Main -->
 			<section id="main" class="container">
 				<header>
-					<h2><?php echo $lang['MENU_PROGRAM']; ?></h2><h3><?php echo $lang['PROGRAMCANCHANGE']; ?></h3>
+                    <h2><?php echo $lang['MENU_PROGRAM']; ?></h2>
 					<p><?php echo $lang['SITE_DATATOP']; ?></p>
 				</header>
 				<div class="row">
@@ -59,13 +59,16 @@ $languages= array(0=>"?",1=>"nl", 2=>"fr",3=>"en");
 							<tbody>
 							<tr><th>time</th><th>track 1 (Auditorium)</th><th>track 2 (Sylva)</th><th>track3 (Aqua)</th></tr>
 							<?php
-							$query = "select * FROM presentations order by start, track";
+							$query = "select * FROM presentations where accepted=1 order by start, track";
 							$result = mysqli_query($link,$query);
 
 							$lasttrack =0;
 							while ($row = mysqli_fetch_array($result, MYSQLI_ASSOC))
 							{
 								$start = substr_replace($row['start'], 'h', -2, 0);
+								$slides = '';
+								if ($row['presentation_url']!='')
+										$slides ='<div><a class="slidelogo" href="'. htmlentities($row['presentation_url'], ENT_IGNORE, 'UTF-8').'">&nbsp;</a></div>';
 								if ($row['track']==0)
 								{
 									$lasttrack = 0;
@@ -78,7 +81,7 @@ $languages= array(0=>"?",1=>"nl", 2=>"fr",3=>"en");
 									else
 									{
 										#plenary sessions
-										printf ("<tr class='progr-1'><td>%s</td><td colspan='3'>%s</td></tr>", $start, htmlspecialchars($row['title'],  ENT_SUBSTITUTE,'UTF-8', true)); }
+										printf ("<tr class='progr-1'><td>%s</td><td colspan='3'>%s %s</td></tr>", $start, htmlspecialchars($row['title'],  ENT_SUBSTITUTE,'UTF-8', true), $slides); }
 						
 									
 								}
@@ -94,9 +97,6 @@ $languages= array(0=>"?",1=>"nl", 2=>"fr",3=>"en");
 									if ($row['track']==1)
 										{printf( '<tr><td>%s</td>',$start);}
 									
-									$slides = '';
-									if ($row['presentation_url']!='')
-										$slides ='<div><a class="slidelogo" href="'. htmlentities($row['presentation_url'], ENT_IGNORE, 'UTF-8').'">&nbsp;</a></div>';
 									printf("<td>%s<br><span class='author'>%s</span><span class='lang'>[%s]</span><span start='%s' track='%s' class='oa'><a class='btn pluss'><i class='fa fa-plus-square'></i></a></span><div class='abstract toggled'></div>%s</td>", htmlentities($row['title']),htmlentities($row['presenter']), $languages[$row['language']],$row['start'],$row['track'],$slides);
 									$lasttrack = $row['track'];
 								}
@@ -130,21 +130,6 @@ $languages= array(0=>"?",1=>"nl", 2=>"fr",3=>"en");
 		<footer id="footer">
 			<?php include 'footer.inc'; ?>
 		</footer>
-		<script>
-		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-		  ga('create', 'UA-163845-56', 'auto');
-		  ga('send', 'pageview');
-		  $( ".js-toggleNext" ).click(function()
-			{
-				$(this).next().slideToggle();
-				return false;
-			}
-		);
-		</script>
 		<script>
 			$('.oa').click(function(){
 				start = $(this).attr('start');

@@ -70,13 +70,13 @@ var $ = function(selector){
 }
 var accordion = $('.accordion');
 accordion.addEventListener("click",function(e) {
-  e.stopPropagation();
-  e.preventDefault();
   if(e.target && e.target.nodeName == "A") {
     var classes = e.target.className.split(" ");
     if(classes) {
       for(var x = 0; x < classes.length; x++) {
         if(classes[x] == "accordionTitle") {
+          e.stopPropagation();
+          e.preventDefault();
           var title = e.target;
           var content = e.target.parentNode.nextElementSibling;
           classie.toggle(title, 'accordionTitleActive');

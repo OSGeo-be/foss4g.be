@@ -19,7 +19,7 @@ $lang['SITE_DESCRIPTION'] = 'FOSS4G België 2018';
 $lang['SITE_KEYWORDS'] = 'Foss4G Geo GIS Open Source Brussel OSGeo OSGeoBE België';
 $lang['SITE_AUTHOR'] = 'FOSS4G Belgium';
 $lang['SITE_DATATOP'] = '25 Oktober 2018 - Brussel';
-$lang['SITE_DATABIG'] = '<a href="http://bel.brussels/nl/content/bereikbaarheid">BEL Brussel</a> - 26 Oktober 2018';
+$lang['SITE_DATABIG'] = '<a href="http://bel.brussels/nl/content/bereikbaarheid">BEL Brussel</a> - 25 Oktober 2018';
 
 // MENU
 $lang['MENU_HOME'] = 'Home';
@@ -62,7 +62,7 @@ $lang['CALL_3'] = 'Oproep voor bijdragen';
 $lang['PROGRAMME'] = 'Programma';
 
 // HOME OVER ONS
-$lang['ABOUT_TITLE'] = 'Na succesvolle edities in 2015, 2016 en 2017 organiseert OSGeo.be een nieuwe editie van deze FOSS4G.BE conferentie op <b>donderdag 25 oktober 2018</b> in Brussel.';
+$lang['ABOUT_TITLE'] = 'Na succesvolle edities in 2015, 2016 en 2017 organiseert OSGeo.be samen met OpenStreetMap België een nieuwe editie van deze FOSS4G.BE conferentie op <b>donderdag 25 oktober 2018</b> in Brussel.';
 
 // HOME SECTION CONFERENTIES
 $lang['HOME_S1_TITLE'] = 'Presentaties en Workshops';
@@ -137,14 +137,20 @@ $lang['ABOUT_A_TEXT2'] ='<a href="http://www.osgeo.org/">The Open Source Geospat
 // SPONSORS PAGE CALL ------------------------------------------------------------------------------------------------------------/
 
 $lang['SPONSORS_TITLE'] ='Oproep voor sponsors';
-$lang['SPONSORS_SUBTITLE'] ='Help ons om editie 2016 te organiseren';
+$lang['SPONSORS_SUBTITLE'] ='Help ons om editie 2018 te organiseren';
 $lang['SPONSORS_CALL'] ='
-Na succesvolle edities in 2015 en 2016 organiseert OSGeo.be een nieuwe editie van deze FOSS4G.BE conferentie op <b>donderdag 25 oktober 2018</b> in Brussel.
-
-FOSS4G conferenties brengen ontwikkelaars en gebruikers (ook managers als beslissers) van open source geomatica software uit de hele wereld samen, om nieuwe richtingen, sprekende implementaties en groeiende zakelijke kansen in het gebied te bespreken. De afgelopen jaren hebben we veel veranderingen in de geo-ict sector gezien. Een van deze veranderingen is de toenemende volwassenheid van open source oplossingen en hun implementatie. Vaak gebruiken organisaties een combinatie van open source en eigen oplossingen. <b>Momenteel zijn we op zoek naar sponsors voor dit derde Belgische FOSS4G.</b>
-</br>
-
-De verschillende sponsor mogelijkheden worden hieronder uitgelegd, <a href="contact.php">aub neem contact op indien u nog vragen zou hebben</a>.';
+Na drie succesvolle FOSS4G Belgium events, organiseert OSGeo.be een nieuwe editie van FOSS4G Belgium op donderdag 25
+oktober 2018.<br /><br />
+FOSS4G conferenties brengen ontwikkelaars en gebruikers van Open Source geospatial software van over de hele wereld
+samen om te discussiëren over nieuwe mogelijkheden, boeiende toepassingen en toenemende commerciële kansen
+ in dit domein. De laatste jaren is er veel veranderd in de geospatiale industrie. Een van die veranderingen is een
+ toenemend gebruik en volwassenheid van Free en Open Source oplossingen. In veel gevallen wordt er een mix gebruikt van open
+ en gesloten oplossingen.
+<br /><br />
+We zijn op zoek naar sponsors om dit event tot een succes te maken.
+<br /><br />
+De verschillende sponsor mogelijkheden worden hieronder uitgelegd, <a href="contact.php">neem contact op indien u 
+nog vragen zou hebben</a>.';
 $lang['SPONSORS_BUTTON'] ='Neem contact op om FOSS4G BE te sponsoren';
 
 	$lang['SPONSORS_1_TITLE'] ='Platina';
@@ -157,15 +163,12 @@ $lang['SPONSORS_BUTTON'] ='Neem contact op om FOSS4G BE te sponsoren';
 	$lang['SPONSORS_1_TXT6'] ='Logo op sponsors webpagina';
 	//FROM 2017
 	
-	 $lang['SPONSORS_1_TXT7'] ='Select your place';
-	$lang['SPONSORS_1_TXT8'] ='CV before the event ';
-	$lang['SPONSORS_1_TXT14'] ='CV after the event '; 
+	$lang['SPONSORS_1_TXT7'] ='Kies uw standplaats';
 	$lang['SPONSORS_1_TXT9'] ='Parking(2)'; 
-	$lang['SPONSORS_1_TXT10'] ='Parking(1)';	
-		$lang['SPONSORS_1_TXT11'] ='Poster Track in Auditorium';
-		$lang['SPONSORS_1_TXT12'] ='Poster Track in Aqua & Sylva';		
-		$lang['SPONSORS_1_TXT13'] ='List of participants';
-		$lang['SPONSORS_1_TXT15'] ='Offer';
+	$lang['SPONSORS_1_TXT10'] ='Parking(1)';
+	$lang['SPONSORS_1_TXT11'] ='Lunch(2)'; 
+	$lang['SPONSORS_1_TXT12'] ='Lunch(1)';
+	$lang['SPONSORS_1_TXT13'] ='Deelnemerslijst';
 	
 	$lang['SPONSORS_2_TITLE'] ='Goud';
 	$lang['SPONSORS_2_TAGLINE'] ='750€';
@@ -181,20 +184,31 @@ $lang['SPONSORS_BUTTON'] ='Neem contact op om FOSS4G BE te sponsoren';
 	
 $lang['SPONSORS_WHY_TITLE'] ='Waarom OSGeo sponsoren';
 
-	$lang['SPONSORS_WHY1_1'] ='Your Organization Depends on OSGeo Software</strong><br /> Your company or government agency uses OSGeo technologies in its day-to-day work, allowing you to compete effectively and deliver services in an efficient manner.';
-	$lang['SPONSORS_WHY1_2'] ='By helping sustain OSGeo you also support your current operations into the future knowing that a strong OSGeo is behind your business activities.';
+	$lang['SPONSORS_WHY1_1'] ='Uw organisatie hangt af van OSGeo Software</strong><br /> Omdat uw bedrijf OSGeo technologie gebruikt
+	in zijn dagelijkse werking, waardoor u effectief en efficiënt diensten kunt verlenen.';
+	$lang['SPONSORS_WHY1_2'] ='Door OSGeo te ondersteunen helpt u zichzelf, omdat een sterk OSGeo uw toekomstige productie ondersteunt';
 	
-	$lang['SPONSORS_WHY2_1'] ='You represent a Community of Practice that has Adopted OSGeo Software</strong><br /> Communities representing a wide range of domains, from professional associations to non-government organizations, leverage OSGeo software as a critical component of their end-user applications. Your community has an interest in ensuring the software can be sustained into the future.';
-	$lang['SPONSORS_WHY2_2'] ='By sponsoring OSGeo you demonstrate support for your members\' software selection.';
+	$lang['SPONSORS_WHY2_1'] ='U vertegenwoordigt een Community of Practice die OSGeo software gebruikt.</strong><br /> 
+	Belangenorganisaties, NGO\s en het middenveld gebruiken OSGeo software 
+	in cruciale onderdelen van hun applicaties. Als u lid bent van zo\'n groep,
+	heeft u er voordeel bij dat het OSGeo project kan gezet worden.';
+	$lang['SPONSORS_WHY2_2'] ='Door OSGeo te steunen, toont u aan uw stakeholders dat u hun keuzes ondersteunt.';
 	
-	$lang['SPONSORS_WHY3_1'] ='Your Goals are aligned with OSGeo\'s Support for Open Standards and Other Priorities</strong><br /> Help achieve your own organization\'s objectives by sponsoring OSGeo as a like-minded organization and benefit from the volunteer efforts of a rapidly growing world-wide community.';
-	$lang['SPONSORS_WHY3_2'] ='By sponsoring OSGeo you achieve your own goals.';
+	$lang['SPONSORS_WHY3_1'] ='Uw doelstellingen vallen samen met OSGeo\'s steun voor Open Standaarden</strong><br /> 
+	Als gelijkgestemde organisatie bereikt u uw eigen doelen door OSGeo te sponsoren, en profiteert u mee van de vrijwillige
+	bijdragen van een groeiende, wereldwijde community.';
+	$lang['SPONSORS_WHY3_2'] ='Door OSGeo te sponseren bereikt u uw eigen doelen';
 	
-	$lang['SPONSORS_WHY4_1'] ='Demonstrate Your Leadership in Open Source Geospatial Technologies</strong><br /> By sponsoring OSGeo you will help align your business with the activities of thousands of adopters of OSGeo software around the world.';
-	$lang['SPONSORS_WHY4_2'] ='As a sponsor of OSGeo, you will align your business growth with the momentum behind OSGeo in the marketplace.';
+	$lang['SPONSORS_WHY4_1'] ='Toon uw leiderschap in Open Source Geospatial technologieën.</strong><br /> 
+	Door het sponsoren van OSGeo helpt u uw commerciële activiteiten in lijn te brengen met de activiteiten van duizenden OSGeo gebruikers van over de hele wereld.';
+	$lang['SPONSORS_WHY4_2'] ='Als OSGeo sponsor profiteren uw commerciële activiteiten maximaal van het momentum achter OSGeo in de markt.';
 	
-	$lang['SPONSORS_WHY5_1'] ='Benefit from Sponsor Networking Opportunities</strong><br /> As a sponsor of OSGeo, you will benefit from unique opportunities to meet and share ideas with key members of OSGeo, other OSGeo sponsors and affiliated like-minded individuals and organizations.';
-	$lang['SPONSORS_WHY5_2'] ='By sponsoring OSGeo you will enhance your business opportunities.';
+	$lang['SPONSORS_WHY5_1'] ='Profiteer van netwerkmogelijkheden voor sponsors</strong><br /> 
+	 Als sponsor van OSGeo kunt u profiteren van unieke opportuniteiten om kennis te maken en ideeën uit te wisselen met sleutelspelers binnen OSGeo, andere OSGeo sponsors en gelijkgezinden.';
+	$lang['SPONSORS_WHY5_2'] ='Door het sponsoren van OSGeo zal u uw commerciële kansen vergroten.';
+
+
+
 
 // SPONSORS THANKS ------------------------------------------------------------------------------------------------------------/	
 
@@ -210,17 +224,16 @@ $lang['PAPERS_CALL'] ='
 ';
 // Plenary Session
 $lang['PAPERS_CALL_T_TXT1'] ='Presentaties en sessies';
-$lang['PAPERS_CALL_S_TXT1'] ='We voorzien 4 parallele sessies';
+$lang['PAPERS_CALL_S_TXT1'] ='We voorzien verschillende parallele sessies';
 $lang['PAPERS_CALL_TXT1a'] ='Plenaire sessie';
 $lang['PAPERS_CALL_TXT1b'] ='2 speciale sessies';
 $lang['PAPERS_CALL_TXT1c'] ='Ontwikkelaars sessie';
 
 $lang['PAPERS_CALL_TXT3'] ='De <strong>plenaire sessie</strong> zal voorbeelden tonen van het gebruik van FOSS4G binnen bedrijven, administraties, onderwijs en onderzoek.';
-$lang['PAPERS_CALL_TXT4'] ='Één speciale track zal gefocused zijn op OpenStreetMap';
-$lang['PAPERS_CALL_TXT4b'] ='Één speicale track heeft behandelt Free en Open Source software in Geo-onderwijs';
+$lang['PAPERS_CALL_TXT4'] ='Andere sessie zullen bepaald worden afhankelijk van de inzendingen, maar we verwelkomen alle presentaties van gebruikerservaringen tot geavanceerde ontwikkelingsonderwerpen.';
+$lang['PAPERS_CALL_TXT4b'] ='Één speciale track heeft behandelt Free en Open Source software in Geo-onderwijs';
 $lang['PAPERS_CALL_TXT5'] ='De development track zal presentaties laten zien van de laatste ontwikkelingen in FOSS4G';
-
-$lang['PAPERS_CALL_TXT6'] ='Ben je <a href="https://en.wikipedia.org/wiki/Geographic_information_system" target="_blank">een expert in GIS <i class="fa fa-external-link"></i></a>? ';
+$lang['PAPERS_CALL_TXT6'] ='Ben je een expert in GIS ? ';
 $lang['PAPERS_CALL_TXT7'] ='Heb je OSGeo toepassingen gebruikt in een specifieke context - spatial data infrastructure, Big Data, specifieke klanten, innovatieve projecten, .... voor je bedrijf, onderzoeksinstelling of in onderwijs? ';
 $lang['PAPERS_CALL_TXT8'] ='Als je aan één van deze voorwaarden voldoet, twijfel niet en <a href="http://2018.foss4g.be/submit-paper.php" alt="http://2018.foss4g.be/submit-paper.php">verstuur nu je presentatie!</a>';
 
@@ -229,7 +242,8 @@ $lang['PAPERS_CALL_T2_TXT1'] ='Topics & Debates';
 $lang['PAPERS_CALL_S2_TXT1'] ='Tools &#8226; Goals &#8226; Applications';
 $lang['PAPERS_CALL_2TXT1'] ='<strong>Foss4G’s Tools</strong>: Wat zijn de huidige oplossingen voor opslag, bewerken en verspreiden van geo-data? Hoe kan je Open Source tools gebruiken om software aan je noden aan te passen?';
 $lang['PAPERS_CALL_2TXT2'] ='<strong>Doelen</strong>: Hoe kan OSGeo jou in je organisatie helpen? Hoe kan je een goede Open Sourceoplossing bouwen? Hoe te kiezen tussen verschillende producten?';
-$lang['PAPERS_CALL_2TXT3'] ='<strong>Toepassingen</strong>: Welke Open Geomatica toepassingen zijn in gebruik bij administraties, bedrijven, lesgevers en onderzoekers? WWat met INSPIRE infrastructuur, klimaatverandering en smart cities? Wat zijn de problemen en kansen die je kan tegenkomen bij de migratie van commerciële software naar Open Source software?';
+$lang['PAPERS_CALL_2TXT3'] ='<strong>Toepassingen</strong>: Welke Open Geomatica toepassingen zijn in gebruik bij administraties, bedrijven, lesgevers en onderzoekers? Wat met INSPIRE infrastructuur, klimaatverandering en smart cities? Wat zijn de problemen en kansen die je kan tegenkomen bij de migratie van commerciële software naar Open Source software?';
+$lang['PAPERS_CALL_2TXT4'] ='<strong>OpenStreetMap</strong>: Hoe gebruik jij OSM data in je project? Heb je een coole applicatie gemaakt die OSM gebruikt? Ben je een OSM geek die wil vertellen over een aspect van het mappen?';
 
 // PRESENTATIONS FORMAT
 $lang['PAPERS_FORMAT'] ='Formaat van de presentaties';
@@ -238,9 +252,9 @@ $lang['PAPERS_FORMAT_2'] ='Elke presentatie krijgt ongeveer 20 minuten voor een 
 $lang['PAPERS_FORMAT_3'] ='Voorstellen kunnen ingediend worden in het Nederlands, Frans of Engels';
 
 $lang['PAPERS_SUM'] ='Insturen';
-$lang['PAPERS_SUM_SUB'] ='Presentaties kunnen ingestuurd worden op <a href="http://2018.foss4g.be/submit-paper.php"> volgend formulier. Vermeld volgende gegevens:';
+$lang['PAPERS_SUM_SUB'] ='Presentaties kunnen ingestuurd worden op <a href="http://2018.foss4g.be/submit-paper.php"> volgend formulier</a>. Vermeld volgende gegevens:';
 $lang['PAPERS_SUM_NAME'] ='Je naam en voornaam;';
-$lang['PAPERS_SUM_EMAIL'] ='Een contacte-mailadres;';
+$lang['PAPERS_SUM_EMAIL'] ='Een contact-emailadres;';
 $lang['PAPERS_SUM_ORG'] ='Je bedrijf/organisatie/werkgever;';
 $lang['PAPERS_SUM_TITLE'] ='Een titel;';
 $lang['PAPERS_SUM_ABSTRACT'] ='Een korte abstract;';
@@ -250,7 +264,7 @@ $lang['PAPERS_SUM_TYPE'] ='';
 // DEADLINE + HOW EVALUATE 
 $lang['PAPERS_DEADLINE'] ='Datum: ten laatste op 4 september';
 $lang['PAPERS_CALL2T'] ='Deadline';
-$lang['PAPERS_CALL2'] ='<p>Bijdragen zullen geevalueerd worden door een programmacommitee en de auteurs zullen bericht krijgen of hun bijdrage aanvaard werd. <br />
+$lang['PAPERS_CALL2'] ='<p>Bijdragen zullen geëvalueerd worden door het programmacommitee en de auteurs zullen bericht krijgen of hun bijdrage aanvaard werd. <br />
 Alle presentaties zullen op de website van het congres geplaatst worden.</p>
 ';
 $lang['PAPERS_CALL3T'] ='Evaluatiecriteria';
@@ -258,7 +272,7 @@ $lang['PAPERS_CALL3'] ='<p>
 De keuze van presentaties zal gebaseerd zijn op de kwaliteit van de ingestuurde voorstellen, de relevantie voor het publiek en de plaats binnen het programma.
 De keuze van het programmacommitee is finaal en bindend. De beslissingen van het programmacommittee reflecteren niet de mening van de eventuele werkgevers van de leden.</p>';
 $lang['PAPERS_CALL4'] ='<p>De Nederlandstalige en Franstalige coordinatoren van het programma zijn Johan Van de Wauw (NL) en Gaël Kruwialis (FR). </p>
-<p>Als je nog vragen hebt kan je hen steeds bereiken op presentation <AT> foss4g <dot> be.</p>';
+<p>Als je nog vragen hebt kan je hen steeds bereiken op presentation &lt;AT&gt; foss4g &lt;dot&gt; be.</p>';
 
 $lang['PAPERS_BUTTON'] ='Neem nu contact op om deel te nemen!';
 
@@ -269,7 +283,7 @@ $lang['INFO_TITLE'] ='Plaats &amp; Informatie';
 $lang['INFO_TAGLINE'] ='&laquo; Waar <span> en hoe</span> <span>in een notendop</span> &raquo;';
 
 $lang['INFO_REG'] ='Registrations';
-$lang['INFO_REG_TXT'] ='Het evenement is <u>gratis voor allen</u> maar het aantal plaatsen is beperkt en <a href="inscription.php">registratie</a> is vereist. Vergeet niet om uw lunch te bestellen of zelf mee te nemen. ';
+$lang['INFO_REG_TXT'] ='Het evenement is <u>gratis voor allen</u> maar het aantal plaatsen is beperkt en <a href="inscription.php">registratie</a> is vereist. ';
 
 $lang['INFO_FOOD'] ='Catering';
 $lang['INFO_FOOD_TXT'] ='Broeikasgassen, waterverbruik, impact op biodiversiteit, afvalproductie... De milieuimpact van ons voedsel zijn enorm. Brussel Leefmilieu voert een ambitieus en dynamisch beleid rond duurzame voeding waardoor het BEL restaurant een voorbeeld moet zijn. De geserveerde voeding bevat biologische, lokale en seizoenseigen gerechten met vegetarische alternatieven. Ontdek de <a href="http://www.biorganicfactory.be/fr/concept.php" target="_blank">Biorganic Factory</a>';
@@ -316,7 +330,7 @@ $lang['INFO_TT_CAR'] ='Parking Tour & Taxis / 3 euros/uur';
 
 // REGISTRATION PAGE ------------------------------------------------------------------------------------------------/
 
-$lang['REGISTRATION_TXT'] = 'Het evenement is gratis maar het aantal plaatsen is beperkt en registratie is noodzakelijk. Noteer dat er in de buurt weinig mogelijkheden tot lunch zijn: indien geen lunch besteld wordt neem je die best zelf mee. Indien je reeds geregistreerd bent voor een ticket kan je op onderstaande pagina ook een bijkomend lunchticket aankopen.';
+$lang['REGISTRATION_TXT'] = 'Het evenement is gratis maar het aantal plaatsen is beperkt en registratie is noodzakelijk.';
 $lang['REGISTRATION_SURVEYORS_TXT'] = 'De FOSS4G BELGIUM 2018 is erkend door de Federale Raad van landmeters-experten en telt mee, afhankelijk van uw effectieve aanwezigheid, voor  5 uur permanente vorming.<br/>
 Voor het verkrijgen van een attest van deelname worden 25€ administratiekosten aangerekend.<br/>
 Indien u een attest wil krijgen, moet u registeren met een "Surveyor" ticket. De organisatoren zullen daarna contact opnemen met u voor de formaliteiten.';
@@ -562,7 +576,7 @@ $lang['PROG_DRINK'] = 'Afsluitende drink en netwerking';
 	// CTA
 $lang['FOOTER_THANKS'] = 'FOSS4G is een gratis evenement. Alvast dank aan onze sponsors en partners om dit mogelijk te maken.';
 $lang['FOOTER_THANKS_ALL'] = '<a href="http://www.leefmilieu.brussels/" title="Leefmilieu Brussel" style="color:#fff">Leefmilieu Brussel</a><!-- - L\'<a href="http://igeat.ulb.ac.be/" title="IGEAT" style="color:#fff">Institut de Gestion de l\'Environnement et d\'Aménagement du Territoire</a> (IGEAT/ULB) - <a href="http://checksum.be/" style="color:#fff">Checksum</a> -->';
-$lang['FOOTER_MORE'] = 'Indien u meer informatie nodig hebt <a href="contact.php" style="color:#fff">neem contact op</a> of <a href ="https://www.facebook.com/beopengisfr" title="Facebook" style ="color: #fff">volg ons op Facebook</a> of twitter.';
+$lang['FOOTER_MORE'] = 'Voor meer informatie, <a href="contact.php" style="color:#fff">contacteer ons</a>.';
 	// FOOTER
 
 	

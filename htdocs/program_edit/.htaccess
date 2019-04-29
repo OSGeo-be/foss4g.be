@@ -1,7 +1,10 @@
-AuthUserFile /srv/data/web/vhosts/2017.foss4g.be/.htpasswd
-AuthName "Password Protected Area"
-AuthType Basic
+ AuthUserFile /home/osgeo/public_html/.htpasswd
+ AuthName "Password Protected Area"
+ AuthType Basic
+ 
+<FilesMatch "^table\.php$">
+ <limit GET POST>
+ require valid-user
+ </limit>
+</FilesMatch>
 
-<limit GET POST>
-require valid-user
-</limit>
