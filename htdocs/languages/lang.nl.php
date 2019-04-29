@@ -288,23 +288,6 @@ $lang['INFO_REG_TXT'] ='Het evenement is <u>gratis voor allen</u> maar het aanta
 $lang['INFO_FOOD'] ='Catering';
 $lang['INFO_FOOD_TXT'] ='Broeikasgassen, waterverbruik, impact op biodiversiteit, afvalproductie... De milieuimpact van ons voedsel zijn enorm. Brussel Leefmilieu voert een ambitieus en dynamisch beleid rond duurzame voeding waardoor het BEL restaurant een voorbeeld moet zijn. De geserveerde voeding bevat biologische, lokale en seizoenseigen gerechten met vegetarische alternatieven. Ontdek de <a href="http://www.biorganicfactory.be/fr/concept.php" target="_blank">Biorganic Factory</a>';
 
-$lang['INFO_PROG'] ='Agenda';
-$lang['INFO_PROG_TEXT1'] ='	Dinsdag 29 oktober, 2015
-							<ul class="alt" style="font-size:80%">
-								<li>08:00-09:00 - Setup of exhibition space</li>
-								<li>09:00-09:30 - Registration</li>
-								<li>09:30-10:00 - Welcome and presentation of OSGeo/OSGeo-BE</li>
-								<li>10:00-10:30 - Plenary Keynotes</li>
-								<li>10:30-11:00 - Coffee Break</li>
-								<li>11:00-12:40 - Concurrent Sessions: Main track - Side track 1 - Side track 2</li>
-								<li>12:40-14:00 - Lunch Break</li>
-								<li>14:00-16:10 - Concurrent Sessions: Main track - Side track 1 - Side track 2</li>
-								<li>16:10-16:40 - Coffee Break</li>
-								<li>16:40-17:00 - Conclusions and Outlook for OSGeo-BE</li>
-								<li> >18:30     - Networking</li>
-							</ul>';
-$lang['INFO_PROG_TEXT2'] ='The detailed and complete programme will be available very soon';							
-
 $lang['INFO_ADRES'] ='Adres';
 $lang['INFO_ADRES_TEXT1'] ='The event will be hosted at <a href="http://bel.brussels/" target="_blank" name="Bel">the BEL on the Tour & Taxis site</a> :<br /> Avenue du Port 86c/3002, B-1000 Brussels, Belgium.';
 $lang['INFO_ADRES_TEXT2'] ='BEL is an initiative of Brussels Environment, the Environment and Energy Agency of the Brussels-Capital Region';

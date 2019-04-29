@@ -247,21 +247,6 @@ $lang['INFO_FOOD'] ='Repas & Facilités';
 $lang['INFO_FOOD_TXT'] ='Un restaurant exemplaire à plus d\'un titre sera disponible sur le site. On vous y propose des aliments bio, locaux, de saison, proposant des alternatives végétariennes... Plus d\'infos à propos de <a href="http://www.biorganicfactory.be/fr/concept.php" target="_blank">Biorganic Factory</a>.';
 
 $lang['INFO_PROG'] ='Programme';
-$lang['INFO_PROG_TEXT1'] ='	Mardi, 29 October 2015
-							<ul class="alt" style="font-size:80%">
-								<li>08:00-09:00 - Accueil</li>
-								<li>09:00-09:30 - Inscriptions</li>
-								<li>09:30-10:00 - Bienvenue et présentation de OSGeo/OSGeo-BE</li>
-								<li>10:00-10:30 - Session plénière</li>
-								<li>10:30-11:00 - Pause café</li>
-								<li>11:00-12:40 - Sessions parallèles: Plénière - Session 1 - Session 2</li>
-								<li>12:40-14:00 - Pause de midi</li>
-								<li>14:00-16:10 - Sessions parallèles: Plénière - Session 1 - Session 2</li>
-								<li>16:10-16:40 - Pause café</li>
-								<li>16:40-17:00 - Conclusions et futur de l\'OSGeo-BE</li>
-								<li> >18:30     - Networking</li>
-							</ul>';
-$lang['INFO_PROG_TEXT2'] ='Le programme détaillé sera disponible prochainement.';							
 
 $lang['INFO_ADRES'] ='Adresse';
 $lang['INFO_ADRES_TEXT1'] ='L\'événement aura lieu au <a href="http://bel.brussels/" target="_blank" name="Bel">BEL sur le site de Tour & Taxis</a> :<br /> Avenue du Port 86c/3002, B-1000 Bruxelles, Belgique.';
