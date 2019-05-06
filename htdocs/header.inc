@@ -1,16 +1,16 @@
 <h1><a href="index.php"><span>FOSS</span>4G</a> <?php echo $lang['SITE_DATATOP']; ?></h1>
 				<nav id="nav">
 					<ul>
-						<li><a href="index.php"><?php echo $lang['MENU_HOME']; ?></a></li>
+						<li><?php echo ("<a href='/$language/'>".$lang['MENU_HOME']."</li>"); ?></li>
 						<li>
 							<a href="" class="icon fa-angle-down"><?php echo $lang['MENU_INFOS']; ?></a>
 							<ul>
-								<li><a href="about.php"><?php echo $lang['MENU_ABOUT']; ?></a></li>
-								<li><a href="call.php"><?php echo $lang['MENU_CALL2']; ?></a></li>
+                                <?php echo "<li><a href='/$language/about'>". $lang['MENU_ABOUT']."</a></li>"; ?>
+								<li><a href="call"><?php echo $lang['MENU_CALL2']; ?></a></li>
 								<!--<li><a href="programme.php"><?php echo $lang['MENU_PROGRAM']; ?></a></li>-->
-                                <li><a href="inscription.php"><?php echo $lang['MENU_REG']; ?></a></li>
-                                <li><a href="programme.php"><?php echo $lang['MENU_PROGRAM']; ?></a></li> 
-								<li><a href="maps.php"><?php echo $lang['MENU_MAPS']; ?></a></li>
+                                <!--<li><a href="inscription.php"><?php echo $lang['MENU_REG']; ?></a></li>-->
+                                <!--<li><a href="programme.php"><?php echo $lang['MENU_PROGRAM']; ?></a></li> -->
+<!--								<li><a href="maps.php"><?php echo $lang['MENU_MAPS']; ?></a></li> -->
 								<li><a href="sponsors.php">Sponsors</a></li>
 								<li><a href="contact.php"><?php echo $lang['MENU_CONTACT']; ?></a></li>
 							</ul>

@@ -5,6 +5,7 @@ header('Cache-control: private'); // IE 6 FIX
 if(isSet($_GET['lang']))
 {
 $lang = $_GET['lang'];
+$language = $_GET['lang'];
 
 // register the session and set the cookie
 $_SESSION['lang'] = $lang;
