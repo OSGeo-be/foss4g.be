@@ -1,4 +1,6 @@
 <?php
+/* Copy to mysql.php and complete */
+
 $password='';
 $user='root';
 $db = 'foss4g-2017';
