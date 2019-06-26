@@ -2,6 +2,10 @@
 // EN File
 $lang = array();
 
+// Variables
+$lang['YEAR'] = '2019';
+$lang['DATE'] = 'Thursday 24 October 2019';
+
 // URLs
 $lang['URL_INDEX_1'] = 'index.php?lang=en'; /* switch to EN */
 $lang['URL_INDEX_2'] = 'index.php?lang=nl'; /* switch to NL */
@@ -13,13 +17,13 @@ $lang['URL_NAME_3'] = 'French';
 $lang['URL_CONTACT'] = 'contact.php';
 
 // SITE NAME AND HEADERS
-$lang['SITE_NAME'] = 'FOSS4G Belgium 2019';
-$lang['SITE_TITLE'] = 'FOSS4G Belgium 2019';
-$lang['SITE_DESCRIPTION'] = 'FOSS4G Belgium 2019';
+$lang['SITE_NAME'] = 'FOSS4G Belgium '.$lang['YEAR'];
+$lang['SITE_TITLE'] = 'FOSS4G Belgium '.$lang['YEAR'];
+$lang['SITE_DESCRIPTION'] = 'FOSS4G Belgium '.$lang['YEAR'];
 $lang['SITE_KEYWORDS'] = 'FOSS4G Geo marker GIS Open Source Brussels';
 $lang['SITE_AUTHOR'] = 'FOSS4G Belgium';
-$lang['SITE_DATATOP'] = ' <div class="foss4g"></div> 24 october 2019';
-$lang['SITE_DATABIG'] = '<a href="http://bel.brussels/">Brussels Environment and Energy Agency</a> - 24 October 2019';
+$lang['SITE_DATATOP'] = ' <div class="foss4g"></div> '.$lang['DATE'];
+$lang['SITE_DATABIG'] = '<a href="http://bel.brussels/">Brussels Environment and Energy Agency</a> - '.$lang['DATE'];
 
 // MENU
 $lang['MENU_HOME'] = 'Home';
@@ -62,7 +66,7 @@ $lang['CALL_3'] = 'Call for Papers';
 $lang['PROGRAMME'] = 'Programme';
 
 // HOME ABOUT
-$lang['ABOUT_TITLE'] = 'After a series of succesful FOSS4G Belgium events <a href="http://www.osgeo.be">OSGeo.be</a>  announces the date of the next FOSS4G Belgium Conference: <b>24 October 2019</b>. Stay tuned for more info! <br>
+$lang['ABOUT_TITLE'] = 'After a series of succesful FOSS4G Belgium events <a href="http://www.osgeo.be">OSGeo.be</a>  announces the date of the next FOSS4G Belgium Conference: <b>'.$lang['DATE'].'</b>. Stay tuned for more info! <br>
 Interested in joining the organisation? Get in touch with info@foss4g.be';
 
 // HOME SECTION CONFERENCES
@@ -118,9 +122,9 @@ $lang['ABOUT_A_TEXT2'] ='<a href="http://www.osgeo.org/">The Open Source Geospat
 // SPONSORS PAGE CALL ------------------------------------------------------------------------------------------------------------/
 
 $lang['SPONSORS_TITLE'] ='Call for Sponsors';
-$lang['SPONSORS_SUBTITLE'] ='Help making our 2019 edition a success';
+$lang['SPONSORS_SUBTITLE'] ='Help making our '.$lang['YEAR'].' edition a success';
 $lang['SPONSORS_CALL'] ='After the many successful FOSS4G Belgium events in the past, 
-OSGeo.be and OpenStreetMap Belgium will organise another edition of the FOSS4G Belgium Conference on Thursday October 24, 2019.<br /><br />
+OSGeo.be and OpenStreetMap Belgium will organise another edition of the FOSS4G Belgium Conference on '.$lang['DATE'].'.<br /><br />
 FOSS4G conferences gather developers and users of Open Source geospatial software 
 from around the world to discuss new directions, exciting implementations, and growing business opportunities in this domain. 
 Recent years have seen substantial changes in the geospatial industry. 
@@ -187,8 +191,8 @@ $lang['SPONSORS_T_SUBTITLE'] ='We would like to thank our sponsors for making th
 // PAPERS PAGE CALL ------------------------------------------------------------------------------------------------------------/
 
 $lang['PAPERS_TITLE'] ='Call for papers';
-$lang['PAPERS_SUBTITLE'] ='Help making our 2019 edition a success';
-$lang['PAPERS_CALL'] ='On the 24th of October 2019, OSGeo-be will host an event dedicated to free geomatics in Brussels at BEL, the Environment and Energy Agency of Brussels. FOSS4Gbe will be a day of conferences, demonstrations, debates and meetings about OSGeo topics. It will also be an opportunity <strong>to bring together the community</strong> of users, developers, policy makers or just curious FOSS geomatics.</p>
+$lang['PAPERS_SUBTITLE'] ='Help making our '.$lang['YEAR'].' edition a success';
+$lang['PAPERS_CALL'] ='On the '.$lang['DATE'].', OSGeo-be will host an event dedicated to free geomatics in Brussels at BEL, the Environment and Energy Agency of Brussels. FOSS4Gbe will be a day of conferences, demonstrations, debates and meetings about OSGeo topics. It will also be an opportunity <strong>to bring together the community</strong> of users, developers, policy makers or just curious FOSS geomatics.</p>
 <p><strong>The event is expected to gather around 250 to 400 people</strong>.<br />We will share knowledge and experiences during the whole event through presentations and demonstrations with <strong>25 minutes each at most</strong>.</p>';
 
 // Plenary Session
@@ -200,7 +204,7 @@ $lang['PAPERS_CALL_TXT4'] ='Other sessions will be defined depending on the subm
 
 $lang['PAPERS_CALL_TXT6'] ='Did you use free software tools in a specific context - large SDI, Big Data, specific customer, innovative project, etc. - for your own business, research or for education?';
 $lang['PAPERS_CALL_TXT7'] ='Are you <a href="https://en.wikipedia.org/wiki/Geographic_information_system" target="_blank">an expert in GIS <i class="fa fa-external-link"></i></a>? ';
-$lang['PAPERS_CALL_TXT8'] ='If you meet any of these, STOP and... <a href="https://2019.foss4g.be/submit-paper.php" alt="https://2019.foss4g.be/submit-paper.php">feel free to suggest a presentation!</a>';
+$lang['PAPERS_CALL_TXT8'] ='If you meet any of these, STOP and... <a href="https://'.$lang['YEAR'].'.foss4g.be/submit-paper.php" alt="https://'.$lang['YEAR'].'.foss4g.be/submit-paper.php">feel free to suggest a presentation!</a>';
 
 // Workshops 
 $lang['PAPERS_CALL_T2_TXT1'] ='Topics & Debates';
@@ -217,7 +221,7 @@ $lang['PAPERS_FORMAT_2'] ='Each individual presentation will be allowed about 20
 $lang['PAPERS_FORMAT_3'] ='Submissions can be written in English, French or Dutch (and adhere to the template available soon in ODT format).';
 
 $lang['PAPERS_SUM'] ='Submission';
-$lang['PAPERS_SUM_SUB'] ='Summaries must be submitted using this <a href="https://2019.foss4g.be/submit-paper.php" title="https://2019.foss4g.be/submit-paper.php">form</a> by specifying the following elements:';
+$lang['PAPERS_SUM_SUB'] ='Summaries must be submitted using this <a href="https://'.$lang['YEAR'].'.foss4g.be/submit-paper.php" title="https://'.$lang['YEAR'].'.foss4g.be/submit-paper.php">form</a> by specifying the following elements:';
 $lang['PAPERS_SUM_NAME'] ='Your name and first name;';
 $lang['PAPERS_SUM_EMAIL'] ='A contact email;';
 $lang['PAPERS_SUM_ORG'] ='Your company (organization) and/or employer;';
@@ -229,7 +233,7 @@ $lang['PAPERS_SUM_TYPE'] ='The nature of your intervention (Explanatory / Applic
 // DEADLINE + HOW EVALUATE 
 $lang['PAPERS_DEADLINE'] ='Deadline for submissions: September 4';
 $lang['PAPERS_CALL2T'] ='Deadline';
-$lang['PAPERS_CALL2'] ='Deadline for submission is September 4, but we invite presenters to send their title as soon as possible. Abstracts will be evaluated by a program committee and authors will be notified of their acceptance on September the 15th, 2019.<br />All the presentations will be made available on the event website.</p>';
+$lang['PAPERS_CALL2'] ='Deadline for submission is September 4, but we invite presenters to send their title as soon as possible. Abstracts will be evaluated by a program committee and authors will be notified of their acceptance on September the 15th, '.$lang['YEAR'].'.<br />All the presentations will be made available on the event website.</p>';
 $lang['PAPERS_CALL3T'] ='How do we evaluate';
 $lang['PAPERS_CALL3'] ='<p>The choice of presentations will be based on the quality of the submitted material, its interest for professional and student audiences and also its consistency with the program. The decision of the selection committee will be final and binding. Committee members speak on their own behalf, their choices do not reflect the position of their employer.</p>';
 $lang['PAPERS_CALL4'] ='<p>The Dutch and French coordinators of the program committee are Johan Van de Wauw (NL) and Gaël Kruwialis (FR).</p>
@@ -278,7 +282,7 @@ $lang['INFO_TT_CAR'] ='Parking Tour & Taxis / 3 euros/hours';
 // REGISTRATION PAGE ------------------------------------------------------------------------------------------------/
 
 $lang['REGISTRATION_TXT'] = 'The event is <u>free for all</u>, but the available seats are limited and registration is required! Registration can be done below or on our <a href="https://www.eventbrite.fr/e/billets-foss4g-be-50730031891">eventbrite</a> page.';
-$lang['REGISTRATION_SURVEYORS_TXT'] = 'The FOSS4G BELGIUM 2019 conference has also been accredited by the Federal Council of Surveyors and can give up to 5 hours of permament training, depending on the effective attendance time.<br/>
+$lang['REGISTRATION_SURVEYORS_TXT'] = 'The FOSS4G BELGIUM '.$lang['YEAR'].' conference has also been accredited by the Federal Council of Surveyors and can give up to 5 hours of permament training, depending on the effective attendance time.<br/>
 Even if our event is free for all, filing fees of 25 € will be charged to obtain this certificate.<br/>
 If you want to receive a certificate, please select the "Surveyor" ticket. The organisers will then take contact with you afterwards to undertake the formalities.';
 
@@ -308,7 +312,7 @@ $lang['CONTACT_THX_TXT2'] = 'In the meantime for more information you can visit<
 $lang['CV_TITLE'] = 'Send your CV in the right box';
 $lang['CV_TXT'] = '<a href="cv@foss4g.be" title="CV for our Sponsors" style="color:#fff;font-weight:bold">cv@foss4g.be</a>
 ';
-$lang['CV_TXT2'] = ' Taking information from our  <a href="https://2019.foss4g.be/sponsors.php/" target="_blank" style="color:#fff;font-weight:bold">Sponsors</a>';
+$lang['CV_TXT2'] = ' Taking information from our  <a href="https://'.$lang['YEAR'].'.foss4g.be/sponsors.php/" target="_blank" style="color:#fff;font-weight:bold">Sponsors</a>';
 // SPONSORS
 
 // PARTNERS
