@@ -2,6 +2,9 @@
 // FR File
 // $lang = array(); //we override the english version
 
+$lang['YEAR'] = '2019';
+$lang['DATE'] = 'Jeudi, 24 Octobre 2019';
+
 // URLs
 $lang['URL_INDEX_1'] = 'index.php?lang=en'; /* switch to EN */
 $lang['URL_INDEX_2'] = 'index.php?lang=nl'; /* switch to NL */
@@ -13,13 +16,13 @@ $lang['URL_INDEX_3'] = 'index.php?lang=fr'; /* switch to FR */
 $lang['URL_CONTACT'] = 'contact.php';
 
 // NOM DU SITE ET HEADERS
-$lang['SITE_NAME'] = 'FOSS4G Belgium 2019';
-$lang['SITE_TITLE'] = 'FOSS4G Belgique 2019';
-$lang['SITE_DESCRIPTION'] = 'FOSS4G Belgique 2019';
+$lang['SITE_NAME'] = 'FOSS4G Belgium '.$lang['YEAR'];
+$lang['SITE_TITLE'] = 'FOSS4G Belgique '.$lang['YEAR'];
+$lang['SITE_DESCRIPTION'] = 'FOSS4G Belgique '.$lang['YEAR'];
 $lang['SITE_KEYWORDS'] = 'FOSS4G Geo marqueur GIS Open Source Bruxelles';
 $lang['SITE_AUTHOR'] = 'FOSS4G Belgium';
-$lang['SITE_DATATOP'] = '<div class="foss4g"></div> 24 Octobre - Bruxelles';
-$lang['SITE_DATABIG'] = '<a href="http://bel.brussels/" alt="BEL Building" style="color:white" target="_blank">BEL - Bruxelles Environnement</a> - 24 octobre 2019';
+$lang['SITE_DATATOP'] = $lang['DATE'].' - Bruxelles';
+$lang['SITE_DATABIG'] = '<a href="http://bel.brussels/" alt="BEL Building" style="color:white" target="_blank">BEL - Bruxelles Environnement</a> - '.$lang['DATE'];
 
 // MENU
 $lang['MENU_HOME'] = 'Accueil';
@@ -51,8 +54,8 @@ $lang['FOSS4G_LOAD'] ='Chargement...';
 $lang['CECI_1'] = 'ceci';
 $lang['CECI_2'] = 'n\'est pas';
 $lang['CECI_3'] = 'une conférence';
-$lang['CECI'] = 'images/foss4gbe.svg';
-$lang['CECI-G'] = 'images/foss4gbe-g.svg';
+$lang['CECI'] = '/images/foss4gbe.svg';
+$lang['CECI-G'] = '/images/foss4gbe-g.svg';
 
 // CALL-TO_ACTION
 
@@ -63,7 +66,7 @@ $lang['CALL_3'] = 'Appel à contributions';
 $lang['PROGRAMME'] = 'Programme';
 
 // HOME A PROPOS
-$lang['ABOUT_TITLE'] = 'Après les succès du FOSS4G Belgium depuis 2015, OSGeo.be organisera <b>le jeudi 24 Octobre 2019</b> une nouvelle édition de la conférence FOSS4G.BE à Bruxelles. Restez à l\'écoute pour plus d\'infos! <br>
+$lang['ABOUT_TITLE'] = 'Après les succès du FOSS4G Belgium depuis 2015, OSGeo.be organisera le <b>'.$lang['DATE'].'</b> une nouvelle édition de la conférence FOSS4G.BE à Bruxelles. Restez à l\'écoute pour plus d\'infos! <br>
 Envie de participer à l\'organisation de cet évènement ? Contactez-nous sur info@foss4g.be';
 
 // HOME SECTION CONFERENCES
@@ -115,12 +118,12 @@ $lang['ABOUT_A_TEXT2'] ='<a href="http://www.osgeo.org/">La fondation Open Sourc
 
 $lang['SPONSORS_TITLE'] ='Appel à sponsors';
 
-$lang['SPONSORS_SUBTITLE'] ='Aidez-nous à faire de l\'édition de cette année un nouveau succès';
-$lang['SPONSORS_CALL'] ='Après plusieurs éditions réussies, OSGEO.be et OpenStreetMap Belgique organisent une nouvelle édition de la conférence FOSS4G Belgique le Jeudi 24 octobre 2019.<br>
+$lang['SPONSORS_SUBTITLE'] ='Aidez-nous à faire de l\'édition '.$lang['YEAR'].' de cette année un nouveau succès';
+$lang['SPONSORS_CALL'] ='Après plusieurs éditions réussies, OSGEO.be et OpenStreetMap Belgique organisent une nouvelle édition de la conférence FOSS4G Belgique le '.$lang['DATE'].'<br>
 <br>
 La conférence FOSS4G regroupe les développeurs et utilisateurs des logiciels géospatieux open-source mais aussi les gestionnaires et décideurs venant des 
 quatres coins du Monde pour discuter des nouveaux développements, décisions et des opportunités croissantes dans ce domaine.
-Ces dernières années, de grands changements ont eu lieu dans l\'industrie géospatiale. Un de ces changements est la croissange de la maturité et l\'adoption des
+Ces dernières années, de grands changements ont eu lieu dans l\'industrie géospatiale. Un de ces changements est la croissance de la maturité et l\'adoption des
 solutions libres et open-source. Dans beaucoup de cas, les organisations utilisent un mélange de solutions open-source et propriétaires.<br>
 <br>
 <strong>Nous cherchons des sponsors pour faire de cet événement un nouveau succés.</strong><br>
@@ -184,8 +187,8 @@ $lang['SPONSORS_T_SUBTITLE'] ='Merci à nos sponsors pour leur soutien';
 // APPEL A CONTRIBUTIONS  ------------------------------------------------------------------------------------------------------------/
 
 $lang['PAPERS_TITLE'] ='Appel à contributions';
-$lang['PAPERS_SUBTITLE'] ='Participez au succès de l\'édition 2018';
-$lang['PAPERS_CALL'] ='Le 25 octobre 2018, l\'OSGeo-be organise un événement dédié à la géomatique libre à Bruxelles dans le BEL de Bruxelles Environnement. Le FOSS4G-be sera une journée de conférences, démonstrations, débats et de rencontres sur les thématiques de l’OSGeo. Ce sera aussi l\'occasion <strong>de rassembler la communauté</strong> des utilisateurs, développeurs, décideurs, ou simples curieux de logiciels libres en géomatique.</p>
+$lang['PAPERS_SUBTITLE'] ='Participez au succès de l\'édition '.$lang['YEAR'].';
+$lang['PAPERS_CALL'] ='Le '.$lang['DATE'].' l\'OSGeo-be organise un événement dédié à la géomatique libre à Bruxelles dans le BEL de Bruxelles Environnement. Le FOSS4G-be sera une journée de conférences, démonstrations, débats et de rencontres sur les thématiques de l’OSGeo. Ce sera aussi l\'occasion <strong>de rassembler la communauté</strong> des utilisateurs, développeurs, décideurs, ou simples curieux de logiciels libres en géomatique.</p>
 <p><strong>L\'événement devrait rassembler entre 250 à 400 personnes</strong>.<br />Cette rencontre permettra de partager nos connaissances et nos expériences sous la forme de conférences et démonstrations, d\'une durée de <strong>25min</strong> chacune.';
 
 // Plenary Session
@@ -197,7 +200,7 @@ $lang['PAPERS_CALL_TXT4'] ='D\'autres sessions seront déterminée en fonction d
 
 $lang['PAPERS_CALL_TXT6'] ='Avez-vous utilisé des outils OSGeo dans un contexte spécifique pour votre organisation? Tels qu\'un projet d\'envergure, des données très volumineuses, un client reconnu, un projet innovant, etc?';
 $lang['PAPERS_CALL_TXT7'] ='Êtes-vous un expert en <a href="https://fr.wikipedia.org/wiki/Syst%C3%A8me_d%27information_g%C3%A9ographique" target="_blank"> GIS <i class="fa fa-external-link"></i></a>?';
-$lang['PAPERS_CALL_TXT8'] ='Si vous vous reconnaissez dans ce programme à propos de l\'un ou l\'autre aspect, ARRETEZ TOUT et <a href="http://2018.foss4g.be/submit-paper.php" alt="http://2018.foss4g.be/submit-paper.php"> envoyez nous la présentation à propos de votre talent ou domaine d\'expertise</a>.';
+$lang['PAPERS_CALL_TXT8'] ='Si vous vous reconnaissez dans ce programme à propos de l\'un ou l\'autre aspect, ARRETEZ TOUT et <a href="http://'.$lang['YEAR'].'.foss4g.be/submit-paper.php" alt="http://'.$lang['YEAR'].'.foss4g.be/submit-paper.php"> envoyez nous la présentation à propos de votre talent ou domaine d\'expertise</a>.';
 
 // Workshops
 $lang['PAPERS_CALL_T2_TXT1'] ='Sujets & débats';
@@ -214,7 +217,7 @@ $lang['PAPERS_FORMAT_2'] ='Chaque présentation disposera de 20 minutes et de 5 
 $lang['PAPERS_FORMAT_3'] ='Les présentations soumises peuvent l\'être en anglais, français ou néerlandais (et adhérer au modèle en format ODT bientôt disponible).';
 
 $lang['PAPERS_SUM'] ='Soumettre votre présentation';
-$lang['PAPERS_SUM_SUB'] ='Les résumés doivent être envoyés à l\'aide du <a href="http://2018.foss4g.be/submit-paper.php" title="http://2018.foss4g.be/submit-paper.php">formulaire de soumission</a> en spécifant les éléments suivants:';
+$lang['PAPERS_SUM_SUB'] ='Les résumés doivent être envoyés à l\'aide du <a href="http://'.$lang['YEAR'].'.foss4g.be/submit-paper.php" title="http://2018.foss4g.be/submit-paper.php">formulaire de soumission</a> en spécifant les éléments suivants:';
 $lang['PAPERS_SUM_NAME'] ='Votre Nom et Prénom;';
 $lang['PAPERS_SUM_EMAIL'] ='Un email de contact;';
 $lang['PAPERS_SUM_ORG'] ='Votre entreprise (organisation) et/ou employeur;';
@@ -224,7 +227,7 @@ $lang['PAPERS_SUM_TYPE'] ='La nature de votre intervention (Explicative / Applic
 
 
 // DATE LIMITE + COMMENT EVALUONS-NOUS 
-$lang['PAPERS_DEADLINE'] ='Date limite pour les soumissions: 4 septembre 2018';
+$lang['PAPERS_DEADLINE'] ='Date limite pour les soumissions: 4 septembre '.$lang['YEAR'];
 $lang['PAPERS_CALL2T'] ='Date limite';
 $lang['PAPERS_CALL2'] ='Les résumés seront évalués par un comité de programme et les auteurs retenus en seront avertis le 15 septembre 2018. Toutes les présentations seront mises en ligne sur le site de l\'événement.';
 $lang['PAPERS_CALL3T'] ='Méthode d\'évaluation';
@@ -274,7 +277,7 @@ $lang['INFO_TT_CAR'] ='Parking Tour & Taxis / 3 euros/heure';
 // PAGE INSCRIPTION ------------------------------------------------------------------------------------------------/
 
 $lang['REGISTRATION_TXT'] ='L’événement est <u>gratuit pour tous</u>, mais les places sont limitées et l\'inscription est donc obligatoire!';
-$lang['REGISTRATION_SURVEYORS_TXT'] = "La conférence FOSS4G BELGIUM 2018 a également été reconnue par le Conseil fédéral des géomètres-experts et peut donner jusqu’à 5 heures de formation permanente, selon le temps de présence effective.<br/>
+$lang['REGISTRATION_SURVEYORS_TXT'] = "La conférence FOSS4G BELGIUM '.$lang['YEAR'].' a également été reconnue par le Conseil fédéral des géomètres-experts et peut donner jusqu’à 5 heures de formation permanente, selon le temps de présence effective.<br/>
 Bien que notre évènement soit gratuit pour tous, des frais de dossiers s'élevant à 25 € seront demandés pour l'obtention de cette attestation.<br/>
 Si vous souhaitez obtenir une attestation, merci de bien vouloir vous inscrire en sélectionnant un ticket \"Surveyor\". Les organisateurs reprendront par la suite contact avec vous afin de régler les formalités.";
 
@@ -304,7 +307,7 @@ $lang['CV_TITLE'] = 'N\'envoyez plus vos CV au hasard';
 $lang['CV_TXT'] = 'Postez les à cette adresse <br />
 <br /><a href="cv@foss4g.be" title="CV for our Sponsors" style="color:#fff;font-weight:bold">cv@foss4g.be</a>
 ';
-$lang['CV_TXT2'] = ' Et surtout renseignez vous aupres de nos <a href="http://2018.foss4g.be/sponsors.php/" target="_blank" style="color:#fff;font-weight:bold">Sponsors</a>';
+$lang['CV_TXT2'] = ' Et surtout renseignez vous aupres de nos <a href="http://'.$lang['YEAR'].'.foss4g.be/sponsors.php/" target="_blank" style="color:#fff;font-weight:bold">Sponsors</a>';
 
 
 // SPONSORS
@@ -333,146 +336,6 @@ $lang['FOOTER_THANKS_ALL'] = '<a href="http://www.bruxellesenvironnement.be/" ti
 $lang['FOOTER_MORE'] = 'Si vous souhaitez obtenir plus d\'informations, <a href="contact.php" style="color:#fff">contactez-nous</a>';
 
 	// FOOTER
-// Hackathon
-$lang['HACK_DATE'] = '<div class="foss4g"></div> 28 Oct 2015 - CIRB-CIBG - Avenue des Arts, 21 - Bruxelles';
-$lang['HACK_TXT'] ='<p style="text-align: center;">Le Foss4g.be est fière d\'annoncer la réalisation d\'un Hackathon.</p>
-
-<p>Cet évènement se déroulera au <a href="http://cirb.brussels" target="_blank">CIRB</a> (Centre d\'Informatique pour la Région Bruxelloise ) durant <strong>la seule journée du mercredi 28 octobre 2015.</strong>
-L\'organisation de la journée permettra &agrave; différentes équipes de s\'affronter cordialement dans la conception de projets en relation avec les thèmes de l\'<em>Open Data</em> et du <em>Smart City </em>(Mobilité &ndash; environnement &ndash; service administratif (au citoyen) &ndash; qualité et service de vie- &hellip; )</p>
-A la clef, un prix en argent ainsi qu\'un coaching par des professionnels et une présentation en pleniere au Foss4g.be<br />
-Un catering est prévu durant la journée pour assurer les besoins vitaux des participants.
-Une présentation des équipes et objectifs est prevue ce jeudi 22 octobre de 14h &agrave; 16h</p>
-
-<table border="1" cellpadding="1" cellspacing="1" style="width: 500px;">
-	<tbody>
-		<tr>
-			<td><strong>INSCRIPTION</strong></td>
-			<td style="text-align: center;"><a href="http://doodle.com/poll/serug76hrg5rpifh" target="_blank"><ins><strong> http://doodle.com/poll/serug76hrg5rpifh</strong></ins></a></td>
-		
-			<td><strong>CONTACT </strong></td>
-			<td style="text-align: center;">channecart@cirb.brussels</td>
-		</tr>
-	</tbody>
-</table>
-<p><strong>Organisation de la journ&eacute;e</strong></p>
-
-<table border="0" cellpadding="0" cellspacing="0" style="width:530px;" width="530">
-	<tbody>
-		<tr>
-			<td style="width:91px;height:20px;">
-			<p>9&nbsp;h</p>
-			</td>
-			<td style="width:440px;height:20px;">
-			<p>Accueil</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="width:91px;height:75px;">
-			<p>9&nbsp;h&nbsp;30</p>
-			</td>
-			<td style="width:440px;height:75px;">
-			<p>Pr&eacute;sentation des objectifs de l&rsquo;Hackathon<br />
-			Pr&eacute;sentation des donn&eacute;es disponibles/potentielles<br />
-			Pr&eacute;sentations des outils &agrave; disposition</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="width:91px;height:20px;">
-			<p>10&nbsp;h&nbsp;30</p>
-			</td>
-			<td style="width:440px;height:20px;">
-			<p>Constitution des &eacute;quipes</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="width:91px;height:20px;">
-			<p>11hh -12h30</p>
-			</td>
-			<td style="width:440px;height:20px;">
-			<p>Brainstorming en &eacute;quipes pour d&eacute;finir le projet</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="width:91px;height:20px;">
-			<p>12&nbsp;h&nbsp;30 - 13&nbsp;h&nbsp;30</p>
-			</td>
-			<td style="width:440px;height:20px;">
-			<p>Buffet party</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="width:91px;height:80px;">
-			<p>13&nbsp;h&nbsp;30 -16h30</p>
-			</td>
-			<td style="width:440px;height:80px;">
-			<p>Cr&eacute;ation d&#39;une architecture projet avec pour finalit&eacute;&nbsp;:</p>
-
-			<ul>
-				<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; une pr&eacute;sentation en ppt de 10 minutes</li>
-				<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; une pr&eacute;sentation &eacute;ventuelle&nbsp;:
-				<ul style="list-style-type:circle;">
-					<li>&nbsp;&nbsp; de module,</li>
-					<li>&nbsp;&nbsp; de code</li>
-					<li>&nbsp;&nbsp; d&rsquo;utilisation sp&eacute;cifique de ressource</li>
-					<li>&nbsp;&nbsp; &nbsp;de design</li>
-				</ul>
-				</li>
-			</ul>
-			</td>
-		</tr>
-		<tr>
-			<td style="width:91px;height:20px;">
-			<p>16&nbsp;h&nbsp;30 -17h15</p>
-			</td>
-			<td style="width:440px;height:20px;">
-			<p>Pr&eacute;sentation des projets</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="width:91px;height:60px;">
-			<p>17&nbsp;h&nbsp;15 17&nbsp;h&nbsp;25</p>
-			</td>
-			<td style="width:440px;height:60px;">
-			<p>D&eacute;lib&eacute;rationet vote du Jury</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="width:91px;height:20px;">
-			<p>17&nbsp;h&nbsp;30</p>
-			</td>
-			<td style="width:440px;height:20px;">
-			<p>Proclamation par M Sebastian SERRANO (Innoviris) et verre de l&#39;amiti&eacute;</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-<p><br />
-Les objectifs et les opportunités sont multiples.<br />
-Il sera possible de découvrir et d\'exploiter de nombreuses ressources <em>Open Data</em> disponibles en région Bruxelloise et d\'ailleurs.<br />
-Une plateforme &laquo; <em>CKAN</em> &raquo; sera déployée spécifiquement pour l\'évènement, et il sera possible de se familiariser ou de se perfectionner dans l\'utilisation de ressources logicielles disponibles au travers d\'<a href="http://live.osgeo.org" target="_blank">OSGeo-Live</a>.<br />
-<br />
-Nous sommes bien conscients qu\'une seule journée ne sera pas suffisante pour finaliser les projets.<br />
-C\'est pourquoi, &agrave; la fin des délibérations, en plus du <ins>prix qui sera attribué par INNOVIRIS</ins>, cet organisme en charge de la promotion de la recherche et de l\'innovation en Région bruxelloise propose également d\'évaluer la faisabilité de développer commercialement le projet lauréat.<br />
-Cette journée est une excellente occasion offerte &agrave; des personnes ayant des profils différents (data manager, webdesigner, développeur, géomaticien, &hellip;) et venant d\'horizons divers (administrations, entreprises, secteur associatif&hellip;) d\'unir leurs efforts pour promouvoir les valeurs de l\'Open Source.<br />
-<br />
-Afin de préparer au mieux les participants, mais également pour assurer un déroulement optimal de la journée du 28 octobre, <strong>une séance d\'information (facultatives) est organisée le jeudi&nbsp; 22 octobre de 14h &agrave; 16h</strong>. <ins>Ordre du Jour</ins> :</p>
-
-<ul>
-	<li>Présentation de la plateforme CKAN&nbsp;</li>
-	<li>Présentation des Données&nbsp;</li>
-	<li>Sélection des thématiques</li>
-</ul>
-
-<p>L\'adresse pour l\'ensemble de ces évènements est le <strong>CIRB</strong> :</p>
-
-<center>Avenue des Arts 21, 1000 Bruxelles</center>
-
-<p>la personne de référence est M Claude HANNECART (channecart@cirb.brussels ) ou info@foss4g.be<br />
-Pour une organisation optimale pouvez-vous nous confirmer votre participation soit par mail soit via le Doodle (Attention, le nombre des places est limité)</p>
-
-<center><a href="http://doodle.com/poll/serug76hrg5rpifh" target="_blank"><ins><strong> http://doodle.com/poll/serug76hrg5rpifh</strong></ins></a></center>';
-
-$lang['MENU_HACK'] = 'Hackathon';
 
 // Call for Maps
 
@@ -484,19 +347,19 @@ $lang['MAPS_TXT'] ='
 
 <p>Plus simplement, deux critères sont à respecter pour soumettre votre travail :
 <ul>
-<li>La conception de la carte doit être récente 2017-2018</li>
+<li>La conception de la carte doit être récente (maximum un an avant l\'évènement).</li>
 <li>Au moins une étape du processus de production doit être réalisée en utilisant une technologie Open source ou les données libres</li>
 Nous invitons donc vivement tous les utilisateurs, concepteurs ou créateurs de cartes de partout en Belgique ou d\'ailleurs, à contribuer à ce qui sera, sans aucun doute, la plus détonante des Galeries de Cartes.
 </ul>
 </p>
 <br/>
 <h4>Directives dans le cas où vous souhaitez amener votre carte papier sur place</h4>
-<p>Envoyez-nous mail à : map@foss4g.be (avant le 8 octobre 2018) afin de nous demander la réservation d\'un espace dans la galerie.
+<p>Envoyez-nous mail à : map@foss4g.be (avant le 8 octobre '.$lang['YEAR'].') afin de nous demander la réservation d\'un espace dans la galerie.
 Apporter sur place, lors de la conférence, une copie papier à suspendre dans la galerie. Les supports mis à disposition sont prévus pour l\'affichage de cartes papier d\'un format A1. Les cartes de plus grands formats ne sont pas admises.</p>
 <br/>
 <h4>Directives si vous souhaitez soumettre votre carte en ligne</h4>
 <p>
-Transmettez-nous votre carte pour le 15 septembre 2018 via email (map@foss4g.be).
+Transmettez-nous votre carte pour le 15 septembre '.$lang['YEAR'].' via email (map@foss4g.be).
 Les critères à respecter sont les suivants :
 <ul>
 <li>La carte doit être uniquement en format .pdf (Inclure toutes les polices)</li>
