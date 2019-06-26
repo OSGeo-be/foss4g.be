@@ -38,7 +38,7 @@
 				<header style="margin:0">
 					<h2><?php echo $lang['PAPERS_TITLE']; ?></h2>
 					<p><?php echo $lang['PAPERS_SUBTITLE']; ?></p>
-					<span class="image fit"><img src="images/call-papers.png" alt="" /></span>				
+					<span class="image fit"><img src="/images/call-papers.png" alt="" /></span>				
 				</header>
 				<div class="row">
 					<div class="12u">
