@@ -11,13 +11,13 @@
 		<meta name="geo.region" content="BE-Brussels" />
 		<meta name="ICBM" content="50.866248, 4.349073" />	
 		<link rel="canonical" href="http://www.foss4g.be/" />
-		<script src="js/jquery.min.js" type="text/javascript"></script>
-		<script src="js/jquery.dropotron.min.js" type="text/javascript"></script>
-		<script src="js/jquery.scrollgress.min.js" type="text/javascript"></script>
-		<script src="js/skel.min.js" type="text/javascript"></script>
-		<script src="js/skel-layers.min.js" type="text/javascript"></script>
-		<script src="js/init.js" type="text/javascript"></script>
-		<script src="js/accordion.js" type="text/javascript"></script>
+		<script src="/js/jquery.min.js" type="text/javascript"></script>
+		<script src="/js/jquery.dropotron.min.js" type="text/javascript"></script>
+		<script src="/js/jquery.scrollgress.min.js" type="text/javascript"></script>
+		<script src="/js/skel.min.js" type="text/javascript"></script>
+		<script src="/js/skel-layers.min.js" type="text/javascript"></script>
+		<script src="/js/init.js" type="text/javascript"></script>
+		<script src="/js/accordion.js" type="text/javascript"></script>
 		<!--[if lte IE 8]><script src="/css/ie/html5shiv.js"></script><![endif]-->	
 		<noscript>
 			<link rel="stylesheet" href="/css/skel.css" />
