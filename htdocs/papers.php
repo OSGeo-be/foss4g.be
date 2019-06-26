@@ -70,7 +70,7 @@
 							<p><i class="fa fa-caret-right"></i> <?php echo $lang['PAPERS_CALL_2TXT2']; ?></p>
 							<p><i class="fa fa-caret-right"></i> <?php echo $lang['PAPERS_CALL_2TXT3']; ?></p>
 							<p><i class="fa fa-caret-right"></i> <?php echo $lang['PAPERS_CALL_2TXT4']; ?></p>
-							<p style="margin-top:1em"><span class="image fit"><img src="images/call-workshop.jpg" alt="" /></span></p>
+							<p style="margin-top:1em"><span class="image fit"><img src="/images/call-workshop.jpg" alt="" /></span></p>
 						</section>
 					</div>
 				</div>

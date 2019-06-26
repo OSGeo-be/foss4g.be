@@ -89,7 +89,7 @@
 								</div>
 								<h3><?php echo $lang['INFO_ADRES']; ?></h3>		
 							</header>
-							<a href="http://bel.brussels/" target="_blank" name="Bel"><img src="images/bel-bxl.png" style="float:left;margin-right:2em"></a>
+							<a href="http://bel.brussels/" target="_blank" name="Bel"><img src="/images/bel-bxl.png" style="float:left;margin-right:2em"></a>
 							<p><strong><?php echo $lang['INFO_ADRES_TEXT1']; ?></strong></p>
 							<a name="plenieres"></a>
 							<hr style="padding-top:1.4em" />
