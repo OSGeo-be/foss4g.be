@@ -55,8 +55,8 @@ $lang['FOSS4G_LOAD'] ='Aan het laden...';
 $lang['CECI_1'] = 'dit';
 $lang['CECI_2'] = 'is geen';
 $lang['CECI_3'] = 'conferentie';
-$lang['CECI'] 	= 'images/foss4gbe.svg';
-$lang['CECI-G'] = 'images/foss4gbe-g.svg';
+$lang['CECI'] 	= '/images/foss4gbe.svg';
+$lang['CECI-G'] = '/images/foss4gbe-g.svg';
 
 // CALL-TO_ACTION
 $lang['CALL_foto'] = 'Fotos';
@@ -364,7 +364,7 @@ $lang['MAPS_TXT'] ='
 <p>Je kaart kan het resultaat zijn van een professionele activiteit of een persoonlijke uitdaging. We verwachten inzendingen op papier (A1), via email (voeg een screenshot toe) of als interactieve kaart (verwijs naar de URL van de kaart). Samen met je inzending bezorg je een korte beschrijving van je kaart en van de methode om ze te creëren, eventueel de gebruikte software en data voor de realisatie ervan.</p>
 <p>De enige criteria om een bijdrage op te sturen zijn:
 <ul>
-<li>de kaart werd in 2018-2019 gemaakt</li>
+<li>de kaart werd in het afgelopen jaar gemaakt</li>
 <li>minstens één stap in het productieproces is gebaseerd op geografische open source software</li>
 We nodigen iedereen uit: gebruikers, uitvinders of kartografen van België of daarbuiten om een steentje bij te dragen aan de prachtige kaartgallerij.
 </ul>
