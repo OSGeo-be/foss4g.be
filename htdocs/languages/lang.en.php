@@ -62,7 +62,7 @@ $lang['CALL_3'] = 'Call for Papers';
 $lang['PROGRAMME'] = 'Programme';
 
 // HOME ABOUT
-$lang['ABOUT_TITLE'] = 'After the very succesful FOSS4G Belgium events from 2015 to 2018 <a href="http://www.osgeo.be">OSGeo.be</a>  announces the date of the next FOSS4G Belgium Conference: <b>24 October 2019</b>. Stay tuned for more info! <br>
+$lang['ABOUT_TITLE'] = 'After a series of succesful FOSS4G Belgium events <a href="http://www.osgeo.be">OSGeo.be</a>  announces the date of the next FOSS4G Belgium Conference: <b>24 October 2019</b>. Stay tuned for more info! <br>
 Interested in joining the organisation? Get in touch with info@foss4g.be';
 
 // HOME SECTION CONFERENCES
@@ -119,7 +119,7 @@ $lang['ABOUT_A_TEXT2'] ='<a href="http://www.osgeo.org/">The Open Source Geospat
 
 $lang['SPONSORS_TITLE'] ='Call for Sponsors';
 $lang['SPONSORS_SUBTITLE'] ='Help making our 2019 edition a success';
-$lang['SPONSORS_CALL'] ='After the successful FOSS4G Belgium events in 2015, 2016 and 2017, 
+$lang['SPONSORS_CALL'] ='After the many successful FOSS4G Belgium events in the past, 
 OSGeo.be and OpenStreetMap Belgium will organise another edition of the FOSS4G Belgium Conference on Thursday October 24, 2019.<br /><br />
 FOSS4G conferences gather developers and users of Open Source geospatial software 
 from around the world to discuss new directions, exciting implementations, and growing business opportunities in this domain. 
