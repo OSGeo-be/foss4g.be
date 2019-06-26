@@ -119,7 +119,7 @@ $lang['ABOUT_A_TEXT2'] ='<a href="http://www.osgeo.org/">La fondation Open Sourc
 $lang['SPONSORS_TITLE'] ='Appel à sponsors';
 
 $lang['SPONSORS_SUBTITLE'] ='Aidez-nous à faire de l\'édition '.$lang['YEAR'].' de cette année un nouveau succès';
-$lang['SPONSORS_CALL'] ='Après plusieurs éditions réussies, OSGEO.be et OpenStreetMap Belgique organisent une nouvelle édition de la conférence FOSS4G Belgique le '.$lang['DATE'].'<br>
+$lang['SPONSORS_CALL'] ='Après plusieurs éditions réussies, OSGeo.be et OpenStreetMap Belgique organisent une nouvelle édition de la conférence FOSS4G Belgique le '.$lang['DATE'].'<br>
 <br>
 La conférence FOSS4G regroupe les développeurs et utilisateurs des logiciels géospatieux open-source mais aussi les gestionnaires et décideurs venant des 
 quatres coins du Monde pour discuter des nouveaux développements, décisions et des opportunités croissantes dans ce domaine.
@@ -188,7 +188,7 @@ $lang['SPONSORS_T_SUBTITLE'] ='Merci à nos sponsors pour leur soutien';
 
 $lang['PAPERS_TITLE'] ='Appel à contributions';
 $lang['PAPERS_SUBTITLE'] ='Participez au succès de l\'édition '.$lang['YEAR'];
-$lang['PAPERS_CALL'] ='Le '.$lang['DATE'].' l\'OSGeo-be organise un événement dédié à la géomatique libre à Bruxelles dans le BEL de Bruxelles Environnement. Le FOSS4G-be sera une journée de conférences, démonstrations, débats et de rencontres sur les thématiques de l’OSGeo. Ce sera aussi l\'occasion <strong>de rassembler la communauté</strong> des utilisateurs, développeurs, décideurs, ou simples curieux de logiciels libres en géomatique.</p>
+$lang['PAPERS_CALL'] ='Le '.$lang['DATE'].' l\'OSGeo.be organise un événement dédié à la géomatique libre à Bruxelles dans le BEL de Bruxelles Environnement. Le FOSS4G-be sera une journée de conférences, démonstrations, débats et de rencontres sur les thématiques de l’OSGeo. Ce sera aussi l\'occasion <strong>de rassembler la communauté</strong> des utilisateurs, développeurs, décideurs, ou simples curieux de logiciels libres en géomatique.</p>
 <p><strong>L\'événement devrait rassembler entre 250 à 400 personnes</strong>.<br />Cette rencontre permettra de partager nos connaissances et nos expériences sous la forme de conférences et démonstrations, d\'une durée de <strong>25min</strong> chacune.';
 
 // Plenary Session
