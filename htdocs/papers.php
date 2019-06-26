@@ -18,13 +18,13 @@
 		<script src="js/skel-layers.min.js" type="text/javascript"></script>
 		<script src="js/init.js" type="text/javascript"></script>
 		<script src="js/accordion.js" type="text/javascript"></script>
-		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->	
+		<!--[if lte IE 8]><script src="/css/ie/html5shiv.js"></script><![endif]-->	
 		<noscript>
-			<link rel="stylesheet" href="css/skel.css" />
-			<link rel="stylesheet" href="css/style.css" />
-			<link rel="stylesheet" href="css/style-wide.css" />
+			<link rel="stylesheet" href="/css/skel.css" />
+			<link rel="stylesheet" href="/css/style.css" />
+			<link rel="stylesheet" href="/css/style-wide.css" />
 		</noscript>
-		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="/css/ie/v8.css" /><![endif]-->
 	</head>
 	<body>
 

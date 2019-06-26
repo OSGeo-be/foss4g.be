@@ -10,7 +10,7 @@
 		<meta name="geo.position" content="50.866248;4.349073" />
 		<meta name="geo.region" content="BE-Brussels" />
 		<meta name="ICBM" content="50.866248, 4.349073" />		
-		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->		
+		<!--[if lte IE 8]><script src="/css/ie/html5shiv.js"></script><![endif]-->		
 		<script src="js/jquery.min.js" type="text/javascript"></script>
 		<script src="js/jquery.dropotron.min.js" type="text/javascript"></script>
 		<script src="js/jquery.scrollgress.min.js" type="text/javascript"></script>
@@ -19,11 +19,11 @@
 		<script src="js/init.js" type="text/javascript"></script>
 		<link rel="canonical" href="http://www.foss4g.be/" />
 		<noscript>
-			<link rel="stylesheet" href="css/skel.css" />
-			<link rel="stylesheet" href="css/style.css" />
-			<link rel="stylesheet" href="css/style-wide.css" />
+			<link rel="stylesheet" href="/css/skel.css" />
+			<link rel="stylesheet" href="/css/style.css" />
+			<link rel="stylesheet" href="/css/style-wide.css" />
 		</noscript>
-		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="/css/ie/v8.css" /><![endif]-->
 	</head>
 	<body class="trans">
 
