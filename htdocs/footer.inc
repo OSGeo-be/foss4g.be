@@ -8,14 +8,13 @@
                 <li><a href="http://cirb.brussels/" class="icon cirb"><span class="label">CIRB</span></a></li>
                 <li><a href="http://www.geosparc.com/" class="icon geosparc"><span class="label">Geosparc</span></a></li>
                 <li><a href="http://www.geosolutions.be" class="icon geosolutions"><span class="label">Geosolutions</span></a></li>
-                <li><a href="http://www.gim.be" class="icon gim"><span class="label">GIM</span></a></li>
+                <li><a href="http://www.gim.be" class="icon gim"><span class="label">GIM</span></a></li>*/?>
                 <li><a href="http://www.idgeo.fr" class="icon idgeo"><span class="label">idgeo</span></a></li>
                 <li><a href="http://ngi.be" class="icon ngi"><span class="label">NGI</span></a></li>
                 <li><a href="http://www.opengeode.be" class="icon geode"><span class="label">OpenGeode</span></a></li>
 				<li><a href="http://oslandia.com/" class="icon oslandia"><span class="label">Oslandia</span></a></li>
+                <li><a href="https://www.osm.be" class="icon osm"><span class="label">OSM.be</span></a></li> <?php /*
 				<li><a href="https://fabspace.eu/" class="icon fabspace"><span class="label">Fabspace</span></a></li>
-				<li><a href="http://www.osgeo.be" class="icon osgeobe"><span class="label">OSGeo.be</span></a></li> 
-				<li><a href="https://www.osm.be" class="icon osm"><span class="label">OSM.be</span></a></li> 
                 <li><a href="https://spw.wallonie.be" class="icon spw"><span class="label">OSM.be</span></a></li> */?>
             </ul>
 
