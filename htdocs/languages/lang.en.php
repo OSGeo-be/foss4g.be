@@ -66,8 +66,9 @@ $lang['CALL_3'] = 'Call for Papers';
 $lang['PROGRAMME'] = 'Programme';
 
 // HOME ABOUT
-$lang['ABOUT_TITLE'] = 'After a series of succesful FOSS4G Belgium events <a href="http://www.osgeo.be">OSGeo.be</a>  announces the date of the next FOSS4G Belgium Conference: <b>'.$lang['DATE'].'</b>. Stay tuned for more info! <br>
-Interested in joining the organisation? Get in touch with info@foss4g.be';
+//$lang['ABOUT_TITLE'] = 'After a series of succesful FOSS4G Belgium events <a href="http://www.osgeo.be">OSGeo.be</a>  announces the date of the next FOSS4G Belgium Conference: <b>'.$lang['DATE'].'</b>. Stay tuned for more info! <br>
+//Interested in joining the organisation? Get in touch with info@foss4g.be';
+$lang['ABOUT_TITLE'] = 'FOSS4G Belgium is the yearly event of the Belgian open source GIS and OpenStreetMap community. <br> Would you like to participate? Send in your proposal <a href="papers.php">here</a> before 22 september (deadline has been extended).';
 
 // HOME SECTION CONFERENCES
 $lang['HOME_S1_TITLE'] = 'Conferences and Workshops';
@@ -231,9 +232,9 @@ $lang['PAPERS_SUM_TYPE'] ='The nature of your intervention (Explanatory / Applic
 
 
 // DEADLINE + HOW EVALUATE 
-$lang['PAPERS_DEADLINE'] ='Deadline for submissions: September 4';
+$lang['PAPERS_DEADLINE'] ='Deadline for submissions: September 22 (extended)';
 $lang['PAPERS_CALL2T'] ='Deadline';
-$lang['PAPERS_CALL2'] ='Deadline for submission is September 4, but we invite presenters to send their title as soon as possible. Abstracts will be evaluated by a program committee and authors will be notified of their acceptance on September the 15th, '.$lang['YEAR'].'.<br />All the presentations will be made available on the event website.</p>';
+$lang['PAPERS_CALL2'] ='Deadline for submission is September 22, but we invite presenters to send their title as soon as possible. Abstracts will be evaluated by a program committee and authors will be notified of their acceptance on September the 25th, '.$lang['YEAR'].'.<br />All the presentations will be made available on the event website.</p>';
 $lang['PAPERS_CALL3T'] ='How do we evaluate';
 $lang['PAPERS_CALL3'] ='<p>The choice of presentations will be based on the quality of the submitted material, its interest for professional and student audiences and also its consistency with the program. The decision of the selection committee will be final and binding. Committee members speak on their own behalf, their choices do not reflect the position of their employer.</p>';
 $lang['PAPERS_CALL4'] ='<p>The Dutch and French coordinators of the program committee are Johan Van de Wauw (NL) and Gaël Kruwialis (FR).</p>

@@ -265,7 +265,7 @@ $lang['PAPERS_SUM_TYPE'] ='';
 
 
 // DEADLINE + HOW EVALUATE 
-$lang['PAPERS_DEADLINE'] ='Datum: ten laatste op 4 september';
+$lang['PAPERS_DEADLINE'] ='Datum: ten laatste op 22 september (verlengd)';
 $lang['PAPERS_CALL2T'] ='Deadline';
 $lang['PAPERS_CALL2'] ='<p>Bijdragen zullen geëvalueerd worden door het programmacommitee en de auteurs zullen bericht krijgen of hun bijdrage aanvaard werd. <br />
 Alle presentaties zullen op de website van het congres geplaatst worden.</p>

@@ -227,9 +227,9 @@ $lang['PAPERS_SUM_TYPE'] ='La nature de votre intervention (Explicative / Applic
 
 
 // DATE LIMITE + COMMENT EVALUONS-NOUS 
-$lang['PAPERS_DEADLINE'] ='Date limite pour les soumissions: 4 septembre '.$lang['YEAR'];
+$lang['PAPERS_DEADLINE'] ='Date limite pour les soumissions: 22 septembre '.$lang['YEAR'];
 $lang['PAPERS_CALL2T'] ='Date limite';
-$lang['PAPERS_CALL2'] ='Les résumés seront évalués par un comité de programme et les auteurs retenus en seront avertis le 15 septembre 2018. Toutes les présentations seront mises en ligne sur le site de l\'événement.';
+$lang['PAPERS_CALL2'] ='Les résumés seront évalués par un comité de programme et les auteurs retenus en seront avertis le 25 septembre 2018. Toutes les présentations seront mises en ligne sur le site de l\'événement.';
 $lang['PAPERS_CALL3T'] ='Méthode d\'évaluation';
 $lang['PAPERS_CALL3'] ='<p>Le choix des présentations sera basé sur la qualité des descriptions soumises, son intérêt pour une audience professionnelle et étudiante, et la cohérence du programme de la journée. La décision du comité de sélection sera finale et sans appel. Les membres du comité s\'expriment en leur nom propre et leurs choix ne reflètent pas la position de leur employeur.<p>';
 $lang['PAPERS_CALL4'] ='Les coordinateurs néerlandais et francophones du comité de programme sont Johan Van de Wauw (NL) and Gaël Kruwialis (FR).</p><p>Nous vous encourageons à <a href="mailto:&#112;&#114;&#101;&#115;&#101;&#110;&#116;&#97;&#116;&#105;&#111;&#110;&#64;&#102;&#111;&#115;&#115;&#52;&#103;&#46;&#98;&#101;" title="&#112;&#114;&#101;&#115;&#101;&#110;&#116;&#97;&#116;&#105;&#111;&#110;&#64;&#102;&#111;&#115;&#115;&#52;&#103;&#46;&#98;&#101;"> nous envoyer un mail pour toutes demandes </a>.</p>';
