@@ -8,7 +8,7 @@
                                 <?php echo "<li><a href='/$language/about'>". $lang['MENU_ABOUT']."</a></li>"; ?>
 								<li><a href="call.php"><?php echo $lang['MENU_CALL2']; ?></a></li>
 								<li><a href="papers.php"><?php echo $lang['MENU_CALL3']; ?></a></li>
-                                <!--<li><a href="inscription.php"><?php echo $lang['MENU_REG']; ?></a></li>-->
+                                <li><a href="inscription.php"><?php echo $lang['MENU_REG']; ?></a></li>
                                 <!--<li><a href="programme.php"><?php echo $lang['MENU_PROGRAM']; ?></a></li> -->
                                 <!--<li><a href="programme.php"><?php echo $lang['MENU_PROGRAM']; ?></a></li> -->
 								<li><a href="maps.php"><?php echo $lang['MENU_MAPS']; ?></a></li>
