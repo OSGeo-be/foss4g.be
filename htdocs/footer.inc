@@ -3,6 +3,7 @@
                 <?php
                 /*
                 <li><a href="https://overheid.vlaanderen.be/informatie-vlaanderen" class="icon aiv"><span class="label">Agentschap Informatie Vlaanderen</span></a></li>*/?>
+                <li><a href="https://anyways.eu/" class="icon anyways"><span class="label">Anyways</span></a></li>
                 <li><a href="https://atelier-cartographique.be/en/" class="icon atelier"><span class="label">atelier cartographique</span></a></li>
                 <li><a href="http://www.champs-libres.coop/" class="icon champs-libres"><span class="label">Champs libres</span></a></li><?php /*
                 <li><a href="http://cirb.brussels/" class="icon cirb"><span class="label">CIRB</span></a></li>
