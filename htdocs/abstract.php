@@ -2,10 +2,8 @@
 include_once("mysql.php");
 
 $start=$_GET['start'];
-$track=$_GET['track'];
+$track=intval($_GET['track']);
 
-?>
-<?php
 $query = "select abstract FROM presentations where start=? and track=?";
 $stmt = mysqli_stmt_init($link);
 $stmt = mysqli_prepare($link, $query);
