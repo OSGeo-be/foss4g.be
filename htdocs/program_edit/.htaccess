@@ -1,3 +1,4 @@
+ Options -Indexes
  AuthUserFile /home/osgeo/public_html/.htpasswd
  AuthName "Password Protected Area"
  AuthType Basic

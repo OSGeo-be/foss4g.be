@@ -1,45 +1,93 @@
 <?php
+include_once("../mysql.php");
+
+if ($_SERVER['REQUEST_METHOD'] === 'GET') {
+// check id is set and valid -> fail otherwise
+$guid = ($_GET['id']);
+$id = $guid;
+$query="select * FROM presentations where guid='$id'";
+$result = mysqli_query($link,$query);
+$row = mysqli_fetch_assoc($result);
+if (mysqli_num_rows($result) == 0)
+{
+    echo "id not found (g)";
+    exit();
+}
+
+?>
+<!DOCTYPE html>
+<html>
+<body><p>
+Your talk: <?php print($row['title']);   ?></p>
+<p>
+<form action="upload.php" method="post" enctype="multipart/form-data">
+    Select presentation to upload (only pdf, odp, pptx allowed):<br>
+    <input type="hidden" name="id" value="<?php print($guid)?>">
+    <input type="file" name="fileToUpload" id="fileToUpload">
+    <input type="submit" value="Upload Presentation" name="submit">
+</form></p>
+
+</body>
+</html>
+
+
+<?php
+
+
+}
+
+else
+{
+
+	// upload
+	$guid = ($_POST['id']);
+$id = $guid;
+$query="select * FROM presentations where guid='$id'";
+$result = mysqli_query($link,$query);
+if (mysqli_num_rows($result) == 0)
+{
+    echo "id not found (p)";
+    exit();
+}
+
+
+
 $target_dir = "../uploads/";
 $target_file = $target_dir . basename($_FILES["fileToUpload"]["name"]);
-$uploadOk = 1;
-$imageFileType = pathinfo($target_file,PATHINFO_EXTENSION);
-// Check if image file is a actual image or fake image
-if(isset($_POST["submit"])) {
-    $check = getimagesize($_FILES["fileToUpload"]["tmp_name"]);
-    if($check !== false) {
-        echo "File is an image - " . $check["mime"] . ".";
-        $uploadOk = 1;
-    } else {
-        echo "File is not an image.";
-        $uploadOk = 1;
-    }
-}
+$imageFileType = strtolower(pathinfo($target_file,PATHINFO_EXTENSION));
+print($target_file);
 // Check if file already exists
-if (file_exists($target_file)) {
-    echo "Sorry, file already exists.";
-    $uploadOk = 0;
-}
+//if (file_exists($target_file)) {
+//    echo "Sorry, file already exists.";
+//    $uploadOk = 0;
+//}
 // Check file size
 if ($_FILES["fileToUpload"]["size"] > 50000000) {
     echo "Sorry, your file is too large.";
-    $uploadOk = 0;
+    exit();
 }
 // Allow certain file formats
-if($imageFileType != "jpg" && $imageFileType != "png" && $imageFileType != "jpeg"
-&& $imageFileType != "gif" && $imageFileType != "pdf" ) {
-    echo "Sorry, only JPG, JPEG, PNG, PDF & GIF files are allowed.";
-    $uploadOk = 0;
+$extensions = array("odp", "pptx", "ppt", "pdf");
+if(!in_array($imageFileType,$extensions)){
+	echo "Sorry, only ".implode(",", $extensions)." files are allowed.";
+	exit();
 }
 // Check if $uploadOk is set to 0 by an error
-if ($uploadOk == 0) {
-    echo "Sorry, your file was not uploaded.";
-// if everything is ok, try to upload file
-} else {
     if (move_uploaded_file($_FILES["fileToUpload"]["tmp_name"], $target_file)) {
-    	$url = 'http://2017.foss4g.be/uploads/'.  $_FILES["fileToUpload"]["name"];
+    	$url = 'https://2019.foss4g.be/uploads/'.  $_FILES["fileToUpload"]["name"];
         echo "The file ". basename( $_FILES["fileToUpload"]["name"]). " has been uploaded.<br><a href='$url'>$url</a>";
+	$sql = "UPDATE presentations set presentation_url=? where guid=?";
+	$upd = mysqli_prepare ($link,  $sql);
+	mysqli_stmt_bind_param($upd,"ss",$url,$guid);
+
+	mysqli_stmt_execute($upd) or die(mysqli_error($link));;
+	/* note that for invalid ID's nothing will happen */
+	mysqli_close($link);
     } else {
         echo "Sorry, there was an error uploading your file.";
     }
+
+
+
 }
 ?>

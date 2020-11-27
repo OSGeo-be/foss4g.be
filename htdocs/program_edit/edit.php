@@ -35,16 +35,7 @@ if(!empty($_POST['submit']) && $_POST['submit'] == "save changes" && !empty($_PO
 <?php
 /** render the page **/
 $guid = ($_GET['id']);
-if(preg_match("/^(\{)?[a-f\d]{8}([a-f\d]{4}){4}[a-f\d]{8}(?(1)\})$/i", $guid))
-	{
-		$id=$guid;
-	}
-	else
-		
-	{
-		echo "invalid id";
-        exit();
-    }
+$id = $guid;
 $query="select * FROM presentations where guid='$id'";
 $result = mysqli_query($link,$query);
 if (mysqli_num_rows($result) == 0)
