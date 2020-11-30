@@ -1,8 +1,8 @@
 # foss4gbe
 
-After the very succesful FOSS4G Belgium events since 2015, OSGeo.be announces the date of the next FOSS4G Belgium Conference: 24 October 2019. Stay tuned for more info! 
-Interested in joining the organisation? Get in touch with info@foss4g.be
+This repository contains the code for our website: https://foss4g.be .
 
-Find our more at www.foss4g.be
+Different branches exist for every year that we organised.
+For past editions, all uploaded content has been added to the repo using [git LFS](https://git-lfs.github.com/).
 
-This repository holds the code for the website. Found an error? Feel free to open a pull request!
+To run this site on your own computer you need php and for most years mysql. You can use the deploy scripts (ansible)[https://github.com/OSGeo-be/website_deploy] for a full deploy or to get inspiration.
