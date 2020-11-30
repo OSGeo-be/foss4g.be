@@ -1,0 +1,2 @@
+htdocs/images/photo/*.jpg filter=lfs diff=lfs merge=lfs -text
+htdocs/uploads/* filter=lfs diff=lfs merge=lfs -text
