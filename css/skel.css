@@ -12,35 +12,7 @@
 
 /* Container */
 
-	body {
-		/* min-width: (containers) */
-		min-width: 60em;
-	}
-
-	.container {
-		margin-left: auto;
-		margin-right: auto;
-		
-		/* width: (containers) */
-		width: 60em;
-	}
-
-	/* Modifiers */
-	
-		.container.small {
-			/* width: (containers) * 0.75; */
-			width: 45em;
-		}
-
-		.container.big {
-			width: 100%;
-
-			/* max-width: (containers) * 1.25; */
-			max-width: 75em;
-
-			/* min-width: (containers); */
-			min-width: 60em;
-		}
+/* Modifiers */
 
 /* Grid */
 
