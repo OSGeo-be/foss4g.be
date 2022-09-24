@@ -567,7 +567,7 @@ input[type="radio"]+label:before {
 	font-size: 160%;
 	font-weight: 700;
 	color: #71BF45;
-	margin-top: -0.5em;
+	margin-top: 0.5em;
 }
 
 .box h4 i {
