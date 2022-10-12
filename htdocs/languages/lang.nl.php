@@ -3,8 +3,8 @@
 //$lang = array(); we override the english version
 
 // Variables
-$lang['YEAR'] = '2019';
-$lang['DATE'] = 'Donderdag 24 Oktober 2019';
+$lang['YEAR'] = '2022';
+$lang['DATE'] = 'Donderdag 17 November 2022';
 
 // URLs
 $lang['URL_INDEX_1'] = 'index.php?lang=en'; /* switch to EN */

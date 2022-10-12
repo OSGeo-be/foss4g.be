@@ -3,8 +3,8 @@
 $lang = array();
 
 // Variables
-$lang['YEAR'] = '2019';
-$lang['DATE'] = 'Thursday 24 October 2019';
+$lang['YEAR'] = '2022';
+$lang['DATE'] = 'Thursday 17 November 2022';
 
 // URLs
 $lang['URL_INDEX_1'] = 'index.php?lang=en'; /* switch to EN */

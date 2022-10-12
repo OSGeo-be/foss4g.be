@@ -2,8 +2,8 @@
 // FR File
 // $lang = array(); //we override the english version
 
-$lang['YEAR'] = '2019';
-$lang['DATE'] = 'Jeudi, 24 Octobre 2019';
+$lang['YEAR'] = '20222';
+$lang['DATE'] = 'Jeudi, 17 Novembre 2022';
 
 // URLs
 $lang['URL_INDEX_1'] = 'index.php?lang=en'; /* switch to EN */
