@@ -22,7 +22,9 @@ $lang['SITE_DESCRIPTION'] = 'FOSS4G Belgique '.$lang['YEAR'];
 $lang['SITE_KEYWORDS'] = 'FOSS4G Geo marqueur GIS Open Source Bruxelles';
 $lang['SITE_AUTHOR'] = 'FOSS4G Belgium';
 $lang['SITE_DATATOP'] = $lang['DATE'].' - Bruxelles';
-$lang['SITE_DATABIG'] = '<a href="http://bel.brussels/" alt="BEL Building" style="color:white" target="_blank">BEL - Bruxelles Environnement</a> - '.$lang['DATE'];
+# $lang['SITE_DATABIG'] = '<a href="http://bel.brussels/" alt="BEL Building" style="color:white" target="_blank">BEL - Bruxelles Environnement</a> - '.$lang['DATE'];
+$lang['SITE_DATABIG'] = 'Bruxelles - '.$lang['DATE'];
+
 
 // MENU
 $lang['MENU_HOME'] = 'Accueil';
@@ -332,7 +334,7 @@ $lang['PROG_DRINK'] = 'Closing Drink and Networking';
 
 	// CTA
 $lang['FOOTER_THANKS'] = 'FOSS4G est un événement gratuit. Nous remercions nos sponsors et partenaires de rendre ceci possible.';
-$lang['FOOTER_THANKS_ALL'] = '<a href="http://www.bruxellesenvironnement.be/" title="Bruxelles Environnement" style="color:#fff">Bruxelles Environnement</a><!-- - L\'<a href="http://igeat.ulb.ac.be/" title="IGEAT" style="color:#fff">Institut de Gestion de l\'Environnement et d\'Aménagement du Territoire</a> (IGEAT/ULB) - <a href="http://checksum.be/" style="color:#fff">Checksum</a> -->';
+$lang['FOOTER_THANKS_ALL'] = ''; #'<a href="http://www.bruxellesenvironnement.be/" title="Bruxelles Environnement" style="color:#fff">Bruxelles Environnement</a><!-- - L\'<a href="http://igeat.ulb.ac.be/" title="IGEAT" style="color:#fff">Institut de Gestion de l\'Environnement et d\'Aménagement du Territoire</a> (IGEAT/ULB) - <a href="http://checksum.be/" style="color:#fff">Checksum</a> -->';
 $lang['FOOTER_MORE'] = 'Si vous souhaitez obtenir plus d\'informations, <a href="contact.php" style="color:#fff">contactez-nous</a>';
 
 	// FOOTER

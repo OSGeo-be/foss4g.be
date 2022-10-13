@@ -23,7 +23,9 @@ $lang['SITE_DESCRIPTION'] = 'FOSS4G België '.$lang['YEAR'];
 $lang['SITE_KEYWORDS'] = 'Foss4G Geo GIS Open Source Brussel OSGeo OSGeoBE België';
 $lang['SITE_AUTHOR'] = 'FOSS4G Belgium';
 $lang['SITE_DATATOP'] = $lang['DATE'].' - Brussel';
-$lang['SITE_DATABIG'] = '<a href="http://bel.brussels/nl/content/bereikbaarheid">BEL Brussel</a> - '.$lang['DATE'];
+# $lang['SITE_DATABIG'] = '<a href="http://bel.brussels/nl/content/bereikbaarheid">BEL Brussel</a> - '.$lang['DATE'];
+$lang['SITE_DATABIG'] = 'Brussel - '.$lang['DATE'];
+
 
 // MENU
 $lang['MENU_HOME'] = 'Home';
@@ -422,7 +424,7 @@ $lang['PROG_DRINK'] = 'Afsluitende drink en netwerking';
 
 	// CTA
 $lang['FOOTER_THANKS'] = 'FOSS4G is een gratis evenement. Alvast dank aan onze sponsors en partners om dit mogelijk te maken.';
-$lang['FOOTER_THANKS_ALL'] = '<a href="https://www.leefmilieu.brussels/" title="Leefmilieu Brussel" style="color:#fff">Leefmilieu Brussel</a>';
+$lang['FOOTER_THANKS_ALL'] = ''; # '<a href="https://www.leefmilieu.brussels/" title="Leefmilieu Brussel" style="color:#fff">Leefmilieu Brussel</a>';
 $lang['FOOTER_MORE'] = 'Voor meer informatie, <a href="contact.php" style="color:#fff">contacteer ons</a>.';
 	// FOOTER
 
