@@ -8,7 +8,7 @@
                 <li><a href="http://www.champs-libres.coop/" class="icon champs-libres"><span class="label">Champs libres</span></a></li>
                 <li><a href="http://cirb.brussels/" class="icon cirb"><span class="label">CIRB</span></a></li>
                 <li><a href="http://www.geosparc.com/" class="icon geosparc"><span class="label">Geosparc</span></a></li>
-                <li><a href="http://www.geosolutions.be" class="icon geosolutions"><span class="label">Geosolutions</span></a></li>*/?>
+                <li><a href="http://www.geosolutions.be" class="icon geosolutions"><span class="label">Geosolutions</span></a></li>
                 <li><a href="http://www.gim.be" class="icon gim"><span class="label">GIM</span></a></li>
                 <li><a href="http://www.idgeo.fr" class="icon idgeo"><span class="label">idgeo</span></a></li>
                 <li><a href="http://ngi.be" class="icon ngi"><span class="label">NGI</span></a></li>
@@ -21,7 +21,7 @@
             </ul>
 
 <ul class="copyleft">
-				<li><i class="fa fa-copyright fa-flip-horizontal"></i> FOSS4G 2022</li>
+				<li><i class="fa fa-copyright fa-flip-horizontal"></i> FOSS4G Belgium 2022 / State of the Map Belgium 2022</li>
 				<li><i class="fa fa-facebook-square"></i> <a href="https://www.facebook.com/pages/Foss4g-Belgium/863691603712207" title="Facebook">Facebook </a></li>
 				<li><i class="fa fa-twitter-square"></i> <a href="https://www.twitter.com/foss4gbe" title="Twitter">Twitter </a></li>
 				<li><a href="credits.php">Credits</a></li>
