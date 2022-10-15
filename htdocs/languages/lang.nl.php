@@ -361,44 +361,53 @@ $lang['MENU_HACK'] = 'Hackathon';
 
 $lang['MAPS_TITLE'] = 'Oproep voor kaarten';
 $lang['MAPS_TXT'] ='
-<p>Als "GEO" conferentie vormen kaarten een belangrijk onderdeel en de organisatie doet daarom een oproep voor het ter beschikking stellen van allerlei kaarten, waarvan minimaal één stap in het proces gebaseerd is op open source software voor geografische ondersteuning of met behulp van open data.</p>
-<p>We zijn op zoek naar bijdragen om op de FOSS4G kaartgallerij een uitdagende en prikkelende overzicht te presenteren van het beste op vlak van kartering. Maak (of toon) je eigen kaart op basis van om het even welke gegevens.</p>
-<p>Je kaart kan het resultaat zijn van een professionele activiteit of een persoonlijke uitdaging. We verwachten inzendingen op papier (A1), via email (voeg een screenshot toe) of als interactieve kaart (verwijs naar de URL van de kaart). Samen met je inzending bezorg je een korte beschrijving van je kaart en van de methode om ze te creëren, eventueel de gebruikte software en data voor de realisatie ervan.</p>
-<p>De enige criteria om een bijdrage op te sturen zijn:
-<ul>
-<li>de kaart werd in het afgelopen jaar gemaakt</li>
-<li>minstens één stap in het productieproces is gebaseerd op geografische open source software</li>
-We nodigen iedereen uit: gebruikers, uitvinders of kartografen van België of daarbuiten om een steentje bij te dragen aan de prachtige kaartgallerij.
-</ul>
-</p>
-<br/>
-<h4>Richtlijnen voor fysieke deelname aan de tentoonstelling</h4>
-<p>Email map@foss4g.be (voor 8 oktober) en vraag ons om je een plaats te reserveren in de gallerij. Breng de dag van de conferentie een afgedrukte versie op papier mee van je kaart om ze in de gallerij te kunnen ophangen. Je kaart moet op een A1 formaat worden afgedrukt om te kunnen passen in de kaders. Grotere kaarten worden niet toegestaan.</p>
-<br/>
-<h4>Richtlijnen voor on-line deelname</h4>
-<p>
-Stuur je kaart door per mail voor 8 oktober (map@foss4g.be).
-Opgestuurde kaarten moeten voldoen aan volgende criteria:
+<p>Geen geo-conferentie zonder kaarten! Daarom organiseren we een kaarten tentoonstelling: een
+levendige tentoonstelling van de allerbeste kaarten - zowel digitaal als op papier. De enige vereiste die moet
+worden
+aangetoond, is dat de kaart minstens voor een deel gemaakt is met open data of open source-technologie.
+Bovendien,
+om elke telkens
+nieuwe kaarten te krijgen, geven we de voorkeur aan kaarten die zijn gemaakt sinds de laatste FOSS4G-BE.</p>
+
+<p>Als je kaarten hebt gemaakt waar je trots op bent, stuur ze dan op! Samen creëren we dit jaarlijkse
+hoogtepunt! Uw kaart
+kan het resultaat zijn van een commerciële onderneming, gemaakt voor uw gemeenschap of een persoonlijke
+uitdaging,...</p>
+
+<h4 style="text-align:left">Kaarten op papier</h4>
+
+<p>Een kaart die bedoeld is om af te drukken, kunt u digitaal insturen (en wij printen deze voor u) of u kunt
+deze zelf meenemen
+naar het congres. In beide gevallen vragen wij u deze vooraf op te sturen om ruimte te reserveren.</p>
 
 <ul>
-<li>Enkel.pdf formaat (waarbij alle lettertypes moeten geconverteerd zijn als outlines)</li>
-<li>Minimale resolutie : 2342 x 3311 pixels (We drukken de kaarten af op een A1 formaat)</li>
+<li>Dien uw kaart in vóór 10 november via het <a href="https://tinyurl.com/foss4gbemap">formulier</a> of via
+  mail: <a href="map@foss4g.be">map@foss4g.be</a></li>
+<li>Er is voldoende ruimte voor een kaart op A1-formaat. Als het aantal ingestuurde kaarten groter is dan de
+  beschikbare
+  ruimte, maken we een selectie.</li>
+<li>Als u uw kaart digitaal verzendt, voeg deze dan toe in pdf-formaat met een minimale resolutie van 2342 x
+  3311 pixels.
+  Lettertypen moeten worden opgenomen.</li>
+<li>Als je je eigen kaart zelf meebrengt, stuur dan een kleine foto of screenshot zodat we weten wat we kunnen
+  verwachten. We
+  kunnen kaarten thematisch groeperen.</li>
+<li>Geef een titel, auteur en/of organisatie en beschrijving van de kaart op.</li>
+<li>Vermeld welke software en gegevens zijn gebruikt om de kaart te maken.</li>
 </ul>
-Indien je een interactieve kaart doorstuurt, gelieve de url te bezorgen.
-</p>
-<br/>
-<h4>Volgende informatie dient te worden toegevoegd samen met je kaart</h4>
-<p>
+
+<h4 style="text-align:left">Interactieve kaarten</h4>
+
+<p>Als je een mooie webkaart hebt gemaakt, laten we die ook zien! Hiervoor wordt een computer naast de kaartmuur
+geplaatst.
+Als u een interactieve kaart wilt aanleveren, dan:</p>
+
 <ul>
-<li>Titel van de kaart</li>
-<li>uw Naam</li>
-<li>Datum waarop de kaart werd gemaakt</li>
-<li>Organisatie</li>
-<li>eventuele overige auteurs van de kaart</li>
-<li>Korte beschrijving van de kaart. Gelieve de gebruikte software en data te vermelden.</li>
-<li>Schermafdruk (indien het een papieren kaart betreft)</li>
+<li>Dien uw kaart in vóór 10 november via het <a href="https://tinyurl.com/foss4gbemap">formulier</a> of via
+  mail: <a href="map@foss4g.be">map@foss4g.be</a></li>
+<li>Geef een titel, auteur en/of organisatie en beschrijving van de kaart op.</li>
+<li>Vermeld welke software en gegevens zijn gebruikt om de kaart te maken.</li>
 </ul>
-</p>
 ';
 
 $lang['MENU_MAPS'] = 'Oproep voor kaarten';

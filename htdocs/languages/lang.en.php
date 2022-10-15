@@ -337,34 +337,48 @@ $lang['PROG_DRINK'] = 'Closing Drink and Networking';
 // Call for Maps
 
 $lang['MAPS_TITLE'] = 'Call for Maps';
-$lang['MAPS_TXT'] ='<p>As a geospatial conference, maps should definitively be a part of it! That\'s why we organise a yearly <strong>Map Gallery</strong>: a vibrant  exhibit of the very best maps -both digitally and on paper. The only requirement to be shown is that at least some part was done with some open data or open source technology. Furthermore, in order to get a fresh map each year, we prefer maps that have been created last year.
+$lang['MAPS_TXT'] ='        <p>As a geospatial conference, maps should definitively be a part of it! That\'s why we organise a Map Gallery: a
+vibrant exhibit of the very best maps -both digitally and on paper. The only requirement to be shown is that
+at least
+some part was done with some open data or open source technology. Furthermore, in order to get a fresh map
+each tine, we
+prefer maps that have been created since the last FOSS4G-BE.</p>
 
+<p>If you have created maps that you are proud of, please send them over! Together, we create this yearly
+highlight! Your
+map can be the result of a commercial venture, created for your community or a personal challenge,...</p>
 
-<p>If you have created maps that you are proud of, please send them over! Together, we create this yearly highlight! Your map can be the result of a commercial venture, created for your community or a personal challenge,... </p>
+<h4 style="text-align:left">Printed maps</h4>
 
-<h4>Printed maps</h4>
-
-A map intended for printing can be sent in digitally (and we\'ll print them for you) or you can bring it during the conference. In both cases, we ask you to email us beforehand in order to reserve space.
+<p>A map intended for printing can be sent in digitally (and we\'ll print them for you) or you can bring it
+during the
+conference. In both cases, we ask you to send it in beforehand in order to reserve space.</p>
 
 <ul>
-<li>Mail us via <a href="mailto:map@foss4g.be&subject=Map submission"/>map@foss4g.be</a> before 8 october.
-<li>There\'ll be enough space provided for an A1-sized map.</li>
-<li>If you send your map digitally, include it in pdf format with a minimum resolution of 2342 x 3311 pixels. Fonts should be included.</li>
-<li>If you bring your own map, please send a small photo or screenshot so that we know what to expect. We might group maps thematically.</li>
-<li>Provide a title, author and/or organization, date and description of the map.</li>
-<li>Mention what software and data were used to create the map</li>
+<li>Submit your map before November 10, either using the <a href="https://tinyurl.com/foss4gbemap">form</a> or
+  via mail: <a href="mailto:map@foss4g.be">map@foss4g.be</a></li>
+<li>There\'ll be enough space provided for an A1-sized map. If the number of maps submitted is larger than the
+  space available, we will make a selection.</li>
+<li>If you send your map digitally, include it in pdf format with a minimum resolution of 2342 x 3311 pixels.
+  Fonts should
+  be included.</li>
+<li>If you bring your own map, please send a small photo or screenshot so that we know what to expect. We
+  might group maps
+  thematically.</li>
+<li>Provide a title, author and/or organization and description of the map.</li>
+<li>Mention what software and data were used to create the map.</li>
 </ul>
 
+<h4 style="text-align:left">Interactive maps</h4>
 
-<h4>Interactive maps</h4>
-
-If you created a fancy web map, we\'ll showcase it too! For this, a computer will be placed next to the map wall. If you want to provide an interactive map, then:
-
+<p>If you created a fancy web map, we\'ll showcase it too! For this, a computer will be placed next to the map
+wall. If you want to provide an interactive map, then:</p>
 
 <ul>
-<li>Mail us via <a href="mailto:map@foss4g.be&subject=Map subimssion"/>map@foss4g.be</a> before 8 october.
-<li>Provide a title, author and/or organization, date and description of the map.</li>
-<li>Mention what software and data were used to create the map</li>
+<li>Submit your map before November 10, either using the <a href="https://tinyurl.com/foss4gbemap">form</a> or
+  via mail: <a href="mailto:map@foss4g.be">map@foss4g.be</a></li>
+<li>Provide a title, author and/or organization and description of the map.</li>
+<li>Mention what software and data were used to create the map.</li>
 </ul>
 ';
 

@@ -343,45 +343,71 @@ $lang['FOOTER_MORE'] = 'Si vous souhaitez obtenir plus d\'informations, <a href=
 
 $lang['MAPS_TITLE'] = 'Appel à cartes';
 $lang['MAPS_TXT'] ='
-<p>En tant que conférence consacrée à la Géomatique, des cartes doivent très naturellement y trouver leur place ! C\'est pourquoi nous avons décidé d\'organiser une Galerie de Cartes. Nous vous invitons donc à contribuer à ce qui sera une exposition dynamique et passionnante du meilleur de la cartographie ! Apporter votre contribution à la galerie de cartes est simple : concevez une carte à l\'aide d\'au moins une technologie Open source ou de données libres .</p>
+<p>En tant que conférence consacrée à la Géomatique, des cartes doivent très naturellement y trouver leur place
+! C\'est
+pourquoi nous avons décidé d\'organiser une Galerie de Cartes. Nous vous invitons donc à contribuer à ce qui
+sera une
+exposition dynamique et passionnante du meilleur de la cartographie ! Apporter votre contribution à la galerie
+de cartes
+est simple : concevez une carte à l\'aide d\'au moins une technologie Open source ou de données libres.</p>
 
-<p>Cette carte peut être le résultat d\'une activité professionnelle ou d\'un défi personnel. Nous encourageons donc tous les participants à soumettre leur travail sur papier (A1) ou via email (merci d\'ajouter des captures d\'écrans). Les cartes interactives sont aussi les bienvenues (merci de fournir l\'URL). Pour être complet, nous demandons également une courte description de votre carte ainsi que, si possible, une brève présentation des méthodes, logiciels et données utilisés pour la conception et la production de la carte</p>
+<p>Cette carte peut être le résultat d\'une activité professionnelle ou d\'un défi personnel. Nous encourageons
+donc tous les
+participants à soumettre leur travail sur papier (A1) ou via email (merci d\'ajouter des captures d\'écrans).
+Les cartes
+interactives sont aussi les bienvenues (merci de fournir l\'URL). Pour être complet, nous demandons également
+une courte
+description de votre carte ainsi que, si possible, une brève présentation des méthodes, logiciels et données
+utilisés
+pour la conception et la production de la carte</p>
 
-<p>Plus simplement, deux critères sont à respecter pour soumettre votre travail :
-<ul>
-<li>La conception de la carte doit être récente (maximum un an avant l\'évènement).</li>
-<li>Au moins une étape du processus de production doit être réalisée en utilisant une technologie Open source ou les données libres</li>
-Nous invitons donc vivement tous les utilisateurs, concepteurs ou créateurs de cartes de partout en Belgique ou d\'ailleurs, à contribuer à ce qui sera, sans aucun doute, la plus détonante des Galeries de Cartes.
-</ul>
-</p>
-<br/>
-<h4>Directives dans le cas où vous souhaitez amener votre carte papier sur place</h4>
-<p>Envoyez-nous mail à : map@foss4g.be (avant le 8 octobre '.$lang['YEAR'].') afin de nous demander la réservation d\'un espace dans la galerie.
-Apporter sur place, lors de la conférence, une copie papier à suspendre dans la galerie. Les supports mis à disposition sont prévus pour l\'affichage de cartes papier d\'un format A1. Les cartes de plus grands formats ne sont pas admises.</p>
-<br/>
-<h4>Directives si vous souhaitez soumettre votre carte en ligne</h4>
+<p>Plus simplement, deux critères sont à respecter pour soumettre votre travail: La conception de la carte doit
+être récente et
+au moins une étape du processus de production doit être réalisée en utilisant une technologie Open source ou
+les données
+libres
+Nous invitons donc vivement tous les utilisateurs, concepteurs ou créateurs de cartes de partout en Belgique
+ou
+d\'ailleurs, à contribuer à ce qui sera, sans aucun doute, la plus détonante des Galeries de Cartes.</p>
+
+<h4 style="text-align:left">Directives dans le cas où vous souhaitez amener votre carte papier sur place</h4>
+
+<p>Les cartes doivent être envoyés à l\'aide de <a
+  href="https://tinyurl.com/foss4gbemap">https://tinyurl.com/foss4gbemap</a> ou par mail <a
+  href="mailto:map@foss4g.be">map@foss4g.be</a> (avant le 10 novembre) afin de nous demander la réservation
+d\'un espace dans la
+galerie. Apporter sur place, lors de la conférence, une copie papier à suspendre dans la galerie. Les supports
+mis à
+disposition sont prévus pour l\'affichage de cartes papier d\'un format A1. Les cartes de plus grands formats ne
+sont pas
+admises.</p>
+
+<h4 style="text-align:left">Directives si vous souhaitez soumettre votre carte en ligne</h4>
+
 <p>
-Transmettez-nous votre carte pour le 15 septembre '.$lang['YEAR'].' via email (map@foss4g.be).
-Les critères à respecter sont les suivants :
+<p>Les cartes doivent être envoyés à l\'aide de <a
+  href="https://tinyurl.com/foss4gbemap">https://tinyurl.com/foss4gbemap</a> ou par mail <a
+  href="mailto:map@foss4g.be">map@foss4g.be</a> (avant le 10 novembre). Les critères à respecter sont les
+suivants :</p>
+
 <ul>
 <li>La carte doit être uniquement en format .pdf (Inclure toutes les polices)</li>
 <li>Résolution minimale: 2342 x 3311 pixels (nous imprimerons les cartes en A1)</li>
 </ul>
-S\'il s\'agit d\'une carte interactive, merci de nous fournir l\'URL exacte.
-</p>
-<br/>
-<h4>Informations à joindre lors de la soumission d\'une carte (papier ou électronique)</h4>
-<p>
+
+<p>S\'il s\'agit d\'une carte interactive, merci de nous fournir l\'URL exacte.</p>
+
+<h4 style="text-align:left">Informations à joindre lors de la soumission d\'une carte (papier ou électronique)
+</h4>
+
 <ul>
 <li>Titre de la carte</li>
 <li>Nom</li>
-<li>Date</li>
 <li>Organisation</li>
 <li>Éventuel(s) autre(s) auteur(s) de la carte</li>
 <li>Courte description de la carte. N\'oubliez pas d\'indiquer les logiciels et données utilisées.</li>
 <li>Captures d\'écrans (si copie papier)</li>
 </ul>
-</p>
 ';
 
 $lang['MENU_MAPS'] = 'Appel à cartes';
