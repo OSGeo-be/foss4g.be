@@ -1,5 +1,8 @@
 # foss4gbe
 
+!!! Not used anymore please use branch `b2022` for the 2022 edition !!!
+
+
 This repository contains the code for our website: https://foss4g.be .
 
 Different branches exist for every year that we organised.
