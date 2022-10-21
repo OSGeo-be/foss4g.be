@@ -9,7 +9,7 @@
 		<meta name="geo.placename" content="Avenue du Port 86 C/3002, Tour & Taxis, 1000 Brussels, Belgium" />
 		<meta name="geo.position" content="50.866248;4.349073" />
 		<meta name="geo.region" content="BE-Brussels" />
-		<meta name="ICBM" content="50.866248, 4.349073" />	
+		<meta name="ICBM" content="50.866248, 4.349073" />
 		<link rel="canonical" href="https://2019.foss4g.be/" />
 		<script src="/js/jquery.min.js" type="text/javascript"></script>
 		<script src="/js/jquery.dropotron.min.js" type="text/javascript"></script>
@@ -17,7 +17,7 @@
 		<script src="/js/skel.min.js" type="text/javascript"></script>
 		<script src="/js/skel-layers.min.js" type="text/javascript"></script>
 		<script src="/js/init.js" type="text/javascript"></script>
-		<!--[if lte IE 8]><script src="/css/ie/html5shiv.js"></script><![endif]-->	
+		<!--[if lte IE 8]><script src="/css/ie/html5shiv.js"></script><![endif]-->
 		<noscript>
 			<link rel="stylesheet" href="/css/skel.css" />
 			<link rel="stylesheet" href="/css/style.css" />
@@ -37,42 +37,37 @@
 			<section id="main" class="container">
 				<header>
 					<h2><?php echo $lang['SPONSORS_T_TITLE']; ?></h2>
-					<p><?php echo $lang['SPONSORS_T_SUBTITLE']; ?></p>											  
+					<p><?php echo $lang['SPONSORS_T_SUBTITLE']; ?></p>
 				</header>
 				<div class="row">
 					<div class="12u">
 					<div class="container-x">
 					  <div class="accordion">
 						<dl>
-						  <dt class="spons"><a class="accordionTitle sponsors platinium" href="#"> <?php echo $lang['SPONSORS_1_TITLE']; ?> <span class="spon1"><?php echo $lang['SPONSORS_1_TAGLINE']; ?></span></a></dt>
+						  <!-- dt class="spons"><a class="accordionTitle sponsors platinium" href="#"> <?php echo $lang['SPONSORS_1_TITLE']; ?> <span class="spon1"><?php echo $lang['SPONSORS_1_TAGLINE']; ?></span></a></dt>
 						  <dd class="accordionItem accordionItem">
-							<a href="http://http://www.environnement.brussels/" class="sponsor icon bxlenv"><span class="label">Bruxelles Environment</span></a>
-							<!--<a href="http://cirb.brussels" class="sponsor icon cirb"><span class="label">CIRB</span></a>-->
-							<!--<a href="http://www.geosparc.com/" class="sponsor icon geosparc"><span class="label">Geosparc</span></a>-->
-						  </dd>						  
-						  <dt class="spons"><a href="#" class="accordionTitle sponsors gold"> <?php echo $lang['SPONSORS_2_TITLE']; ?> <span class="spon2"><?php echo $lang['SPONSORS_2_TAGLINE']; ?></span></a></dt>
+						  </dd -->
+						  <dt class="spons">
+                <a href="#" class="accordionTitle sponsors gold">
+                  <?php echo $lang['SPONSORS_2_TITLE']; ?>
+                  <span class="spon3"></span>
+                </a>
+              </dt>
 						  <dd class="accordionItem accordionItem">
-<?php /*<a href="https://overheid.vlaanderen.be/informatie-vlaanderen"  class="sponsor icon aiv"><span class="label">Agentschap Informatie Vlaanderen</span></a> */?>
-							<a href="https://www.anyways.eu/" class="sponsor icon anyways"><span class="label">Anyways</span></a>
-							<a href="https://www.champs-libres.coop/" class="sponsor icon champs-libres"><span class="label">Champs-libres</span></a>
-                            <a href="https://www.gim.be/" class="sponsor icon gim"><span class="label">GIM</span></a>
-			    <a href="http://ngi.be/" class="sponsor icon ngi"><span class="label">NGI</span></a>
-                            <a href="https://oslandia.com/" class="sponsor icon oslandia"><span class="label">Oslandia</span></a><!--
-                            <a href="https://www.fabspace.eu/" class="sponsor icon fabspace"><span class="label">Fabspace 2.0</span></a>
-                                <a href="http://www.geosolutions.be" class="sponsor icon geosolutions"><span class="label">Geosolutions</span></a>
--->
-			    				<a href="https://spw.wallonie.be/" class="sponsor icon spw"><span class="label">Spw</span></a>
-						<a href="https://www.idgeo.fr" class="sponsor icon idgeo"><span class="label">idgeo</span></a>
-						  </dd>
-						  <dt class="spons"><a href="#" class="accordionTitle sponsors silver"> <?php echo $lang['SPONSORS_3_TITLE']; ?> <span class="spon3"><?php echo $lang['SPONSORS_3_TAGLINE']; ?></span></a></dt>
+                <p style="text-align:center"><a href="contact.php" class="button specialo icon fa-check"> <?php echo $lang['SPONSORS_BUTTON']; ?></a></p>
+              </dd>
+						  <!-- dt class="spons"><a href="#" class="accordionTitle sponsors silver"> <?php echo $lang['SPONSORS_3_TITLE']; ?> <span class="spon3"><?php echo $lang['SPONSORS_3_TAGLINE']; ?></span></a></dt>
 						  <dd class="accordionItem accordionItem">
-                        <a href="https://www.atelier-cartographique.be" class="sponsor icon atelier"><span class="label">atelier-cartographique</span></a>
-                        <!--
-						<a href="http://www.opengeode.be" class="sponsor icon geode"><span class="label">Open Geode</span></a>-->
-						  </dd>
-						  <dt class="spons"><a href="#" class="accordionTitle sponsors bronze"> <?php echo $lang['SPONSORS_4_TITLE']; ?> <span class="spon4"><?php echo $lang['SPONSORS_4_TAGLINE']; ?></span></a></dt>
+						  </dd -->
+						  <dt class="spons">
+                <a href="#" class="accordionTitle sponsors bronze">
+                  <?php echo $lang['SPONSORS_4_TITLE']; ?>
+                  <span class="spon4"></span>
+                </a>
+              </dt>
 						  <dd class="accordionItem accordionItem">
-							<a href="https://www.my-poppy.eu/" class="sponsor icon poppy"><span class="label">My poppy</span></a>
+						    <a href="https://www.spacebel.com/" class="sponsor icon spacebel"><span class="label">Spacebel</span></a>
+							<a href="https://www.idgeo.fr" class="sponsor icon idgeo"><span class="label">idgeo</span></a>
 						  </dd>
 						</dl>
 					  </div>
@@ -80,20 +75,20 @@
 					</div>
 					</div>
 				</div>
-				
+
 				<div class="nav bottom"><prev></prev><a href="about.php" title="<?php echo $lang['MENU_ABOUT']; ?>"><?php echo $lang['MENU_ABOUT']; ?></a> <a href="papers.php" title="<?php echo $lang['MENU_CALL3']; ?>"><?php echo $lang['MENU_CALL3']; ?></a><next></next></div>
 			</section>
 
-			
+
 		<!-- CTA -->
 			<section id="cta">
-				
+
 				<p><?php echo $lang['FOOTER_THANKS']; ?><p>
 				<p><?php echo $lang['FOOTER_THANKS_ALL']; ?></p>
 				<p><?php echo $lang['FOOTER_MORE']; ?></p>
-				
+
 			</section>
-			
+
 	<!-- Footer -->
 		<footer id="footer">
 			<?php include 'footer.inc'; ?>
