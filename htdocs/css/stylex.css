@@ -758,6 +758,9 @@
 						ul.icons li .icon.oslandia  {
 							background:url(../images/oslandia.png);
 						}
+						ul.icons li .icon.geopostcodes  {
+							background:url(../images/geopostcodes.svg);
+						}
 						ul.icons li .icon.gim  {
 							background:url(../images/gim.png);
 						}
