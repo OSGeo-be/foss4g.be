@@ -44,7 +44,7 @@
 					<div class="container-x">
 					  <div class="accordion">
 						<dl>
-							<dt class="spons"><a class="accordionTitle sponsors platinium" href="#"> <?php echo $lang['SPONSORS_1_TITLE']; ?> <span class="spon1"><?php echo $lang['SPONSORS_1_TAGLINE']; ?></span></a></dt>
+							<dt class="spons"><a class="accordionTitle sponsors platinium" href="#"> <?php echo $lang['SPONSORS_1_TITLE']; ?> </a></dt>
 							<dd class="accordionItem accordionItem">
 								<a href="https://wiki.osgeo.org/wiki/Belgium" class="sponsor icon osgeobe"><span class="label">OSGeo Belgium</span></a>
 								<a href="https://bosa.belgium.be/fr" class="sponsor icon bosa"><span class="label">BOSA</span></a>
