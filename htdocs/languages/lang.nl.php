@@ -187,6 +187,9 @@ $lang['SPONSORS_BUTTON'] ='Neem contact op om FOSS4G BE te sponsoren';
 	$lang['SPONSORS_4_TAGLINE'] ='250€';
 	$lang['SPONSORS_4_TXT'] ='Logo op sponsors webpagina.';
 	
+	$lang['SPONSORS_OSM_CORPORATE_MEMBERS'] ='Corporate Members van OpenStreetMap Belgium';
+	$lang['SPONSORS_OSM_CORPORATE_MEMBERS_TEXT'] ='De Corporate Members van OpenStreetMap Belgium maken dit event mee mogelijk. Bedankt aan Geo-6, Anyways, Champs-Libres (ook Bronze sponsor), Visit Flanders, RouteYou, TomTom and Mapbox (ook Gold sponsor)!';
+
 $lang['SPONSORS_WHY_TITLE'] ='Waarom OSGeo sponsoren';
 
 	$lang['SPONSORS_WHY1_1'] ='Uw organisatie hangt af van OSGeo Software</strong><br /> Omdat uw bedrijf OSGeo technologie gebruikt

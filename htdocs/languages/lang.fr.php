@@ -163,6 +163,9 @@ $lang['SPONSORS_BUTTON'] ='Contactez-nous dès à présent pour nous soutenir';
 	$lang['SPONSORS_4_TAGLINE'] ='250€';
 	$lang['SPONSORS_4_TXT'] ='Logo sur la page sponsors du site internet.';
 
+	$lang['SPONSORS_OSM_CORPORATE_MEMBERS'] ='Corporate Members d\'OpenStreetMap Belgium';
+	$lang['SPONSORS_OSM_CORPORATE_MEMBERS_TEXT'] ='Les Corporate Members d\'OpenStreetMap Belgium rendent cet évènement possible. Merci à Geo-6, Anyways, Champs-Libres (aussi sponsor Bronze), Visit Flanders, RouteYou, TomTom and Mapbox (aussi sponsor Or)!';
+
 $lang['SPONSORS_WHY_TITLE'] ='Pourquoi sponsoriser l\'OSGeo';
 
 	$lang['SPONSORS_WHY1_1'] ='Votre organisation dépend d\'un logiciel d\'OSGeo</strong><br /> Votre entreprise ou votre institution utilise des technologies de l\'OSGeo dans son travail quotidien, ce qui lui permet d\'être compétitive et de fournir des services d\'une manière rentable.';
