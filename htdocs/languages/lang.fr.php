@@ -182,8 +182,8 @@ $lang['SPONSORS_WHY_TITLE'] ='Pourquoi sponsoriser l\'OSGeo';
 
 // SPONSORS THANKS ------------------------------------------------------------------------------------------------------------/	
 
-$lang['SPONSORS_T_TITLE'] ='Nos sponsors';
-$lang['SPONSORS_T_SUBTITLE'] ='Merci à nos sponsors pour leur soutien';	
+$lang['SPONSORS_T_TITLE'] ='Nos partenaires et nos sponsors';
+$lang['SPONSORS_T_SUBTITLE'] ='Merci à nos sponsors et partenaires pour leur soutien';	
 	
 
 // APPEL A CONTRIBUTIONS  ------------------------------------------------------------------------------------------------------------/

@@ -187,8 +187,8 @@ $lang['SPONSORS_WHY5_2'] ='By sponsoring OSGeo you will enhance your business op
 
 // SPONSORS THANKS ------------------------------------------------------------------------------------------------------------/	
 
-$lang['SPONSORS_T_TITLE'] ='Our Sponsors';
-$lang['SPONSORS_T_SUBTITLE'] ='We would like to thank our sponsors for making this possible';
+$lang['SPONSORS_T_TITLE'] ='Our Partners and Sponsors';
+$lang['SPONSORS_T_SUBTITLE'] ='We would like to thank our sponsors and partners for making this possible';
 
 
 // PAPERS PAGE CALL ------------------------------------------------------------------------------------------------------------/
