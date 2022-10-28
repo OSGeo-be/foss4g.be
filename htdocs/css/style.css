@@ -98,7 +98,7 @@
 		top: 0.2em;
 	}
 
-	
+
 	sup {
 		font-size: 0.5em;
 		position: relative;
@@ -250,7 +250,7 @@
 			box-shadow: none;
 
 		}
-		
+
 		input[name="calculate"]:invalid:focus, input[type="email"]:invalid:focus {
 			box-shadow: none;
 			color:red;
@@ -391,7 +391,7 @@
 	input[type="radio"] + label:before {
 		border-radius: 100%;
 	}
-	
+
 	::-webkit-input-placeholder {
 		color: #999 !important;
 		opacity: 1.0;
@@ -426,7 +426,7 @@
 		margin: 0 0 2em 0;
 		padding: 3em;
 	}
-	
+
 	.box p {
 		margin:0;
 		margin-bottom:0.5em;
@@ -542,20 +542,20 @@
 			.box h3 {
 				font-weight:700;
 			}
-			
+
 			.box h4 {
 				font-size:160%;
 				font-weight:700;
 				color:#71BF45;
 				margin-top:-0.5em;
 			}
-			
+
 			.box h4 i {
 				color:#71BF45;
 				margin-right:0.5em;
 				font-size:90%;
 			}
-			
+
 			.box p.heure {
 				font-weight:700;
 				font-size:140%;
@@ -571,9 +571,9 @@
 			text-transform: none !important;
 			content: "\f017";
 			margin-right:0.4em;
-			font-size:1.4em;	
+			font-size:1.4em;
 			position:relative;
-			bottom:-0.1em;	
+			bottom:-0.1em;
 			font-weight:300;
 			opacity:0.6;
 			}
@@ -586,8 +586,8 @@
 			.box.plenary h3, .box.plenary h4, p.tracks {text-align:center}
 			.box.plenary h4 {font-size:120%}
 			p.tracks i {margin-left:0.8em}
-			
-			
+
+
 /* Icon */
 
 	.icon {
@@ -657,7 +657,7 @@
 				margin-right:0.5em
 			}
 
-			
+
 /* Image */
 
 	.image {
@@ -747,16 +747,19 @@
 					padding-right: 0;
 				}
 
-				ul.icons li .icon {
+				ul.icons li .icon, .icon {
 					color: inherit;
+					background-repeat: no-repeat;
+					background-position: center;
+					background-size: contain;
 				}
 
 					ul.icons li .icon:before {
 						font-size: 1.75em;
 					}
-					
+
 					/* Logos */
-						.sponsor {	
+						.sponsor {
 							width:164px;
 							height:75px;
 							display:inline-block;
@@ -767,96 +770,95 @@
 							filter: grayscale(0%);
 							filter: none; /* IE 6-9 */
 							transition: all .2s ease-in-out;
-							margin:1em;	
+							margin:1em;
 						}
-						.sponsor:hover {	
+						.sponsor:hover {
 							display:inline-block;
 							transform: scale(1.05);
 							border-bottom: 2px solid #71BF45;
 						}
-						
+						ul.icons li .icon.bosa, .icon.bosa  {
+							background-image:url(/images/sponsors/bosa.svg);
+						}
 						ul.icons li .icon.anyways, .icon.anyways  {
-							background:url(/images/sponsors/anyways.svg);	
+							background-image:url(/images/sponsors/anyways.svg);
 						}
 						ul.icons li .icon.aiv, .icon.aiv  {
-							background:url(/images/sponsors/aiv.png);	
-						}
-						ul.icons li .icon.bdu, .icon.bdu  {
-							background:url(/images/sponsors/bdu.jpg);	
+							background-image:url(/images/sponsors/aiv.png);
 						}
 						ul.icons li .icon.champs-libres, .icon.champs-libres  {
-							background:url(/images/sponsors/champs-libres.png);	
+							background-image:url(/images/sponsors/champs-libres.png);
 						}
 						ul.icons li .icon.osgeobe, .icon.osgeobe  {
-							background:url(/images/osgeo-be-small.svg);	
+							background-image:url(/images/osgeo-be-small.svg);
 						}
 						ul.icons li .icon.osm, .icon.osm  {
-							background:url(/images/osm.png);	
+							background-image:url(/images/osm.png);
 						}
 						ul.icons li .icon.realdolmen, .icon.realdolmen  {
-							background:url(/images/sponsors/realdolmen.png);	
+							background-image:url(/images/sponsors/realdolmen.png);
 						}
 						ul.icons li .icon.spw, .icon.spw  {
-							background:url(/images/sponsors/spw.png);	
+							background-image:url(/images/sponsors/spw.png);
 						}
 						ul.icons li .icon.atelier, .icon.atelier  {
-							background:url(/images/sponsors/atelier-cartographique.png);	
+							background-image:url(/images/sponsors/atelier-cartographique.png);
 						}
 						ul.icons li .icon.idgeo , .icon.idgeo {
-							background:url(/images/sponsors/idgeo.png);
+							background-image:url(/images/sponsors/idgeo.png);
 						}
 						ul.icons li .icon.merkator , .icon.merkator {
-							background:url(/images/sponsors/merkator.png);
+							background-image:url(/images/sponsors/merkator.png);
 						}
 						ul.icons li .icon.innoviris , .icon.innoviris {
-							background:url(/images/sponsors/innoviris.png);
+							background-image:url(/images/sponsors/innoviris.png);
 						}
 						ul.icons li .icon.oslandia, .icon.oslandia  {
-							background:url(/images/sponsors/oslandia.png);
+							background-image:url(/images/sponsors/oslandia.png);
 						}
 						ul.icons li .icon.geopostcodes, .icon.geopostcodes  {
-							background:url(/images/sponsors/geopostcodes.svg);
+							background-image:url(/images/sponsors/GeoPostcodes-color-positive.png);
 						}
 						ul.icons li .icon.poppy , .icon.poppy {
-							background:url(/images/sponsors/poppy.png);
+							background-image:url(/images/sponsors/poppy.png);
 						}
 						ul.icons li .icon.bxlenv, .icon.bxlenv  {
-							background:url(/images/sponsors/bxlenv.png);
+							background-image:url(/images/sponsors/bxlenv.png);
 						}
 						ul.icons li .icon.checksum, .icon.checksum  {
-							background:url(/images/sponsors/checksum.png);
+							background-image:url(/images/sponsors/checksum.png);
 						}
 						ul.icons li .icon.c2c, .icon.c2c  {
-							background:url(/images/sponsors/C2C.png);
+							background-image:url(/images/sponsors/C2C.png);
 						}
 						ul.icons li .icon.gim, .icon.gim {
-							background:url(/images/sponsors/gim.png);
+							background-image:url(/images/sponsors/gim.png);
 						}
 						ul.icons li .icon.cirb, .icon.cirb  {
-							background:url(/images/sponsors/cirb.png);
+							background-image:url(/images/sponsors/cirb.png);
 						}
 						ul.icons li .icon.geosolutions, .icon.geosolutions {
-							background:url(/images/sponsors/geosolutions.png);
+							background-image:url(/images/sponsors/geosolutions.png);
 						}
 						ul.icons li .icon.geobusinet, .icon.geobusinet{
-							background:url(/images/sponsors/geobusinet.png);
+							background-image:url(/images/sponsors/geobusinet.png);
 						}
 						ul.icons li .icon.spacebel, .icon.spacebel{
-							background:url(/images/sponsors/spacebel.svg);
+							background-image:url(/images/sponsors/spacebel.svg);
 						}
 						ul.icons li .icon.igeat, .icon.igeat{
-							background:url(/images/sponsors/igeat.gif);
+							background-image:url(/images/sponsors/igeat.gif);
 						}
 						ul.icons li .icon.ngi, .icon.ngi{
-							background:url(/images/sponsors/ngi.png);
+							background-image:url(/images/sponsors/ngi.png);
 						}
-						ul.icons li .icon.gsw, .icon.gsw{
-							background:url(/images/sponsors/gsw.jpg);
+						ul.icons li .icon.ngi, .icon.mapbox{
+							background-image:url(/images/sponsors/mapbox-logo-black.svg);
 						}
-						ul.icons li .icon.realdolmen, .icon.realdolmen{
-							background:url(/images/sponsors/realdolmen.png);
+						ul.icons li .icon.ngi, .icon.bluesquare{
+							background-image:url(/images/sponsors/bluesquare-black.svg);
 						}
-						ul.icons li .icon.anyways, ul.icons li .icon.aiv, ul.icons li .icon.champs-libres, ul.icons li .icon.osgeobe, ul.icons li .icon.osm,  ul.icons li .icon.idgeo, ul.icons li .icon.ngi, ul.icons li .icon.atelier, ul.icons li .icon.oslandia, ul.icons li .icon.geopostcodes, ul.icons li .icon.poppy, ul.icons li .icon.bxlenv, ul.icons li .icon.checksum, ul.icons li .icon.merkator, ul.icons li .icon.c2c, ul.icons li .icon.gim, ul.icons li .icon.cirb,ul.icons li .icon.geosolutions, ul.icons li .icon.igeat, ul.icons li .icon.geobusinet, ul.icons li .icon.fabspace, ul.icons li .icon.gsw, ul.icons li .icon.bdu, ul.icons li .icon.realdolmen, ul.icons li .icon.geode, ul.icons li .icon.innoviris, ul.icons li .icon.ngi, ul.icons li .icon.spw, ul.icons li .icon.anyways{	
+						ul.icons li .icon.anyways, ul.icons li .icon.aiv, ul.icons li .icon.champs-libres, ul.icons li .icon.osgeobe, ul.icons li .icon.osm,  ul.icons li .icon.idgeo, ul.icons li .icon.ngi, ul.icons li .icon.atelier, ul.icons li .icon.oslandia, ul.icons li .icon.geopostcodes, ul.icons li .icon.poppy, ul.icons li .icon.bxlenv, ul.icons li .icon.checksum, ul.icons li .icon.merkator, ul.icons li .icon.c2c, ul.icons li .icon.gim, ul.icons li .icon.cirb,ul.icons li .icon.geosolutions, ul.icons li .icon.igeat, ul.icons li .icon.geobusinet, ul.icons li .icon.fabspace, ul.icons li .icon.gsw, ul.icons li .icon.bdu, ul.icons li .icon.realdolmen, ul.icons li .icon.geode, ul.icons li .icon.innoviris, ul.icons li .icon.ngi, ul.icons li .icon.spw, ul.icons li .icon.anyways{
 							width:164px;
 							height:75px;
 							display:inline-block;
@@ -1035,7 +1037,7 @@
 				table.alt a:hover:before {
 					opacity: 1;
 					margin-right: 5px;
-				}								
+				}
 			table.alt tbody tr:first-child td {
 				border-top-width: 1px;
 			}
@@ -1056,7 +1058,7 @@
 			table.alt tbody tr.blanc.dwnld td:first-child {
 			color:#dedede;
 			}
-			
+
 			table.alt tbody tr.gris {
 			background-color: #f8f8f8
 			}
@@ -1082,7 +1084,7 @@
 				padding-left:0.2em;
 				font-size:80%;
 			}
-			table.alt tbody tr td span.author:before {			
+			table.alt tbody tr td span.author:before {
 				content: '\f19d';
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
@@ -1093,7 +1095,7 @@
 				font-size:80%;
 			}
 			table.alt tbody tr td h4 {font-size:100%;margin-top:0.3em;margin-bottom:0.3em}
-			
+
 /* Button */
 
 	input[type="submit"],
@@ -1254,7 +1256,7 @@
 			.button.specialo:active {
 				background-color: #e4886a;
 			}
-		
+
 		input[type="submit"].platinium,
 		input[type="reset"].platinium,
 		input[type="button"].platinium,
@@ -1343,7 +1345,7 @@
 					.button.bronze:active {
 						background-color: #e4886a;
 					}
-			
+
 		input[type="submit"].disabled, input[type="submit"]:disabled,
 		input[type="reset"].disabled,
 		input[type="reset"]:disabled,
@@ -1398,7 +1400,7 @@
 			position: absolute;
 			top: 0;
 		}
-		
+
 			#header h1 .foss4g {
 			width:2vw;
 			display:inline-block;
@@ -1425,7 +1427,7 @@
 			#header h1 sub {
 				font-size:80%
 			}
-			
+
 		#header nav {
 			height: inherit;
 			line-height: inherit;
@@ -1457,14 +1459,14 @@
 						padding: 0 1em;
 						border-radius: 6px;
 					}
-					
+
 					#header nav > ul > li a.azul {
 						box-shadow:inset 0 0 0 2px rgba(71,99,158,0.4);
 						padding-right:0.2em;
 						padding-left:0.6em;
 						background:#47639e;
 					}
-					
+
 					#header nav > ul > li a.azulito {
 						box-shadow:inset 0 0 0 2px rgba(71,99,158,0.4);
 						padding-right:0em;
@@ -1670,11 +1672,11 @@
 			 z-index:-99;
 			 opacity:0.8;
 		}
-		#banner img {		
+		#banner img {
 			width:70vh;
 			margin-top:-10vh
 		}
-		
+
 		#banner h2, #banner h3, #banner h4, #banner h5, #banner h6 {
 			color: #fff;
 		}
@@ -1690,11 +1692,11 @@
 			z-index:1;
 			margin-top:-5vh;
 		}
-	
+
 		#banner h2 span:nth-child(1) {
 			color:rgba(58,157,0,1);
 		}
-	
+
 		#banner h2 span:nth-child(2) {
 			color:rgba(49,108,41,1);
 		}
@@ -1709,7 +1711,7 @@
 			background-color: transparent;
 			z-index: 1;
 		}
-		
+
 		#banner h3 span:nth-child(1) {
 			color:rgba(76,76,76,0.6);
 		}
@@ -1727,29 +1729,29 @@
 			letter-spacing: 0.01em;
 			margin-top: 1em;
 		}
-	
+
 		h4.tout {
 		font-size: 22px;
 		margin-top:0em;
 		}
-	
+
 		#banner h4 span:nth-child(2), h4.tout span:nth-child(1){
 			color: rgba(227,187,0,1);
 			font-size: inherit;
 		}
-		
+
 		#banner h4 span:nth-child(3), h4.tout span:nth-child(2){
 			color: rgba(143,0,0,1);
 			font-size: inherit;
 		}
-		
+
 		#banner h5 {
 			font-family: "Source Sans Pro", serif;
 			font-weight: 500;
 			font-size: 2vh;
 			margin-top: 5vh;
 		}
-		
+
 		#banner p {
 			font-size: 1.2em;
 			margin-bottom: 4.2em;
@@ -1806,7 +1808,7 @@
 				margin: 0;
 				font-weight:700;
 			}
-			
+
 			#main > header h2 sup, #main > header h2 span {
 			font-weight:300;
 			padding:0.1em;
@@ -1815,8 +1817,8 @@
 			#main > header h2 sup {
 			top:-1em;
 			}
-			
-			
+
+
 
 			#main > header p {
 				border-top: solid 2px #e5e5e5;
@@ -1858,7 +1860,7 @@
 		text-decoration:none;
 	}
 	.nav.bottom a:hover {opacity:1;}
-	
+
 /* Footer */
 
 	#footer {
@@ -1976,10 +1978,10 @@
 			color: rgba(255, 255, 255, 0.75) !important;
 		}
 
-		
+
 /* logos */
 .logo a {text-decoration:none}
-.logo img{ 
+.logo img{
 	position:relative;
     -webkit-transition: all 2.6s ease;  /* Transition for Webkit browsers */
 	height: 5em;
@@ -2037,13 +2039,13 @@ blockquote.ol3r {
 		text-align:right;
 		line-height:1.4em;
 	}
-	
+
 .speech {
 	display: block;
 	height: 3em;
 	font-size:96%;
 	}
-	
+
 a.pluss {float:right;background:whitesmoke;padding-left: 1.5em;padding-right: 1.5em;border: 1px solid #e5e5e5;}
 
 a.pluss:hover, a.pluss:focus{color:#71BF45;background:whitesmoke}
@@ -2065,7 +2067,7 @@ a.pluss:before, a.pluss:after {content:' ' !important;}
 		border-left: solid 4px #71BF45;
 		padding-top:1em;
 		}
-		
+
   .toggled a {
     color: #fff; }
     .toggled a:hover {
@@ -2076,18 +2078,18 @@ a.pluss:before, a.pluss:after {content:' ' !important;}
 	background-color: #3A9D00 !important;
 	color:white !important;
 	}
-	
+
 	.cc_more_info {
 	font-size:80%;
 	position:absolute;
 	bottom: 2px;
 	border-bottom: 0px !important;
 	}
-	
+
 	.cc_container a, .cc_container a:visited {
 	margin-top:10px !important;
 	}
-	
+
 /*
 	Alpha by Pixelarity
 	pixelarity.com @pixelarity

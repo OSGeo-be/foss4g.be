@@ -44,9 +44,12 @@
 					<div class="container-x">
 					  <div class="accordion">
 						<dl>
-							<!-- dt class="spons"><a class="accordionTitle sponsors platinium" href="#"> <?php echo $lang['SPONSORS_1_TITLE']; ?> <span class="spon1"><?php echo $lang['SPONSORS_1_TAGLINE']; ?></span></a></dt>
+							<dt class="spons"><a class="accordionTitle sponsors platinium" href="#"> <?php echo $lang['SPONSORS_1_TITLE']; ?> <span class="spon1"><?php echo $lang['SPONSORS_1_TAGLINE']; ?></span></a></dt>
 							<dd class="accordionItem accordionItem">
-							</dd -->
+								<a href="https://wiki.osgeo.org/wiki/Belgium" class="sponsor icon osgeobe"><span class="label">OSGeo Belgium</span></a>
+								<a href="https://bosa.belgium.be/fr" class="sponsor icon bosa"><span class="label">BOSA</span></a>
+								<a href="https://openstreetmap.be/en/" class="sponsor icon osm"><span class="label">OSM Belgium</span></a>
+							</dd>
 							<dt class="spons">
 								<a href="#" class="accordionTitle sponsors gold">
 									<?php echo $lang['SPONSORS_2_TITLE']; ?>
@@ -56,6 +59,7 @@
 							<dd class="accordionItem accordionItem">
 								<a href="https://oslandia.com/" class="sponsor icon oslandia"><span class="label">Oslandia</span></a>
 								<a href="https://www.geopostcodes.com/" class="sponsor icon geopostcodes"><span class="label">Geo Postcodes</span></a>
+								<a href="https://www.mapbox.com//" class="sponsor icon mapbox"><span class="label">Mapbox</span></a>
 							</dd>
 						  <!-- dt class="spons"><a href="#" class="accordionTitle sponsors silver"> <?php echo $lang['SPONSORS_3_TITLE']; ?> <span class="spon3"><?php echo $lang['SPONSORS_3_TAGLINE']; ?></span></a></dt>
 						  <dd class="accordionItem accordionItem">
@@ -70,6 +74,8 @@
 								<a href="https://www.spacebel.com/" class="sponsor icon spacebel"><span class="label">Spacebel</span></a>
 								<a href="https://www.idgeo.fr" class="sponsor icon idgeo"><span class="label">idgeo</span></a>
 								<a href="https://www.champs-libres.coop/" class="sponsor icon champs-libres"><span class="label">Champs-Libres</span></a>
+								<a href="https://www.atelier-cartographique.be/" class="sponsor icon atelier"><span class="label">Atelier</span></a>
+								<a href="https://www.bluesquarehub.com/" class="sponsor icon bluesquare"><span class="label">Bluesquare</span></a>
 							</dd>
 						</dl>
 					  </div>
