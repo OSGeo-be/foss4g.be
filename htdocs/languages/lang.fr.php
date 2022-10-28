@@ -123,7 +123,7 @@ $lang['SPONSORS_TITLE'] ='Appel à sponsors';
 $lang['SPONSORS_SUBTITLE'] ='Aidez-nous à faire de l\'édition '.$lang['YEAR'].' un nouveau succès';
 $lang['SPONSORS_CALL'] ='Après plusieurs éditions réussies, OSGeo.be et OpenStreetMap Belgique organisent une nouvelle édition de la conférence FOSS4G Belgique le '.$lang['DATE'].'<br>
 <br>
-La conférence FOSS4G regroupe les développeurs et utilisateurs des logiciels géospatieux open-source mais aussi les gestionnaires et décideurs venant des 
+La conférence FOSS4G regroupe les développeurs et utilisateurs des logiciels géospatieux open-source mais aussi les gestionnaires et décideurs venant des
 quatres coins du Monde pour discuter des nouveaux développements, décisions et des opportunités croissantes dans ce domaine.
 Ces dernières années, de grands changements ont eu lieu dans l\'industrie géospatiale. Un de ces changements est la croissance de la maturité et l\'adoption des
 solutions libres et open-source. Dans beaucoup de cas, les organisations utilisent un mélange de solutions open-source et propriétaires.<br>
@@ -141,24 +141,24 @@ $lang['SPONSORS_BUTTON'] ='Contactez-nous dès à présent pour nous soutenir';
 	$lang['SPONSORS_1_TXT5'] ='Logo sur la page principale du site internet';
 	$lang['SPONSORS_1_TXT6'] ='Logo sur la page sponsors du site internet';
 	//FROM 2017
-	
+
 	$lang['SPONSORS_1_TXT7'] ='Choix de l\'emplacement';
-	$lang['SPONSORS_1_TXT9'] ='Parking(2)'; 
+	$lang['SPONSORS_1_TXT9'] ='Parking(2)';
 	$lang['SPONSORS_1_TXT10'] ='Parking(1)';
-	$lang['SPONSORS_1_TXT11'] ='Lunch(2)'; 
+	$lang['SPONSORS_1_TXT11'] ='Lunch(2)';
 	$lang['SPONSORS_1_TXT12'] ='Lunch(1)';
 	$lang['SPONSORS_1_TXT13'] ='Liste des participants';
 
-		
-	
+
+
 	$lang['SPONSORS_2_TITLE'] ='Or';
 	$lang['SPONSORS_2_TAGLINE'] ='750€';
 	$lang['SPONSORS_2_TXT'] ='Espace d\'exposition, Page dans le programme (1/2 page), Logo sur la page principale du site internet Logo sur la page sponsors du site internet.';
-	
+
 	$lang['SPONSORS_3_TITLE'] ='Argent';
 	$lang['SPONSORS_3_TAGLINE'] ='500€';
 	$lang['SPONSORS_3_TXT'] ='Logo sur la page principale du site internet, Logo sur la page sponsors du site internet.';
-	
+
 	$lang['SPONSORS_4_TITLE'] ='Bronze';
 	$lang['SPONSORS_4_TAGLINE'] ='250€';
 	$lang['SPONSORS_4_TXT'] ='Logo sur la page sponsors du site internet.';
@@ -167,24 +167,24 @@ $lang['SPONSORS_WHY_TITLE'] ='Pourquoi sponsoriser l\'OSGeo';
 
 	$lang['SPONSORS_WHY1_1'] ='Votre organisation dépend d\'un logiciel d\'OSGeo</strong><br /> Votre entreprise ou votre institution utilise des technologies de l\'OSGeo dans son travail quotidien, ce qui lui permet d\'être compétitive et de fournir des services d\'une manière rentable.';
 	$lang['SPONSORS_WHY1_2'] ='En soutenant l\'OSGeo, vous soutenez votre propre activité à long terme sachant qu\'une OSGeo solide soutient vos projets.';
-	
+
 	$lang['SPONSORS_WHY2_1'] ='Vous représentez une communauté qui a adopté les logiciels de l\'OSGeo</strong><br />Des communautés qui représentent un large éventail de domaines, allant des associations de professionnels aux organisations non-gouvernementales et tirent profit des logiciels de l\'OSGeo comme composants critiques de leurs produits finaux. Il y a un intérêt à ce que votre communauté s\'assure de la pérennité du logiciel utilisé.';
 	$lang['SPONSORS_WHY2_2'] ='En sponsorisant l\'OSGeo,vous montrez votre soutien au logiciel choisi par vos membres.';
-	
+
 	$lang['SPONSORS_WHY3_1'] ='Vos objectifs sont similaires à ceux de l\'OSGeo concernant le soutien aux standards ouverts ou à d\'autres priorités</strong><br /> Aidez votre propre organisation à atteindre ses objectifs en sponsorisant l\'OSGeo en tant qu\'organisation proche de la votre et bénéficiez des actions volontaristes d\'une communauté mondiale prenant rapidement de l\'ampleur.';
 	$lang['SPONSORS_WHY3_2'] ='En sponsorisant l\'OSGeo,vous atteignez vos propre objectifs.';
-	
+
 	$lang['SPONSORS_WHY4_1'] ='Montrez votre leadership dans les technologies open source en géomatique</strong><br />En sponsorisant l\'OSGeo vous allez associer votre entreprise aux activités de milliers d\'utilisateurs de logiciels de l\'OSGeo à travers le monde.';
 	$lang['SPONSORS_WHY4_2'] ='En tant que sponsor de l\'OSGeo, vous allez lier la croissance de votre entreprise à l\'élan impulsé par l\'OSGeo sur le marché.';
-	
+
 	$lang['SPONSORS_WHY5_1'] ='Profitez des opportunités de mise en réseau</strong><br />En tant que sponsor de l\'OSGeo, vous allez bénéficier d\'opportunités uniques de rencontre et de partage de vos idées avec des membres clés de l\'OSGeo, avec d\'autres sponsors de l\'OSGeo et avec les personnes et les organisations affiliées à l\'OSGeo.';
 	$lang['SPONSORS_WHY5_2'] ='En sponsorisant l\'OSGeo, vous améliorez vos opportunités commerciales.';
 
-// SPONSORS THANKS ------------------------------------------------------------------------------------------------------------/	
+// SPONSORS THANKS ------------------------------------------------------------------------------------------------------------/
 
 $lang['SPONSORS_T_TITLE'] ='Nos partenaires et nos sponsors';
-$lang['SPONSORS_T_SUBTITLE'] ='Merci à nos sponsors et partenaires SPONSORS_1_TITLEpour leur soutien';	
-	
+$lang['SPONSORS_T_SUBTITLE'] ='Merci à nos sponsors et partenaires pour leur soutien';
+
 
 // APPEL A CONTRIBUTIONS  ------------------------------------------------------------------------------------------------------------/
 
@@ -228,7 +228,7 @@ $lang['PAPERS_SUM_ABSTRACT'] ='Une courte introduction (300 mots max. + éventue
 $lang['PAPERS_SUM_TYPE'] ='La nature de votre intervention (Explicative / Applicative / Demonstrative);';
 
 
-// DATE LIMITE + COMMENT EVALUONS-NOUS 
+// DATE LIMITE + COMMENT EVALUONS-NOUS
 $lang['PAPERS_DEADLINE'] ='Date limite pour les soumissions: 22 septembre '.$lang['YEAR'];
 $lang['PAPERS_CALL2T'] ='Date limite';
 $lang['PAPERS_CALL2'] ='Les résumés seront évalués par un comité de programme et les auteurs retenus en seront avertis le 25 septembre 2018. Toutes les présentations seront mises en ligne sur le site de l\'événement.';
@@ -427,5 +427,5 @@ $lang['403_HOME'] ='A présent, soyez gentil(le) et arrêtez d\'essayer.';
 // 400, 401, 500
 $lang['500_TITLE'] = 'Erreur 400, 401 ou 500';
 $lang['500_TEXT'] = 'Salut à toi humain, vous avez déclenché une erreur 400 - Bad request, une erreur 401 ou un très vilain 500 Internal Server Error';
-	
+
 ?>
