@@ -158,7 +158,7 @@ De verschillende sponsor mogelijkheden worden hieronder uitgelegd, <a href="cont
 nog vragen zou hebben</a>.';
 $lang['SPONSORS_BUTTON'] ='Neem contact op om FOSS4G BE te sponsoren';
 
-	$lang['SPONSORS_1_TITLE'] ='Platina';
+	$lang['SPONSORS_1_TITLE'] ='Partners';'Platina';
 	$lang['SPONSORS_1_TAGLINE'] ='1000€';
 	$lang['SPONSORS_1_TXT1'] ='Naam vermeld op het podium';
 	$lang['SPONSORS_1_TXT2'] ='Exposantruimte';

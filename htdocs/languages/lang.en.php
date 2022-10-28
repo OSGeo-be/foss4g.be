@@ -138,7 +138,7 @@ We are looking for sponsors to make this event a succes. <br /><br />
 					The available sponsorship opportunities are listed and detailed here, <a href="contact.php">please contact us with any question on the packages</a>.';
 $lang['SPONSORS_BUTTON'] ='Contact us now to become a sponsor';
 
-$lang['SPONSORS_1_TITLE'] ='Platinum';
+$lang['SPONSORS_1_TITLE'] ='Partners';'Platinum';
 $lang['SPONSORS_1_TAGLINE'] ='1000€';
 $lang['SPONSORS_1_TXT1'] ='Mention on stage';
 $lang['SPONSORS_1_TXT2'] ='Exhibition space';

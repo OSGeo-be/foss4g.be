@@ -132,7 +132,7 @@ solutions libres et open-source. Dans beaucoup de cas, les organisations utilise
 <br>Les opportunités de sponsoring sont listées et détaillées ici, <a href="contact.php">contactez-nous pour toute question</a> à propos des packages';
 $lang['SPONSORS_BUTTON'] ='Contactez-nous dès à présent pour nous soutenir';
 
-	$lang['SPONSORS_1_TITLE'] ='Platine';
+	$lang['SPONSORS_1_TITLE'] ='Partenaire';//'Platine';
 	$lang['SPONSORS_1_TAGLINE'] ='1000€';
 	$lang['SPONSORS_1_TXT1'] ='Logo sur la scène';
 	$lang['SPONSORS_1_TXT2'] ='Stand de présentation';
@@ -183,7 +183,7 @@ $lang['SPONSORS_WHY_TITLE'] ='Pourquoi sponsoriser l\'OSGeo';
 // SPONSORS THANKS ------------------------------------------------------------------------------------------------------------/	
 
 $lang['SPONSORS_T_TITLE'] ='Nos partenaires et nos sponsors';
-$lang['SPONSORS_T_SUBTITLE'] ='Merci à nos sponsors et partenaires pour leur soutien';	
+$lang['SPONSORS_T_SUBTITLE'] ='Merci à nos sponsors et partenaires SPONSORS_1_TITLEpour leur soutien';	
 	
 
 // APPEL A CONTRIBUTIONS  ------------------------------------------------------------------------------------------------------------/
