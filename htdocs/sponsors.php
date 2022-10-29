@@ -59,7 +59,7 @@
 							<dd class="accordionItem">
 								<a href="https://www.geopostcodes.com/" class="sponsor icon geopostcodes"><span class="label">Geo Postcodes</span></a>
 								<a href="https://www.gim.be/" class="sponsor icon gim"><span class="label">gim</span></a>
-								<a href="https://www.mapbox.com//" class="sponsor icon mapbox"><span class="label">Mapbox</span></a>
+								<a href="https://www.mapbox.com/" class="sponsor icon mapbox"><span class="label">Mapbox</span></a>
 								<a href="https://oslandia.com/" class="sponsor icon oslandia"><span class="label">Oslandia</span></a>
 							</dd>
 						  <!-- dt class="spons"><a href="#" class="accordionTitle sponsors silver"> <?php echo $lang['SPONSORS_3_TITLE']; ?> <span class="spon3"><?php echo $lang['SPONSORS_3_TAGLINE']; ?></span></a></dt>
