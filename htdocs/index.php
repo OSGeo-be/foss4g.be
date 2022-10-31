@@ -30,7 +30,6 @@
                 <ul class="actions">
                 <!-- Button  -->
 					<li><a href="inscription.php" class="button"><?php echo $lang['MENU_REG']; ?></a></li>
-					<li><a href="papers_all_lang.php" class="button"><?php echo $lang['MENU_CALL3']; ?></a></li>
 					<li><a href="call_all_lang.php" class="button"><?php echo $lang['MENU_CALL2']; ?></a></li>
 					<li><a href="maps.php" class="button"><?php echo $lang['MENU_MAPS']; ?></a></li>
 					<!-- <li><a href="sponsors.php" class="button"><?php echo $lang['MENU_PROGRAM']; ?></a></li -->
