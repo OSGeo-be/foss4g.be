@@ -59,7 +59,7 @@
 							<dd class="accordionItem">
 								<a href="https://www.geopostcodes.com/" class="sponsor icon geopostcodes"><span class="label">Geo Postcodes</span></a>
 								<a href="https://www.gim.be/" class="sponsor icon gim"><span class="label">gim</span></a>
-								<a href="https://www.mapbox.com/" class="sponsor icon mapbox"><span class="label">Mapbox</span></a>
+								<a href="https://www.mapbox.com/" class="sponsor icon mapbox"><span class="label"> </span></a>
 								<a href="https://oslandia.com/" class="sponsor icon oslandia"><span class="label">Oslandia</span></a>
 							</dd>
 						  <!-- dt class="spons"><a href="#" class="accordionTitle sponsors silver"> <?php echo $lang['SPONSORS_3_TITLE']; ?> <span class="spon3"><?php echo $lang['SPONSORS_3_TAGLINE']; ?></span></a></dt>
@@ -76,6 +76,7 @@
 								<a href="https://www.bluesquarehub.com/" class="sponsor icon bluesquare"><span class="label">Bluesquare</span></a>
 								<a href="https://www.champs-libres.coop/" class="sponsor icon champs-libres"><span class="label">Champs-Libres</span></a>
 								<a href="https://www.idgeo.fr" class="sponsor icon idgeo"><span class="label">IDGeo</span></a>
+								<a href="https://merginmaps.com" class="sponsor icon small mergin"><span class="label">Mergin</span></a>
 								<a href="https://www.spacebel.com/" class="sponsor icon spacebel"><span class="label">Spacebel</span></a>
 							</dd>
 							<dt class="spons">

@@ -13,6 +13,7 @@
 				<li><a href="https://www.bluesquarehub.com/" class="sponsor icon small bluesquare"><span class="label">Bluesquare</span></a></li>
 				<li><a href="https://www.champs-libres.coop/" class="sponsor icon small champs-libres"><span class="label">Champs-Libres</span></a></li>
 				<li><a href="https://www.idgeo.fr" class="sponsor icon small idgeo"><span class="label">IDGeo</span></a></li>
+				<li><a href="https://merginmaps.com" class="sponsor icon small mergin"><span class="label">Mergin</span></a></li>
 				<li><a href="https://www.spacebel.com/" class="sponsor icon small spacebel"><span class="label">Spacebel</span></a></li>
 			</ul>
 

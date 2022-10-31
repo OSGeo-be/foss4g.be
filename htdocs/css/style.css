@@ -777,6 +777,9 @@
 							transform: scale(1.05);
 							border-bottom: 2px solid #71BF45;
 						}
+						ul.icons li .icon.mergin, .icon.mergin  {
+							background-image:url(/images/sponsors/mergin.svg);
+						}
 						ul.icons li .icon.bosa, .icon.bosa  {
 							background-image:url(/images/sponsors/bosa.svg);
 						}
