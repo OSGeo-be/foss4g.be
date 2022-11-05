@@ -1,10 +1,10 @@
 			<ul class="icons">
 				<li><a href="https://wiki.osgeo.org/wiki/Belgium" class="sponsor icon osgeobe"><span class="label">OSGeo Belgium</span></a></li>
 				<li><a href="https://bosa.belgium.be/fr" class="sponsor icon bosa"><span class="label">BOSA</span></a></li>
-				<li><a href="https://www.geopostcodes.com/" class="icon geopostcodes"><span class="label">Geo Postcodes</span></a></li>
+				<li><a href="https://www.geopostcodes.com/" class="sponsor icon geopostcodes"><span class="label">Geo Postcodes</span></a></li>
 				<li><a href="https://www.gim.be/" class="sponsor icon gim"><span class="label">gim</span></a></li>
 				<li><a href="https://www.mapbox.com/" class="sponsor icon mapbox"><span class="label">Mapbox</span></a></li>
-				<li><a href="https://oslandia.com/" class="icon oslandia"><span class="label">Oslandia</span></a></li>
+				<li><a href="https://oslandia.com/" class="sponsor icon oslandia"><span class="label">Oslandia</span></a></li>
 				<li><a href="https://openstreetmap.be/en/" class="sponsor icon osm"><span class="label">OSM Belgium</span></a></li>
 			</ul>
 
