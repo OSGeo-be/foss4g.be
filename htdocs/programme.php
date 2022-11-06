@@ -1,4 +1,6 @@
-<?php include_once 'common.php'; ?>
+<?php include_once 'common.php'; include_once("mysql.php");
+$languages= array(0=>"?",1=>"nl", 2=>"fr",3=>"en");
+?>
 <!DOCTYPE html>
 <html lang="<?php echo $lang['URL_SHORT']; ?>">
 	<head>
@@ -6,9 +8,9 @@
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="<?php echo $lang['SITE_DESCRIPTION']; ?>" />
 		<meta name="keywords" content="<?php echo $lang['SITE_KEYWORDS']; ?>" />
-		<!--<meta name="geo.placename" content="Avenue du Port 86 C/3002, Tour & Taxis, 1000 Brussels, Belgium" />-->	
+		<meta name="geo.placename" content="Bd Simon Bolivar 30, WTC III, 1000 Bruxelles, Belgium" />	
 		<!--<meta name="geo.position" content="50.866248;4.349073" />-->	
-		<!--<meta name="geo.region" content="BE-Brussels" />-->	
+		<meta name="geo.region" content="BE-Brussels" />
 		<!--<meta name="ICBM" content="50.866248, 4.349073" />	-->	
 		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->		
 		<script src="js/jquery.min.js" type="text/javascript"></script>
@@ -16,14 +18,19 @@
 		<script src="js/jquery.scrollgress.min.js" type="text/javascript"></script>
 		<script src="js/skel.min.js" type="text/javascript"></script>
 		<script src="js/skel-layers.min.js" type="text/javascript"></script>
-		<script src="js/init.js" type="text/javascript"></script>
-		<script src="http://openlayers.org/en/v3.6.0/build/ol.js" type="text/javascript"></script>
+		<script src="js/init.js" type="text/javascript"></script>		
 		<link rel="canonical" href="http://www.foss4g.be/" />
 		<noscript>
 			<link rel="stylesheet" href="css/skel.css" />
 			<link rel="stylesheet" href="css/style.css" />
 			<link rel="stylesheet" href="css/style-wide.css" />
 		</noscript>
+		<style>
+			 span.author {font-size:80%}
+			 span.lang {font-size:60%; float:left}
+			 td a {float:right}
+			 div.abstract {display:none}
+		</style>
 		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
 	</head>
 	<body>
@@ -79,9 +86,7 @@
 												<td colspan="3">10h00 <i class="fa fa-coffee"></i><?php echo $lang['FIRST_COFFEE'];?></td>
 											</tr>
 											
-											<!--<tr>
-												<td colspan="3" style="text-align:left;padding-left:30px"><i class="fa fa-database"></i>Données et services disponibles</td>
-											</tr>-->
+											
 											
 											<tr style="background-color: #fff;">
 												<td colspan="3">
@@ -91,12 +96,11 @@
 															<tr>
 															
 																<td colspan="2" style="width:32%;text-align:center;"><h4><i class="fa fa-rocket fa-2x"></i><?php echo $lang['PROG_PLENARY'];?></h4>
-																<a href="infos.php#plenieres" style="font-weight:300">Fidji</a></td> 
+																<a style="font-weight:300">Fidji</a></td> 
 																<td colspan="2" style="width:32%;text-align:center;"><h4><i class="fa fa-university fa-2x"></i> <?php echo $lang['PROG_SIDE']?></h4>
-																<a href="infos.php#workshops" style="font-weight:300">Zanzibar</a></td>
+																<a  style="font-weight:300">Zanzibar</a></td>
 																
 															</tr>
-															<tr>
 															</tbody>
 													</table>
 													<table class="alt tarde">
@@ -106,7 +110,7 @@
 																	Une cartographie correcte pour assurer la protection de la forêt de Soignes. Een correcte cartografie om het Zoniënwoud te beschermen<br />
 																	<span class="author">David Kuborn <br />
 																	(FR/NL)</span>
-																	<!--	-->
+																	
 																	<a class="btn pluss js-toggleNext"><i class="fa fa-plus-square"></i>Infos</a>
 													<div class="toggled" style="display:none;">Un projet réunissant des bénévoles, des garde forestiers, des contributeurs OSM a permis de corriger la cartographie participative de la forêt de Soignes et donc de protéger la forêt. De nombreux sentiers 'Corona' ont été supprimés. Aujourd'hui, les visiteurs qui utilisent des outils cartographiques connectés sont aiguillés sur les bons chemins au bénéfice de la flore et de la faune de la forêt.
 													Het werk is nog niet af: We moeten de OSM-gemeenschap betrekken met het bos en de bosbezoekers betrekken met OSM. De werkwijze die voor het Zoniënwoud werd toegepast moet overgebracht worden naar al de Brabantse wouden en naar al de bossen van België. De verbeteringen op OSM moeten toegepast worden in de officiële shapefiles van de beheerders en op de anderen carto toepassingen. Idealiter, moeten we inderdaad een weldoener vinden die ons in staat kan stellen om deze stappen te zetten..</div>
@@ -328,7 +332,6 @@
 																	Collaboration between Women in Copernicus and Geochicas in promoting a gender balanced Earth Observation and Geoinformation ecossytem<br />
 																	<span class="author"> Nathalie STEPHENNE<br />
 																	(EN)</span>
-																	<!-- -->
 																	<a class="btn pluss js-toggleNext"><i class="fa fa-plus-square"></i>Infos</a>
 													<div class="toggled" style="display:none;">Women are part of the production of the Copernicus / Earth Observation (EO) / Geoinformation (GI) data but they are not always enough visible. Women work in these domains even if not in large numbers. To attract a new generation of girls and improve the comfort of the few women who choose to work in male dominated domains we can put some light on existing women and give them a voice. They are proud of their job, they can promote EO/GI. Let’s build a new gender balanced EO/GI ecosystem. OSGEO, FOSS4G and OSM could be partners in this world challenge.<br />Inspired by the exhibition NEREUS “Space Girls Space Women” a strong collaboration between Brittany and Wallonia, two regions’ actives in remote Sensing and involved in NEREUS build a consortium, including EARSC and EURISY and two universities from Spain and Austria, to promote the visibility of women in the Copernicus user uptake, the project Women in Copernicus. This Women in Copernicus initiative demonstrated the presence of a lot of Women in the Copernicus program. Women expressed their presence (location, education, job position and experience) in two surveys carried out in 2020 and 2022. <br />The initiative also established links with other women initiative to compare expertise and results. A close collaboration was designed with Geochicas. Geochicas is an initiative addressing the high ambition of integrating diversity in cloud sourced global mapping of OpenStreetMap (OSM). OpenStreetMap (OSM) is considered as the largest Geospatial database in the world, millions of contributors are adding data to have the most accurate representation of reality. According to different surveys, especially the one from Budhatoki et al. 2010 [2], only 3% of all mappers in OpenStreetMap are women. If we consider that a map is a representation of reality then we are creating maps which are showing a biased reality where one where half of the population of the world is overlooked (Bliss 2018). Gardner et al (2020) study confirms these unbalanced figures of contributions to OSM. These authors caution the impact of this difference on the way to map the world but notice subtle differences in modes of editing as men demonstrate higher values than women for updating, altering or modifying existing data. These findings relay a sense of a male focus on the accurate cartographic representation of topographical features; conversely, women’s focus on the creation of new data, conveys instead an emphasis on initial visibility (if not their specific nature) i.e. demonstrating the existence of topographical features where they might be otherwise entirely absent from the map. <br />The distinction between male and female participation in OSM was firstly done in the State of the Map (SOTM) Latam Sao Paulo in 2016, where the female attendees and speakers were respectively only 30% and 20% [1]. Since then, Geochicas puts all possible efforts to inform OSM members about the lack of diversity in the community Geochicas project improves the diversity of OSM by supporting the presence of Women. These contributions bring first another vision of the world, the female one, and secondly attract more local contributors with an increase in culture diversity. The first aim of the network is addressed by the contributions of these 250 new OSM partners. By the safe and welcoming atmosphere of the network, Geochicas build a network where each contributor feels like an essential part of the complete game. Geochicas is not only welcoming women to support each other, such as allies in the same game, but also companies that have b</div>
 																	
@@ -372,13 +375,13 @@
 											<tr style="background-color: #fff">
 												<td>17h30 - 20h00</td>
 												<td class="talk" style="text-align:left;padding-left:30px"><?php echo $lang['PROG_CONCLUSIONS'];?><br>
-												<div style="font-size: 80%">After-work breaker (in a  user-friendly location !) </div>
+												<div style="font-size: 80%">After-work breaker, in a  user-friendly location ! </div>
 												<!--<span class="author">xxxx</span>--></td> 
 											</tr>											
 												 
-										</tbody>
-									</table>
-								</div>	
+												</tbody>
+										</table>
+									</div>
 					
 				</div>
 				<div class="row">
