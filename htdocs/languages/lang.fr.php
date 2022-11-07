@@ -2,7 +2,7 @@
 // FR File
 // $lang = array(); //we override the english version
 
-$lang['YEAR'] = '20222';
+$lang['YEAR'] = '2022';
 $lang['DATE'] = 'Jeudi, 17 Novembre 2022';
 
 // URLs
