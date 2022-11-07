@@ -96,9 +96,9 @@ $languages= array(0=>"?",1=>"nl", 2=>"fr",3=>"en");
 															<tr>
 															
 																<td colspan="2" style="width:32%;text-align:center;"><h4><i class="fa fa-rocket fa-2x"></i><?php echo $lang['PROG_PLENARY'];?></h4>
-																<a style="font-weight:300">Fidji</a></td> 
+																</td> 
 																<td colspan="2" style="width:32%;text-align:center;"><h4><i class="fa fa-university fa-2x"></i> <?php echo $lang['PROG_SIDE']?></h4>
-																<a  style="font-weight:300">Zanzibar</a></td>
+																</td>
 																
 															</tr>
 															</tbody>
@@ -184,7 +184,7 @@ $languages= array(0=>"?",1=>"nl", 2=>"fr",3=>"en");
 																	<a class="btn pluss js-toggleNext"><i class="fa fa-plus-square"></i>Infos</a>
 													<div class="toggled" style="display:none;">Rapid advances in machine learning algorithms, open source frameworks and hardware are making it possible to process ever larger amounts of geodata in a shorter time, leading to ever more illuminating Geo Insights.  In this talk we show how Computer Vision techniques powered by free and open source software are applied to aerial, satellite and mobile mapping imagery to map land cover at the garden scale, informal settlements, facades, solar panels, roof windows, ... and this with a quality and processing performance that far exceeds the more traditional techniques. In addition we demonstrate the use of machine learning to estimate building properties. </div>
 																</td>
-															</tr>-->
+															</tr>
 															<!-- Fin bloc de 25 minutes -->
 														</tbody>
 													</table>
