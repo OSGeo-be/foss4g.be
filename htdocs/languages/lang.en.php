@@ -326,12 +326,13 @@ $lang['CV_TXT2'] = ' Taking information from our  <a href="https://'.$lang['YEAR
 // PROGRAMME
 $lang['OPENING_SESSION'] = 'Opening Session';
 $lang['REGISTRATION'] = 'Registration';
-$lang['WELCOME'] = 'Welcome &amp; presentation of OSGeo and OSGeo.be';
+$lang['WELCOME'] = 'Welcome &amp; information'; //gkr
 $lang['FIRST_COFFEE'] = 'First coffee break';
 $lang['PROG_PLENARY'] = 'Plenary';
 $lang['PROG_SIDE'] = 'Demo/Research track';
 $lang['PROG_DEV'] = 'Development track';
 $lang['PROG_LUNCH'] = 'Lunch Time';
+$lang['PROG_LUNCH2'] = 'OSGEO - Meeting';//gkr
 $lang['SECOND_COFFEE'] = 'Second coffee break';
 $lang['PROG_CLOSING'] = 'Closing Session';
 $lang['PROG_CONCLUSIONS'] = 'Conclusions and Outlook for OSGeo.be';

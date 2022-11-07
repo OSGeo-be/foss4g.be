@@ -420,12 +420,13 @@ $lang['MENU_MAPS'] = 'Oproep voor kaarten';
 // PROGRAMME
 $lang['OPENING_SESSION'] = 'Opening sessie';
 $lang['REGISTRATION'] = 'Registratie';
-$lang['WELCOME'] = 'Welkom en voorstelling van OSGeo en OSGeo.be';
+$lang['WELCOME'] = 'Welkom en informatie '; //gkr
 $lang['FIRST_COFFEE'] = 'Eerste koffiepauze';
 $lang['PROG_PLENARY'] = 'Plenaire sessie';
 $lang['PROG_SIDE'] = 'Demo/Onderzoek traject';
 $lang['PROG_DEV'] = 'Ontwikkelingstraject track';
 $lang['PROG_LUNCH'] = 'Lunch';
+$lang['PROG_LUNCH2'] = 'OSGEO - Meeting';//gkr
 $lang['SECOND_COFFEE'] = 'Tweede Koffiepauze';
 $lang['PROG_CLOSING'] = 'Afsluitende sessie';
 $lang['PROG_CONCLUSIONS'] = 'Conclusies en toekomstplannen voor OSGeo.be';
