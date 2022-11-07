@@ -13,17 +13,17 @@ $languages= array(0=>"?",1=>"nl", 2=>"fr",3=>"en");
 		<meta name="geo.region" content="BE-Brussels" />
 		<!--<meta name="ICBM" content="50.866248, 4.349073" />	-->	
 		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->		
-		<script src="js/jquery.min.js" type="text/javascript"></script>
-		<script src="js/jquery.dropotron.min.js" type="text/javascript"></script>
-		<script src="js/jquery.scrollgress.min.js" type="text/javascript"></script>
-		<script src="js/skel.min.js" type="text/javascript"></script>
-		<script src="js/skel-layers.min.js" type="text/javascript"></script>
-		<script src="js/init.js" type="text/javascript"></script>		
+		<script src="/js/jquery.min.js" type="text/javascript"></script>
+		<script src="/js/jquery.dropotron.min.js" type="text/javascript"></script>
+		<script src="/js/jquery.scrollgress.min.js" type="text/javascript"></script>
+		<script src="/js/skel.min.js" type="text/javascript"></script>
+		<script src="/js/skel-layers.min.js" type="text/javascript"></script>
+		<script src="/js/init.js" type="text/javascript"></script>		
 		<link rel="canonical" href="http://www.foss4g.be/" />
 		<noscript>
-			<link rel="stylesheet" href="css/skel.css" />
-			<link rel="stylesheet" href="css/style.css" />
-			<link rel="stylesheet" href="css/style-wide.css" />
+			<link rel="stylesheet" href="/css/skel.css" />
+			<link rel="stylesheet" href="/css/style.css" />
+			<link rel="stylesheet" href="/css/style-wide.css" />
 		</noscript>
 		<style>
 			 span.author {font-size:80%}
