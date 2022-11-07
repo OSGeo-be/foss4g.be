@@ -302,7 +302,7 @@ $languages= array(0=>"?",1=>"nl", 2=>"fr",3=>"en");
 														<tbody>
 															
 															<tr>
-																<td style="width:10%;background-color: #fff">13h00</td>
+																<td style="width:10%;background-color: #fff">15h20</td>
 																<td style="background-color: #fff;text-align:left;font-weight:300">
 																	Quelles technologies open source pour développer la Géoplateforme de l'IGN ?<br />
 																	<span class="author"> Bertrand	Parpoil <br />
@@ -320,7 +320,7 @@ $languages= array(0=>"?",1=>"nl", 2=>"fr",3=>"en");
 															</tr>
 															<!-- Bloc de 25 minutes -->
 															<tr>
-																<td style="width:10%;background-color: #fff">13h30</td>
+																<td style="width:10%;background-color: #fff">15h50</td>
 																<td style="background-color: #fff;text-align:left;font-weight:300">
 																	Design thinking & Workshops SIG <br />
 																	<span class="author"> Pacôme Béru<br />
@@ -339,7 +339,7 @@ $languages= array(0=>"?",1=>"nl", 2=>"fr",3=>"en");
 															</tr>
 															<!-- Bloc de 25 minutes -->
 															<tr>
-																<td style="width:10%;background-color: #fff">14h00</td>
+																<td style="width:10%;background-color: #fff">16h20</td>
 																<td style="background-color: #fff;text-align:left;font-weight:300">
 																	Catalogues, portails, cadres et tableaux - Intégration des catalogues de données dans des sites webs<br />
 																	<span class="author">  Vincent	Bombaerts<br/>
