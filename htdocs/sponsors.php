@@ -61,8 +61,9 @@
 								<a href="https://www.gim.be/" class="sponsor icon gim"><span class="label">gim</span></a>
 								<a href="https://www.mapbox.com/" class="sponsor icon mapbox"><span class="label"> </span></a>
 								<a href="https://oslandia.com/" class="sponsor icon oslandia"><span class="label">Oslandia</span></a>
+								<a href="https://geosolutions.be/" class="sponsor icon geosolutions"><span class="label">Geosolutions</span></a>
 							</dd>
-						  <!-- dt class="spons"><a href="#" class="accordionTitle sponsors silver"> <?php echo $lang['SPONSORS_3_TITLE']; ?> <span class="spon3"><?php echo $lang['SPONSORS_3_TAGLINE']; ?></span></a></dt>
+						  <!-- dt class="spons"><a href="#" class="accordionTitle sponsors silver"> <?php echo $lang['SPONSORS_3_TITLE']; ?> <span class="spon3"><?php echo $lang['SPONSORS_3_TAGLINE']; ?></span></a></dt>   geosolutions
 						  <dd class="accordionItem accordionItem">
 						  </dd -->
 							<dt class="spons">
