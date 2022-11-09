@@ -6,6 +6,12 @@
 				<li><a href="https://www.mapbox.com/" class="sponsor icon mapbox"><span class="label">Mapbox</span></a></li>
 				<li><a href="https://oslandia.com/" class="sponsor icon oslandia"><span class="label">Oslandia</span></a></li>
 				<li><a href="https://openstreetmap.be/en/" class="sponsor icon osm"><span class="label">OSM Belgium</span></a></li>
+				<li><a href="https://geosolutions.be/" class="sponsor icon geosolutions"><span class="label">Geosolutions</span></a></li>
+				<li><a href="https://geoportail.wallonie.be/" class="sponsor icon spw"><span class="label">Service public de Wallonie</span></a></li>
+				
+								
+				
+				
 			</ul>
 
 			<ul class="icons">
