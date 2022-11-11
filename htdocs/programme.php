@@ -174,7 +174,8 @@ $languages= array(0=>"?",1=>"nl", 2=>"fr",3=>"en");
 																	(FR)</span>
 																	
 																	<a class="btn pluss js-toggleNext"><i class="fa fa-plus-square"></i>Infos</a>
-													<div class="toggled" style="display:none;">Le projet 360° everywhere du GRACQ Hesbaye est lauréat du défi 3D de l’édition 2022 du Géochallenge - un concours d’innovation centré sur l’exploitation des données géographiques en Wallonie. Ce projet explore les possibilités d’exploitation des données d’imagerie ouverte au niveau des rues pour constituer un modèle 3D d’une portion de voirie définie. Cette représentation 3D peut ensuite être utilisée pour modéliser de futurs aménagements cyclables ou l’implantation de mobilier urbain.  Les données d’imagerie collectées sont mises à disposition à travers la plateforme Mapillary. Les contributeurs OSM les exploitent pour améliorer la représentation du territoire, notamment sur la thématique des aménagements cyclables. Grâce aux modèles 3D et à une carte des aménagements cyclables plus complète, le Gracq dispose d’outils permettant de dialoguer avec les autorités publiques. Celles-ci ont accès à un meilleur diagnostic territorial et une représentation plus immersive des situations de terrain et des aménagements futurs, ce qui les aide dans leur processus de décision. Le projet se veut réplicable et appelle à la participation citoyenne. C’est pourquoi les chaînes de traitement se basent sur des logiciels open source et les données issues du projet sont sous licence ouverte.</div>
+													<div class="toggled" style="display:none;">Le projet 360° everywhere du GRACQ Hesbaye est lauréat du défi 3D de l’édition 2022 du Géochallenge - un concours d’innovation 
+														sur l’exploitation des données géographiques en Wallonie. Ce projet explore les possibilités d’exploitation des données d’imagerie ouverte au niveau des rues pour constituer un modèle 3D d’une portion de voirie définie. Cette représentation 3D peut ensuite être utilisée pour modéliser de futurs aménagements cyclables ou l’implantation de mobilier urbain.  Les données d’imagerie collectées sont mises à disposition à travers la plateforme Mapillary. Les contributeurs OSM les exploitent pour améliorer la représentation du territoire, notamment sur la thématique des aménagements cyclables. Grâce aux modèles 3D et à une carte des aménagements cyclables plus complète, le Gracq dispose d’outils permettant de dialoguer avec les autorités publiques. Celles-ci ont accès à un meilleur diagnostic territorial et une représentation plus immersive des situations de terrain et des aménagements futurs, ce qui les aide dans leur processus de décision. Le projet se veut réplicable et appelle à la participation citoyenne. C’est pourquoi les chaînes de traitement se basent sur des logiciels open source et les données issues du projet sont sous licence ouverte.</div>
 																
 																</td>
 																<td style="background-color: #fff;text-align:left;font-weight:300">
@@ -234,7 +235,7 @@ $languages= array(0=>"?",1=>"nl", 2=>"fr",3=>"en");
 																</td>			
 																<td style="background-color: #fff;text-align:left;font-weight:300">
 																	Completing all the buildings & addresses in OpenStreetMap in Belgium<br />
-																	<span class="author"> Julien Minet <br />
+																	<span class="author"> Julien Minet & Joost Schouppe<br />
 																	(EN)</span>
 																	<!-- -->
 																	<a class="btn pluss js-toggleNext"><i class="fa fa-plus-square"></i>Infos</a>
@@ -246,7 +247,7 @@ $languages= array(0=>"?",1=>"nl", 2=>"fr",3=>"en");
 															<tr>
 																<td style="width:10%;background-color: #fff">14h00</td>
 																<td style="background-color: #fff;text-align:left;font-weight:300">
-																	Merginmaps au CRR : success story d'une application mobile d'encodage open-source<br />
+																	Collaboration win-win entre le Centre belge de Recherches Routières et la société Lutra consulting sur le développement de l'application mobile d'encodage Open-source Mergin Maps<br />
 																	<span class="author">  Sébastien Defrance<br/> (FR)<br />
 																	</span>
 																	<a class="btn pluss js-toggleNext"><i class="fa fa-plus-square"></i>Infos</a>
