@@ -235,7 +235,7 @@ $languages= array(0=>"?",1=>"nl", 2=>"fr",3=>"en");
 																</td>			
 																<td style="background-color: #fff;text-align:left;font-weight:300">
 																	Completing all the buildings & addresses in OpenStreetMap in Belgium<br />
-																	<span class="author"> Julien Minet <br />
+																	<span class="author"> Julien Minet & Joost Schouppe<br />
 																	(EN)</span>
 																	<!-- -->
 																	<a class="btn pluss js-toggleNext"><i class="fa fa-plus-square"></i>Infos</a>
