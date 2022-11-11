@@ -40,7 +40,7 @@
 
 				<h3>Live stream ZANZIBAR</h3>
 
-				<div class="box" style="position: relative; padding: 56.25% 0 0 0;">
+				<div class="box" style="position: relative; padding: 56.25% 0 0 0 !important;">
 
 					<style>
 						.wrapped-iframe {
