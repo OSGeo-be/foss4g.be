@@ -409,15 +409,8 @@ $languages= array(0=>"?",1=>"nl", 2=>"fr",3=>"en");
 			<?php include 'footer.inc'; ?>
 		</footer>
 		<script>
-			$('.oa').click(function(){
-				start = $(this).attr('start');
-				track = $(this).attr('track');
+			$('.js-toggleNext').click(function(){
 				abstractdiv = $(this).next();
-
-			$.get("abstract.php", {'start':start,'track':track}, function(data){
-					abstractdiv.html(data);
-				}
-				);
 				abstractdiv.toggle();
 				});
 		</script>
