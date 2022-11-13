@@ -47,11 +47,6 @@ $languages= array(0=>"?",1=>"nl", 2=>"fr",3=>"en");
 					<p><?php echo $lang['SITE_DATATOP']; ?></p>
 				</header>
 				<div class="row">
-					<div class="8u">
-						<ul class="actions">
-							<li><a href="inscription.php" class="button alt"><?php echo $lang['MENU_REG']; ?></a></li>
-						</ul>
-					</div>
 					<div class="table-wrapper">
 									<table class="alt">
 									
