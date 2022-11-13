@@ -29,7 +29,6 @@
                 <img src="<?php echo $lang['CECI']; ?>" alt="<?php echo $lang['SITE_NAME']; ?> - <?php echo $lang['CECI_1']; ?> <?php echo $lang['CECI_2']; ?> <?php echo $lang['CECI_3']; ?>">
                 <ul class="actions">
                 <!-- Button  -->
-					<li><a href="inscription.php" class="button"><?php echo $lang['MENU_REG']; ?></a></li>
 					<li><a href="programme.php" class="button"><?php echo $lang['MENU_PROGRAM']; ?></a></li>
                 </ul>
                 <p><?php echo $lang['SITE_DATABIG']; ?></p>
