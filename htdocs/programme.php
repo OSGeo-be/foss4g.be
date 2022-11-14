@@ -319,8 +319,8 @@ We zoeken echter niet alleen naar routes binnen een functionele context. Sporter
 															<tr>
 																<td style="width:10%;background-color: #fff">15h50</td>
 																<td style="background-color: #fff;text-align:left;font-weight:300">
-																	Design thinking & Workshops SIG <br />
-																	<span class="author"> Pacôme Béru<br />
+																	de·SIG·n : du système d'information géographique aux communautés de savoirs<br />
+																	<span class="author">Marine Declève & Julie Vanderhaeghen<br />
 																	(FR)</span>
 																	<a class="btn pluss js-toggleNext"><i class="fa fa-plus-square"></i>Infos</a>
 													<div class="toggled" style="display:none;">Atelier Cartographique est une coopérative bruxelloise de design qui s’intéresse aux enjeux culturels des SIG, de la cartographie et de ses langages. Depuis 2010, nous expérimentons les possibilités de la cartographie contemporaine de concevoir des représentations spatiales dont l’esthétique suscite d’autres modes d’interactions sociales et politiques. Nous menons différents projets qui révèlent la capacité du design des SIG à mettre en relations de multiples univers cognitifs et à reconnecter le développement d’outils techniques à leurs usages. Le design cartographique est pour chacun·e des membres une posture de recherche et de travail, une approche transversale qui doit refléter la manière dont les interactions numériques s’ancrent socialement dans nos sociétés. <br />Depuis sa création, Atelier Cartographique est amené à accompagner divers projets tant institutionnels qu'associatifs ou artistiques et à proposer des ateliers qui mettent au centre la question du design. Ces ateliers rassemblent une série d'acteurs aux intérêts divers parfois divergeants. La conception de l'outil cartographique adapté au projet apparaît souvent comme un espace de médiation privilégé dans lequel le 'design thinking' joue un rôle important. C'est sur les enjeux de ces workshops SIG que nous interviendrons dans le cadre de Foss4G 2022.</div>
