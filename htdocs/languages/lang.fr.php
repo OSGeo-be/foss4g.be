@@ -35,6 +35,9 @@ $lang['MENU_CALL2'] = 'Appel à sponsors';
 $lang['MENU_CALL3'] = 'Appel à contributions';
 //$lang['MENU_PROGRAMME'] = 'Programme';
 $lang['MENU_PRACTICAL'] = 'Accès & Info';
+$lang['MENU_BOOKLET'] = 'Livret numérique';
+
+$lang['MENU_STREAM'] = 'Diffusion en direct';
 
 $lang['MENU_PROGRAM'] = 'Programme';
 $lang['MENU_CONTACT'] = 'Contact';

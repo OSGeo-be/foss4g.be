@@ -38,7 +38,7 @@
 					<img src="<?php echo $lang['CECI-G']; ?>" alt="<?php echo $lang['SITE_NAME']; ?> - <?php echo $lang['CECI_1']; ?> <?php echo $lang['CECI_2']; ?> <?php echo $lang['CECI_3']; ?>" style="width:30vw;text-align:center;">
 				</header>
 
-				<h3>Live stream FIJI</h3>
+				<h3><?php echo $lang['MENU_STREAM']; ?> Fiji</h3>
 
 				<div class="box" style="position: relative; padding: 56.25% 0 0 0 !important;">
 

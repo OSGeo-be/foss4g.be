@@ -36,6 +36,9 @@ $lang['MENU_CALL2'] = 'Call for Sponsors';
 $lang['MENU_CALL3'] = 'Call for Papers';
 //$lang['MENU_PROGRAMME'] = 'Programme';
 $lang['MENU_PRACTICAL'] = 'Venue & Info';
+$lang['MENU_BOOKLET'] = 'Digital booklet';
+
+$lang['MENU_STREAM'] = 'Live stream';
 
 $lang['MENU_PROGRAM'] = 'Schedule';
 $lang['MENU_CONTACT'] = 'Contact';

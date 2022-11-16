@@ -36,6 +36,9 @@ $lang['MENU_CALL2'] = 'Oproep voor sponsors';
 $lang['MENU_CALL3'] = 'Oproep voor bijdragen';
 //$lang['MENU_PROGRAMME'] = 'Programma';
 $lang['MENU_PRACTICAL'] = 'Info &amp; toegang';
+$lang['MENU_BOOKLET'] = 'Digitaal boekje';
+
+$lang['MENU_STREAM'] = 'Livestream';
 
 $lang['MENU_PROGRAM'] = 'Agenda';
 $lang['MENU_CONTACT'] = 'Contact';
