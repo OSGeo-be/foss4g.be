@@ -49,7 +49,7 @@ $languages= array(0=>"?",1=>"nl", 2=>"fr",3=>"en");
 				<div class="row">
 					<div class="8u">
 						<ul class="actions">
-							<li><a href="/uploads/foss4g_sotm_booklet_2022.pdf" class="button alt">Digital booklet</a></li>
+							<li><a href="/uploads/foss4g_sotm_booklet_2022.pdf" class="button alt"><?php echo $lang['MENU_BOOKLET']; ?></a></li>
 						</ul>
 					</div>
 					<div class="table-wrapper">
