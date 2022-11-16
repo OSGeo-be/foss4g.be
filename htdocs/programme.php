@@ -228,22 +228,17 @@ We zoeken echter niet alleen naar routes binnen een functionele context. Sporter
 															<tr>
 																<td style="width:10%;background-color: #fff">13h30</td>
 																<td style="background-color: #fff;text-align:left;font-weight:300">
-																	Kaartdata delen zonder gedoe dankzij grensoverschrijdend samenwerken<br />
-																	<span class="author"> Erik	Meerburg<br />
+																	Open Zeeland: tien jaar transitie naar organisatiebrede open source<br />
+																	<span class="author"> Thieu Caris<br />
 																	(NL)</span>
 																	<a class="btn pluss js-toggleNext"><i class="fa fa-plus-square"></i>Infos</a>
-													<div class="toggled" style="display:none;">Tailormap is een al jarenlang gebruikt kaartpublicatieplatform voor Nederlandse gemeenten, provincies en andere (voornamelijk overheids-) organisaties. Het is volledig open source, en sluit naadloos aan op de ondertussen wel bekende OSGeo stack: QGIS, PostGIS, GeoServer en OpenLayers. Afgelopen jaar is de viewer vanaf de grond opnieuw opgebouwd: het oogt weer fris, en... het heeft serieus zin de vleugels uit te slaan buiten Nederland. En dat is in deze wereld wonderlijk genoeg apart, en daarmee interessant...
-
-In ieder land worden webkaarten gedeeld met digitale publicatieplatformen. Dat past goed in de gedachte dat overheidsdata ook open en toegankelijk moet zijn, zowel in de vorm van platte data, als in een meer bruikbare vorm voor het grote publiek: een digitale kaart met aanvullende GIS-achtige functies. 
-
-Het wonderlijke hieraan is, dat in ieder land er eigenlijk wel een aanbieder is die een eigen variant hiervan bouwt. Terwijl op hoofdlijnen ze toch wel gelijk zijn. De een heeft wat meer slimme GIS-functionaliteit (zoals Tailormap), de ander vindt andere zaken weer belangrijker. En dat is raar... het gaat bij open source toch om delen en samenwerken?
-
-in deze presentatie worden twee zaken belicht:
-- de gebruikerskant: Hoe makkelijk is het om gegevens op een duidelijke en frisse manier te tonen?
-- de ontwikkelaarskant: Hoe bevorderen we samenwerking binnen het open project Tailormap, en zorgen we dat de kwaliteit gewaarborgd blijft?
-
-En natuurlijk stippen we ook aan hoe makkelijk (of moeilijk) het is om over de landsgrens te kijken... ;-) 
-</div>
+													<div class="toggled" style="display:none;">
+														De Provincie Zeeland is een open source organisatie. Sinds ongeveer 10 jaar werken we aan een transitie naar open source. We zullen kort onze reis van gesloten naar open toelichten, en zullen met name onze digital twin omgeving in opbouw (Cesium) laten zien.
+														<br/>
+														Openheid d.m.v. het actief beschikbaar stellen van data, broncode of algoritmen waarop we beleidsbeslissingen nemen of die we inzetten t.b.v. uitvoering van wettelijke taken is belangrijk voor de Provincie Zeeland. Transparant, open en controleerbaar voor iedereen. Geschikt voor hergebruik, delen en samenwerken met anderen zonder daarbij afhankelijk te zijn van een leverancier of licentie. Openheid is noodzakelijk voor een gezonde relatie tussen overheid en burgers in een democratie. Deze openheid belijden we bijv. via ons open source beleid.
+														<br/>
+														Het gaat vaak over open source techniek maar we merken ook dat we ons anders moeten organiseren rondom open source. Daarom werken we ook aan een Open Source Program Office (OSPO).
+													</div>
 																</td>			
 																<td style="background-color: #fff;text-align:left;font-weight:300">
 																	Completing all the buildings & addresses in OpenStreetMap in Belgium<br />
