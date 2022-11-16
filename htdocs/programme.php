@@ -232,7 +232,18 @@ We zoeken echter niet alleen naar routes binnen een functionele context. Sporter
 																	<span class="author"> Erik	Meerburg<br />
 																	(NL)</span>
 																	<a class="btn pluss js-toggleNext"><i class="fa fa-plus-square"></i>Infos</a>
-													<div class="toggled" style="display:none;">Naast een waardig GIS programma voor gebruik op kantoor biedt QGis ook mogelijkheden als platform voor de ontwikkeling van specifieke GIS applicaties. In dit voorbeeld gaan we letterlijk met het programma het veld in om aan de hand van referentiekaarten en terreinkennis de bodemerosie van landbouwpercelen te controleren. QGis werd aangepast en uitgebreid voor gebruik op een tablet, inclusief vingervriendelijke interface en offline editing met synchronisatie naar een mastertabel met qgis-versioning.</div>
+													<div class="toggled" style="display:none;">Tailormap is een al jarenlang gebruikt kaartpublicatieplatform voor Nederlandse gemeenten, provincies en andere (voornamelijk overheids-) organisaties. Het is volledig open source, en sluit naadloos aan op de ondertussen wel bekende OSGeo stack: QGIS, PostGIS, GeoServer en OpenLayers. Afgelopen jaar is de viewer vanaf de grond opnieuw opgebouwd: het oogt weer fris, en... het heeft serieus zin de vleugels uit te slaan buiten Nederland. En dat is in deze wereld wonderlijk genoeg apart, en daarmee interessant...
+
+In ieder land worden webkaarten gedeeld met digitale publicatieplatformen. Dat past goed in de gedachte dat overheidsdata ook open en toegankelijk moet zijn, zowel in de vorm van platte data, als in een meer bruikbare vorm voor het grote publiek: een digitale kaart met aanvullende GIS-achtige functies. 
+
+Het wonderlijke hieraan is, dat in ieder land er eigenlijk wel een aanbieder is die een eigen variant hiervan bouwt. Terwijl op hoofdlijnen ze toch wel gelijk zijn. De een heeft wat meer slimme GIS-functionaliteit (zoals Tailormap), de ander vindt andere zaken weer belangrijker. En dat is raar... het gaat bij open source toch om delen en samenwerken?
+
+in deze presentatie worden twee zaken belicht:
+- de gebruikerskant: Hoe makkelijk is het om gegevens op een duidelijke en frisse manier te tonen?
+- de ontwikkelaarskant: Hoe bevorderen we samenwerking binnen het open project Tailormap, en zorgen we dat de kwaliteit gewaarborgd blijft?
+
+En natuurlijk stippen we ook aan hoe makkelijk (of moeilijk) het is om over de landsgrens te kijken... ;-) 
+</div>
 																</td>			
 																<td style="background-color: #fff;text-align:left;font-weight:300">
 																	Completing all the buildings & addresses in OpenStreetMap in Belgium<br />
