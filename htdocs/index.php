@@ -31,8 +31,8 @@
                 <!-- Button  -->
 					<li><a href="/uploads/foss4g_sotm_booklet_2022.pdf" class="button"><?php echo $lang['MENU_BOOKLET']; ?></a></li>
 					<li><a href="programme.php" class="button"><?php echo $lang['MENU_PROGRAM']; ?></a></li>
-					<!-- <li><a href="stream_fiji.php" class="button"><?php echo $lang['MENU_STREAM']; ?> Fiji</a></li>
-					<li><a href="stream_zanzibar.php" class="button"><?php echo $lang['MENU_STREAM']; ?> Zanzibar</a></li> -->
+					<li><a href="stream_fiji.php" class="button"><?php echo $lang['MENU_STREAM']; ?> Fiji</a></li>
+					<li><a href="stream_zanzibar.php" class="button"><?php echo $lang['MENU_STREAM']; ?> Zanzibar</a></li>
                 </ul>
                 <p><?php echo $lang['SITE_DATABIG']; ?></p>
 			</section>
