@@ -171,7 +171,7 @@ We zoeken echter niet alleen naar routes binnen een functionele context. Sporter
 																<td style="width:10%;background-color: #fff">11h50</td>
 																<td style="background-color: #fff;text-align:left;font-weight:300">
 																	360° Everywhere – des données au service de la mobilité cyclable<br />
-																	<span class="author">  Emmanuel Jauquet<br />
+																	<span class="author">  Pierre Serpe<br />
 																	(FR)</span>
 																	
 																	<a class="btn pluss js-toggleNext"><i class="fa fa-plus-square"></i>Infos</a>
