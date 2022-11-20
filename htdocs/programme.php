@@ -138,14 +138,14 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 										<tbody>
 											<tr>
 
-												<td colspan="2" style="width:32%;text-align:center;">
+												<td colspan="2" style="width:55%;text-align:center;">
 													<h4><i class="fa fa-rocket fa-2x"></i>
 														<?php echo $lang['PROG_PLENARY']; ?>
 													</h4>
 												</td>
 							</td>
 							</td>
-							<td colspan="2" style="width:32%;text-align:center;">
+							<td colspan="2" style="width:45%;text-align:center;">
 								<h4><i class="fa fa-university fa-2x"></i>
 									<?php echo $lang['PROG_SIDE'] ?>
 								</h4>
@@ -157,7 +157,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 				<table class="alt tarde">
 					<tbody>
 						<td style="width:10%;background-color: #fff">10h20</td>
-						<td style="background-color: #fff;text-align:left;font-weight:300">
+						<td style="width:45%;background-color: #fff;text-align:left;font-weight:300">
 							Une cartographie correcte pour assurer la protection de la forêt de
 							Soignes. Een correcte cartografie om het Zoniënwoud te beschermen<br />
 							<span class="author">David Kuborn
@@ -182,7 +182,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 								stappen te zetten..</div>
 
 						</td>
-						<td style="background-color: #fff;text-align:left;font-weight:300">
+						<td style="width:45%;background-color: #fff;text-align:left;font-weight:300">
 							Geospatial and Apache Arrow: accelerating geospatial data exchange and
 							compute<br />
 							<span class="author">Joris Vandenbossche (EN)</span>
@@ -386,7 +386,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 
 								<tr>
 									<td style="width:10%;background-color: #fff">13h00</td>
-									<td style="background-color: #fff;text-align:left;font-weight:300">
+									<td style="width:45%;background-color: #fff;text-align:left;font-weight:300">
 										UPhacochR est un géocodeur pour la Belgique sous forme de package R. A partir
 										d’une liste d’adresses, il permet de retrouver les coordonnées X-Y nécessaires à
 										toute analyse spatiale, à un niveau de précision du bâtiment.<br />
@@ -413,7 +413,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 											libres.https://phacochr.github.io/phacochr/ Joël Gires, Observatoire de la
 											Santé et du Social - Hugo Périlleux, ULB</div>
 									</td>
-									<td style="background-color: #fff;text-align:left;font-weight:300">
+									<td style="width:45%;background-color: #fff;text-align:left;font-weight:300">
 										Using MapComplete to crowdsource data about the public space<br />
 										<span class="author">Pieter Vander Vennet (EN)</span>
 										<a class="slidelogo" href="/uploads/foss4g-zanzibar-005-mapcomplete.pdf" target="_blank"></a>
@@ -635,7 +635,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 
 							<tr>
 								<td style="width:10%;background-color: #fff">15h20</td>
-								<td style="background-color: #fff;text-align:left;font-weight:300">
+								<td style="width:45%;background-color: #fff;text-align:left;font-weight:300">
 									Quelles technologies open source pour développer la Géoplateforme de l'IGN
 									?<br />
 									<span class="author">Bertrand Parpoil (FR)</span>
@@ -647,7 +647,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 										bibliothèques open source en accord avec la vision des geocommuns portée par
 										l'IGN.</div>
 								</td>
-								<td style="background-color: #fff;text-align:left;font-weight:300">
+								<td style="width:45%;background-color: #fff;text-align:left;font-weight:300">
 									Iaso - From data collection to geospatial data management in public health and
 									more!<br />
 									<span class="author">Élie Khalil (EN)</span>
