@@ -467,7 +467,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 				<td style="background-color: #fff;text-align:left;font-weight:300">
 					Completing all the buildings & addresses in OpenStreetMap in Belgium<br />
 					<span class="author">Julien Minet & Joost Schouppe (EN)</span>
-					<!-- <a class="slidelogo" href="/uploads/foss4g-zanzibar-006-mapcomplete.pdf" target="_blank"></a> -->
+					<a class="slidelogo" href="https://slides.com/joostschouppe/why-osm-needs-buildings-addresses" target="_blank"></a>
 					<!-- -->
 					<a class="btn pluss js-toggleNext"><i class="fa fa-plus-square"></i>Infos</a>
 					<div class="toggled" style="display:none;">A map with buildings looks better.
