@@ -1,6 +1,5 @@
 <h1>
-					<a href="index.php"><span>FOSS</span>4G</a>
-					/ <a href="index.php">State of the Map</a>
+					<a href="index.php"><span>FOSS</span>4G BE+NL</a>
 					<?php echo $lang['SITE_DATATOP']; ?>
 				</h1>
 				<nav id="nav">

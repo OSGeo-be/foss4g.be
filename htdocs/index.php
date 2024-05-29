@@ -26,7 +26,7 @@
 
         <!-- Banner -->
             <section id="banner">
-                <img src="<?php echo $lang['CECI']; ?>" alt="<?php echo $lang['SITE_NAME']; ?> - <?php echo $lang['CECI_1']; ?> <?php echo $lang['CECI_2']; ?> <?php echo $lang['CECI_3']; ?>">
+                <!-- <img src="<?php echo $lang['CECI']; ?>" alt="<?php echo $lang['SITE_NAME']; ?> - <?php echo $lang['CECI_1']; ?> <?php echo $lang['CECI_2']; ?> <?php echo $lang['CECI_3']; ?>"> -->
                 <!-- <ul class="actions"> -->
                 <!-- Button  -->
 					<!-- <li><a href="/uploads/foss4g_sotm_booklet_2022.pdf" class="button"><?php echo $lang['MENU_BOOKLET']; ?></a></li> -->
@@ -36,7 +36,7 @@
 			</section>
 
 		<!-- Main -->
-			<section id="main" class="container" style="padding-top: 0">
+			<!-- <section id="main" class="container" style="padding-top: 0">
 				<section class="box special">
 					<header class="major logo">
 						<img src="/images/chapeau-earth.png">
@@ -45,7 +45,7 @@
 					<span class="image featured"><img src="/images/foss4g.svg" alt="" /></span>
 				</section>
 
-			</section>
+			</section> -->
 			
 		<!-- CTA -->
 			<section id="cta">
