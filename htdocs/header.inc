@@ -9,8 +9,8 @@
 							<a href="" class="icon fa-angle-down"><?php echo $lang['MENU_INFOS']; ?></a>
 							<ul>
                                 <?php /* echo "<li><a href='/$language/about'>". $lang['MENU_ABOUT']."</a></li>"; */ ?>
-                                <li><a href="programme.php"><?php echo $lang['MENU_PROGRAM']; ?></a></li>
-								<li><a href="sponsors.php">Sponsors</a></li>
+                                <!--<li><a href="programme.php"><?php echo $lang['MENU_PROGRAM']; ?></a></li>
+								<li><a href="sponsors.php">Sponsors</a></li>-->
 								<li><a href="contact.php"><?php echo $lang['MENU_CONTACT']; ?></a></li>
 							</ul>
 						</li>

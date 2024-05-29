@@ -24,7 +24,7 @@ $lang['SITE_KEYWORDS'] = 'FOSS4G Geo marker GIS Open Source';
 $lang['SITE_AUTHOR'] = 'FOSS4G Belgium';
 $lang['SITE_DATATOP'] = ' <div class="foss4g"></div> '.$lang['DATE'];
 # $lang['SITE_DATABIG'] = '<a href="http://bel.brussels/">Brussels Environment and Energy Agency</a> - '.$lang['DATE'];
-$lang['SITE_DATABIG'] = ''.$lang['DATE'];
+$lang['SITE_DATABIG'] = 'Save the date: '.$lang['DATE'];
 
 
 // MENU

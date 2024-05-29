@@ -23,7 +23,7 @@ $lang['SITE_KEYWORDS'] = 'FOSS4G Geo marqueur GIS Open Source';
 $lang['SITE_AUTHOR'] = 'FOSS4G Belgium';
 $lang['SITE_DATATOP'] = $lang['DATE'].'';
 # $lang['SITE_DATABIG'] = '<a href="http://bel.brussels/" alt="BEL Building" style="color:white" target="_blank">BEL - Bruxelles Environnement</a> - '.$lang['DATE'];
-$lang['SITE_DATABIG'] = ''.$lang['DATE'];
+$lang['SITE_DATABIG'] = 'Réservez les dates: '.$lang['DATE'];
 
 
 // MENU

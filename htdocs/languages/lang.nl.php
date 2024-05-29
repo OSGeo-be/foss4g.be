@@ -24,7 +24,7 @@ $lang['SITE_KEYWORDS'] = 'Foss4G Geo GIS Open Source OSGeo OSGeoBE België Neder
 $lang['SITE_AUTHOR'] = 'FOSS4G Belgium';
 $lang['SITE_DATATOP'] = $lang['DATE'].'';
 # $lang['SITE_DATABIG'] = '<a href="http://bel.brussels/nl/content/bereikbaarheid">BEL Brussel</a> - '.$lang['DATE'];
-$lang['SITE_DATABIG'] = ''.$lang['DATE'];
+$lang['SITE_DATABIG'] = 'Save the date: '.$lang['DATE'];
 
 
 // MENU
