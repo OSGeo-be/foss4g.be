@@ -3,8 +3,8 @@
 //$lang = array(); we override the english version
 
 // Variables
-$lang['YEAR'] = '2022';
-$lang['DATE'] = 'Donderdag 17 November 2022';
+$lang['YEAR'] = '2024';
+$lang['DATE'] = '25-26-27 september 2024';
 
 // URLs
 $lang['URL_INDEX_1'] = 'index.php?lang=en'; /* switch to EN */
@@ -17,14 +17,14 @@ $lang['URL_INDEX_3'] = 'index.php?lang=fr'; /* switch to FR */
 $lang['URL_CONTACT'] = 'contact.php';
 
 // SITE NAME AND HEADERS
-$lang['SITE_NAME'] = 'FOSS4G Belgium '.$lang['YEAR'];
-$lang['SITE_TITLE'] = 'FOSS4G België '.$lang['YEAR'];
-$lang['SITE_DESCRIPTION'] = 'FOSS4G België '.$lang['YEAR'];
-$lang['SITE_KEYWORDS'] = 'Foss4G Geo GIS Open Source Brussel OSGeo OSGeoBE België';
+$lang['SITE_NAME'] = 'FOSS4G BE+NL '.$lang['YEAR'];
+$lang['SITE_TITLE'] = 'FOSS4G BE+NL '.$lang['YEAR'];
+$lang['SITE_DESCRIPTION'] = 'FOSS4G BE+NL '.$lang['YEAR'];
+$lang['SITE_KEYWORDS'] = 'Foss4G Geo GIS Open Source OSGeo OSGeoBE België Nederland';
 $lang['SITE_AUTHOR'] = 'FOSS4G Belgium';
-$lang['SITE_DATATOP'] = $lang['DATE'].' - Brussel';
+$lang['SITE_DATATOP'] = $lang['DATE'].'';
 # $lang['SITE_DATABIG'] = '<a href="http://bel.brussels/nl/content/bereikbaarheid">BEL Brussel</a> - '.$lang['DATE'];
-$lang['SITE_DATABIG'] = 'Brussel - '.$lang['DATE'];
+$lang['SITE_DATABIG'] = ''.$lang['DATE'];
 
 
 // MENU

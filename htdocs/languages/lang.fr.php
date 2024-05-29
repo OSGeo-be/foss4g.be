@@ -2,8 +2,8 @@
 // FR File
 // $lang = array(); //we override the english version
 
-$lang['YEAR'] = '2022';
-$lang['DATE'] = 'Jeudi, 17 Novembre 2022';
+$lang['YEAR'] = '2024';
+$lang['DATE'] = '25-26-27 Septembre 2024';
 
 // URLs
 $lang['URL_INDEX_1'] = 'index.php?lang=en'; /* switch to EN */
@@ -16,14 +16,14 @@ $lang['URL_INDEX_3'] = 'index.php?lang=fr'; /* switch to FR */
 $lang['URL_CONTACT'] = 'contact.php';
 
 // NOM DU SITE ET HEADERS
-$lang['SITE_NAME'] = 'FOSS4G Belgium '.$lang['YEAR'];
-$lang['SITE_TITLE'] = 'FOSS4G Belgique '.$lang['YEAR'];
-$lang['SITE_DESCRIPTION'] = 'FOSS4G Belgique '.$lang['YEAR'];
-$lang['SITE_KEYWORDS'] = 'FOSS4G Geo marqueur GIS Open Source Bruxelles';
+$lang['SITE_NAME'] = 'FOSS4G BE+NL '.$lang['YEAR'];
+$lang['SITE_TITLE'] = 'FOSS4G BE+NL '.$lang['YEAR'];
+$lang['SITE_DESCRIPTION'] = 'FOSS4G BE+NL '.$lang['YEAR'];
+$lang['SITE_KEYWORDS'] = 'FOSS4G Geo marqueur GIS Open Source';
 $lang['SITE_AUTHOR'] = 'FOSS4G Belgium';
-$lang['SITE_DATATOP'] = $lang['DATE'].' - Bruxelles';
+$lang['SITE_DATATOP'] = $lang['DATE'].'';
 # $lang['SITE_DATABIG'] = '<a href="http://bel.brussels/" alt="BEL Building" style="color:white" target="_blank">BEL - Bruxelles Environnement</a> - '.$lang['DATE'];
-$lang['SITE_DATABIG'] = 'Bruxelles - '.$lang['DATE'];
+$lang['SITE_DATABIG'] = ''.$lang['DATE'];
 
 
 // MENU

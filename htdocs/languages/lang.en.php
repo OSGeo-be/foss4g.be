@@ -3,8 +3,8 @@
 $lang = array();
 
 // Variables
-$lang['YEAR'] = '2022';
-$lang['DATE'] = 'Thursday 17 November 2022';
+$lang['YEAR'] = '2024';
+$lang['DATE'] = '25-26-27 September 2024';
 
 // URLs
 $lang['URL_INDEX_1'] = 'index.php?lang=en'; /* switch to EN */
@@ -17,14 +17,14 @@ $lang['URL_NAME_3'] = 'French';
 $lang['URL_CONTACT'] = 'contact.php';
 
 // SITE NAME AND HEADERS
-$lang['SITE_NAME'] = 'FOSS4G Belgium '.$lang['YEAR'];
-$lang['SITE_TITLE'] = 'FOSS4G Belgium '.$lang['YEAR'];
-$lang['SITE_DESCRIPTION'] = 'FOSS4G Belgium '.$lang['YEAR'];
-$lang['SITE_KEYWORDS'] = 'FOSS4G Geo marker GIS Open Source Brussels';
+$lang['SITE_NAME'] = 'FOSS4G BE+NL '.$lang['YEAR'];
+$lang['SITE_TITLE'] = 'FOSS4G BE+NL '.$lang['YEAR'];
+$lang['SITE_DESCRIPTION'] = 'FOSS4G BE+NL '.$lang['YEAR'];
+$lang['SITE_KEYWORDS'] = 'FOSS4G Geo marker GIS Open Source';
 $lang['SITE_AUTHOR'] = 'FOSS4G Belgium';
 $lang['SITE_DATATOP'] = ' <div class="foss4g"></div> '.$lang['DATE'];
 # $lang['SITE_DATABIG'] = '<a href="http://bel.brussels/">Brussels Environment and Energy Agency</a> - '.$lang['DATE'];
-$lang['SITE_DATABIG'] = 'Brussels - '.$lang['DATE'];
+$lang['SITE_DATABIG'] = ''.$lang['DATE'];
 
 
 // MENU
