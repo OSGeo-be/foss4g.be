@@ -60,8 +60,8 @@ $lang['FOSS4G_LOAD'] ='Loading...';
 $lang['CECI_1'] = 'this';
 $lang['CECI_2'] = 'is not';
 $lang['CECI_3'] = 'a conference';
-$lang['CECI'] 	= '/images/logo_sotm_foss4g.svg';
-$lang['CECI-G'] = '/images/logo_sotm_foss4g_g.svg';
+$lang['CECI'] 	= '/images/logo_foss4g_be+nl.png';
+$lang['CECI-G'] = '/images/logo_foss4g_be+nl.png';
 
 // CALL-TO_ACTION
 $lang['CALL_foto'] = 'Photos';

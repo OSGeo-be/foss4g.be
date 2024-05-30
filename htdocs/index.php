@@ -26,7 +26,7 @@
 
         <!-- Banner -->
             <section id="banner">
-                <!-- <img src="<?php echo $lang['CECI']; ?>" alt="<?php echo $lang['SITE_NAME']; ?> - <?php echo $lang['CECI_1']; ?> <?php echo $lang['CECI_2']; ?> <?php echo $lang['CECI_3']; ?>"> -->
+                <img src="<?php echo $lang['CECI']; ?>" alt="<?php echo $lang['SITE_NAME']; ?> - <?php echo $lang['CECI_1']; ?> <?php echo $lang['CECI_2']; ?> <?php echo $lang['CECI_3']; ?>">
                 <!-- <ul class="actions"> -->
                 <!-- Button  -->
 					<!-- <li><a href="/uploads/foss4g_sotm_booklet_2022.pdf" class="button"><?php echo $lang['MENU_BOOKLET']; ?></a></li> -->
