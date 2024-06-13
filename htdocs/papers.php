@@ -54,8 +54,8 @@
 							<hr>
 							<p><i class="fa fa-caret-right"></i> <?php echo $lang['PAPERS_CALL_TXT3']; ?></p>	
 							<p><i class="fa fa-caret-right"></i> <?php echo $lang['PAPERS_CALL_TXT4']; ?></p>
-							<hr>	
 							<p><i class="fa fa-caret-right"></i> <?php echo $lang['PAPERS_CALL_TXT6']; ?></p>
+							<hr>
 							<p><i class="fa fa-caret-right"></i> <?php echo $lang['PAPERS_CALL_TXT7']; ?></p>
 							<!-- <p style="margin-top:1.5em"><i class="fa fa-exclamation-triangle"></i> <?php echo $lang['PAPERS_CALL_TXT8']; ?></p> -->
 						</section>
