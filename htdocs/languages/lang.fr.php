@@ -226,7 +226,7 @@ $lang['PAPERS_FORMAT_2'] ='Chaque présentation disposera de 20 minutes et de 5 
 $lang['PAPERS_FORMAT_3'] ='Les présentations soumises peuvent l\'être en anglais, français ou néerlandais (et adhérer au modèle en format ODT bientôt disponible).';
 
 $lang['PAPERS_SUM'] ='Soumettre votre présentation';
-$lang['PAPERS_SUM_SUB'] ='Les résumés doivent être envoyés à l\'aide du <a href="http://'.$lang['YEAR'].'.foss4g.be/submit-paper.php" title="http://2018.foss4g.be/submit-paper.php">formulaire de soumission</a> en spécifant les éléments suivants:';
+$lang['PAPERS_SUM_SUB'] ='Les résumés doivent être envoyés à l\'aide du <a href="http://'.$lang['YEAR'].'.foss4g.be/submit-paper.php">formulaire de soumission</a>.';
 $lang['PAPERS_SUM_NAME'] ='Votre Nom et Prénom;';
 $lang['PAPERS_SUM_EMAIL'] ='Un email de contact;';
 $lang['PAPERS_SUM_ORG'] ='Votre entreprise (organisation) et/ou employeur;';

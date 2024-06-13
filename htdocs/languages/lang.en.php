@@ -231,7 +231,7 @@ $lang['PAPERS_FORMAT_2'] ='Each individual presentation will be allowed about 20
 $lang['PAPERS_FORMAT_3'] ='Submissions can be written in English, French or Dutch (and adhere to the template available soon in ODT format).';
 
 $lang['PAPERS_SUM'] ='Submission';
-$lang['PAPERS_SUM_SUB'] ='Summaries must be submitted using this <a href="https://'.$lang['YEAR'].'.foss4g.be/submit-paper.php" title="https://'.$lang['YEAR'].'.foss4g.be/submit-paper.php">form</a> by specifying the following elements:';
+$lang['PAPERS_SUM_SUB'] ='Summaries must be submitted using this <a href="https://'.$lang['YEAR'].'.foss4g.be/submit-paper.php" >form</a>.';
 $lang['PAPERS_SUM_NAME'] ='Your name and first name;';
 $lang['PAPERS_SUM_EMAIL'] ='A contact email;';
 $lang['PAPERS_SUM_ORG'] ='Your company (organization) and/or employer;';
