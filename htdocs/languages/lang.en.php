@@ -201,8 +201,7 @@ $lang['SPONSORS_T_SUBTITLE'] ='We would like to thank our sponsors and partners 
 
 $lang['PAPERS_TITLE'] ='Call for papers';
 $lang['PAPERS_SUBTITLE'] ='Help making our '.$lang['YEAR'].' edition a success';
-$lang['PAPERS_CALL'] ='On the '.$lang['DATE'].', OSGeo-be will host an event dedicated to free geomatics in Brussels at BEL, the Environment and Energy Agency of Brussels. FOSS4Gbe will be a day of conferences, demonstrations, debates and meetings about OSGeo topics. It will also be an opportunity <strong>to bring together the community</strong> of users, developers, policy makers or just curious FOSS geomatics.</p>
-<p><strong>The event is expected to gather around 250 to 400 people</strong>.<br />We will share knowledge and experiences during the whole event through presentations and demonstrations with <strong>25 minutes each at most</strong>.</p>';
+$lang['PAPERS_CALL'] ='This year, OSGeo Netherlands and OSGeo Belgium are joining forces with a joint FOSS4G conference! Of course, only one place is really suitable for this: the border. Or rather: borders. Our conference location is in both the Netherlands (Baarle Nassau) and Belgium (Baarle Hertog)!';
 
 // Plenary Session
 $lang['PAPERS_CALL_T_TXT1'] ='Presentations and side tracks';
@@ -218,7 +217,7 @@ $lang['PAPERS_CALL_TXT8'] ='If you meet any of these, STOP and... <a href="https
 // Workshops 
 $lang['PAPERS_CALL_T2_TXT1'] ='Topics & Debates';
 $lang['PAPERS_CALL_S2_TXT1'] ='Tools &#8226; Goals &#8226; Applications';
-$lang['PAPERS_CALL_2TXT1'] ='<strong>Foss4G’s Tools</strong>: What are the current offers for storage, treatment and web distribution of spatial data?<br />How do Open Source tools allow you to successfully personalize software for your needs?';
+$lang['PAPERS_CALL_2TXT1'] ='<strong>What is FOSS4G?</strong> - FOSS4G (Free and Open Source Software For Geo) conferences bring together developers and users (ranging from managers to decision makers) of open geo software from around the world to discuss new directions, exciting implementations, and growing business opportunities in the field. These conferences are organized on a global scale as well as locally.';
 $lang['PAPERS_CALL_2TXT2'] ='<strong>Goals</strong>: How can OSGeo help you in your organization? How to build an effective Open Source solution?<br />How to choose between different solutions?';
 $lang['PAPERS_CALL_2TXT3'] ='<strong>Applications</strong>: Which Open Geomatics tools are deployed and used by administrations, companies, teachers and researchers? What about INSPIRE infrastructures, climate change and smart cities? What are the problems and opportunities that you encountered during migration of commercial software to Open Source software?';
 $lang['PAPERS_CALL_2TXT4'] ='<strong>OpenStreetMap</strong>: How do you use OSM data in your work ? Did you create a cool application with OSM data ? Are you an OSM geek and would like to discuss OSM specifics ?';

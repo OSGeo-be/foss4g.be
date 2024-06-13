@@ -196,8 +196,7 @@ $lang['SPONSORS_T_SUBTITLE'] ='Merci à nos sponsors et partenaires pour leur so
 
 $lang['PAPERS_TITLE'] ='Appel à contributions';
 $lang['PAPERS_SUBTITLE'] ='Participez au succès de l\'édition '.$lang['YEAR'];
-$lang['PAPERS_CALL'] ='Le '.$lang['DATE'].' l\'OSGeo.be organise un événement dédié à la géomatique libre à Bruxelles dans le BEL de Bruxelles Environnement. Le FOSS4G-be sera une journée de conférences, démonstrations, débats et de rencontres sur les thématiques de l’OSGeo. Ce sera aussi l\'occasion <strong>de rassembler la communauté</strong> des utilisateurs, développeurs, décideurs, ou simples curieux de logiciels libres en géomatique.</p>
-<p><strong>L\'événement devrait rassembler entre 250 à 400 personnes</strong>.<br />Cette rencontre permettra de partager nos connaissances et nos expériences sous la forme de conférences et démonstrations, d\'une durée de <strong>25min</strong> chacune.';
+$lang['PAPERS_CALL'] ='Cette année, OSGeo Pays-Bas et OSGeo Belgique unissent leurs forces pour une conférence FOSS4G commune ! Bien entendu, un seul endroit s’y prête vraiment : la frontière. Ou mieux dit : les frontières. Notre lieu de conférence se trouvera aux Pays-Bas (Baarle Nassau) et en Belgique (Baarle Hertog)!';
 
 // Plenary Session
 $lang['PAPERS_CALL_T_TXT1'] ='Plénière & présentations';
@@ -213,7 +212,7 @@ $lang['PAPERS_CALL_TXT8'] ='Si vous vous reconnaissez dans ce programme à propo
 // Workshops
 $lang['PAPERS_CALL_T2_TXT1'] ='Sujets & débats';
 $lang['PAPERS_CALL_S2_TXT1'] ='Outils &#8226; Objectifs &#8226; Applications';
-$lang['PAPERS_CALL_2TXT1'] ='<strong>Outils FOSS4G</strong>: Qu\'offrent actuellement les outils libres pour le stockage, le traitement et la diffusion web de données spatiales? Comment les outils libres permettent-ils d\'adapter les logiciels à vos besoins?';
+$lang['PAPERS_CALL_2TXT1'] ='<strong>Qu’est-ce que FOSS4G?</strong> - Les conférences FOSS4G (Free and Open Source Software For Geo) rassemblent des développeurs et des utilisateurs (allant des gestionnaires aux décideurs) de logiciels libres de géo du monde entier pour discuter de nouvelles orientations, de mises en œuvre passionnantes et d'opportunités commerciales croissantes dans le domaine. Ces conférences sont organisées à l'échelle mondiale ainsi que locale.';
 $lang['PAPERS_CALL_2TXT2'] ='<strong>Objectifs</strong>: Intervention de l\'OSGeo dans votre organisation, comment? Quelles perspectives pour le FOSS4G-be? Comment construire une solution Open Source qui rencontre le succès? Comment choisir entre différentes solutions?';
 $lang['PAPERS_CALL_2TXT3'] ='<strong>Applications</strong>: Quels outils libres déploie-t-on dans votre administration, entreprise, école ou lieu de recherche? Quels impacts pour les infrastructures en lien avec INSPIRE, les changements climatiques ou les SMART Cities? Quelles sont les opportunités ou problèmes rencontrés lors de la migrations d\'outils commerciaux vers le libre?';
 $lang['PAPERS_CALL_2TXT4'] ='<strong>OpenStreetMap</strong>: Comment utilisez-vous les données OSM dans votre travail ? Avez-vous créé une chouette app avec des données OSM ? Etes-vous un geek OSM et souhaitez discuter des détails d\'OSM ?';

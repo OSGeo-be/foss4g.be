@@ -37,6 +37,7 @@ $lang['MENU_CALL3'] = 'Oproep voor bijdragen';
 //$lang['MENU_PROGRAMME'] = 'Programma';
 $lang['MENU_PRACTICAL'] = 'Info &amp; toegang';
 $lang['MENU_BOOKLET'] = 'Digitaal boekje';
+$lang['MENU_BOOKLET'] = 'Digitaal boekje';
 
 $lang['MENU_STREAM'] = 'Livestream';
 
@@ -230,9 +231,9 @@ $lang['SPONSORS_T_SUBTITLE'] ='Dank aan onze sponsors en onze partners om dit mo
 // PAPERS PAGE CALL ------------------------------------------------------------------------------------------------------------/
 
 $lang['PAPERS_TITLE'] ='Oproep voor bijdragen';
-$lang['PAPERS_SUBTITLE'] ='Help ons de editie in '.$lang['YEAR'].' een succes te maken';
-$lang['PAPERS_CALL'] ='
-';
+$lang['PAPERS_SUBTITLE'] ='Help ons de editie van '.$lang['YEAR'].' een succes te maken';
+$lang['PAPERS_CALL'] = 'Dit jaar bundelen OSGeo Nederland en OSGeo België hun krachten, met een gezamenlijke FOSS4G-conferentie! Hiervoor is natuurlijk maar één plek echt geschikt: de grens. Of beter gezegd: grenzen. Onze conferentielocatie staat zowel in Nederland (Baarle Nassau) als in België (Baarle Hertog)!';
+
 // Plenary Session
 $lang['PAPERS_CALL_T_TXT1'] ='Presentaties en sessies';
 $lang['PAPERS_CALL_S_TXT1'] ='We voorzien verschillende parallele sessies';
@@ -240,21 +241,21 @@ $lang['PAPERS_CALL_TXT1a'] ='Plenaire sessie';
 $lang['PAPERS_CALL_TXT1b'] ='2 speciale sessies';
 $lang['PAPERS_CALL_TXT1c'] ='Ontwikkelaars sessie';
 
-$lang['PAPERS_CALL_TXT3'] ='De <strong>plenaire sessie</strong> zal voorbeelden tonen van het gebruik van FOSS4G binnen bedrijven, administraties, onderwijs en onderzoek.';
-$lang['PAPERS_CALL_TXT4'] ='Andere sessie zullen bepaald worden afhankelijk van de inzendingen, maar we verwelkomen alle presentaties van gebruikerservaringen tot geavanceerde ontwikkelingsonderwerpen.';
-$lang['PAPERS_CALL_TXT4b'] ='Één speciale track heeft behandelt Free en Open Source software in Geo-onderwijs';
-$lang['PAPERS_CALL_TXT5'] ='De development track zal presentaties laten zien van de laatste ontwikkelingen in FOSS4G';
-$lang['PAPERS_CALL_TXT6'] ='Ben je een expert in GIS ? ';
-$lang['PAPERS_CALL_TXT7'] ='Heb je OSGeo toepassingen gebruikt in een specifieke context - spatial data infrastructure, Big Data, specifieke klanten, innovatieve projecten, .... voor je bedrijf, onderzoeksinstelling of in onderwijs? ';
-$lang['PAPERS_CALL_TXT8'] ='Als je aan één van deze voorwaarden voldoet, twijfel niet en <a href="https://'.$lang['YEAR'].'.foss4g.be/submit-paper.php" alt="https://'.$lang['YEAR'].'.foss4g.be/submit-paper.php">verstuur nu je presentatie!</a>';
+$lang['PAPERS_CALL_TXT3'] ='We mikken op een grote variatie aan sprekers: technologie, wetenschap, eindgebruikers en interessante (of bijzondere) gebruiksdoeleinden. We maken er graag weer een conferentie van met een grote mate van diversiteit, zowel in onderwerpen als in mensen.';
+$lang['PAPERS_CALL_TXT4'] ='Een paar overwegingen rond presentaties: <ul><li>De presentaties zijn 20 minuten inclusief een kort vragenrondje, dus bereid 15 minuten goed voor.</li><li>Maak een duidelijk punt van wat je wil vertellen.</li><li>Focus op de belangrijkste boodschap (of verhaal) dat je mee wil geven aan je publiek.</li></ul>';
+$lang['PAPERS_CALL_TXT4b'] ='Is dat kort? Ja, maar dat houdt het spannend en afwisselend. Achteraf is er ruim tijd om (met een drankje erbij) na te praten en de discussie aan te gaan. En laten we wel wezen, het is leuker als je iemand verbaasd naar huis laat gaan, zich verwonderend over de nieuwe dingen die die heeft gezien...';
+$lang['PAPERS_CALL_TXT5'] ='Voor workshops geldt juist:<ul><li>De workshops duren in principe drie uur: het is een uitgebreide kennismaking met een onderwerp.</li><li>In een workshop zet je mensen aan het werk. Zorg voor veel doe-dingen.</li><li>Deelnemers gebruiken hun eigen laptops.</li><li>Materiaal dat vooraf gedownload en/of geïnstalleerd moet worden, wordt een week van tevoren naar de deelnemers gestuurd zodat ook zij zich goed kunnen voorbereiden.</li>';
+$lang['PAPERS_CALL_TXT6'] ='';
+$lang['PAPERS_CALL_TXT7'] ='';
+$lang['PAPERS_CALL_TXT8'] ='';
 
 // Workshops 
 $lang['PAPERS_CALL_T2_TXT1'] ='Topics & Debates';
 $lang['PAPERS_CALL_S2_TXT1'] ='Tools &#8226; Goals &#8226; Applications';
-$lang['PAPERS_CALL_2TXT1'] ='<strong>Foss4G’s Tools</strong>: Wat zijn de huidige oplossingen voor opslag, bewerken en verspreiden van geo-data? Hoe kan je Open Source tools gebruiken om software aan je noden aan te passen?';
-$lang['PAPERS_CALL_2TXT2'] ='<strong>Doelen</strong>: Hoe kan OSGeo jou in je organisatie helpen? Hoe kan je een goede Open Sourceoplossing bouwen? Hoe te kiezen tussen verschillende producten?';
-$lang['PAPERS_CALL_2TXT3'] ='<strong>Toepassingen</strong>: Welke Open Geomatica toepassingen zijn in gebruik bij administraties, bedrijven, lesgevers en onderzoekers? Wat met INSPIRE infrastructuur, klimaatverandering en smart cities? Wat zijn de problemen en kansen die je kan tegenkomen bij de migratie van commerciële software naar Open Source software?';
-$lang['PAPERS_CALL_2TXT4'] ='<strong>OpenStreetMap</strong>: Hoe gebruik jij OSM data in je project? Heb je een coole applicatie gemaakt die OSM gebruikt? Ben je een OSM geek die wil vertellen over een aspect van het mappen?';
+$lang['PAPERS_CALL_2TXT1'] ='<strong>Wat is FOSS4G?</strong> - Conferenties van FOSS4G (Free and Open Source Software For Geo) brengen ontwikkelaars en gebruikers (variërend van managers tot besluitvormers) van opengeosoftware uit de hele wereld samen om nieuwe richtingen, spannende implementaties en groeiende zakelijke kansen in het veld te bespreken. Deze conferenties worden zowel op wereldwijde schaal als lokaal georganiseerd.';
+$lang['PAPERS_CALL_2TXT2'] ='<strong>FOSS4G NL/BE 2024</strong>: Voor het eerst organiseren OSGeo Nederland  en België dit jaar samen een FOSS4G, van maar liefst 3 dagen! <ul><li>Woensdag 25 september: de workshopmiddag en de icebreakerparty</li><li>Donderdag 26 september: de conferentiedag, het hart van de FOSS4G</li><li>Vrijdag 27 september: de codesprint, samen werken aan de software én de daarbij horende ondersteunende zaken (handleidingen, vertalingen)</li></ul>';
+$lang['PAPERS_CALL_2TXT3'] ='';
+$lang['PAPERS_CALL_2TXT4'] ='';
 
 // PRESENTATIONS FORMAT
 $lang['PAPERS_FORMAT'] ='Formaat van de presentaties';
@@ -273,7 +274,7 @@ $lang['PAPERS_SUM_TYPE'] ='';
 
 
 // DEADLINE + HOW EVALUATE 
-$lang['PAPERS_DEADLINE'] ='Datum: ten laatste op 22 september (verlengd)';
+$lang['PAPERS_DEADLINE'] ='Datum: ten laatste op 8 juli';
 $lang['PAPERS_CALL2T'] ='Deadline';
 $lang['PAPERS_CALL2'] ='<p>Bijdragen zullen geëvalueerd worden door het programmacommitee en de auteurs zullen bericht krijgen of hun bijdrage aanvaard werd. <br />
 Alle presentaties zullen op de website van het congres geplaatst worden.</p>
@@ -282,8 +283,7 @@ $lang['PAPERS_CALL3T'] ='Evaluatiecriteria';
 $lang['PAPERS_CALL3'] ='<p>
 De keuze van presentaties zal gebaseerd zijn op de kwaliteit van de ingestuurde voorstellen, de relevantie voor het publiek en de plaats binnen het programma.
 De keuze van het programmacommitee is finaal en bindend. De beslissingen van het programmacommittee reflecteren niet de mening van de eventuele werkgevers van de leden.</p>';
-$lang['PAPERS_CALL4'] ='<p>De Nederlandstalige en Franstalige coordinatoren van het programma zijn Johan Van de Wauw (NL) en Gaël Kruwialis (FR). </p>
-<p>Als je nog vragen hebt kan je hen steeds bereiken op presentation &lt;AT&gt; foss4g &lt;dot&gt; be.</p>';
+$lang['PAPERS_CALL4'] ='';
 
 $lang['PAPERS_BUTTON'] ='Neem nu contact op om deel te nemen!';
 

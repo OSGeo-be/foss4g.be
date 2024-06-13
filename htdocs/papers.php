@@ -38,7 +38,7 @@
 				<header style="margin:0">
 					<h2><?php echo $lang['PAPERS_TITLE']; ?></h2>
 					<p><?php echo $lang['PAPERS_SUBTITLE']; ?></p>
-					<span class="image fit"><img src="/images/call-papers.png" alt="" /></span>				
+					<!-- <span class="image fit"><img src="/images/call-papers.png" alt="" /></span>				 -->
 				</header>
 				<div class="row">
 					<div class="12u">
@@ -77,10 +77,10 @@
 				<div class="row">
 					<div class="12u">
 					<section class="box plenary">
-						<h4 style="text-align:left"><?php echo $lang['PAPERS_FORMAT']; ?></h4>
+						<!-- <h4 style="text-align:left"><?php echo $lang['PAPERS_FORMAT']; ?></h4>
 						<p><i class="fa fa-caret-right"></i> <?php echo $lang['PAPERS_FORMAT_1']; ?></p>
 						<p><i class="fa fa-caret-right"></i> <?php echo $lang['PAPERS_FORMAT_2']; ?></p>
-						<p><i class="fa fa-caret-right"></i> <?php echo $lang['PAPERS_FORMAT_3']; ?></p>
+						<p><i class="fa fa-caret-right"></i> <?php echo $lang['PAPERS_FORMAT_3']; ?></p> -->
 						<h4 style="margin-top:20px;text-align:left"><?php echo $lang['PAPERS_SUM']; ?></h4>
 						<p><?php echo $lang['PAPERS_SUM_SUB']; ?></p>
 						<ol>
