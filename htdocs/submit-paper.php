@@ -1,4 +1,4 @@
 <?php 
-header('Location: https://docs.google.com/forms/d/e/1FAIpQLSeZ-1SbquWWXJni0Nu0qpCaX4nXaj0vJJwkNTR9WWFbSdMgsg/viewform?usp=sf_link');
+header('Location: https://docs.google.com/forms/d/e/1FAIpQLScJPBRxbGl8raCYIgjjdJItIYC2L-gp-55POIyU2ZWGAtiC_Q/viewform');
 die();
 ?>

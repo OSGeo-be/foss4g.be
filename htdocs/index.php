@@ -27,11 +27,11 @@
         <!-- Banner -->
             <section id="banner">
                 <img src="<?php echo $lang['CECI']; ?>" alt="<?php echo $lang['SITE_NAME']; ?> - <?php echo $lang['CECI_1']; ?> <?php echo $lang['CECI_2']; ?> <?php echo $lang['CECI_3']; ?>">
-                <!-- <ul class="actions"> -->
+                <ul class="actions">
                 <!-- Button  -->
-					<!-- <li><a href="/uploads/foss4g_sotm_booklet_2022.pdf" class="button"><?php echo $lang['MENU_BOOKLET']; ?></a></li> -->
+					<li><a href="submit-paper.php" class="button"><?php echo $lang['MENU_CALL3']; ?></a></li>
 					<!-- <li><a href="programme.php" class="button"><?php echo $lang['MENU_PROGRAM']; ?></a></li> -->
-                <!-- </ul> -->
+                </ul>
                 <p><?php echo $lang['SITE_DATABIG']; ?></p>
 			</section>
 
