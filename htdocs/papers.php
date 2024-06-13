@@ -43,6 +43,7 @@
 				<div class="row">
 					<div class="12u">
 						<p><?php echo $lang['PAPERS_CALL']; ?></p>
+						<p><a href="submit-paper.php"></a><?php echo $lang['PAPERS_CALL']; ?</p>
 					</div>
 				</div>
 				<div class="row">
