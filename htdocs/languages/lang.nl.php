@@ -243,10 +243,8 @@ $lang['PAPERS_CALL_TXT1c'] ='Ontwikkelaars sessie';
 
 $lang['PAPERS_CALL_TXT3'] ='We mikken op een grote variatie aan sprekers: technologie, wetenschap, eindgebruikers en interessante (of bijzondere) gebruiksdoeleinden. We maken er graag weer een conferentie van met een grote mate van diversiteit, zowel in onderwerpen als in mensen.';
 $lang['PAPERS_CALL_TXT4'] ='Een paar overwegingen rond presentaties: <ul><li>De presentaties zijn 20 minuten inclusief een kort vragenrondje, dus bereid 15 minuten goed voor.</li><li>Maak een duidelijk punt van wat je wil vertellen.</li><li>Focus op de belangrijkste boodschap (of verhaal) dat je mee wil geven aan je publiek.</li></ul>';
-$lang['PAPERS_CALL_TXT4b'] ='Is dat kort? Ja, maar dat houdt het spannend en afwisselend. Achteraf is er ruim tijd om (met een drankje erbij) na te praten en de discussie aan te gaan. En laten we wel wezen, het is leuker als je iemand verbaasd naar huis laat gaan, zich verwonderend over de nieuwe dingen die die heeft gezien...';
-$lang['PAPERS_CALL_TXT5'] ='Voor workshops geldt juist:<ul><li>De workshops duren in principe drie uur: het is een uitgebreide kennismaking met een onderwerp.</li><li>In een workshop zet je mensen aan het werk. Zorg voor veel doe-dingen.</li><li>Deelnemers gebruiken hun eigen laptops.</li><li>Materiaal dat vooraf gedownload en/of geïnstalleerd moet worden, wordt een week van tevoren naar de deelnemers gestuurd zodat ook zij zich goed kunnen voorbereiden.</li>';
-$lang['PAPERS_CALL_TXT6'] ='';
-$lang['PAPERS_CALL_TXT7'] ='';
+$lang['PAPERS_CALL_TXT6'] ='Is dat kort? Ja, maar dat houdt het spannend en afwisselend. Achteraf is er ruim tijd om (met een drankje erbij) na te praten en de discussie aan te gaan. En laten we wel wezen, het is leuker als je iemand verbaasd naar huis laat gaan, zich verwonderend over de nieuwe dingen die die heeft gezien...';
+$lang['PAPERS_CALL_TXT7'] ='Voor workshops geldt juist:<ul><li>De workshops duren in principe drie uur: het is een uitgebreide kennismaking met een onderwerp.</li><li>In een workshop zet je mensen aan het werk. Zorg voor veel doe-dingen.</li><li>Deelnemers gebruiken hun eigen laptops.</li><li>Materiaal dat vooraf gedownload en/of geïnstalleerd moet worden, wordt een week van tevoren naar de deelnemers gestuurd zodat ook zij zich goed kunnen voorbereiden.</li>';
 $lang['PAPERS_CALL_TXT8'] ='';
 
 // Workshops 
@@ -264,7 +262,7 @@ $lang['PAPERS_FORMAT_2'] ='Elke presentatie krijgt ongeveer 20 minuten voor een 
 $lang['PAPERS_FORMAT_3'] ='Voorstellen kunnen ingediend worden in het Nederlands, Frans of Engels';
 
 $lang['PAPERS_SUM'] ='Insturen';
-$lang['PAPERS_SUM_SUB'] ='Presentaties kunnen ingestuurd worden op <a href="https://'.$lang['YEAR'].'.foss4g.be/submit-paper.php"> volgend formulier</a>. Vermeld volgende gegevens:';
+$lang['PAPERS_SUM_SUB'] ='Presentaties kunnen ingestuurd worden op <a href="https://'.$lang['YEAR'].'.foss4g.be/submit-paper.php"> volgend formulier</a>.';
 $lang['PAPERS_SUM_NAME'] ='Je naam en voornaam;';
 $lang['PAPERS_SUM_EMAIL'] ='Een contact-emailadres;';
 $lang['PAPERS_SUM_ORG'] ='Je bedrijf/organisatie/werkgever;';
