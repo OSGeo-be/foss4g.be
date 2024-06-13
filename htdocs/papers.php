@@ -92,7 +92,7 @@
 							<li><?php echo $lang['PAPERS_SUM_TITLE']; ?></li>
 							<li><?php echo $lang['PAPERS_SUM_ABSTRACT']; ?></li>
 						</ol> -->
-						<h4 style="text-align:left"><?php echo $lang['PAPERS_CALL2T']; ?></h4>
+						<h4 style="margin-top:20px;text-align:left"><?php echo $lang['PAPERS_CALL2T']; ?></h4>
 						<p><?php echo $lang['PAPERS_CALL2']; ?></p>
 						<h4 style="margin-top:20px;text-align:left"><?php echo $lang['PAPERS_CALL3T']; ?></h4>
 						<?php echo $lang['PAPERS_CALL3']; ?>

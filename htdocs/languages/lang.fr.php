@@ -4,6 +4,7 @@
 
 $lang['YEAR'] = '2024';
 $lang['DATE'] = '25-26-27 Septembre 2024';
+$lang['PAPERS_DEADLINE_DATE'] ='8 juillet';
 
 // URLs
 $lang['URL_INDEX_1'] = 'index.php?lang=en'; /* switch to EN */
@@ -198,24 +199,25 @@ $lang['PAPERS_TITLE'] ='Appel à contributions';
 $lang['PAPERS_SUBTITLE'] ='Participez au succès de l\'édition '.$lang['YEAR'];
 $lang['PAPERS_CALL'] ='Cette année, OSGeo Pays-Bas et OSGeo Belgique unissent leurs forces pour une conférence FOSS4G commune ! Bien entendu, un seul endroit s’y prête vraiment : la frontière. Ou mieux dit : les frontières. Notre lieu de conférence se trouvera aux Pays-Bas (Baarle Nassau) et en Belgique (Baarle Hertog)!';
 
+$lang['PAPERS_SUBMIT'] = 'Soumettez votre proposition avant le '.$lang['PAPERS_DEADLINE_DATE'].'!';
+
 // Plenary Session
 $lang['PAPERS_CALL_T_TXT1'] ='Plénière & présentations';
 $lang['PAPERS_CALL_S_TXT1'] ='Il y aura plusieurs sessions parallèles';
 
-$lang['PAPERS_CALL_TXT3'] ='<strong>La Plénière</strong> sera consacré à des demonstrations d\'implémentation réussie pour les entreprises, l\'éducation et au sein des administrations.';
-$lang['PAPERS_CALL_TXT4'] ='D\'autres sessions seront déterminée en fonction des soumissions reçues, mais nous en acceptons un large panel, de présentations sur des expériences utilisateurs jusqu\'au présentation de développeurs.';
-
-$lang['PAPERS_CALL_TXT6'] ='Avez-vous utilisé des outils OSGeo dans un contexte spécifique pour votre organisation? Tels qu\'un projet d\'envergure, des données très volumineuses, un client reconnu, un projet innovant, etc?';
-$lang['PAPERS_CALL_TXT7'] ='Êtes-vous un expert en <a href="https://fr.wikipedia.org/wiki/Syst%C3%A8me_d%27information_g%C3%A9ographique" target="_blank"> GIS <i class="fa fa-external-link"></i></a>?';
-$lang['PAPERS_CALL_TXT8'] ='Si vous vous reconnaissez dans ce programme à propos de l\'un ou l\'autre aspect, ARRETEZ TOUT et <a href="http://'.$lang['YEAR'].'.foss4g.be/submit-paper.php" alt="http://'.$lang['YEAR'].'.foss4g.be/submit-paper.php"> envoyez nous la présentation à propos de votre talent ou domaine d\'expertise</a>.';
+$lang['PAPERS_CALL_TXT3'] ='Nous visons une grande variété d’intervenants : technologie, science, utilisateurs finaux et usages intéressants (ou particuliers). Nous aimerions en faire une autre conférence avec un haut degré de diversité, tant dans les sujets que dans les personnes.';
+$lang['PAPERS_CALL_TXT4'] ='Quelques considérations sur les présentations : <ul><li>Les présentations durent 20 minutes, y compris une courte session de questions-réponses, alors préparez-vous bien pendant 15 minutes.</li><li>Expliquez clairement ce que vous voulez dire.</li><li>Concentrez-vous sur le message (ou l\'histoire) le plus important que vous souhaitez transmettre à votre public.</li></ul>';
+$lang['PAPERS_CALL_TXT6'] ='C\'est court ? Oui, mais cela reste passionnant et varié. Ensuite, vous aurez tout le temps de discuter (autour d\'un verre) et d\'engager des discussions. Et avouons-le, c\'est plus amusant si vous laissez quelqu\'un rentrer chez lui émerveillé par les nouvelles choses qu\'il a vues...';
+$lang['PAPERS_CALL_TXT7'] ='Ce qui suit s\'applique aux ateliers :<ul><li>Les ateliers durent en principe trois heures : il s\'agit d\'une introduction approfondie à un sujet.</li><li>Dans un atelier, vous mettez les gens au travail. Prévoyez beaucoup de choses à faire.</li><li>Les participants utilisent leur propre ordinateur portable.</li><li>Le matériel qui doit être téléchargé et/ou installé à l\'avance sera envoyé aux participants une semaine à l\'avance afin que eux aussi savent bien se préparer.</li>';
+$lang['PAPERS_CALL_TXT8'] ='';
 
 // Workshops
 $lang['PAPERS_CALL_T2_TXT1'] ='Sujets & débats';
 $lang['PAPERS_CALL_S2_TXT1'] ='Outils &#8226; Objectifs &#8226; Applications';
-$lang['PAPERS_CALL_2TXT1'] ='<strong>Qu’est-ce que FOSS4G?</strong> - Les conférences FOSS4G (Free and Open Source Software For Geo) rassemblent des développeurs et des utilisateurs (allant des gestionnaires aux décideurs) de logiciels libres de géo du monde entier pour discuter de nouvelles orientations, de mises en œuvre passionnantes et d'opportunités commerciales croissantes dans le domaine. Ces conférences sont organisées à l'échelle mondiale ainsi que locale.';
-$lang['PAPERS_CALL_2TXT2'] ='<strong>Objectifs</strong>: Intervention de l\'OSGeo dans votre organisation, comment? Quelles perspectives pour le FOSS4G-be? Comment construire une solution Open Source qui rencontre le succès? Comment choisir entre différentes solutions?';
-$lang['PAPERS_CALL_2TXT3'] ='<strong>Applications</strong>: Quels outils libres déploie-t-on dans votre administration, entreprise, école ou lieu de recherche? Quels impacts pour les infrastructures en lien avec INSPIRE, les changements climatiques ou les SMART Cities? Quelles sont les opportunités ou problèmes rencontrés lors de la migrations d\'outils commerciaux vers le libre?';
-$lang['PAPERS_CALL_2TXT4'] ='<strong>OpenStreetMap</strong>: Comment utilisez-vous les données OSM dans votre travail ? Avez-vous créé une chouette app avec des données OSM ? Etes-vous un geek OSM et souhaitez discuter des détails d\'OSM ?';
+$lang['PAPERS_CALL_2TXT1'] ='<strong>Qu’est-ce que FOSS4G?</strong> - Les conférences FOSS4G (Free and Open Source Software For Geo) rassemblent des développeurs et des utilisateurs (allant des gestionnaires aux décideurs) de logiciels libres de géo du monde entier pour discuter de nouvelles orientations, de mises en œuvre passionnantes et d\'opportunités commerciales croissantes dans le domaine. Ces conférences sont organisées à l\'échelle mondiale ainsi que locale.';
+$lang['PAPERS_CALL_2TXT2'] ='<strong>FOSS4G NL/BE 2024</strong> : Pour la première fois, l\'OSGeo Pays-Bas et la Belgique organisent ensemble un FOSS4G cette année, d\'une durée de pas moins de 3 jours ! <ul><li>Mercredi 25 septembre : l\'après-midi de l\'atelier et la soirée brise-glace</li><li>Jeudi 26 septembre : la journée conférence, le cœur du FOSS4G</li><li>Vendredi 27 septembre : le sprint de code, la collaboration avec le logiciel et les éléments de support associés (manuels, traductions)</li></ul>';
+$lang['PAPERS_CALL_2TXT3'] ='';
+$lang['PAPERS_CALL_2TXT4'] ='';
 
 // PRESENTATIONS FORMAT
 $lang['PAPERS_FORMAT'] ='Format des présentations';
@@ -234,12 +236,16 @@ $lang['PAPERS_SUM_TYPE'] ='La nature de votre intervention (Explicative / Applic
 
 
 // DATE LIMITE + COMMENT EVALUONS-NOUS
-$lang['PAPERS_DEADLINE'] ='Date limite pour les soumissions: 22 septembre '.$lang['YEAR'];
+$lang['PAPERS_DEADLINE'] ='Date : au plus tard le '.$lang['PAPERS_DEADLINE_DATE'].'';
 $lang['PAPERS_CALL2T'] ='Date limite';
-$lang['PAPERS_CALL2'] ='Les résumés seront évalués par un comité de programme et les auteurs retenus en seront avertis le 25 septembre 2018. Toutes les présentations seront mises en ligne sur le site de l\'événement.';
-$lang['PAPERS_CALL3T'] ='Méthode d\'évaluation';
-$lang['PAPERS_CALL3'] ='<p>Le choix des présentations sera basé sur la qualité des descriptions soumises, son intérêt pour une audience professionnelle et étudiante, et la cohérence du programme de la journée. La décision du comité de sélection sera finale et sans appel. Les membres du comité s\'expriment en leur nom propre et leurs choix ne reflètent pas la position de leur employeur.<p>';
-$lang['PAPERS_CALL4'] ='Les coordinateurs néerlandais et francophones du comité de programme sont Johan Van de Wauw (NL) and Gaël Kruwialis (FR).</p><p>Nous vous encourageons à <a href="mailto:&#112;&#114;&#101;&#115;&#101;&#110;&#116;&#97;&#116;&#105;&#111;&#110;&#64;&#102;&#111;&#115;&#115;&#52;&#103;&#46;&#98;&#101;" title="&#112;&#114;&#101;&#115;&#101;&#110;&#116;&#97;&#116;&#105;&#111;&#110;&#64;&#102;&#111;&#115;&#115;&#52;&#103;&#46;&#98;&#101;"> nous envoyer un mail pour toutes demandes </a>.</p>';
+$lang['PAPERS_CALL2'] ='<p>Les contributions seront évaluées par le comité du programme et les auteurs seront informés si leur contribution a été acceptée. <br />
+Toutes les présentations seront publiées sur le site Web de la conférence.</p>
+';
+$lang['PAPERS_CALL3T'] ='Critère d\'évaluation';
+$lang['PAPERS_CALL3'] ='<p>
+Le choix des présentations et des ateliers sera basé sur la qualité des propositions soumises, leur pertinence pour le public et leur place dans le programme.
+Le choix du comité de programme est définitif et contraignant. Les décisions du comité de programme ne reflètent l\'opinion d\'aucun employeur des membres.</p>';
+$lang['PAPERS_CALL4'] ='';
 
 
 $lang['PAPERS_BUTTON'] ='Contactez-nous afin de participer';
