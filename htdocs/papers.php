@@ -81,15 +81,15 @@
 						<p><i class="fa fa-caret-right"></i> <?php echo $lang['PAPERS_FORMAT_1']; ?></p>
 						<p><i class="fa fa-caret-right"></i> <?php echo $lang['PAPERS_FORMAT_2']; ?></p>
 						<p><i class="fa fa-caret-right"></i> <?php echo $lang['PAPERS_FORMAT_3']; ?></p> -->
-						<a href="contact.php" class="button icon fa-warning specialo small" style="float:right"><?php echo $lang['PAPERS_DEADLINE']; ?></a> <h4 style="margin-top:20px;text-align:left"><?php echo $lang['PAPERS_SUM']; ?></h4>
+						<a href="submit-paper.php" class="button icon fa-warning specialo small" style="float:right"><?php echo $lang['PAPERS_DEADLINE']; ?></a> <h4 style="margin-top:20px;text-align:left"><?php echo $lang['PAPERS_SUM']; ?></h4>
 						<p><?php echo $lang['PAPERS_SUM_SUB']; ?></p>
-						<ol>
+						<!-- <ol>
 							<li><?php echo $lang['PAPERS_SUM_NAME']; ?></li>
 							<li><?php echo $lang['PAPERS_SUM_EMAIL']; ?></li>
 							<li><?php echo $lang['PAPERS_SUM_ORG']; ?></li>
 							<li><?php echo $lang['PAPERS_SUM_TITLE']; ?></li>
 							<li><?php echo $lang['PAPERS_SUM_ABSTRACT']; ?></li>
-						</ol>
+						</ol> -->
 						<h4 style="text-align:left"><?php echo $lang['PAPERS_CALL2T']; ?></h4>
 						<p><?php echo $lang['PAPERS_CALL2']; ?></p>
 						<h4 style="margin-top:20px;text-align:left"><?php echo $lang['PAPERS_CALL3T']; ?></h4>
