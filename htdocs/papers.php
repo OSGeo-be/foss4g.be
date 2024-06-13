@@ -53,6 +53,7 @@
 							<h4><?php echo $lang['PAPERS_CALL_S_TXT1']; ?></h4>
 							<hr>
 							<p><i class="fa fa-caret-right"></i> <?php echo $lang['PAPERS_CALL_TXT3']; ?></p>	
+							<hr>
 							<p><i class="fa fa-caret-right"></i> <?php echo $lang['PAPERS_CALL_TXT4']; ?></p>
 							<p><i class="fa fa-caret-right"></i> <?php echo $lang['PAPERS_CALL_TXT6']; ?></p>
 							<hr>
