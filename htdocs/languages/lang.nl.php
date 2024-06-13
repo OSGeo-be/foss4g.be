@@ -5,6 +5,7 @@
 // Variables
 $lang['YEAR'] = '2024';
 $lang['DATE'] = '25-26-27 september 2024';
+$lang['PAPERS_DEADLINE_DATE'] ='8 juli';
 
 // URLs
 $lang['URL_INDEX_1'] = 'index.php?lang=en'; /* switch to EN */
@@ -234,6 +235,8 @@ $lang['PAPERS_TITLE'] ='Oproep voor bijdragen';
 $lang['PAPERS_SUBTITLE'] ='Help ons de editie van '.$lang['YEAR'].' een succes te maken';
 $lang['PAPERS_CALL'] = 'Dit jaar bundelen OSGeo Nederland en OSGeo België hun krachten, met een gezamenlijke FOSS4G-conferentie! Hiervoor is natuurlijk maar één plek echt geschikt: de grens. Of beter gezegd: grenzen. Onze conferentielocatie staat zowel in Nederland (Baarle Nassau) als in België (Baarle Hertog)!';
 
+$lang['PAPERS_SUBMIT'] = 'Stuur jouw voorstel in voor '.$lang['PAPERS_DEADLINE_DATE'].'!';
+
 // Plenary Session
 $lang['PAPERS_CALL_T_TXT1'] ='Presentaties en sessies';
 $lang['PAPERS_CALL_S_TXT1'] ='We voorzien verschillende parallele sessies';
@@ -272,14 +275,14 @@ $lang['PAPERS_SUM_TYPE'] ='';
 
 
 // DEADLINE + HOW EVALUATE 
-$lang['PAPERS_DEADLINE'] ='Datum: ten laatste op 8 juli';
+$lang['PAPERS_DEADLINE'] ='Datum: ten laatste op '.$lang['PAPERS_DEADLINE_DATE'].'';
 $lang['PAPERS_CALL2T'] ='Deadline';
 $lang['PAPERS_CALL2'] ='<p>Bijdragen zullen geëvalueerd worden door het programmacommitee en de auteurs zullen bericht krijgen of hun bijdrage aanvaard werd. <br />
 Alle presentaties zullen op de website van het congres geplaatst worden.</p>
 ';
 $lang['PAPERS_CALL3T'] ='Evaluatiecriteria';
 $lang['PAPERS_CALL3'] ='<p>
-De keuze van presentaties zal gebaseerd zijn op de kwaliteit van de ingestuurde voorstellen, de relevantie voor het publiek en de plaats binnen het programma.
+De keuze van presentaties en workshops zal gebaseerd zijn op de kwaliteit van de ingestuurde voorstellen, de relevantie voor het publiek en de plaats binnen het programma.
 De keuze van het programmacommitee is finaal en bindend. De beslissingen van het programmacommittee reflecteren niet de mening van de eventuele werkgevers van de leden.</p>';
 $lang['PAPERS_CALL4'] ='';
 
