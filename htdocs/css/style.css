@@ -1400,9 +1400,8 @@
 	}
 
 		#header h1 {
-			color: rgba(63,103,106,1);
+			color: white;
 			font-weight: 700;
-			text-shadow: 0px 1px 0px rgba(255,255,255,.5);
 			height: inherit;
 			left: 1.25em;
 			line-height: inherit;
@@ -1559,7 +1558,6 @@
 			-ms-animation: none;
 			animation: none;
 			background: none;
-			background-color: rgba(113, 191, 69, 0.5)
 			color: rgba(255, 255, 255, 0.75);
 			position: absolute;
 		}
