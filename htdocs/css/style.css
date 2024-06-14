@@ -1390,7 +1390,7 @@
 		background: rgba(113,191,69,1);
 		color: #bbb;
 		cursor: default;
-		height: 3.25em;
+		height: 4em;
 		left: 0;
 		line-height: 3.25em;
 		position: fixed;
@@ -1559,6 +1559,7 @@
 			-ms-animation: none;
 			animation: none;
 			background: none;
+			background-color: rgba(113, 191, 69, 0.5)
 			color: rgba(255, 255, 255, 0.75);
 			position: absolute;
 		}
@@ -1659,7 +1660,7 @@
 	#banner {
 		background-attachment: scroll, fixed;
 		background-color: #666;
-		background-image: url("images/overlay.png"), url("/images/banner.jpg");
+		background-image: url("images/overlay.png"), url("/images/banner4.jpg");
 		background-position: top left, center center;
 		background-repeat: repeat, no-repeat;
 		background-size: auto, cover;
@@ -1776,6 +1777,7 @@
 		#banner .button {
 			background-color: transparent;
 			box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.5);
+			backdrop-filter: blur(10px);
 			color: #fff;
 			min-width: 12em;
 		}
