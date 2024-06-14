@@ -1685,9 +1685,10 @@
 		#banner img {
 			max-width: 70vw;
 			margin-top: -10vh;
-			backdrop-filter: blur(10px) brightness(1.5) saturate(0.5);
+			backdrop-filter: blur(20px) brightness(1.5) saturate(0.5);
 			padding: 30px;
-			border-radius: 50px;
+			border-radius: 25px;
+			box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
 		}
 
 		#banner h2, #banner h3, #banner h4, #banner h5, #banner h6 {
