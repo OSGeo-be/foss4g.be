@@ -1683,8 +1683,11 @@
 			 opacity:0.8;
 		}
 		#banner img {
-			/* width:70vh; */
-			margin-top:-10vh
+			max-width: 70vw;
+			margin-top: -10vh;
+			backdrop-filter: blur(10px) brightness(1.5) saturate(0.5);
+			padding: 30px;
+			border-radius: 50px;
 		}
 
 		#banner h2, #banner h3, #banner h4, #banner h5, #banner h6 {
