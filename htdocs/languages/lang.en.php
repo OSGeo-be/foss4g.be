@@ -5,7 +5,7 @@ $lang = array();
 // Variables
 $lang['YEAR'] = '2024';
 $lang['DATE'] = '25-26-27 September 2024';
-$lang['PAPERS_DEADLINE_DATE'] ='July 8';
+$lang['PAPERS_DEADLINE_DATE'] ='July 22';
 
 // URLs
 $lang['URL_INDEX_1'] = 'index.php?lang=en'; /* switch to EN */
