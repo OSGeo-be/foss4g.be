@@ -40,6 +40,10 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 		<link rel="stylesheet" href="/css/style-wide.css" />
 	</noscript>
 	<style>
+		#skel-layers-wrapper {
+			margin: 4px !important;
+		}
+
 		h3 {
 			background-color: #886f8f;
 			color: white;
@@ -140,8 +144,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 		}
 
 		div.prog-item.intermezzo {
-			background-color: #6398a5;
-			color: white;
+			background-color: #d0e2e7;
 			text-align: center;
 
 			.prog-sched {
@@ -184,7 +187,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 			<?php echo $lang['PROG_WED'] . ': ' . $lang['PROG_WORKSHOP']; ?>
 		</h3>
 
-		<div class="prog-list">
+		<div id="prog-wed" class="prog-list">
 			<div class="prog-item plenary intermezzo">
 				<div class="prog-title"><i class="fa fa-user"></i>
 					<?php echo $lang['PROG_REGISTRATION']; ?></div>
@@ -281,7 +284,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 
 		<h3><?php echo $lang['PROG_THU'] . ': ' . $lang['PROG_CONFERENCE']; ?></h3>
 
-		<div class="prog-list">
+		<div id="prog-thu" class="prog-list">
 			<div class="prog-item plenary intermezzo">
 				<div class="prog-title"><i class="fa fa-user"></i>
 					<?php echo $lang['PROG_REGISTRATION']; ?></div>
@@ -671,7 +674,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 			<div class="prog-item plenary intermezzo">
 				<div class="prog-title"><i class="fa fa-star"></i>
 					<?php echo $lang['PROG_CLOSING']; ?></div>
-				<div class="prog-sched icon">10h30 - 11h00</div>
+				<div class="prog-sched icon">16h00 - 17h00</div>
 				<div class="prog-track icon">Grote zaal</div>
 			</div>
 
@@ -686,7 +689,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 			<div class="prog-item plenary intermezzo">
 				<div class="prog-title"><i class="fa fa-glass"></i>
 					<?php echo $lang['PROG_DRINK']; ?></div>
-				<div class="prog-sched icon">16h30 - 20h00</div>
+				<div class="prog-sched icon">17h00 - 20h00</div>
 				<div class="prog-track icon">Grote zaal</div>
 			</div>
 		</div>
@@ -694,7 +697,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 		<h3><?php echo $lang['PROG_FRI'] . ': ' . $lang['PROG_CODESPRINT']; ?></h3>
 
 
-		<div class="prog-list">
+		<div id="prog-fri" class="prog-list">
 			<div class="prog-item plenary intermezzo">
 				<div class="prog-title"><i class="fa fa-coffee"></i>
 					<?php echo $lang['PROG_BRUNCH']; ?></div>
@@ -747,6 +750,12 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 		});
 	</script>
 </body>
+
+<footer>
+	<script>
+
+	</script>
+</footer>
 
 </html>
 <?php
