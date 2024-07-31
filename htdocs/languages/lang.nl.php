@@ -42,7 +42,7 @@ $lang['MENU_BOOKLET'] = 'Digitaal boekje';
 
 $lang['MENU_STREAM'] = 'Livestream';
 
-$lang['MENU_PROGRAM'] = 'Agenda';
+$lang['MENU_PROGRAM'] = 'Programma';
 $lang['MENU_CONTACT'] = 'Contact';
 $lang['MENU_LANG'] = 'Taal';
 
@@ -422,19 +422,30 @@ $lang['MENU_MAPS'] = 'Oproep voor kaarten';
 
 
 // PROGRAMME
-$lang['OPENING_SESSION'] = 'Opening sessie';
-$lang['REGISTRATION'] = 'Registratie';
-$lang['WELCOME'] = 'Welkom en informatie '; //gkr
-$lang['FIRST_COFFEE'] = 'Eerste koffiepauze';
-$lang['PROG_PLENARY'] = 'FIJI';//gkr
-$lang['PROG_SIDE'] = 'ZANZIBAR';//gkr
-$lang['PROG_DEV'] = 'Ontwikkelingstraject track';
+// PROGRAMME
+$lang['PROG_OPENING_SESSION'] = 'Openingssessie';
+$lang['PROG_REGISTRATION'] = 'Ontvangst en registratie';
+$lang['PROG_COFFEE'] = 'Pauze';
+$lang['PROG_BRUNCH'] = 'Brunchbuffet';
 $lang['PROG_LUNCH'] = 'Lunch';
-$lang['PROG_LUNCH2'] = 'OSGEO - Meeting';//gkr
-$lang['SECOND_COFFEE'] = 'Tweede Koffiepauze';
 $lang['PROG_CLOSING'] = 'Afsluitende sessie';
-$lang['PROG_CONCLUSIONS'] = 'Conclusies en toekomstplannen voor OSGeo.be';
-$lang['PROG_DRINK'] = 'Afsluitende drink en netwerking';
+$lang['PROG_SOCIAL'] = 'Feest';
+$lang['PROG_DRINK'] = 'Slotborrel en netwerken';
+
+$lang['PROG_WED'] = 'Woensdag 25/9';
+$lang['PROG_WORKSHOP'] = 'workshops';
+
+$lang['PROG_THU'] = 'Donderdag 26/9';
+$lang['PROG_CONFERENCE'] = 'conferentiedag';
+
+$lang['PROG_FRI'] = 'Vrijdag 26/9';
+$lang['PROG_CODESPRINT'] = 'codesprint';
+$lang['PROG_CODESPRINT_WHAT'] = 'Waar wil jij aan werken?';
+$lang['PROG_CODESPRINT_WHO'] = 'Jij!';
+
+$lang['LANG_EN'] = $lang['URL_NAME_1'];
+$lang['LANG_NL'] = $lang['URL_NAME_2'];
+$lang['LANG_FR'] = $lang['URL_NAME_3'];
 
 // FOOTER
 

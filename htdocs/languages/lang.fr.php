@@ -328,19 +328,29 @@ $lang['CV_TXT2'] = ' Et surtout renseignez vous aupres de nos <a href="http://'.
 // PARTNERS
 
 // PROGRAMME
-$lang['OPENING_SESSION'] = 'Opening Session';
-$lang['REGISTRATION'] = 'Registration';
-$lang['WELCOME'] = 'Welcome &amp; information'; //gkr
-$lang['FIRST_COFFEE'] = 'First coffee break';
-$lang['PROG_PLENARY'] = 'FIJI';//gkr
-$lang['PROG_SIDE'] = 'ZANZIBAR';//gkr
-$lang['PROG_DEV'] = 'Development track';
-$lang['PROG_LUNCH'] = 'Lunch Time';
-$lang['PROG_LUNCH2'] = 'OSGEO - Meeting'; //gkr
-$lang['SECOND_COFFEE'] = 'Second coffee break';
-$lang['PROG_CLOSING'] = 'Closing Session';
-$lang['PROG_CONCLUSIONS'] = 'Conclusions and Outlook for OSGeo.be';
-$lang['PROG_DRINK'] = 'Closing Drink and Networking';
+$lang['PROG_OPENING_SESSION'] = 'Séance d\'ouverture';
+$lang['PROG_REGISTRATION'] = 'Accueil et inscription';
+$lang['PROG_COFFEE'] = 'Pause';
+$lang['PROG_BRUNCH'] = 'Buffet brunch';
+$lang['PROG_LUNCH'] = 'Déjeuner';
+$lang['PROG_CLOSING'] = 'Séance de clôture';
+$lang['PROG_SOCIAL'] = 'Événement social';
+$lang['PROG_DRINK'] = 'Pot de clôture et networking';
+
+$lang['PROG_WED'] = 'Mercredi 25/9';
+$lang['PROG_WORKSHOP'] = 'ateliers';
+
+$lang['PROG_THU'] = 'Jeudi 26/9';
+$lang['PROG_CONFERENCE'] = 'journée de conférence';
+
+$lang['PROG_FRI'] = 'Vendredi 26/9';
+$lang['PROG_CODESPRINT'] = 'codesprint';
+$lang['PROG_CODESPRINT_WHAT'] = 'Sur quoi veux-tu travailler?';
+$lang['PROG_CODESPRINT_WHO'] = 'Toi!';
+
+$lang['LANG_EN'] = $lang['URL_NAME_1'];
+$lang['LANG_NL'] = $lang['URL_NAME_2'];
+$lang['LANG_FR'] = $lang['URL_NAME_3'];
 
 // FOOTER
 
