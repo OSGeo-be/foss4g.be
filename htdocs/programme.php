@@ -116,15 +116,17 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 			}
 		}
 
+		/* BG1 */
 		.prog-item.tr1 {
 			grid-row: 1;
-			grid-column: 3;
+			grid-column: 2;
 
 			.prog-track {
 				border-bottom: 5px solid #fbb4ae;
 			}
 		}
 
+		/* Grote zaal */
 		.prog-item.tr2 {
 			grid-row: 1;
 			grid-column: 1;
@@ -134,39 +136,53 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 			}
 		}
 
+		/* Judo 2 */
 		.prog-item.tr3 {
 			grid-row: 1;
-			grid-column: 5;
+			grid-column: 4;
 
 			.prog-track {
 				border-bottom: 5px solid #ccebc5;
 			}
 		}
 
+		/* EHBO */
 		.prog-item.tr4 {
 			grid-row: 1;
-			grid-column: 4;
+			grid-column: 7;
 
 			.prog-track {
 				border-bottom: 5px solid #decbe4;
 			}
 		}
 
+		/* Hobby/dans */
 		.prog-item.tr5 {
 			grid-row: 1;
-			grid-column: 2;
+			grid-column: 6;
 
 			.prog-track {
 				border-bottom: 5px solid #fed9a6;
 			}
 		}
 
+		/* La Salle */
 		.prog-item.tr6 {
 			grid-row: 1;
-			grid-column: 6;
+			grid-column: 3;
 
 			.prog-track {
 				border-bottom: 5px solid #ffffcc;
+			}
+		}
+
+		/* Judo 3 */
+		.prog-item.tr7 {
+			grid-row: 1;
+			grid-column: 5;
+
+			.prog-track {
+				border-bottom: 5px solid #b3cde3;
 			}
 		}
 
@@ -216,10 +232,23 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 
 		#prog-wed .prog-slot {
 			grid-template-columns: repeat(6, calc((100% / 6) - 16px));
+
+			.tr1 { grid-column: 1;}
+			.tr6 { grid-column: 2;}
+			.tr3 { grid-column: 3;}
+			.tr7 { grid-column: 4;}
+			.tr5 { grid-column: 5;}
+			.tr4 { grid-column: 6;}
 		}
 
 		#prog-thu .prog-slot {
 			grid-template-columns: repeat(5, calc((100% / 5) - 16px));
+
+			.tr2 { grid-column: 1;}
+			.tr1 { grid-column: 2;}
+			.tr3 { grid-column: 3;}
+			.tr5 { grid-column: 4;}
+			.tr4 { grid-column: 5;}
 		}
 
 		#prog-fri .prog-slot {
@@ -371,7 +400,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 					</div>
 				</div>
 
-				<div class="prog-item tr2" style="grid-row: 1 / 3;">
+				<div class="prog-item tr7" style="grid-row: 1 / 3;">
 					<div class="prog-content">
 						<div class="prog-title">How to create custom plugins</div>
 						<div class="prog-speaker">Ricardo Maldonado Sevilla</div>
@@ -768,7 +797,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 						<?php echo $lang['PROG_LUNCH']; ?></div>
 					<div class="prog-sched icon">12h15 - 13h15</div>
 					<div class="prog-track icon">La Salle</div>
-				</div>
+					</div>
 			</div>
 
 			<!-- 13h -->
@@ -1197,12 +1226,6 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 		});
 	</script>
 </body>
-
-<footer>
-	<script>
-
-	</script>
-</footer>
 
 </html>
 <?php
