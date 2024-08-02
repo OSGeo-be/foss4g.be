@@ -431,6 +431,7 @@ $lang['PROG_LUNCH'] = 'Lunch';
 $lang['PROG_CLOSING'] = 'Afsluitende sessie';
 $lang['PROG_SOCIAL'] = 'Feest';
 $lang['PROG_DRINK'] = 'Slotborrel en netwerken';
+$lang['PROG_SWIPE'] = 'We hebben een vol programma, swipe voor meer!';
 
 $lang['PROG_WED'] = 'Woensdag 25/9';
 $lang['PROG_WORKSHOP'] = 'workshops';

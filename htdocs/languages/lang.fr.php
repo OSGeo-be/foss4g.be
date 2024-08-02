@@ -336,6 +336,7 @@ $lang['PROG_LUNCH'] = 'Déjeuner';
 $lang['PROG_CLOSING'] = 'Séance de clôture';
 $lang['PROG_SOCIAL'] = 'Événement social';
 $lang['PROG_DRINK'] = 'Pot de clôture et networking';
+$lang['PROG_SWIPE'] = 'Nous avons un programme complet, glissez pour en savoir plus!';
 
 $lang['PROG_WED'] = 'Mercredi 25/9';
 $lang['PROG_WORKSHOP'] = 'ateliers';
