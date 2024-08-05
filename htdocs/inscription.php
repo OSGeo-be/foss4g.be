@@ -42,7 +42,7 @@
 				</header>
 				<section class="box">
 					<div style="width:100%; text-align:left;" >
-					<iframe  src="https://foss4g-sotm-belgium.eventbrite.be/" frameborder="0" height="600" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
+					<iframe  src="https://www.eventbrite.nl/e/foss4g-be-nl-tickets-964750593997" frameborder="0" height="600" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
 					</div>
 					</section>
 		</section>
