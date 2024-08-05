@@ -336,7 +336,7 @@ $lang['REGISTRATION_TAGLINE'] ='Nous n\'avons qu\'un nombre de places limitées,
 
 // Contact
 $lang['CONTACT_TITLE'] = 'Contacteer ons';
-$lang['CONTACT_SUBTITLE'] = 'Voor alle vragen kan je een e-mail sturen naar info@foss4g.be (NL/FR/EN)';
+$lang['CONTACT_SUBTITLE'] = 'Voor alle vragen kan je een e-mail sturen naar foss4g@osgeo.nl (NL/FR/EN)';
 $lang['CONTACT_FORM'] = 'Contact';
 $lang['CONTACT_NAME_T'] = 'Naam';
 $lang['CONTACT_NAME'] = 'Je Naam';

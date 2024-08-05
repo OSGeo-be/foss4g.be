@@ -73,7 +73,7 @@ $lang['PROGRAMME'] = 'Programme';
 
 // HOME A PROPOS
 $lang['ABOUT_TITLE'] = 'Après les succès du FOSS4G Belgium depuis 2015, OSGeo.be organisera le <b>'.$lang['DATE'].'</b> une nouvelle édition de la conférence FOSS4G.BE à Bruxelles. Restez à l\'écoute pour plus d\'infos! <br>
-Envie de participer à l\'organisation de cet évènement ? Contactez-nous sur info@foss4g.be';
+Envie de participer à l\'organisation de cet évènement ? Contactez-nous sur foss4g@osgeo.nl';
 
 // HOME SECTION CONFERENCES
 $lang['HOME_S1_TITLE'] = 'Conférences et ateliers';
@@ -300,7 +300,7 @@ $lang['REGISTRATION_TAGLINE'] ='Nous n\'avons qu\'un nombre de places limitées.
 
 // Contact
 $lang['CONTACT_TITLE'] = 'Contactez-nous';
-$lang['CONTACT_SUBTITLE'] = 'Pour toute demande de renseignements, vous pouvez adresser un mail à info@foss4g.be';
+$lang['CONTACT_SUBTITLE'] = 'Pour toute demande de renseignements, vous pouvez adresser un mail à foss4g@osgeo.nl';
 $lang['CONTACT_FORM'] = 'Contact';
 $lang['CONTACT_NAME_T'] = 'Nom';
 $lang['CONTACT_NAME'] = 'Votre nom';

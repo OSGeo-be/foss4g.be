@@ -305,7 +305,7 @@ $lang['REGISTRATION_TAGLINE'] ='Nous n\'avons qu\'un nombre de places limitées,
 
 // Contact
 $lang['CONTACT_TITLE'] = 'Contact us';
-$lang['CONTACT_SUBTITLE'] = 'For any inquiries you can send an email to info@foss4g.be';
+$lang['CONTACT_SUBTITLE'] = 'For any inquiries you can send an email to foss4g@osgeo.nl';
 $lang['CONTACT_FORM'] = 'Contact';
 $lang['CONTACT_NAME_T'] = 'Name';
 $lang['CONTACT_NAME'] = 'Your name';
@@ -355,7 +355,6 @@ $lang['PROG_CODESPRINT_WHO'] = 'You!';
 $lang['LANG_EN'] = $lang['URL_NAME_1'];
 $lang['LANG_NL'] = $lang['URL_NAME_2'];
 $lang['LANG_FR'] = $lang['URL_NAME_3'];
-
 
 // Call for Maps
 
