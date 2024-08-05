@@ -39,312 +39,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 		<link rel="stylesheet" href="/css/style.css" />
 		<link rel="stylesheet" href="/css/style-wide.css" />
 	</noscript>
-	<style>
-		#skel-layers-wrapper {
-			margin: 4px !important;
-		}
-
-		#main.container {
-			width: 90vw !important;
-		}
-
-		h3 {
-			background-color: #886f8f;
-			color: white;
-			padding: 5px;
-			display: inline-block;
-			margin-top: 40px;
-		}
-
-		.icon::before {
-			-moz-osx-font-smoothing: grayscale;
-			-webkit-font-smoothing: antialiased;
-			font-family: FontAwesome;
-			font-style: normal;
-			font-weight: normal;
-			margin-right: 0.5em;
-			font-size: 80%;
-		}
-
-		div.prog-list {
-			display: grid;
-			grid-template-columns: 1fr 1fr 1fr;
-			gap: 20px;
-			margin: 0;
-			width: 100%;
-			justify-content: flex-start;
-			align-items: flex-start;
-		}
-
-
-		div.prog-item {
-			display: block;
-			background-color: white;
-			border: 5px solid #f1f1f1;
-			padding: 10px;
-			position: relative;
-			/* height: fit-content; */
-
-			font-size: 1rem;
-
-			.prog-title {
-				font-size: 1.75rem;
-			}
-
-			.prog-speaker {
-				font-size: 1.2rem;
-			}
-
-			.prog-sched {
-				float: right;
-			}
-
-			.prog-lang::before {
-				content: '\f1ab';
-			}
-
-			.prog-sched::before {
-				content: '\f017';
-			}
-
-			.prog-track::before {
-				content: '\f015';
-			}
-
-			.prog-theme::before {
-				content: '\f1fc';
-			}
-		}
-
-		/* BG1 */
-		.prog-item.tr1 {
-			grid-row: 1;
-			grid-column: 2;
-
-			.prog-track {
-				border-bottom: 5px solid #fbb4ae;
-			}
-		}
-
-		/* Grote zaal */
-		.prog-item.tr2 {
-			grid-row: 1;
-			grid-column: 1;
-
-			.prog-track {
-				border-bottom: 5px solid #b3cde3;
-			}
-		}
-
-		/* Judo 2 */
-		.prog-item.tr3 {
-			grid-row: 1;
-			grid-column: 4;
-
-			.prog-track {
-				border-bottom: 5px solid #ccebc5;
-			}
-		}
-
-		/* EHBO */
-		.prog-item.tr4 {
-			grid-row: 1;
-			grid-column: 7;
-
-			.prog-track {
-				border-bottom: 5px solid #decbe4;
-			}
-		}
-
-		/* Hobby/dans */
-		.prog-item.tr5 {
-			grid-row: 1;
-			grid-column: 6;
-
-			.prog-track {
-				border-bottom: 5px solid #fed9a6;
-			}
-		}
-
-		/* La Salle */
-		.prog-item.tr6 {
-			grid-row: 1;
-			grid-column: 3;
-
-			.prog-track {
-				border-bottom: 5px solid #ffffcc;
-			}
-		}
-
-		/* Judo 3 */
-		.prog-item.tr7 {
-			grid-row: 1;
-			grid-column: 5;
-
-			.prog-track {
-				border-bottom: 5px solid #b3cde3;
-			}
-		}
-
-		.prog-item .prog-lang {
-			margin-bottom: 40px;
-		}
-
-		.prog-item .prog-tl {
-			position: absolute;
-			bottom: 10px;
-			width: calc(100% - 20px);
-		}
-
-		div.prog-item.plenary {
-			grid-row: unset;
-			grid-column: 1 / -1;
-		}
-
-		div.prog-item.intermezzo {
-			background-color: #d0e2e7;
-			text-align: center;
-
-			.prog-sched {
-				float: unset;
-			}
-		}
-
-
-		@media screen and (max-width: 1200px) {
-			div.prog-list {
-				grid-template-columns: 1fr 1fr;
-			}
-		}
-
-		@media screen and (max-width: 800px) {
-			div.prog-list {
-				grid-template-columns: 1fr;
-				gap: 10px;
-			}
-		}
-
-		div.prog-slot {
-			grid-column: 1 / -1;
-			display: grid;
-			gap: 20px;
-		}
-
-		#prog-wed .prog-slot {
-			grid-template-columns: repeat(6, calc((100% / 6) - 16px));
-
-			.tr1 { grid-column: 1;}
-			.tr6 { grid-column: 2;}
-			.tr3 { grid-column: 3;}
-			.tr7 { grid-column: 4;}
-			.tr5 { grid-column: 5;}
-			.tr4 { grid-column: 6;}
-		}
-
-		#prog-thu .prog-slot {
-			grid-template-columns: repeat(5, calc((100% / 5) - 16px));
-
-			.tr2 { grid-column: 1;}
-			.tr1 { grid-column: 2;}
-			.tr3 { grid-column: 3;}
-			.tr5 { grid-column: 4;}
-			.tr4 { grid-column: 5;}
-		}
-
-		#prog-fri .prog-slot {
-			grid-template-columns: repeat(4, calc((100% / 4) - 16px));
-		}
-
-		div.prog-swipe {
-			font-style: italic;
-			font-size: 1.2rem;
-			text-align: center;
-			grid-column: 1 / -1;
-			display: none;
-		}
-
-		@media screen and (max-width: 1400px) {
-			div.prog-swipe {
-				display: block;
-			}
-
-			#main.container {
-				width: unset !important;
-			}
-
-			#prog-wed .prog-slot {
-				grid-template-columns: repeat(6, calc(25% - 16px));
-				overflow-x: scroll;
-			}
-
-			#prog-thu .prog-slot {
-				grid-template-columns: repeat(5, calc(25% - 16px));
-				overflow-x: scroll;
-			}
-
-			#prog-fri .prog-slot {
-				grid-template-columns: repeat(4, calc(25% - 16px));
-				overflow-x: scroll;
-			}
-		}
-
-		@media screen and (max-width: 1000px) {
-			div.prog-list {
-				grid-template-columns: 1fr 1fr;
-			}
-
-			#prog-wed .prog-slot {
-				grid-template-columns: repeat(6, calc(50% - 10px));
-			}
-
-			#prog-thu .prog-slot {
-				grid-template-columns: repeat(5, calc(50% - 10px));
-			}
-
-			#prog-fri .prog-slot {
-				grid-template-columns: repeat(4, calc(50% - 10px));
-			}
-		}
-
-		@media screen and (max-width: 800px) {
-			div.prog-list {
-				grid-template-columns: 1fr;
-				gap: 10px;
-			}
-
-			#prog-wed .prog-slot {
-				grid-template-columns: repeat(6, 100%);
-				gap: 10px;
-			}
-
-			#prog-thu .prog-slot {
-				grid-template-columns: repeat(5, 100%);
-				gap: 10px;
-			}
-
-			#prog-fri .prog-slot {
-				grid-template-columns: repeat(4, 100%);
-				gap: 10px;
-			}
-		}
-
-		/* .filter {
-			margin: 10px 0;
-		}
-
-		.filter-name {
-			display: inline-block;
-			margin-right: 20px;
-		}
-
-		.filter-item {
-			display: inline-block;
-			background-color: white;
-			padding: 0px 10px;
-			border-radius: 50px;
-			font-size: 1rem;
-		} */
-	</style>
+	<link rel="stylesheet" href="/css/style-programme.css" />
 	<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
 </head>
 
@@ -402,7 +97,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 
 				<div class="prog-item tr7" style="grid-row: 1 / 3;">
 					<div class="prog-content">
-						<div class="prog-title">How to create custom plugins</div>
+						<div class="prog-title">How to create custom plugins in QGIS</div>
 						<div class="prog-speaker">Ricardo Maldonado Sevilla</div>
 						<div class="prog-lang icon"><?php echo $lang['LANG_EN']; ?></div>
 						<div class="prog-tl">
@@ -532,7 +227,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 			<div class="filter">
 				<div class="filter-name"><i class="fa fa-paint-brush"></i>
 					Theme</div>
-				<div class="filter-item">QGis</div>
+				<div class="filter-item">QGIS</div>
 				<div class="filter-item">Stacks and formats</div>
 			</div>
 		</div> -->
@@ -587,7 +282,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 					<div class="prog-content">
 						<div class="prog-title">QGIS for Hydrological Applications</div>
 						<div class="prog-speaker">Hans van der Kwast</div>
-						<div class="prog-theme icon">QGis</div>
+						<div class="prog-theme icon">QGIS</div>
 						<div class="prog-lang icon"><?php echo $lang['LANG_EN']; ?></div>
 						<div class="prog-tl">
 							<div class="prog-sched icon">11h00 - 11h20</div>
@@ -656,7 +351,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 					<div class="prog-content">
 						<div class="prog-title">Exploring the power of PCRaster Tools</div>
 						<div class="prog-speaker">Yonas Asfaha</div>
-						<div class="prog-theme icon">QGis</div>
+						<div class="prog-theme icon">QGIS</div>
 						<div class="prog-lang icon"><?php echo $lang['LANG_EN']; ?></div>
 						<div class="prog-tl">
 							<div class="prog-sched icon">11h25 - 11h45</div>
@@ -729,7 +424,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 					<div class="prog-content">
 						<div class="prog-title">Using Open-Access Spatial Data for Enhanced Sanitation Planning</div>
 						<div class="prog-speaker">Leonardo Porto Nazareth</div>
-						<div class="prog-theme icon">QGis</div>
+						<div class="prog-theme icon">QGIS</div>
 						<div class="prog-lang icon"><?php echo $lang['LANG_EN']; ?></div>
 						<div class="prog-tl">
 							<div class="prog-sched icon">11h50 - 12h10</div>
@@ -780,9 +475,9 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 				</div>
 
 				<div class="prog-item tr3">
-					<div class="prog-title">Pizza symbols</div>
+					<div class="prog-title">Pizza symbols in QGIS</div>
 					<div class="prog-speaker">Raymond Nijssen</div>
-					<div class="prog-theme icon">QGis</div>
+					<div class="prog-theme icon">QGIS</div>
 					<div class="prog-lang icon"><?php echo $lang['LANG_EN']; ?></div>
 								<div class="prog-tl">
 									<div class="prog-sched icon">11h50 - 12h10</div>
@@ -859,7 +554,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 
 				<div class="prog-item tr3">
 					<div class="prog-content">
-						<div class="prog-title">Algoritme voor netwerkplanning in PostGIS</div>
+						<div class="prog-title">Algorithm for network planning and design in PostGIS</div>
 						<div class="prog-speaker">Wazir Sahebali</div>
 						<div class="prog-theme icon">PostGIS</div>
 						<div class="prog-lang icon"><?php echo $lang['LANG_EN']; ?></div>
@@ -946,7 +641,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 			<div class="prog-slot">
 				<div class="prog-item tr2">
 					<div class="prog-content">
-						<div class="prog-title">3D in Tailormap, Intergratie van Cesium en OpenLayers</div>
+						<div class="prog-title">3D in Tailormap, Integratie van Cesium en OpenLayers</div>
 						<div class="prog-speaker">Stein Köbben</div>
 						<div class="prog-theme icon">3D</div>
 						<div class="prog-lang icon"><?php echo $lang['LANG_NL']; ?></div>
@@ -1064,7 +759,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 					<div class="prog-content">
 						<div class="prog-title">Inzet QGIS voor tekenwerk en kaartvervaardiging</div>
 						<div class="prog-speaker">Jacco Wanders</div>
-						<div class="prog-theme icon">QGis</div>
+						<div class="prog-theme icon">QGIS</div>
 						<div class="prog-lang icon"><?php echo $lang['LANG_EN']; ?></div>
 						<div class="prog-tl">
 							<div class="prog-sched icon">15h00 - 15h20</div>
