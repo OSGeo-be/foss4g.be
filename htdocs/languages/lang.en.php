@@ -25,14 +25,14 @@ $lang['SITE_KEYWORDS'] = 'FOSS4G Geo marker GIS Open Source';
 $lang['SITE_AUTHOR'] = 'FOSS4G Belgium';
 $lang['SITE_DATATOP'] = ' <div class="foss4g"></div> '.$lang['DATE'];
 # $lang['SITE_DATABIG'] = '<a href="http://bel.brussels/">Brussels Environment and Energy Agency</a> - '.$lang['DATE'];
-$lang['SITE_DATABIG'] = 'Save the date: '.$lang['DATE'];
+$lang['SITE_DATABIG'] = 'Get your ticket now, places are limited!'
 
 
 // MENU
 $lang['MENU_HOME'] = 'Home';
 $lang['MENU_INFOS'] = 'Information';
 $lang['MENU_ABOUT'] = 'About us';
-$lang['MENU_REG'] = 'Registration';
+$lang['MENU_REG'] = 'Get ticket';
 $lang['MENU_CALL2'] = 'Call for Sponsors';
 $lang['MENU_CALL3'] = 'Call for Papers';
 //$lang['MENU_PROGRAMME'] = 'Programme';

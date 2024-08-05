@@ -31,6 +31,7 @@
                 <!-- Button  -->
 					<!-- <li><a href="papers.php" class="button"><?php echo $lang['MENU_CALL3']; ?></a></li> -->
 					<li><a href="programme.php" class="button"><?php echo $lang['MENU_PROGRAM']; ?></a></li>
+					<li><a href="get-ticket.php" target="_blank" class="button"><?php echo $lang['MENU_REG']; ?></a></li>
                 </ul>
                 <p><?php echo $lang['SITE_DATABIG']; ?></p>
 			</section>

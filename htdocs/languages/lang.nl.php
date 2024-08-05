@@ -25,14 +25,14 @@ $lang['SITE_KEYWORDS'] = 'Foss4G Geo GIS Open Source OSGeo OSGeoBE België Neder
 $lang['SITE_AUTHOR'] = 'FOSS4G Belgium';
 $lang['SITE_DATATOP'] = $lang['DATE'].'';
 # $lang['SITE_DATABIG'] = '<a href="http://bel.brussels/nl/content/bereikbaarheid">BEL Brussel</a> - '.$lang['DATE'];
-$lang['SITE_DATABIG'] = 'Save the date: '.$lang['DATE'];
+$lang['SITE_DATABIG'] = 'Registreer nu uw ticket, het aantal plaatsen is beperkt!';
 
 
 // MENU
 $lang['MENU_HOME'] = 'Home';
 $lang['MENU_INFOS'] = 'Informatie';
 $lang['MENU_ABOUT'] = 'Over ons';
-$lang['MENU_REG'] = 'Registratie';
+$lang['MENU_REG'] = 'Registreer ticket';
 $lang['MENU_CALL2'] = 'Oproep voor sponsors';
 $lang['MENU_CALL3'] = 'Oproep voor bijdragen';
 //$lang['MENU_PROGRAMME'] = 'Programma';

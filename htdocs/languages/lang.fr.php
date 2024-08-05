@@ -24,14 +24,14 @@ $lang['SITE_KEYWORDS'] = 'FOSS4G Geo marqueur GIS Open Source';
 $lang['SITE_AUTHOR'] = 'FOSS4G Belgium';
 $lang['SITE_DATATOP'] = $lang['DATE'].'';
 # $lang['SITE_DATABIG'] = '<a href="http://bel.brussels/" alt="BEL Building" style="color:white" target="_blank">BEL - Bruxelles Environnement</a> - '.$lang['DATE'];
-$lang['SITE_DATABIG'] = 'Réservez les dates: '.$lang['DATE'];
+$lang['SITE_DATABIG'] = 'Enregistrez votre billet dès maintenant, le nombre de places est limité !';
 
 
 // MENU
 $lang['MENU_HOME'] = 'Accueil';
 $lang['MENU_INFOS'] = 'Information';
 $lang['MENU_ABOUT'] = 'A propos';
-$lang['MENU_REG'] = 'Inscription';
+$lang['MENU_REG'] = 'Enregistrer un billet';
 $lang['MENU_CALL2'] = 'Appel à sponsors';
 $lang['MENU_CALL3'] = 'Appel à contributions';
 //$lang['MENU_PROGRAMME'] = 'Programme';
