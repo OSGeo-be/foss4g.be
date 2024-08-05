@@ -43,7 +43,7 @@
 				<div class="row">
 					<div class="12u">
 						<p><?php echo $lang['PAPERS_CALL']; ?></p>
-						<p style="text-align: center;"><a class="button icon specialo small" href="submit-paper.php"><?php echo $lang['PAPERS_SUBMIT']; ?></a></p>
+						<!--<p style="text-align: center;"><a class="button icon specialo small" href="submit-paper.php"><?php echo $lang['PAPERS_SUBMIT']; ?></a></p>-->
 					</div>
 				</div>
 				<div class="row">
@@ -83,8 +83,8 @@
 						<p><i class="fa fa-caret-right"></i> <?php echo $lang['PAPERS_FORMAT_1']; ?></p>
 						<p><i class="fa fa-caret-right"></i> <?php echo $lang['PAPERS_FORMAT_2']; ?></p>
 						<p><i class="fa fa-caret-right"></i> <?php echo $lang['PAPERS_FORMAT_3']; ?></p> -->
-						<a href="submit-paper.php" class="button icon fa-warning specialo small" style="float:right"><?php echo $lang['PAPERS_DEADLINE']; ?></a> <h4 style="margin-top:20px;text-align:left"><?php echo $lang['PAPERS_SUM']; ?></h4>
-						<p><?php echo $lang['PAPERS_SUM_SUB']; ?></p>
+						<!--<a href="submit-paper.php" class="button icon fa-warning specialo small" style="float:right"><?php echo $lang['PAPERS_DEADLINE']; ?></a> <h4 style="margin-top:20px;text-align:left"><?php echo $lang['PAPERS_SUM']; ?></h4>-->
+						<!--<p><?php echo $lang['PAPERS_SUM_SUB']; ?></p>-->
 						<!-- <ol>
 							<li><?php echo $lang['PAPERS_SUM_NAME']; ?></li>
 							<li><?php echo $lang['PAPERS_SUM_EMAIL']; ?></li>
