@@ -1,4 +1,7 @@
 RewriteEngine on
 RewriteRule ^(nl|fr|en)/$ index.php?lang=$1
+RewriteRule ^talk/([^/.]+)$ talk/$1.php?lang=en [QSA]
+RewriteRule ^(nl|fr|en)/talk/([^/.]+)$ talk/$2.php?lang=$1 [QSA]
+RewriteRule ^(nl|fr|en)/talk/([^/.]+).php$ talk/$2.php?lang=$1 [QSA]
 RewriteRule ^(nl|fr|en)/([^/.]+)$ $2.php?lang=$1 [QSA]
 RewriteRule ^(nl|fr|en)/([^/.]+).php$ $2.php?lang=$1 [QSA]

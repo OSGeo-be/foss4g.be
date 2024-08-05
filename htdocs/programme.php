@@ -92,8 +92,9 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">13h00 - 17h00</div>
 							<div class="prog-track icon">BG 1</div>
 						</div>
-					</div>
-				</div>
+						<a class="prog-link icon" target="_blank" href="/talk/point-cloud-processing-with-qgis.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+							</div>
+							</div>
 
 				<div class="prog-item tr7" style="grid-row: 1 / 3;">
 					<div class="prog-content">
@@ -104,8 +105,9 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">13h00 - 17h00</div>
 							<div class="prog-track icon">Judo 3</div>
 						</div>
-					</div>
-				</div>
+						<a class="prog-link icon" target="_blank" href="/talk/how-to-create-custom-plugins-in-qgis.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+							</div>
+							</div>
 
 				<div class="prog-item tr4" style="grid-row: 1 / 3;">
 					<div class="prog-content">
@@ -116,8 +118,9 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">13h00 - 17h00</div>
 							<div class="prog-track icon">EHBO</div>
 						</div>
-					</div>
-				</div>
+						<a class="prog-link icon" target="_blank" href="/talk/setting-up-a-boundaries-database-with-postgis-topology.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+							</div>
+							</div>
 
 				<div class="prog-item tr3" style="grid-row: 1;">
 					<div class="prog-content">
@@ -128,8 +131,9 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">13h00 - 15h00</div>
 							<div class="prog-track icon">Judo 2</div>
 						</div>
-					</div>
-				</div>
+						<a class="prog-link icon" target="_blank" href="/talk/3d-viewer-en-3dtoolboxnl-t-b-v-digital-twin.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+							</div>
+							</div>
 
 				<div class="prog-item tr3" style="grid-row: 2;">
 					<div class="prog-content">
@@ -140,8 +144,9 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">15h00 - 17h00</div>
 							<div class="prog-track icon">Judo 2</div>
 						</div>
-					</div>
-				</div>
+						<a class="prog-link icon" target="_blank" href="/talk/starten-met-tailormap-webgis.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+							</div>
+							</div>
 
 				<div class="prog-item tr5" style="grid-row: 1;">
 					<div class="prog-content">
@@ -155,8 +160,9 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">13h00 - 15h00</div>
 							<div class="prog-track icon">Hobby/dans</div>
 						</div>
-					</div>
-				</div>
+						<a class="prog-link icon" target="_blank" href="/talk/maplibre-from-bits-to-pixels-generate-serve-and-visualize-your-own-base-map.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+							</div>
+							</div>
 
 				<div class="prog-item tr5" style="grid-row: 2;">
 					<div class="prog-content">
@@ -167,8 +173,9 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">15h00 - 17h00</div>
 							<div class="prog-track icon">Hobby/dans</div>
 						</div>
-					</div>
-				</div>
+						<a class="prog-link icon" target="_blank" href="/talk/help-belgian-national-crisis-management-by-improving-openstreetmap.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+							</div>
+							</div>
 
 				<div class="prog-item tr6" style="grid-row: 1;">
 					<div class="prog-content">
@@ -179,8 +186,9 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">13h00 - 15h00</div>
 							<div class="prog-track icon">La Salle</div>
 						</div>
-					</div>
-				</div>
+						<a class="prog-link icon" target="_blank" href="/talk/an-intro-to-point-cloud-processing-using-pdal-pipelines.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+							</div>
+							</div>
 
 				<div class="prog-item tr6" style="grid-row: 2;">
 					<div class="prog-content">
@@ -191,9 +199,10 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">15h00 - 17h00</div>
 							<div class="prog-track icon">La Salle</div>
 						</div>
-					</div>
-				</div>
-			</div>
+						<a class="prog-link icon" target="_blank" href="/talk/hands-on-cloud-native-geospatial-analytics-with-apache-sedona.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+						</div>
+						</div>
+						</div>
 
 
 			<div class="prog-item plenary intermezzo">
@@ -261,7 +270,8 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 						<div class="prog-sched icon">10h00 - 10h20</div>
 						<div class="prog-track icon">Grote zaal</div>
 					</div>
-				</div>
+					<a class="prog-link icon" target="_blank" href="/talk/enclaves-en-de-rol-van-osgeo-in-het-onderwijs.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+						</div>
 			</div>
 
 			<div class="prog-item plenary intermezzo">
@@ -288,8 +298,9 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">11h00 - 11h20</div>
 							<div class="prog-track icon">Grote zaal</div>
 						</div>
-					</div>
-				</div>
+						<a class="prog-link icon" target="_blank" href="/talk/qgis-for-hydrological-applications.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+							</div>
+							</div>
 
 				<div class="prog-item tr1">
 					<div class="prog-content">
@@ -303,8 +314,9 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">11h00 - 11h20</div>
 							<div class="prog-track icon">BG1</div>
 						</div>
-					</div>
-				</div>
+						<a class="prog-link icon" target="_blank" href="/talk/how-open-source-allows-an-administration-to-be-independent-and-ensure-everyones-security.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+							</div>
+							</div>
 
 				<div class="prog-item tr5">
 					<div class="prog-content">
@@ -316,8 +328,9 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">11h00 - 11h20</div>
 							<div class="prog-track icon">Hobby/dans</div>
 						</div>
-					</div>
-				</div>
+						<a class="prog-link icon" target="_blank" href="/talk/basisregistraties-en-openstreetmap-mixen-voor-map5topo-kaarten.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+							</div>
+							</div>
 
 				<div class="prog-item tr4">
 					<div class="prog-content">
@@ -330,8 +343,9 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">11h00 - 11h20</div>
 							<div class="prog-track icon">EHBO</div>
 						</div>
-					</div>
-				</div>
+						<a class="prog-link icon" target="_blank" href="/talk/a-novel-approach-to-estimating-building-density-in-the-brussels-region.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+							</div>
+							</div>
 
 				<div class="prog-item tr3">
 					<div class="prog-content">
@@ -342,8 +356,9 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">11h00 - 11h20</div>
 							<div class="prog-track icon">Judo 2</div>
 						</div>
-					</div>
-				</div>
+						<a class="prog-link icon" target="_blank" href="/talk/personalized-road-access-based-on-vehicle-characteristics.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+							</div>
+							</div>
 			</div>
 
 			<div class="prog-slot">
@@ -357,15 +372,13 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">11h25 - 11h45</div>
 							<div class="prog-track icon">Grote zaal</div>
 						</div>
-					</div>
+						<a class="prog-link icon" target="_blank" href="/talk/exploring-the-power-of-pcraster-tools.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+						</div>
 				</div>
 
 				<div class="prog-item tr1">
 					<div class="prog-content">
-						<div class="prog-title">Allmaps - Open source tools for curating, georeferencing and exploring
-							IIIF
-							maps
-						</div>
+						<div class="prog-title">Allmaps - Open source tools for curating, georeferencing and exploring IIIF maps</div>
 						<div class="prog-speaker">Manuel Claeys Bouuaert</div>
 						<div class="prog-theme icon">Stacks and formats</div>
 						<div class="prog-lang icon"><?php echo $lang['LANG_EN']; ?></div>
@@ -373,8 +386,9 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">11h25 - 11h45</div>
 							<div class="prog-track icon">BG1</div>
 						</div>
-					</div>
-				</div>
+						<a class="prog-link icon" target="_blank" href="/talk/allmaps-open-source-tools-for-curating-georeferencing-and-exploring-iiif-maps.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+							</div>
+							</div>
 
 				<div class="prog-item tr5">
 					<div class="prog-content">
@@ -386,8 +400,9 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">11h25 - 11h45</div>
 							<div class="prog-track icon">Hobby/dans</div>
 						</div>
-					</div>
-				</div>
+						<a class="prog-link icon" target="_blank" href="/talk/accessibility-data-for-wheelchair-users-in-osm.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+							</div>
+							</div>
 
 				<div class="prog-item tr4">
 					<div class="prog-content">
@@ -402,8 +417,9 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">11h25 - 11h45</div>
 							<div class="prog-track icon">EHBO</div>
 						</div>
-					</div>
-				</div>
+						<a class="prog-link icon" target="_blank" href="/talk/leveraging-open-source-geospatial-software-for-webservices-a-ngi-use-case-for-automating-fair-data-p.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+							</div>
+							</div>
 
 				<div class="prog-item tr3">
 					<div class="prog-content">
@@ -415,8 +431,9 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">11h25 - 11h45</div>
 							<div class="prog-track icon">Judo 2</div>
 						</div>
-					</div>
-				</div>
+						<a class="prog-link icon" target="_blank" href="/talk/communitybouwen-en-opensource-pleio-nl.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+							</div>
+							</div>
 			</div>
 
 			<div class="prog-slot">
@@ -430,8 +447,9 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">11h50 - 12h10</div>
 							<div class="prog-track icon">Grote zaal</div>
 						</div>
-					</div>
-				</div>
+						<a class="prog-link icon" target="_blank" href="/talk/using-open-access-spatial-data-for-enhanced-sanitation-planning.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+							</div>
+							</div>
 
 				<div class="prog-item tr1">
 					<div class="prog-content">
@@ -443,8 +461,9 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">11h50 - 12h10</div>
 							<div class="prog-track icon">BG1</div>
 						</div>
-					</div>
-				</div>
+						<a class="prog-link icon" target="_blank" href="/talk/should-you-use-geoparquet.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+							</div>
+							</div>
 
 				<div class="prog-item tr5">
 					<div class="prog-content">
@@ -456,14 +475,14 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">11h50 - 12h10</div>
 							<div class="prog-track icon">Hobby/dans</div>
 						</div>
-					</div>
-				</div>
+						<a class="prog-link icon" target="_blank" href="/talk/3000-aed-s-in-vlaanderen.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+							</div>
+							</div>
 
 				<div class="prog-item tr4">
 					<div class="prog-content">
 						<div class="prog-title">Current Status and Future Challenges of Digital Twin Implementation in
-							Seoul
-							Metropolitan Government</div>
+							Seoul Metropolitan Government</div>
 						<div class="prog-speaker">Kim Tae-Hyun</div>
 						<div class="prog-theme icon">Platforms</div>
 						<div class="prog-lang icon"><?php echo $lang['LANG_EN']; ?></div>
@@ -471,19 +490,22 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">11h50 - 12h10</div>
 							<div class="prog-track icon">EHBO</div>
 						</div>
-					</div>
-				</div>
-
-				<div class="prog-item tr3">
-					<div class="prog-title">Pizza symbols in QGIS</div>
-					<div class="prog-speaker">Raymond Nijssen</div>
-					<div class="prog-theme icon">QGIS</div>
-					<div class="prog-lang icon"><?php echo $lang['LANG_EN']; ?></div>
-								<div class="prog-tl">
+						<a class="prog-link icon" target="_blank" href="/talk/current-status-and-future-challenges-of-digital-twin-implementation-in-seoul-metropolitan-government.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+						</div>
+						</div>
+						
+						<div class="prog-item tr3">
+							<div class="prog-title">Pizza symbols in QGIS</div>
+							<div class="prog-speaker">Raymond Nijssen</div>
+							<div class="prog-theme icon">QGIS</div>
+							<div class="prog-lang icon"><?php echo $lang['LANG_EN']; ?></div>
+							<div class="prog-tl">
 									<div class="prog-sched icon">11h50 - 12h10</div>
 									<div class="prog-track icon">Judo 2</div>
 								</div>
-							</div>
+								<a class="prog-link icon" target="_blank" href="/talk/pizza-symbols-in-qgis.php"
+									title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+									</div>
 			</div>
 
 			<div class="prog-item plenary intermezzo">
@@ -510,8 +532,9 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">13h15 - 13h35</div>
 							<div class="prog-track icon">Grote zaal</div>
 						</div>
-					</div>
-				</div>
+						<a class="prog-link icon" target="_blank" href="/talk/state-of-3d-tiles.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+							</div>
+							</div>
 
 				<div class="prog-item tr1">
 					<div class="prog-content">
@@ -523,8 +546,9 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">13h15 - 13h35</div>
 							<div class="prog-track icon">BG1</div>
 						</div>
-					</div>
-				</div>
+						<a class="prog-link icon" target="_blank" href="/talk/open-source-in-higher-education-challenges-and-opportunities.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+							</div>
+							</div>
 
 				<div class="prog-item tr5">
 					<div class="prog-content">
@@ -536,8 +560,9 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">13h15 - 13h35</div>
 							<div class="prog-track icon">Hobby/dans</div>
 						</div>
-					</div>
-				</div>
+						<a class="prog-link icon" target="_blank" href="/talk/mapbox-cloud-vector-tiles-met-attribuutinformatie.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+							</div>
+							</div>
 
 				<div class="prog-item tr4">
 					<div class="prog-content">
@@ -549,8 +574,9 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">13h15 - 13h35</div>
 							<div class="prog-track icon">EHBO</div>
 						</div>
-					</div>
-				</div>
+						<a class="prog-link icon" target="_blank" href="/talk/gbif-be-the-belgian-biodiversity-data-portal.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+							</div>
+							</div>
 
 				<div class="prog-item tr3">
 					<div class="prog-content">
@@ -562,8 +588,9 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">13h15 - 13h35</div>
 							<div class="prog-track icon">Judo 2</div>
 						</div>
-					</div>
-				</div>
+						<a class="prog-link icon" target="_blank" href="/talk/algorithm-for-network-planning-and-design-in-postgis.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+							</div>
+							</div>
 			</div>
 
 			<div class="prog-slot">
@@ -577,8 +604,9 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">13h40 - 14h00</div>
 							<div class="prog-track icon">Grote zaal</div>
 						</div>
-					</div>
-				</div>
+						<a class="prog-link icon" target="_blank" href="/talk/leia-the-open-source-cesium-based-3d-viewer.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+							</div>
+							</div>
 
 				<div class="prog-item tr1">
 					<div class="prog-content">
@@ -591,8 +619,9 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">13h40 - 14h00</div>
 							<div class="prog-track icon">BG1</div>
 						</div>
-					</div>
-				</div>
+						<a class="prog-link icon" target="_blank" href="/talk/open-source-webmap-as-the-new-standard-in-one-of-netherlands-largest-educational-institute-what-hurd.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+							</div>
+							</div>
 
 				<div class="prog-item tr5">
 					<div class="prog-content">
@@ -605,8 +634,9 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">13h40 - 14h00</div>
 							<div class="prog-track icon">Hobby/dans</div>
 						</div>
-					</div>
-				</div>
+						<a class="prog-link icon" target="_blank" href="/talk/ruimtelijke-plannen-opvragen-voor-een-gis-viewer-van-wfs-naar-api.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+							</div>
+							</div>
 
 				<div class="prog-item tr4">
 					<div class="prog-content">
@@ -619,8 +649,9 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">13h40 - 14h00</div>
 							<div class="prog-track icon">EHBO</div>
 						</div>
-					</div>
-				</div>
+						<a class="prog-link icon" target="_blank" href="/talk/manaias-a-tool-supporting-the-management-of-invasive-alien-species.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+							</div>
+							</div>
 
 				<div class="prog-item tr3">
 					<div class="prog-content">
@@ -634,8 +665,9 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">13h40 - 14h00</div>
 							<div class="prog-track icon">Judo 2</div>
 						</div>
-					</div>
-				</div>
+						<a class="prog-link icon" target="_blank" href="/talk/maintaining-a-global-database-of-admin-and-postal-boundaries-with-postgis-a-large-scale-use-case-for.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+							</div>
+							</div>
 			</div>
 
 			<div class="prog-slot">
@@ -649,8 +681,9 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">14h05 - 14h25</div>
 							<div class="prog-track icon">Grote zaal</div>
 						</div>
-					</div>
-				</div>
+						<a class="prog-link icon" target="_blank" href="/talk/3d-in-tailormap-integratie-van-cesium-en-openlayers.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+							</div>
+							</div>
 
 				<div class="prog-item tr1">
 					<div class="prog-content">
@@ -663,8 +696,9 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">14h05 - 14h25</div>
 							<div class="prog-track icon">BG1</div>
 						</div>
-					</div>
-				</div>
+						<a class="prog-link icon" target="_blank" href="/talk/shareish-an-open-source-map-based-web-platform-to-facilitate-diverse-solidarity-practices.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+							</div>
+							</div>
 
 				<div class="prog-item tr5">
 					<div class="prog-content">
@@ -677,8 +711,9 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">14h05 - 14h25</div>
 							<div class="prog-track icon">Hobby/dans</div>
 						</div>
-					</div>
-				</div>
+						<a class="prog-link icon" target="_blank" href="/talk/een-interactieve-multi-criteria-analyse-tool-een-startgesprek-voor-ruimtelijke-planning.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+							</div>
+							</div>
 
 				<div class="prog-item tr3">
 					<div class="prog-content">
@@ -692,8 +727,9 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">14h05 - 14h25</div>
 							<div class="prog-track icon">Judo 2</div>
 						</div>
-					</div>
-				</div>
+						<a class="prog-link icon" target="_blank" href="/talk/large-scale-geospatial-computations-recycle-your-postgis-spatial-sql-queries-with-apache-sedona.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+							</div>
+							</div>
 			</div>
 
 
@@ -723,8 +759,9 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">15h00 - 15h20</div>
 							<div class="prog-track icon">Grote zaal</div>
 						</div>
-					</div>
-				</div>
+						<a class="prog-link icon" target="_blank" href="/talk/stable-ids-from-openstreetmap-and-combining-data-sources-for-use-in-crisis-management-how-the-nccn-u.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+							</div>
+							</div>
 
 				<div class="prog-item tr1">
 					<div class="prog-content">
@@ -736,8 +773,9 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">15h00 - 15h20</div>
 							<div class="prog-track icon">BG1</div>
 						</div>
-					</div>
-				</div>
+						<a class="prog-link icon" target="_blank" href="/talk/hoe-het-onderwijs-profiteert-van-open-online-gis-software.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+							</div>
+							</div>
 
 				<div class="prog-item tr5">
 					<div class="prog-content">
@@ -752,8 +790,9 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">15h00 - 15h20</div>
 							<div class="prog-track icon">Hobby/dans</div>
 						</div>
-					</div>
-				</div>
+						<a class="prog-link icon" target="_blank" href="/talk/liefde-is-leuk-maar-het-moet-wel-betaalbaar-blijven-een-business-case-voor-open-source.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+							</div>
+							</div>
 
 				<div class="prog-item tr4">
 					<div class="prog-content">
@@ -765,8 +804,9 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">15h00 - 15h20</div>
 							<div class="prog-track icon">EHBO</div>
 						</div>
-					</div>
-				</div>
+						<a class="prog-link icon" target="_blank" href="/talk/inzet-qgis-voor-tekenwerk-en-kaartvervaardiging.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+							</div>
+							</div>
 			</div>
 
 			<div class="prog-slot">
@@ -780,8 +820,9 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">15h25 - 15h45</div>
 							<div class="prog-track icon">Grote zaal</div>
 						</div>
-					</div>
-				</div>
+						<a class="prog-link icon" target="_blank" href="/talk/indoor-mapping-university-of-groningen.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+							</div>
+							</div>
 
 				<div class="prog-item tr1">
 					<div class="prog-content">
@@ -795,8 +836,9 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">15h25 - 15h45</div>
 							<div class="prog-track icon">BG1</div>
 						</div>
-					</div>
-				</div>
+						<a class="prog-link icon" target="_blank" href="/talk/edugis-browsergebaseerde-kaartvisualisatie-en-analyse-voor-het-onderwijs.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+							</div>
+							</div>
 
 				<div class="prog-item tr5">
 					<div class="prog-content">
@@ -808,8 +850,9 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">15h25 - 15h45</div>
 							<div class="prog-track icon">Hobby/dans</div>
 						</div>
-					</div>
-				</div>
+						<a class="prog-link icon" target="_blank" href="/talk/osgeo-nl-de-verenigde-stichting.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+							</div>
+							</div>
 
 				<div class="prog-item tr4">
 					<div class="prog-content">
@@ -821,8 +864,9 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">15h25 - 15h45</div>
 							<div class="prog-track icon">EHBO</div>
 						</div>
-					</div>
-				</div>
+						<a class="prog-link icon" target="_blank" href="/talk/let-s-play-together-with-keycloak.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+							</div>
+							</div>
 			</div>
 
 
@@ -846,7 +890,8 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 						<div class="prog-sched icon">16h00 - 16h20</div>
 						<div class="prog-track icon">Grote zaal</div>
 					</div>
-				</div>
+					<a class="prog-link icon" target="_blank" href="/talk/how-open-source-geo-tools-could-shape-some-american-elections.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+						</div>
 			</div>
 
 			<div class="prog-item plenary intermezzo">

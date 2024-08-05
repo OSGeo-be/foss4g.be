@@ -444,6 +444,8 @@ $lang['PROG_CODESPRINT'] = 'codesprint';
 $lang['PROG_CODESPRINT_WHAT'] = 'Waar wil jij aan werken?';
 $lang['PROG_CODESPRINT_WHO'] = 'Jij!';
 
+$lang['PROG_MORE_INFO'] = 'Meer info';
+
 $lang['LANG_EN'] = $lang['URL_NAME_1'];
 $lang['LANG_NL'] = $lang['URL_NAME_2'];
 $lang['LANG_FR'] = $lang['URL_NAME_3'];

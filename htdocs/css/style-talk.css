@@ -1,0 +1,103 @@
+#skel-layers-wrapper {
+    margin: 4px !important;
+}
+
+#main {
+    padding: 40px 0;
+}
+
+.icon::before {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    margin-right: 0.5em;
+    font-size: 80%;
+}
+
+div.content {
+    background-color: white;
+    padding: 1rem;
+    font-size: 1rem;
+}
+
+div.content h2 {
+    font-size: 2.25em !important;
+    font-family: inherit;
+    margin: 0;
+}
+
+div.content h3 {
+    font-size: 1.5em !important;
+    font-family: inherit;
+    margin: 0;
+}
+
+div.content .prog-speaker {
+    font-size: 1.5rem;
+    margin-top: 0.5rem;
+    margin-bottom: 2rem;
+    ;
+}
+
+div.content .abstract {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    font-weight: bolder;
+    text-align: left;
+    max-width: 800px;
+    margin-top: 20px;
+}
+
+div.content .abstract p {
+    margin-bottom: 1em;
+}
+
+div.content .prog-lang::before {
+    content: '\f1ab';
+}
+
+div.content .prog-sched::before {
+    content: '\f017';
+}
+
+div.content .prog-track::before {
+    content: '\f015';
+}
+
+div.content .prog-theme::before {
+    content: '\f1fc';
+}
+
+div.content .prog-track {
+    padding-bottom: 10px;
+}
+
+div.content .prog-track.tr1 {
+    border-bottom: 5px solid #fbb4ae;
+}
+
+div.content .prog-track.tr2 {
+    border-bottom: 5px solid #b3cde3;
+}
+
+div.content .prog-track.tr3 {
+    border-bottom: 5px solid #ccebc5;
+}
+
+div.content .prog-track.tr4 {
+    border-bottom: 5px solid #decbe4;
+}
+
+div.content .prog-track.tr5 {
+    border-bottom: 5px solid #fed9a6;
+}
+
+div.content .prog-track.tr6 {
+    border-bottom: 5px solid #ffffcc;
+}
+
+div.content .prog-track.tr7 {
+    border-bottom: 5px solid #b3cde3;
+}
