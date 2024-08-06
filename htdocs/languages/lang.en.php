@@ -414,7 +414,7 @@ $lang['MENU_MAPS'] = 'Call for Maps';
 	// CTA
 $lang['FOOTER_THANKS'] = 'FOSS4G is a free event. We thank our sponsors and partners for making this possible.';
 $lang['FOOTER_THANKS_ALL'] = ''; #'<a href="http://www.bruxellesenvironnement.be/" title="Bruxelles Environnement" style="color:#fff">Bruxelles Environnement</a><!-- - L\'<a href="http://igeat.ulb.ac.be/" title="IGEAT" style="color:#fff">Institut de Gestion de l\'Environnement et d\'Aménagement du Territoire</a> (IGEAT/ULB) - <a href="http://checksum.be/" style="color:#fff">Checksum</a> -->';
-$lang['FOOTER_MORE'] = 'If you want more information <a href="contact.php" style="color:#fff">contact us</a>';
+$lang['FOOTER_MORE'] = 'If you want more information <a href="/contact.php" style="color:#fff">contact us</a>';
 	// FOOTER
 
 // ERROR CODES -------------------------------------------------------------------------------------------------------/
