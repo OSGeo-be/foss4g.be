@@ -76,7 +76,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
                 <h3>Trefwoorden</h3>
                 <p>
                     Online | Open Source GIS | Voortgezet Onderwijs | Kaarten | Lesmateriaal | Eigen leefomgeving |
-                    Actuele vraagstukken | Digitale kaartvaardigheden | <a href="www.edugis.nl"
+                    Actuele vraagstukken | Digitale kaartvaardigheden | <a href="https://www.edugis.nl"
                         target="_blank">www.edugis.nl</a>
                 </p>
 
