@@ -41,7 +41,7 @@
 					<h3><?php echo $lang['CONTACT_TITLE']; ?></h3>
 					<p style="color:#fff"><?php echo $lang['CONTACT_SUBTITLE']; ?></p>
 				</header>
-				<div class="box" style="background-color:rgba(245,245,245,0.8);margin-top:0">
+				<!--<div class="box" style="background-color:rgba(245,245,245,0.8);margin-top:0">
 					<form method="post" action="mail.php">
 						<div class="row uniform half collapse-at-2">
 							<div class="6u">
@@ -73,7 +73,7 @@
 							</div>
 						</div>
 					</form>
-				</div>
+				</div>-->
 			</section>
 		</section>
 			
