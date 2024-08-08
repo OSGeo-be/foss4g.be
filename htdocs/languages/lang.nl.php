@@ -439,7 +439,7 @@ $lang['PROG_WORKSHOP'] = 'workshops';
 $lang['PROG_THU'] = 'Donderdag 26/9';
 $lang['PROG_CONFERENCE'] = 'conferentiedag';
 
-$lang['PROG_FRI'] = 'Vrijdag 26/9';
+$lang['PROG_FRI'] = 'Vrijdag 27/9';
 $lang['PROG_CODESPRINT'] = 'codesprint';
 $lang['PROG_CODESPRINT_WHAT'] = 'Waar wil jij aan werken?';
 $lang['PROG_CODESPRINT_WHO'] = 'Jij!';

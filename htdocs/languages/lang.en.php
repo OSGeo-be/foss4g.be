@@ -347,7 +347,7 @@ $lang['PROG_WORKSHOP'] = 'workshops';
 $lang['PROG_THU'] = 'Thursday 26/9';
 $lang['PROG_CONFERENCE'] = 'conference day';
 
-$lang['PROG_FRI'] = 'Friday 26/9';
+$lang['PROG_FRI'] = 'Friday 27/9';
 $lang['PROG_CODESPRINT'] = 'codesprint';
 $lang['PROG_CODESPRINT_WHAT'] = 'What do you want to work on?';
 $lang['PROG_CODESPRINT_WHO'] = 'You!';
