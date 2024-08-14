@@ -374,7 +374,8 @@ pourquoi nous avons décidé d\'organiser une Galerie de Cartes. Nous vous invit
 sera une
 exposition dynamique et passionnante du meilleur de la cartographie ! Apporter votre contribution à la galerie
 de cartes
-est simple : concevez une carte à l\'aide d\'au moins une technologie Open source ou de données libres.</p>
+est simple : concevez une carte à l\'aide d\'au moins une technologie Open source ou de données libres. De plus, afin 
+d\'obtenir de nouvelles cartes à chaque fois, nous privilégions les cartes créées en 2023 ou 2024.</p>
 
 <p>Cette carte peut être le résultat d\'une activité professionnelle ou d\'un défi personnel. Nous encourageons
 donc tous les
@@ -397,9 +398,9 @@ d\'ailleurs, à contribuer à ce qui sera, sans aucun doute, la plus détonante 
 
 <h4 style="text-align:left">Directives dans le cas où vous souhaitez amener votre carte papier sur place</h4>
 
-<p>Les cartes doivent être envoyés à l\'aide de <a
-  href="https://tinyurl.com/foss4gbemap">https://tinyurl.com/foss4gbemap</a> ou par mail <a
-  href="mailto:map@foss4g.be">map@foss4g.be</a> (avant le 10 novembre) afin de nous demander la réservation
+<p>Les cartes doivent être envoyés à l\'aide du <a
+  href="https://docs.google.com/forms/d/e/1FAIpQLScW9sgkRizzOCXXdbbPGGaXY5czjxfIO-It7Pm9gRO-JM7NSA/viewform?usp=sf_link">formulaire</a> ou par mail <a
+  href="mailto:map@foss4g.be">map@foss4g.be</a> (avant le 16 septembre) afin de nous demander la réservation
 d\'un espace dans la
 galerie. Apporter sur place, lors de la conférence, une copie papier à suspendre dans la galerie. Les supports
 mis à
@@ -410,9 +411,9 @@ admises.</p>
 <h4 style="text-align:left">Directives si vous souhaitez soumettre votre carte en ligne</h4>
 
 <p>
-<p>Les cartes doivent être envoyés à l\'aide de <a
-  href="https://tinyurl.com/foss4gbemap">https://tinyurl.com/foss4gbemap</a> ou par mail <a
-  href="mailto:map@foss4g.be">map@foss4g.be</a> (avant le 10 novembre). Les critères à respecter sont les
+<p>Les cartes doivent être envoyés à l\'aide du <a
+  href="https://docs.google.com/forms/d/e/1FAIpQLScW9sgkRizzOCXXdbbPGGaXY5czjxfIO-It7Pm9gRO-JM7NSA/viewform?usp=sf_link">formulaire</a> ou par mail <a
+  href="mailto:map@foss4g.be">map@foss4g.be</a> (avant le 16 septembre). Les critères à respecter sont les
 suivants :</p>
 
 <ul>

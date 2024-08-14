@@ -365,8 +365,8 @@ $lang['MAPS_TXT'] ='        <p>As a geospatial conference, maps should definitiv
 vibrant exhibit of the very best maps -both digitally and on paper. The only requirement to be shown is that
 at least
 some part was done with some open data or open source technology. Furthermore, in order to get a fresh map
-each tine, we
-prefer maps that have been created since the last FOSS4G-BE.</p>
+each time, we
+prefer maps that have been created in 2023 or 2024.</p>
 
 <p>If you have created maps that you are proud of, please send them over! Together, we create this yearly
 highlight! Your
@@ -379,7 +379,7 @@ during the
 conference. In both cases, we ask you to send it in beforehand in order to reserve space.</p>
 
 <ul>
-<li>Submit your map before November 10, either using the <a href="https://tinyurl.com/foss4gbemap">form</a> or
+<li>Submit your map before September 16, either using the <a href="https://docs.google.com/forms/d/e/1FAIpQLScW9sgkRizzOCXXdbbPGGaXY5czjxfIO-It7Pm9gRO-JM7NSA/viewform?usp=sf_link">form</a> or
   via mail: <a href="mailto:map@foss4g.be">map@foss4g.be</a></li>
 <li>There\'ll be enough space provided for an A1-sized map. If the number of maps submitted is larger than the
   space available, we will make a selection.</li>
@@ -399,7 +399,7 @@ conference. In both cases, we ask you to send it in beforehand in order to reser
 wall. If you want to provide an interactive map, then:</p>
 
 <ul>
-<li>Submit your map before November 10, either using the <a href="https://tinyurl.com/foss4gbemap">form</a> or
+<li>Submit your map before September 16, either using the <a href="https://docs.google.com/forms/d/e/1FAIpQLScW9sgkRizzOCXXdbbPGGaXY5czjxfIO-It7Pm9gRO-JM7NSA/viewform?usp=sf_link">form</a> or
   via mail: <a href="mailto:map@foss4g.be">map@foss4g.be</a></li>
 <li>Provide a title, author and/or organization and description of the map.</li>
 <li>Mention what software and data were used to create the map.</li>

@@ -374,7 +374,7 @@ worden
 aangetoond, is dat de kaart minstens voor een deel gemaakt is met open data of open source-technologie.
 Bovendien,
 om elke telkens
-nieuwe kaarten te krijgen, geven we de voorkeur aan kaarten die zijn gemaakt sinds de laatste FOSS4G-BE.</p>
+nieuwe kaarten te krijgen, geven we de voorkeur aan kaarten die zijn gemaakt in 2023 of 2024.</p>
 
 <p>Als je kaarten hebt gemaakt waar je trots op bent, stuur ze dan op! Samen creëren we dit jaarlijkse
 hoogtepunt! Uw kaart
@@ -388,7 +388,7 @@ deze zelf meenemen
 naar het congres. In beide gevallen vragen wij u deze vooraf op te sturen om ruimte te reserveren.</p>
 
 <ul>
-<li>Dien uw kaart in vóór 10 november via het <a href="https://tinyurl.com/foss4gbemap">formulier</a> of via
+<li>Dien uw kaart in vóór 16 september via het <a href="https://docs.google.com/forms/d/e/1FAIpQLScW9sgkRizzOCXXdbbPGGaXY5czjxfIO-It7Pm9gRO-JM7NSA/viewform?usp=sf_link">formulier</a> of via
   mail: <a href="map@foss4g.be">map@foss4g.be</a></li>
 <li>Er is voldoende ruimte voor een kaart op A1-formaat. Als het aantal ingestuurde kaarten groter is dan de
   beschikbare
@@ -410,7 +410,7 @@ geplaatst.
 Als u een interactieve kaart wilt aanleveren, dan:</p>
 
 <ul>
-<li>Dien uw kaart in vóór 10 november via het <a href="https://tinyurl.com/foss4gbemap">formulier</a> of via
+<li>Dien uw kaart in vóór 10 november via het <a href="https://docs.google.com/forms/d/e/1FAIpQLScW9sgkRizzOCXXdbbPGGaXY5czjxfIO-It7Pm9gRO-JM7NSA/viewform?usp=sf_link">formulier</a> of via
   mail: <a href="map@foss4g.be">map@foss4g.be</a></li>
 <li>Geef een titel, auteur en/of organisatie en beschrijving van de kaart op.</li>
 <li>Vermeld welke software en gegevens zijn gebruikt om de kaart te maken.</li>
