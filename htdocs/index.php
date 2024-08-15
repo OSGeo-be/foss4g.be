@@ -17,6 +17,7 @@
 			<link rel="stylesheet" href="/css/style.css" />
 			<link rel="stylesheet" href="/css/style-wide.css" />
 		</noscript>
+		<link rel="me" href="https://fosstodon.org/@osgeobe"/>
 	</head>
 	<body class="landing">
 		<!-- Header -->
