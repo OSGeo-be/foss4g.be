@@ -125,7 +125,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 				<div class="prog-item tr3" style="grid-row: 1;">
 					<div class="prog-content">
 						<div class="prog-title">Workshop 3DToolboxNL en 3D Leia viewer</div>
-						<div class="prog-speaker">Marco van Antwerpen, Kamiel Verhelst <i>et. al.</i></div>
+						<div class="prog-speaker">Marco van Antwerpen, Kamiel Verhelst, Wim Kosten <i>et. al.</i></div>
 						<div class="prog-lang icon"><?php echo $lang['LANG_NL']; ?></div>
 						<div class="prog-tl">
 							<div class="prog-sched icon">13h00 - 15h00</div>
