@@ -410,7 +410,7 @@ geplaatst.
 Als u een interactieve kaart wilt aanleveren, dan:</p>
 
 <ul>
-<li>Dien uw kaart in vóór 10 november via het <a href="https://docs.google.com/forms/d/e/1FAIpQLScW9sgkRizzOCXXdbbPGGaXY5czjxfIO-It7Pm9gRO-JM7NSA/viewform?usp=sf_link">formulier</a> of via
+<li>Dien uw kaart in vóór 16 september via het <a href="https://docs.google.com/forms/d/e/1FAIpQLScW9sgkRizzOCXXdbbPGGaXY5czjxfIO-It7Pm9gRO-JM7NSA/viewform?usp=sf_link">formulier</a> of via
   mail: <a href="map@foss4g.be">map@foss4g.be</a></li>
 <li>Geef een titel, auteur en/of organisatie en beschrijving van de kaart op.</li>
 <li>Vermeld welke software en gegevens zijn gebruikt om de kaart te maken.</li>
