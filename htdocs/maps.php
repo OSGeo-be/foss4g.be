@@ -56,12 +56,12 @@
 			<?php echo $lang['MAPS_TXT']; ?>
 			
 			</div>
-		<div class="nav bottom">
+		<!-- <div class="nav bottom">
 			<prev></prev><a href="index.php"
 				title="<?php echo $lang['MENU_HOME']; ?>"><?php echo $lang['MENU_HOME']; ?></a> <a
 				href="call.php" title="<?php echo $lang['MENU_CALL2']; ?>"><?php echo $lang['MENU_CALL2']; ?></a>
 			<next></next>
-		</div>
+		</div> -->
 		</section>
 
 	<!-- CTA -->
