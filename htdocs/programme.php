@@ -124,16 +124,16 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 
 				<div class="prog-item tr3" style="grid-row: 1;">
 					<div class="prog-content">
-						<div class="prog-title">3D Viewer en 3DToolboxNL t.b.v. digital twin</div>
-						<div class="prog-speaker">Kamiel Verhelst, Marco van Antwerpen, Thieu Caris</div>
+						<div class="prog-title">Workshop 3DToolboxNL en 3D Leia viewer</div>
+						<div class="prog-speaker">Marco van Antwerpen, Kamiel Verhelst <i>et. al.</i></div>
 						<div class="prog-lang icon"><?php echo $lang['LANG_NL']; ?></div>
 						<div class="prog-tl">
 							<div class="prog-sched icon">13h00 - 15h00</div>
 							<div class="prog-track icon">Judo 2</div>
 						</div>
-						<a class="prog-link icon" target="_blank" href="/talk/3d-viewer-en-3dtoolboxnl-t-b-v-digital-twin.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
-							</div>
-							</div>
+						<a class="prog-link icon" target="_blank" href="/talk/workshop-3dtoolboxnl-en-3d-leia-viewer.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+						</div>
+						</div>
 
 				<div class="prog-item tr3" style="grid-row: 2;">
 					<div class="prog-content">

@@ -1,5 +1,5 @@
 <?php include_once '../common.php';
-include_once ("../mysql.php");
+include_once("../mysql.php");
 $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 ?>
 <!DOCTYPE html>
@@ -54,9 +54,10 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
     <section id="main" class="container">
 
         <div class="content">
-            <h2>3D Viewer en 3DToolboxNL t.b.v. digital twin</h2>
+            <h2>Workshop 3DToolboxNL en 3D Leia viewer</h2>
 
-            <div class="prog-speaker">Kamiel Verhelst, Marco van Antwerpen, Thieu Caris</div>
+            <div class="prog-speaker">Marco van Antwerpen, Kamiel Verhelst, Wim Kosten, Joery Zegers, Koen Schippers,
+                Thieu Caris</div>
             <div class="prog-lang icon"><?php echo $lang['LANG_NL']; ?></div>
 
             <div class="prog-tl">
@@ -66,13 +67,36 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 
             <div class="abstract">
                 <p>
-                    Workshop werken met de 3D-digital twin Cesium Viewer: <a href="https://github.com/leia-project"
-                        target="_blank">https://github.com/leia-project</a> en de
-                    3DToolboxNL: <a href="https://github.com/3DToolboxNL"
-                        target="_blank">https://github.com/3DToolboxNL</a>.
+                    Het project 3DToolboxNL is gericht op het beschikbaar maken van open source tooling en documentatie
+                    voor het werken met 3D informatie, met name in Cesium, in de Nederlandse context. <a target="_blank"
+                        href="https://github.com/3DToolboxNL/3DToolboxNL">https://github.com/3DToolboxNL/3DToolboxNL</a>
                 </p>
-                <p>We sturen z.s.m. een uitgebreidere omschrijving.</p>
-                <p>Workshop wordt gegegeven door Geodan (Kamiel) en collega's van de Provincie Zeeland</p>
+                <p>
+                    In deze workshop laten we zien hoe je met de 3DToolboxNL data zoals het GeoTop model (uit de
+                    Basisregistratie Ondergrond) of een AHN DEM kan converteren naar een open standaard zoals 3D Tiles,
+                    die zich eenvoudig laat inladen in Cesium. Uiteraard kun je ook zelf data gaan converteren met de
+                    3DToolboxNL.
+                </p>
+                <p>
+                    We gebruiken de 3D Leia viewer (Cesium) tijdens de workshop. Leia heeft veel functionaliteit om via
+                    een gebruiksvriendelijke interface 2D en 3D data te visualiseren, bevragen, bewerken en analyseren.
+                    De Leia viewer wordt al door een aantal overheden gebruikt in digital twins.
+                    <a href="https://github.com/leia-project" target="_blank">https://github.com/leia-project</a>
+                </p>
+                <p>
+                    3D data zal klaar staan voor deelnemers. Heb je eigen 3D data die je wil visualiseren neem die mee.
+                    Stuur bij voorkeur even een mailtje aan ospo@zeeland.nl met je data dan kan dit van te voren even
+                    getest worden.
+                </p>
+                <p>
+                    De handleiding die je volgt om alles voorafgaand aan de workshop geïnstalleerd te hebben staat hier:
+                    <a href="https://github.com/ProvincieZeeland/foss4g-nlbe"
+                        target="_blank">https://github.com/ProvincieZeeland/foss4g-nlbe</a>
+                </p>
+                <p>
+                    Het is fijn als je alles al draaiende hebt voor aanvang van de workshop. Mocht het toch niet lukken
+                    of heb je vragen mail ons ospo@zeeland.nl
+                </p>
             </div>
         </div>
 
