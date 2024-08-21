@@ -51,6 +51,8 @@
 								</a>
 							</dt>
 							<dd class="accordionItem">
+								<a class="sponsor icon" href="https://www.opengeogroep.nl"><img src="/images/sponsors/opengeogroep.gif"/></a>
+								<a class="sponsor icon" href="https://www.geocat.net/"><img src="/images/sponsors/geocat.svg"/></a>
 							</dd>
 							<dt class="spons">
 								<a href="#" class="accordionTitle sponsors bronze">

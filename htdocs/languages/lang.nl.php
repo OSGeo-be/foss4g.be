@@ -228,9 +228,9 @@ $lang['SPONSORS_WHY_TITLE'] ='Waarom OSGeo sponsoren';
 
 // SPONSORS THANKS ------------------------------------------------------------------------------------------------------------/	
 
-$lang['SPONSORS_T_TITLE'] ='Onze Partners en Sponsors';
-$lang['SPONSORS_T_SUBTITLE'] ='Dank aan onze sponsors en onze partners om dit mogelijk te maken';	
-	
+$lang['SPONSORS_T_TITLE'] = 'Onze partners en sponsors';
+$lang['SPONSORS_T_SUBTITLE'] = 'Dank aan onze sponsors en onze partners om ons te ondersteunen';
+
 
 // PAPERS PAGE CALL ------------------------------------------------------------------------------------------------------------/
 
