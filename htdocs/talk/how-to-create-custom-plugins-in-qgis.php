@@ -1,5 +1,5 @@
 <?php include_once '../common.php';
-include_once ("../mysql.php");
+include_once("../mysql.php");
 $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 ?>
 <!DOCTYPE html>
@@ -66,8 +66,21 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 
             <div class="abstract">
                 <p>
-                    In this workshop, I will teach people how they can create their own custom plugins in QGIS using
-                    Python. Once you learn how to do this, the possibilities of QGIS will be endless!
+                    Are you ready to take your QGIS skills to the next level? Join our hands-on workshop where you'll
+                    learn how to develop your own plugins in QGIS! Whether you're looking to automate repetitive tasks,
+                    create custom tools tailored to your workflow, or simply explore the possibilities of extending QGIS
+                    functionality, this workshop is for you.
+                </p>
+                <p>
+                    In this session, we'll cover the essentials of Python programming within QGIS, guide you through the
+                    plugin development process, and show you how to design, build, and deploy a fully functional plugin.
+                    Some minor programming experience may be useful—most importantly,
+                    you'll need just a passion for GIS and a desire to enhance your QGIS experience.
+                </p>
+                <p>
+                    By the end of the workshop, you'll have the skills to create your own plugins, opening up a world of
+                    possibilities for customizing your QGIS environment and making your geospatial projects more
+                    efficient and effective.
                 </p>
             </div>
         </div>
