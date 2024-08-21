@@ -125,16 +125,18 @@ $lang['ABOUT_A_TEXT2'] ='<a href="http://www.osgeo.org/">La fondation Open Sourc
 $lang['SPONSORS_TITLE'] ='Appel à sponsors';
 
 $lang['SPONSORS_SUBTITLE'] ='Aidez-nous à faire de l\'édition '.$lang['YEAR'].' un nouveau succès';
-$lang['SPONSORS_CALL'] ='Après plusieurs éditions réussies, OSGeo.be et OpenStreetMap Belgique organisent une nouvelle édition de la conférence FOSS4G Belgique le '.$lang['DATE'].'<br>
-<br>
-La conférence FOSS4G regroupe les développeurs et utilisateurs des logiciels géospatieux open-source mais aussi les gestionnaires et décideurs venant des
-quatres coins du Monde pour discuter des nouveaux développements, décisions et des opportunités croissantes dans ce domaine.
-Ces dernières années, de grands changements ont eu lieu dans l\'industrie géospatiale. Un de ces changements est la croissance de la maturité et l\'adoption des
-solutions libres et open-source. Dans beaucoup de cas, les organisations utilisent un mélange de solutions open-source et propriétaires.<br>
-<br>
-<strong>Nous cherchons des sponsors pour faire de cet événement un nouveau succés.</strong><br>
-<br>Les opportunités de sponsoring sont listées et détaillées ici, <a href="contact.php">contactez-nous pour toute question</a> à propos des packages';
-$lang['SPONSORS_BUTTON'] ='Contactez-nous dès à présent pour nous soutenir';
+$lang['SPONSORS_CALL'] = 'Après plusieurs événements FOSS4G-BE et FOSS4G-NL réussis, OSGeo-BE et OSGeo-NL organisent conjointement la conférence FOSS4G-BE+NL à ' . $lang['DATE'] . '.<br /><br />
+Les conférences FOSS4G rassemblent des développeurs et des utilisateurs de logiciels géospatiaux Open Source du monde entier
+ensemble pour discuter de nouvelles possibilités, d\'applications passionnantes et d\'opportunités commerciales croissantes
+ dans ce domaine. Beaucoup de choses ont changé dans l\'industrie géospatiale ces dernières années. L\'un de ces changements est un
+ utilisation et maturité croissantes des solutions Libres et Open Source. Dans de nombreux cas, un mélange d\'open est utilisé
+ et des solutions fermées.
+<br /><br />
+Nous recherchons des sponsors pour soutenir nos opérations et faire de cet événement un succès.
+<br /><br />
+Les différentes options de sponsoring sont expliquées ci-dessous, <a href="contact.php">veuillez nous contacter si vous
+aurait encore des questions</a>.';
+$lang['SPONSORS_BUTTON'] = 'Contactez-nous pour nous soutenir';
 
 	$lang['SPONSORS_1_TITLE'] ='Partenaire';//'Platine';
 	$lang['SPONSORS_1_TAGLINE'] ='1000€';
@@ -153,19 +155,20 @@ $lang['SPONSORS_BUTTON'] ='Contactez-nous dès à présent pour nous soutenir';
 	$lang['SPONSORS_1_TXT12'] ='Lunch(1)';
 	$lang['SPONSORS_1_TXT13'] ='Liste des participants';
 
+$lang['SPONSORS_2_TITLE'] = 'Or';
+$lang['SPONSORS_2_TAGLINE'] = '1500€';
+$lang['SPONSORS_2_TXT1'] = 'Espace d\'exposition';
+$lang['SPONSORS_2_TXT2'] = '4 billets d\'entrée à la conférence';
+$lang['SPONSORS_2_TXT3'] = 'Logo sur la page sponsors du site internet';
 
+$lang['SPONSORS_3_TITLE'] = 'Argent';
+$lang['SPONSORS_3_TAGLINE'] = '750€';
+$lang['SPONSORS_3_TXT1'] = '2 billets d\'entrée à la conférence';
+$lang['SPONSORS_3_TXT2'] = 'Logo sur la page sponsors du site internet';
 
-	$lang['SPONSORS_2_TITLE'] ='Or';
-	$lang['SPONSORS_2_TAGLINE'] ='750€';
-	$lang['SPONSORS_2_TXT'] ='Espace d\'exposition, Page dans le programme (1/2 page), Logo sur la page principale du site internet Logo sur la page sponsors du site internet.';
-
-	$lang['SPONSORS_3_TITLE'] ='Argent';
-	$lang['SPONSORS_3_TAGLINE'] ='500€';
-	$lang['SPONSORS_3_TXT'] ='Logo sur la page principale du site internet, Logo sur la page sponsors du site internet.';
-
-	$lang['SPONSORS_4_TITLE'] ='Bronze';
-	$lang['SPONSORS_4_TAGLINE'] ='250€';
-	$lang['SPONSORS_4_TXT'] ='Logo sur la page sponsors du site internet.';
+$lang['SPONSORS_4_TITLE'] = 'Bronze';
+$lang['SPONSORS_4_TAGLINE'] = '250€';
+$lang['SPONSORS_4_TXT1'] = 'Logo sur la page sponsors du site internet';
 
 	$lang['SPONSORS_OSM_CORPORATE_MEMBERS'] ='Corporate Members d\'OpenStreetMap Belgium';
 	$lang['SPONSORS_OSM_CORPORATE_MEMBERS_TEXT'] ='Les Corporate Members d\'OpenStreetMap Belgium rendent cet évènement possible. Merci à Geo-6, Anyways, Champs-Libres (aussi sponsor Bronze), Visit Flanders, RouteYou, TomTom and Mapbox (aussi sponsor Or)!';

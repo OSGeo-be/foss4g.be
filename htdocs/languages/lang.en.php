@@ -130,17 +130,18 @@ $lang['ABOUT_A_TEXT2'] ='<a href="http://www.osgeo.org/">The Open Source Geospat
 
 $lang['SPONSORS_TITLE'] ='Call for Sponsors';
 $lang['SPONSORS_SUBTITLE'] ='Help making our '.$lang['YEAR'].' edition a success';
-$lang['SPONSORS_CALL'] ='After the many successful FOSS4G Belgium events in the past, 
-OSGeo.be and OpenStreetMap Belgium will organise another edition of the FOSS4G Belgium Conference on '.$lang['DATE'].'.<br /><br />
-FOSS4G conferences gather developers and users of Open Source geospatial software 
-from around the world to discuss new directions, exciting implementations, and growing business opportunities in this domain. 
-Recent years have seen substantial changes in the geospatial industry. 
-One of those changes has been the growth in maturity and adoption of Free and Open Source solutions. 
-In many cases organizations are using a mixture of open and closed source solutions.
+$lang['SPONSORS_CALL'] = 'After several successful FOSS4G-BE and FOSS4G-NL events, OSGeo-BE and OSGeo-NL are organizing this year\'s FOSS4G-BE+NL conference together, on ' . $lang['DATE'] . '.<br /><br />
+FOSS4G conferences bring together developers and users of Open Source geospatial software from all over the world
+to discuss new possibilities, exciting applications and increasing business opportunities
+in this domain. In recent years, much has changed in the geospatial industry. One of those changes is
+an increasing use and maturity of Free and Open Source solutions. In many cases, a mix of open
+and closed solutions is used.
 <br /><br />
-We are looking for sponsors to make this event a succes. <br /><br />
-					The available sponsorship opportunities are listed and detailed here, <a href="contact.php">please contact us with any question on the packages</a>.';
-$lang['SPONSORS_BUTTON'] ='Contact us now to become a sponsor';
+We are looking for sponsors to support our work and make this event a success.
+<br /><br />
+The different sponsorship opportunities are explained below, <a href="contact.php">contact us if you
+have any questions</a>.';
+$lang['SPONSORS_BUTTON'] = 'Contact us to support us';
 
 $lang['SPONSORS_1_TITLE'] ='Partners';'Platinum';
 $lang['SPONSORS_1_TAGLINE'] ='1000€';
@@ -159,18 +160,20 @@ $lang['SPONSORS_1_TXT6'] ='Logo on sponsors web page';
 	$lang['SPONSORS_1_TXT12'] ='Lunch(1)';
 	$lang['SPONSORS_1_TXT13'] ='List of participants';
 
-		
-$lang['SPONSORS_2_TITLE'] ='Gold';
-$lang['SPONSORS_2_TAGLINE'] ='750€';
-$lang['SPONSORS_2_TXT1'] ='Exhibition space, Page in programme  (1/2 page) , Logo on main web page, Logo on web page of sponsors.';
+$lang['SPONSORS_2_TITLE'] = 'Gold';
+$lang['SPONSORS_2_TAGLINE'] = '1500€';
+$lang['SPONSORS_2_TXT1'] = 'Exhibition space';
+$lang['SPONSORS_2_TXT2'] = '4 conference entrance tickets';
+$lang['SPONSORS_2_TXT3'] = 'Logo on sponsors webpage';
 
-$lang['SPONSORS_3_TITLE'] ='Silver';
-$lang['SPONSORS_3_TAGLINE'] ='500€';
-$lang['SPONSORS_3_TXT'] ='Logo on main web page, Logo on web page of sponsors.';
+$lang['SPONSORS_3_TITLE'] = 'Silver';
+$lang['SPONSORS_3_TAGLINE'] = '750€';
+$lang['SPONSORS_3_TXT1'] = '2 conference entrance tickets';
+$lang['SPONSORS_3_TXT2'] = 'Logo on sponsors webpage';
 
-$lang['SPONSORS_4_TITLE'] ='Bronze';
-$lang['SPONSORS_4_TAGLINE'] ='250€';
-$lang['SPONSORS_4_TXT'] ='Logo on web page of sponsors.';
+$lang['SPONSORS_4_TITLE'] = 'Bronze';
+$lang['SPONSORS_4_TAGLINE'] = '250€';
+$lang['SPONSORS_4_TXT1'] = 'Logo on sponsors webpage';
 
 $lang['SPONSORS_OSM_CORPORATE_MEMBERS'] ='Corporate Members of OpenStreetMap Belgium';
 $lang['SPONSORS_OSM_CORPORATE_MEMBERS_TEXT'] ='The Corporate Members of OpenStreetMap Belgium make this event possible. Thank you to Geo-6, Anyways, Champs-Libres (also Brons sponsor), Visit Flanders, RouteYou, TomTom and Mapbox (also Gold Sponsor)!';

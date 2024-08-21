@@ -149,7 +149,7 @@ $lang['ABOUT_A_TEXT2'] ='<a href="http://www.osgeo.org/">The Open Source Geospat
 
 $lang['SPONSORS_TITLE'] ='Oproep voor sponsors';
 $lang['SPONSORS_SUBTITLE'] ='Help ons om editie '. $lang['YEAR'] .' te organiseren';
-$lang['SPONSORS_CALL'] ='
+$lang['SPONSORS_CALL'] = '
 Na verschillende succesvolle FOSS4G-BE en FOSS4G-NL events, organiseren OSGeo-BE en OSGeo-NL dit jaar samen de FOSS4G-BE+NL conferentie op ' . $lang['DATE'] . '.<br /><br />
 FOSS4G conferenties brengen ontwikkelaars en gebruikers van Open Source geospatial software van over de hele wereld
 samen om te discussiëren over nieuwe mogelijkheden, boeiende toepassingen en toenemende commerciële kansen
@@ -157,11 +157,11 @@ samen om te discussiëren over nieuwe mogelijkheden, boeiende toepassingen en to
  toenemend gebruik en volwassenheid van Free en Open Source oplossingen. In veel gevallen wordt er een mix gebruikt van open
  en gesloten oplossingen.
 <br /><br />
-We zijn op zoek naar sponsors om dit event tot een succes te maken.
+We zijn op zoek naar sponsors om onze werking te ondersteunen en dit event tot een succes te maken.
 <br /><br />
 De verschillende sponsor mogelijkheden worden hieronder uitgelegd, <a href="contact.php">neem contact op indien u 
 nog vragen zou hebben</a>.';
-$lang['SPONSORS_BUTTON'] = 'Neem contact op om OSGeo-BE, OSGeo-NL en FOSS4G BE+NL te sponsoren';
+$lang['SPONSORS_BUTTON'] = 'Neem contact op om ons te ondersteunen';
 
 	$lang['SPONSORS_1_TITLE'] ='Partners';'Platina';
 	$lang['SPONSORS_1_TAGLINE'] ='1000€';
