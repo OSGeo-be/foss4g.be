@@ -51,7 +51,7 @@
 								</a>
 							</dt>
 							<dd class="accordionItem">
-								<a class="sponsor icon" href="https://www.opengeogroep.nl" style="background-image: url('/images/sponsors/opengeogroep.gif');"></a>
+								<a class="sponsor icon" href="https://www.opengeogroep.nl" style="background-image: url('/images/sponsors/opengeogroep.png');"></a>
 								<a class="sponsor icon" href="https://www.geocat.net/" style="background-image: url('/images/sponsors/geocat.svg');"></a>
 							</dd>
 							<dt class="spons">
