@@ -51,8 +51,8 @@
 								</a>
 							</dt>
 							<dd class="accordionItem">
-								<a class="sponsor icon" href="https://www.opengeogroep.nl"><img src="/images/sponsors/opengeogroep.gif"/></a>
-								<a class="sponsor icon" href="https://www.geocat.net/"><img src="/images/sponsors/geocat.svg"/></a>
+								<a class="sponsor icon" href="https://www.opengeogroep.nl" style="background-image: url('/images/sponsors/opengeogroep.gif');"></a>
+								<a class="sponsor icon" href="https://www.geocat.net/" style="background-image: url('/images/sponsors/geocat.svg');"></a>
 							</dd>
 							<dt class="spons">
 								<a href="#" class="accordionTitle sponsors bronze">
@@ -61,7 +61,7 @@
 								</a>
               				</dt>
 							<dd class="accordionItem">
-								<a class="sponsor icon" href="https://www.tomtom.com"><img src="/images/sponsors/tomtom.png"/></a>
+								<a class="sponsor icon" href="https://www.tomtom.com"  style="background-image: url('/images/sponsors/tomtom.png');"></a>
 							</dd>
 							<dt class="spons">
 								<a href="#" class="accordionTitle sponsors bronze">
@@ -70,7 +70,7 @@
 								</a>
 							</dt>
 							<dd class="accordionItem">
-								<a class="sponsor icon" href="https://www.ruimteschepper.nl/"><img src="/images/sponsors/ruimteschepper.png"/></a>
+								<a class="sponsor icon" href="https://www.ruimteschepper.nl/" style="background-image: url('/images/sponsors/ruimteschepper.png');"></a>
 							</dd>
 						</dl>
 					  </div>
