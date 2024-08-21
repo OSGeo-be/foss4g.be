@@ -44,53 +44,30 @@
 					<div class="container-x">
 					  <div class="accordion">
 						<dl>
-							<dt class="spons"><a class="accordionTitle sponsors platinium" href="#"> <?php echo $lang['SPONSORS_1_TITLE']; ?> </a></dt>
-							<dd class="accordionItem">
-								<a href="https://wiki.osgeo.org/wiki/Belgium" class="sponsor icon osgeobe"><span class="label">OSGeo Belgium</span></a>
-								<a href="https://bosa.belgium.be/fr" class="sponsor icon bosa"><span class="label">BOSA</span></a>
-								<a href="https://openstreetmap.be/en/" class="sponsor icon osm"><span class="label">OSM Belgium</span></a>
-							</dd>
 							<dt class="spons">
 								<a href="#" class="accordionTitle sponsors gold">
 									<?php echo $lang['SPONSORS_2_TITLE']; ?>
-									<span class="spon3"></span>
+									<span class="spon2"></span>
 								</a>
 							</dt>
 							<dd class="accordionItem">
-								<a href="https://www.geopostcodes.com/" class="sponsor icon geopostcodes"><span class="label">Geo Postcodes</span></a>
-								<a href="https://www.gim.be/" class="sponsor icon gim"><span class="label">gim</span></a>
-								<a href="https://www.mapbox.com/" class="sponsor icon mapbox"><span class="label"> </span></a>
-								<a href="https://oslandia.com/" class="sponsor icon oslandia"><span class="label">Oslandia</span></a>
-								<a href="https://geosolutions.be/" class="sponsor icon geosolutions"><span class="label">Geosolutions</span></a>								
-								<a href="https://geoportail.wallonie.be/" class="sponsor icon spw"><span class="label">Service public de Wallonie</span></a>
 							</dd>
-						  <!-- dt class="spons"><a href="#" class="accordionTitle sponsors silver"> <?php echo $lang['SPONSORS_3_TITLE']; ?> <span class="spon3"><?php echo $lang['SPONSORS_3_TAGLINE']; ?></span></a></dt>   geosolutions
-						  <dd class="accordionItem accordionItem">
-						  </dd -->
+							<dt class="spons">
+								<a href="#" class="accordionTitle sponsors bronze">
+									<?php echo $lang['SPONSORS_3_TITLE']; ?>
+									<span class="spon3"></span>
+								</a>
+              				</dt>
+							<dd class="accordionItem">
+							</dd>
 							<dt class="spons">
 								<a href="#" class="accordionTitle sponsors bronze">
 									<?php echo $lang['SPONSORS_4_TITLE']; ?>
 									<span class="spon4"></span>
 								</a>
-              				</dt>
+							</dt>
 							<dd class="accordionItem">
-								<a href="https://www.atelier-cartographique.be/" class="sponsor icon atelier"><span class="label">Atelier</span></a>
-								<a href="https://www.bluesquarehub.com/" class="sponsor icon bluesquare"><span class="label">Bluesquare</span></a>
-								<a href="https://www.champs-libres.coop/" class="sponsor icon champs-libres"><span class="label">Champs-Libres</span></a>
-								<a href="https://www.idgeo.fr" class="sponsor icon idgeo"><span class="label">IDGeo</span></a>
-								<a href="https://merginmaps.com" class="sponsor icon small mergin"><span class="label">Mergin</span></a>
-								<a href="https://www.spacebel.com/" class="sponsor icon spacebel"><span class="label">Spacebel</span></a>
 							</dd>
-							<dt class="spons">
-								<a href="#" class="accordionTitle sponsors platinium">
-									<?php echo $lang['SPONSORS_OSM_CORPORATE_MEMBERS']; ?>
-								</a>
-              				</dt>
-							<dd class="accordionItem">
-								<span class="corporateMembers">
-									<?php echo $lang['SPONSORS_OSM_CORPORATE_MEMBERS_TEXT']; ?>
-								</span>
-							</dd>						
 						</dl>
 					  </div>
 					  <p style="text-align:center"><a href="contact.php" class="button specialo icon fa-check"> <?php echo $lang['SPONSORS_BUTTON']; ?></a></p>
@@ -98,7 +75,7 @@
 					</div>
 				</div>
 
-				<div class="nav bottom"><prev></prev><a href="about.php" title="<?php echo $lang['MENU_ABOUT']; ?>"><?php echo $lang['MENU_ABOUT']; ?></a> <a href="papers.php" title="<?php echo $lang['MENU_CALL3']; ?>"><?php echo $lang['MENU_CALL3']; ?></a><next></next></div>
+				<!-- <div class="nav bottom"><prev></prev><a href="about.php" title="<?php echo $lang['MENU_ABOUT']; ?>"><?php echo $lang['MENU_ABOUT']; ?></a> <a href="papers.php" title="<?php echo $lang['MENU_CALL3']; ?>"><?php echo $lang['MENU_CALL3']; ?></a><next></next></div> -->
 			</section>
 
 
