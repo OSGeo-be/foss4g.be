@@ -774,8 +774,8 @@
 						}
 						.sponsor:hover {
 							display:inline-block;
-							transform: scale(1.05);
-							border-bottom: 2px solid #71BF45;
+							transform: scale(1.2);
+							filter: drop-shadow(0.35rem 0.35rem 0.4rem rgba(0, 0, 0, 0.15));
 						}
 						ul.icons li .icon.mergin, .icon.mergin  {
 							background-image:url(/images/sponsors/mergin.svg);
