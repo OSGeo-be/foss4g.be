@@ -53,6 +53,8 @@
 		<!-- CTA -->
 			<section id="cta">
 				
+				<p><?php echo $lang['FOOTER_THANKS']; ?></p>
+				<p><?php echo $lang['FOOTER_THANKS_ALL']; ?></p>
 				<p><?php echo $lang['FOOTER_MORE']; ?></p>
 				
 			</section>
