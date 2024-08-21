@@ -150,7 +150,7 @@ $lang['ABOUT_A_TEXT2'] ='<a href="http://www.osgeo.org/">The Open Source Geospat
 $lang['SPONSORS_TITLE'] ='Oproep voor sponsors';
 $lang['SPONSORS_SUBTITLE'] ='Help ons om editie '. $lang['YEAR'] .' te organiseren';
 $lang['SPONSORS_CALL'] ='
-Na drie succesvolle FOSS4G Belgium events, organiseert OSGeo.be een nieuwe editie van FOSS4G Belgium op donderdag '.$lang['DATE'].'.<br /><br />
+Na verschillende succesvolle FOSS4G-BE en FOSS4G-NL events, organiseren OSGeo-BE en OSGeo-NL dit jaar samen de FOSS4G-BE+NL conferentie op ' . $lang['DATE'] . '.<br /><br />
 FOSS4G conferenties brengen ontwikkelaars en gebruikers van Open Source geospatial software van over de hele wereld
 samen om te discussiëren over nieuwe mogelijkheden, boeiende toepassingen en toenemende commerciële kansen
  in dit domein. De laatste jaren is er veel veranderd in de geospatiale industrie. Een van die veranderingen is een
@@ -161,7 +161,7 @@ We zijn op zoek naar sponsors om dit event tot een succes te maken.
 <br /><br />
 De verschillende sponsor mogelijkheden worden hieronder uitgelegd, <a href="contact.php">neem contact op indien u 
 nog vragen zou hebben</a>.';
-$lang['SPONSORS_BUTTON'] ='Neem contact op om FOSS4G BE te sponsoren';
+$lang['SPONSORS_BUTTON'] = 'Neem contact op om OSGeo-BE, OSGeo-NL en FOSS4G BE+NL te sponsoren';
 
 	$lang['SPONSORS_1_TITLE'] ='Partners';'Platina';
 	$lang['SPONSORS_1_TAGLINE'] ='1000€';
@@ -181,19 +181,22 @@ $lang['SPONSORS_BUTTON'] ='Neem contact op om FOSS4G BE te sponsoren';
 	$lang['SPONSORS_1_TXT13'] ='Deelnemerslijst';
 	
 	$lang['SPONSORS_2_TITLE'] ='Goud';
-	$lang['SPONSORS_2_TAGLINE'] ='750€';
-	$lang['SPONSORS_2_TXT1'] ='Exposantruimte, Pagina in het programma (1/2 pagina), Logo op webstartpagina, Logo op sponsors webpagina.';
+$lang['SPONSORS_2_TAGLINE'] = '1500€';
+$lang['SPONSORS_2_TXT1'] = 'Exposantruimte';
+$lang['SPONSORS_2_TXT2'] = '4 toegangstickets conferentie';
+$lang['SPONSORS_2_TXT3'] = 'Logo op sponsors webpagina';
 	
 	$lang['SPONSORS_3_TITLE'] ='Zilver';
-	$lang['SPONSORS_3_TAGLINE'] ='500€';
-	$lang['SPONSORS_3_TXT'] ='Logo op webstartpagina, Logo op sponsors webpagina.';
-	
-	$lang['SPONSORS_4_TITLE'] ='Brons';
+$lang['SPONSORS_3_TAGLINE'] = '750€';
+$lang['SPONSORS_3_TXT1'] = '2 toegangstickets conferentie';
+$lang['SPONSORS_3_TXT2'] = 'Logo op sponsors webpagina';
+
+$lang['SPONSORS_4_TITLE'] = 'Brons';
 	$lang['SPONSORS_4_TAGLINE'] ='250€';
-	$lang['SPONSORS_4_TXT'] ='Logo op sponsors webpagina.';
-	
-	$lang['SPONSORS_OSM_CORPORATE_MEMBERS'] ='Corporate Members van OpenStreetMap Belgium';
-	$lang['SPONSORS_OSM_CORPORATE_MEMBERS_TEXT'] ='De Corporate Members van OpenStreetMap Belgium maken dit event mee mogelijk. Bedankt aan Geo-6, Anyways, Champs-Libres (ook Bronze sponsor), Visit Flanders, RouteYou, TomTom and Mapbox (ook Gold sponsor)!';
+$lang['SPONSORS_4_TXT1'] = 'Logo op sponsors webpagina';
+
+// $lang['SPONSORS_OSM_CORPORATE_MEMBERS'] ='Corporate Members van OpenStreetMap Belgium';
+// $lang['SPONSORS_OSM_CORPORATE_MEMBERS_TEXT'] ='De Corporate Members van OpenStreetMap Belgium maken dit event mee mogelijk. Bedankt aan Geo-6, Anyways, Champs-Libres (ook Bronze sponsor), Visit Flanders, RouteYou, TomTom and Mapbox (ook Gold sponsor)!';
 
 $lang['SPONSORS_WHY_TITLE'] ='Waarom OSGeo sponsoren';
 
