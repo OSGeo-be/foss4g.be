@@ -361,7 +361,7 @@ $lang['LANG_FR'] = $lang['URL_NAME_3'];
 // FOOTER
 
 	// CTA
-$lang['FOOTER_THANKS'] = 'FOSS4G est un événement gratuit. Nous remercions nos sponsors et partenaires de rendre ceci possible.';
+$lang['FOOTER_THANKS'] = 'FOSS4G-BE+NL n\'est possible que grâce au soutien de nos partenaires et sponsors.';
 $lang['FOOTER_THANKS_ALL'] = ''; #'<a href="http://www.bruxellesenvironnement.be/" title="Bruxelles Environnement" style="color:#fff">Bruxelles Environnement</a><!-- - L\'<a href="http://igeat.ulb.ac.be/" title="IGEAT" style="color:#fff">Institut de Gestion de l\'Environnement et d\'Aménagement du Territoire</a> (IGEAT/ULB) - <a href="http://checksum.be/" style="color:#fff">Checksum</a> -->';
 $lang['FOOTER_MORE'] = 'Si vous souhaitez obtenir plus d\'informations, <a href="/contact.php" style="color:#fff">contactez-nous</a>';
 

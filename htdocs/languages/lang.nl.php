@@ -457,7 +457,7 @@ $lang['LANG_FR'] = $lang['URL_NAME_3'];
 
 
 	// CTA
-$lang['FOOTER_THANKS'] = 'FOSS4G is een gratis evenement. Alvast dank aan onze sponsors en partners om dit mogelijk te maken.';
+$lang['FOOTER_THANKS'] = 'FOSS4G-BE+NL is enkel mogelijk dankzij de steun van onze partners en sponsors.';
 $lang['FOOTER_THANKS_ALL'] = ''; # '<a href="https://www.leefmilieu.brussels/" title="Leefmilieu Brussel" style="color:#fff">Leefmilieu Brussel</a>';
 $lang['FOOTER_MORE'] = 'Voor meer informatie, <a href="/contact.php" style="color:#fff">contacteer ons</a>.';
 	// FOOTER
