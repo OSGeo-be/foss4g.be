@@ -61,6 +61,7 @@
 								</a>
               				</dt>
 							<dd class="accordionItem">
+								<a class="sponsor icon" href="https://www.tomtom.com"><img src="/images/sponsors/tomtom.png"/></a>
 							</dd>
 							<dt class="spons">
 								<a href="#" class="accordionTitle sponsors bronze">
@@ -69,6 +70,7 @@
 								</a>
 							</dt>
 							<dd class="accordionItem">
+								<a class="sponsor icon" href="https://www.ruimteschepper.nl/"><img src="/images/sponsors/ruimteschepper.png"/></a>
 							</dd>
 						</dl>
 					  </div>
