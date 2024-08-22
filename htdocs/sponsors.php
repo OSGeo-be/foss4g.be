@@ -55,7 +55,7 @@
 								<a class="sponsor icon" href="https://www.geocat.net/" style="background-image: url('/images/sponsors/geocat.svg');"></a>
 							</dd>
 							<dt class="spons">
-								<a href="#" class="accordionTitle sponsors bronze">
+								<a href="#" class="accordionTitle sponsors silver">
 									<?php echo $lang['SPONSORS_3_TITLE']; ?>
 									<span class="spon3"></span>
 								</a>
