@@ -128,9 +128,8 @@ $lang['SPONSORS_SUBTITLE'] ='Aidez-nous à faire de l\'édition '.$lang['YEAR'].
 $lang['SPONSORS_CALL'] = 'Après plusieurs événements FOSS4G-BE et FOSS4G-NL réussis, OSGeo-BE et OSGeo-NL organisent conjointement la conférence FOSS4G-BE+NL à ' . $lang['DATE'] . '.<br /><br />
 Les conférences FOSS4G rassemblent des développeurs et des utilisateurs de logiciels géospatiaux Open Source du monde entier
 ensemble pour discuter de nouvelles possibilités, d\'applications passionnantes et d\'opportunités commerciales croissantes
- dans ce domaine. Beaucoup de choses ont changé dans l\'industrie géospatiale ces dernières années. L\'un de ces changements est un
- utilisation et maturité croissantes des solutions Libres et Open Source. Dans de nombreux cas, un mélange d\'open est utilisé
- et des solutions fermées.
+ dans ce domaine. Beaucoup de choses ont changé dans l\'industrie géospatiale ces dernières années. L\'un de ces changements est l\'utilisation et la maturité croissantes des solutions libres et open source. 
+ Dans de nombreux cas, un mélange de solutions ouvertes et fermées est utilisé.
 <br /><br />
 Nous recherchons des sponsors pour soutenir nos opérations et faire de cet événement un succès.
 <br /><br />
