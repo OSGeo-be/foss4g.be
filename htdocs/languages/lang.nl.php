@@ -453,6 +453,9 @@ $lang['LANG_EN'] = $lang['URL_NAME_1'];
 $lang['LANG_NL'] = $lang['URL_NAME_2'];
 $lang['LANG_FR'] = $lang['URL_NAME_3'];
 
+$lang['VENUE_TITLE'] = 'Locatie';
+$lang['VENUE_SUBTITLE'] = 'Onze conferentie vind plaats op een unieke en grensoverschrijdende locatie';
+
 // FOOTER
 
 

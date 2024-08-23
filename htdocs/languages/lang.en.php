@@ -411,6 +411,8 @@ wall. If you want to provide an interactive map, then:</p>
 
 $lang['MENU_MAPS'] = 'Call for Maps';
 
+$lang['VENUE_TITLE'] = 'Venue';
+$lang['VENUE_SUBTITLE'] = 'Our conference will take place at a unique and cross-border location';
 
 // FOOTER
 

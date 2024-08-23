@@ -440,6 +440,9 @@ suivants :</p>
 
 $lang['MENU_MAPS'] = 'Appel à cartes';
 
+$lang['VENUE_TITLE'] = 'Lieu';
+$lang['VENUE_SUBTITLE'] = 'Notre conférence se déroule dans un lieu unique et transfrontalier';
+
 
 // ERROR CODES -------------------------------------------------------------------------------------------------------/
 // 404
