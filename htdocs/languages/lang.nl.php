@@ -153,7 +153,7 @@ $lang['SPONSORS_CALL'] = '
 Na verschillende succesvolle FOSS4G-BE en FOSS4G-NL events, organiseren OSGeo-BE en OSGeo-NL dit jaar samen de FOSS4G-BE+NL conferentie op ' . $lang['DATE'] . '.<br /><br />
 FOSS4G conferenties brengen ontwikkelaars en gebruikers van Open Source geospatial software van over de hele wereld
 samen om te discussiëren over nieuwe mogelijkheden, boeiende toepassingen en toenemende commerciële kansen
- in dit domein. De laatste jaren is er veel veranderd in de geospatiale industrie. Een van die veranderingen is een
+ in dit domein. De laatste jaren is er veel veranderd in de geo wereld. Eén van die veranderingen is een
  toenemend gebruik en volwassenheid van Free en Open Source oplossingen. In veel gevallen wordt er een mix gebruikt van open
  en gesloten oplossingen.
 <br /><br />
