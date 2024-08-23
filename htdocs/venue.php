@@ -42,15 +42,16 @@
 			<p><?php echo $lang['VENUE_SUBTITLE']; ?></p>
 		</header>
 
-		<img src="/images/cc_baarle.jpeg" alt="Photo of Cultuurcentrum Baarle" />
+		<div style="text-align: center;">
+			<img src="/images/cc_baarle.jpeg" alt="Photo of Cultuurcentrum Baarle" />
 
-		<p>
-			Cultuurcentrum Baarle <br>
-			Pastoor de Katerstraat 5-7 <br>
-			<br>
-			Belgium: BE-2387 Baarle-Hertog <br>
-			Netherlands: 5111 CM - NL Baarle-Nassau
-		</p>
+			<p>
+				Cultuurcentrum Baarle <br>
+				Pastoor de Katerstraat 5-7 <br>
+				Belgium: BE-2387 Baarle-Hertog <br>
+				Netherlands: 5111 CM - NL Baarle-Nassau
+			</p>
+		</div>
 
 		<!-- <div class="nav bottom"><prev></prev><a href="about.php" title="<?php echo $lang['MENU_ABOUT']; ?>"><?php echo $lang['MENU_ABOUT']; ?></a> <a href="papers.php" title="<?php echo $lang['MENU_CALL3']; ?>"><?php echo $lang['MENU_CALL3']; ?></a><next></next></div> -->
 	</section>
