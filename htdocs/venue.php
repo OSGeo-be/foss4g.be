@@ -26,6 +26,20 @@
 	</noscript>
 	<!--[if lte IE 8]><link rel="stylesheet" href="/css/ie/v8.css" /><![endif]-->
 
+	<style>
+		#main > header {
+			margin: unset;
+		}
+
+		.content {
+			text-align: center;
+		}
+
+		img {
+			margin-bottom: 30px;
+		}
+	</style>
+
 </head>
 
 <body>
@@ -42,7 +56,7 @@
 			<p><?php echo $lang['VENUE_SUBTITLE']; ?></p>
 		</header>
 
-		<div style="text-align: center;">
+		<div class="content">
 			<img src="/images/cc_baarle.jpeg" alt="Photo of Cultuurcentrum Baarle" />
 
 			<p>
