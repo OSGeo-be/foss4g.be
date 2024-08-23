@@ -42,7 +42,7 @@
 			<p><?php echo $lang['VENUE_SUBTITLE']; ?></p>
 		</header>
 
-		<img src="images/cc_baarle.png" alt="Photo of Cultuurcentrum Baarle" />
+		<img src="images/cc_baarle.jpg" alt="Photo of Cultuurcentrum Baarle" />
 
 		<p>
 			Cultuurcentrum Baarle <br>
