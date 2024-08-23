@@ -65,6 +65,8 @@
 				Belgium: BE-2387 Baarle-Hertog <br>
 				Netherlands: 5111 CM - NL Baarle-Nassau
 			</p>
+
+			<iframe width="800" height="600" src="https://www.openstreetmap.org/export/embed.html?bbox=4.90264892578125%2C51.43401260274233%2C4.948997497558594%2C51.449233145337764&amp;layer=mapnik&amp;marker=51.44162350810596%2C4.925823211669922" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=51.44162&amp;mlon=4.92582#map=16/51.44162/4.92582">View Larger Map</a></small>
 		</div>
 
 		<!-- <div class="nav bottom"><prev></prev><a href="about.php" title="<?php echo $lang['MENU_ABOUT']; ?>"><?php echo $lang['MENU_ABOUT']; ?></a> <a href="papers.php" title="<?php echo $lang['MENU_CALL3']; ?>"><?php echo $lang['MENU_CALL3']; ?></a><next></next></div> -->
