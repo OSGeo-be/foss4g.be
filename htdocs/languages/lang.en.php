@@ -43,6 +43,7 @@ $lang['MENU_STREAM'] = 'Live stream';
 
 $lang['MENU_PROGRAM'] = 'Schedule';
 $lang['MENU_CONTACT'] = 'Contact';
+$lang['MENU_VENUE'] = 'Venue';
 $lang['MENU_LANG'] = 'Lang';
 
 

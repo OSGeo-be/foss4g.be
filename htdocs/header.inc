@@ -14,6 +14,7 @@
 								<li><a href="/get-ticket.php" target="_blank"><?php echo $lang['MENU_REG']; ?></a></li>
 								<!--<li><a href="/sponsors.php">Sponsors</a></li>
 								<li><a href="/papers.php"><?php echo $lang['MENU_CALL3']; ?></a></li>-->
+								<li><a href="/venue.php"><?php echo $lang['MENU_VENUE']; ?></a></li>
 								<li><a href="/contact.php"><?php echo $lang['MENU_CONTACT']; ?></a></li>
 							</ul>
 						</li>

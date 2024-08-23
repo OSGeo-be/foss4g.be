@@ -42,6 +42,7 @@ $lang['MENU_STREAM'] = 'Diffusion en direct';
 
 $lang['MENU_PROGRAM'] = 'Programme';
 $lang['MENU_CONTACT'] = 'Contact';
+$lang['MENU_VENUE'] = 'Location';
 $lang['MENU_LANG'] = 'Langue';
 
 

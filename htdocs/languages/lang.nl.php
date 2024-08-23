@@ -43,6 +43,7 @@ $lang['MENU_BOOKLET'] = 'Digitaal boekje';
 $lang['MENU_STREAM'] = 'Livestream';
 
 $lang['MENU_PROGRAM'] = 'Programma';
+$lang['MENU_VENUE'] = 'Locatie';
 $lang['MENU_CONTACT'] = 'Contact';
 $lang['MENU_LANG'] = 'Taal';
 
