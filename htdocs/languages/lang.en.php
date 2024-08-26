@@ -198,6 +198,7 @@ $lang['SPONSORS_WHY5_2'] ='By sponsoring OSGeo you will enhance your business op
 
 // SPONSORS THANKS ------------------------------------------------------------------------------------------------------------/	
 
+$lang['MENU_SPONSORS'] = 'Sponsors';
 $lang['SPONSORS_T_TITLE'] = 'Our partners and sponsors';
 $lang['SPONSORS_T_SUBTITLE'] = 'We would like to thank our sponsors and partners for supporting us';
 
@@ -418,7 +419,7 @@ $lang['VENUE_SUBTITLE'] = 'Our conference will take place at a unique and cross-
 // FOOTER
 
 	// CTA
-$lang['FOOTER_THANKS'] = 'FOSS4G-BE+NL is only possible thanks to the support of our partners and sponsors.';
+$lang['FOOTER_THANKS'] = 'FOSS4G-BE+NL is only possible thanks to the support of <a href="/sponsors.php">our partners and sponsors</a>.';
 $lang['FOOTER_THANKS_ALL'] = ''; #'<a href="http://www.bruxellesenvironnement.be/" title="Bruxelles Environnement" style="color:#fff">Bruxelles Environnement</a><!-- - L\'<a href="http://igeat.ulb.ac.be/" title="IGEAT" style="color:#fff">Institut de Gestion de l\'Environnement et d\'Aménagement du Territoire</a> (IGEAT/ULB) - <a href="http://checksum.be/" style="color:#fff">Checksum</a> -->';
 $lang['FOOTER_MORE'] = 'If you want more information <a href="/contact.php" style="color:#fff">contact us</a>';
 	// FOOTER

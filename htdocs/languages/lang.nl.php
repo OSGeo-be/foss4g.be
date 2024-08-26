@@ -229,6 +229,7 @@ $lang['SPONSORS_WHY_TITLE'] ='Waarom OSGeo sponsoren';
 
 // SPONSORS THANKS ------------------------------------------------------------------------------------------------------------/	
 
+$lang['MENU_SPONSORS'] = 'Sponsors';
 $lang['SPONSORS_T_TITLE'] = 'Onze partners en sponsors';
 $lang['SPONSORS_T_SUBTITLE'] = 'Dank aan onze sponsors en onze partners om ons te ondersteunen';
 
@@ -461,7 +462,7 @@ $lang['VENUE_SUBTITLE'] = 'Onze conferentie vindt plaats op een unieke en grenso
 
 
 	// CTA
-$lang['FOOTER_THANKS'] = 'FOSS4G-BE+NL is enkel mogelijk dankzij de steun van onze partners en sponsors.';
+$lang['FOOTER_THANKS'] = 'FOSS4G-BE+NL is enkel mogelijk dankzij de steun van <a href="/sponsors.php">onze partners en sponsors</a>.';
 $lang['FOOTER_THANKS_ALL'] = ''; # '<a href="https://www.leefmilieu.brussels/" title="Leefmilieu Brussel" style="color:#fff">Leefmilieu Brussel</a>';
 $lang['FOOTER_MORE'] = 'Voor meer informatie, <a href="/contact.php" style="color:#fff">contacteer ons</a>.';
 	// FOOTER
