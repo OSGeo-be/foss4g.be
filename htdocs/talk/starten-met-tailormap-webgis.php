@@ -56,7 +56,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
         <div class="content">
             <h2>Starten met Tailormap WebGIS</h2>
 
-            <div class="prog-speaker">Kees-Jan Lammers</div>
+            <div class="prog-speaker">Martijn van der Struijk, Kees-Jan Lammers</div>
             <div class="prog-lang icon"><?php echo $lang['LANG_NL']; ?></div>
 
             <div class="prog-tl">
