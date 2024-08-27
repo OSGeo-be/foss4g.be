@@ -60,8 +60,8 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
             <div class="prog-lang icon"><?php echo $lang['LANG_NL']; ?></div>
             <div class="prog-theme icon">Open Source and organisations</div>
             <div class="prog-tl">
-                <div class="prog-sched icon"><?php echo $lang['PROG_THU'] ?>, 15h00 - 15h20</div>
-                <div class="prog-track tr5 icon">Hobby/dans</div>
+                <div class="prog-sched icon"><?php echo $lang['PROG_THU'] ?>, 11h25 - 11h45</div>
+                <div class="prog-track tr3 icon">Judo 2</div>
             </div>
 
             <div class="abstract">

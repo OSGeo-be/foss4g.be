@@ -423,15 +423,15 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 
 				<div class="prog-item tr3">
 					<div class="prog-content">
-						<div class="prog-title">Communitybouwen en Opensource.pleio.nl</div>
-						<div class="prog-speaker">Eva van Sloten</div>
+						<div class="prog-title">Liefde is leuk maar het moet wel betaalbaar blijven: Een business case voor Open Source</div>
+						<div class="prog-speaker">Peter de Graaf</div>
 						<div class="prog-theme icon">Open Source and organisations</div>
 						<div class="prog-lang icon"><?php echo $lang['LANG_NL']; ?></div>
 						<div class="prog-tl">
 							<div class="prog-sched icon">11h25 - 11h45</div>
 							<div class="prog-track icon">Judo 2</div>
 						</div>
-						<a class="prog-link icon" target="_blank" href="/talk/communitybouwen-en-opensource-pleio-nl.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+						<a class="prog-link icon" target="_blank" href="/talk/liefde-is-leuk-maar-het-moet-wel-betaalbaar-blijven-een-business-case-voor-open-source.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
 							</div>
 							</div>
 			</div>
@@ -552,17 +552,17 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 
 				<div class="prog-item tr5">
 					<div class="prog-content">
-						<div class="prog-title">Mapbox Cloud Vector Tiles met attribuutinformatie</div>
-						<div class="prog-speaker">Andrea van Milgen, Wouter van der Hulst</div>
+						<div class="prog-title">Ruimtelijke Plannen plug-in opnieuw schrijven met ChatGPT</div>
+						<div class="prog-speaker">Tim Dubbeldam</div>
 						<div class="prog-theme icon">APIs & Planning</div>
 						<div class="prog-lang icon"><?php echo $lang['LANG_NL']; ?></div>
 						<div class="prog-tl">
 							<div class="prog-sched icon">13h15 - 13h35</div>
 							<div class="prog-track icon">Hobby/dans</div>
 						</div>
-						<a class="prog-link icon" target="_blank" href="/talk/mapbox-cloud-vector-tiles-met-attribuutinformatie.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
-							</div>
-							</div>
+						<a class="prog-link icon" target="_blank" href="/talk/ruimtelijke-plannen-plug-in-opnieuw-schrijven-met-chatgpt.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+						</div>
+						</div>
 
 				<div class="prog-item tr4">
 					<div class="prog-content">
@@ -779,18 +779,15 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 
 				<div class="prog-item tr5">
 					<div class="prog-content">
-						<div class="prog-title">Liefde is leuk maar het moet wel betaalbaar blijven: Een business case
-							voor
-							Open
-							Source</div>
-						<div class="prog-speaker">Peter de Graaf</div>
+						<div class="prog-title">Communitybouwen en Opensource.pleio.nl</div>
+						<div class="prog-speaker">Eva van Sloten</div>
 						<div class="prog-theme icon">Open Source and organisations</div>
 						<div class="prog-lang icon"><?php echo $lang['LANG_NL']; ?></div>
 						<div class="prog-tl">
 							<div class="prog-sched icon">15h00 - 15h20</div>
 							<div class="prog-track icon">Hobby/dans</div>
 						</div>
-						<a class="prog-link icon" target="_blank" href="/talk/liefde-is-leuk-maar-het-moet-wel-betaalbaar-blijven-een-business-case-voor-open-source.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+						<a class="prog-link icon" target="_blank" href="/talk/communitybouwen-en-opensource-pleio-nl.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
 							</div>
 							</div>
 
@@ -812,17 +809,17 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 			<div class="prog-slot">
 				<div class="prog-item tr2">
 					<div class="prog-content">
-						<div class="prog-title">Indoor Mapping @ University of Groningen</div>
-						<div class="prog-speaker">Leon van der Meulen</div>
+						<div class="prog-title">Mapbox Cloud Vector Tiles met attribuutinformatie</div>
+						<div class="prog-speaker">Andrea van Milgen, Wouter van der Hulst</div>
 						<div class="prog-theme icon">OSM/Mapping</div>
 						<div class="prog-lang icon"><?php echo $lang['LANG_EN']; ?></div>
 						<div class="prog-tl">
 							<div class="prog-sched icon">15h25 - 15h45</div>
 							<div class="prog-track icon">Grote zaal</div>
 						</div>
-						<a class="prog-link icon" target="_blank" href="/talk/indoor-mapping-university-of-groningen.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
-							</div>
-							</div>
+						<a class="prog-link icon" target="_blank" href="/talk/mapbox-cloud-vector-tiles-met-attribuutinformatie.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+						</div>
+						</div>
 
 				<div class="prog-item tr1">
 					<div class="prog-content">
