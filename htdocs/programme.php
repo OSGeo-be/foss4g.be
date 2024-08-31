@@ -190,21 +190,6 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							</div>
 							</div>
 
-				<div class="prog-item tr6" style="grid-row: 2;">
-					<div class="prog-content">
-						<div class="prog-title">Hands-On Cloud Native Geospatial Analytics With Apache Sedona</div>
-						<div class="prog-speaker">William Lyon</div>
-						<div class="prog-lang icon"><?php echo $lang['LANG_EN']; ?></div>
-						<div class="prog-tl">
-							<div class="prog-sched icon">15h00 - 17h00</div>
-							<div class="prog-track icon">La Salle</div>
-						</div>
-						<a class="prog-link icon" target="_blank" href="/talk/hands-on-cloud-native-geospatial-analytics-with-apache-sedona.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
-						</div>
-						</div>
-						</div>
-
-
 			<div class="prog-item plenary intermezzo">
 				<div class="prog-content">
 					<div class="prog-title"><i class="fa fa-glass"></i>
