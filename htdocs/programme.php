@@ -189,6 +189,8 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 						<a class="prog-link icon" target="_blank" href="/talk/an-intro-to-point-cloud-processing-using-pdal-pipelines.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
 							</div>
 							</div>
+			</div>
+
 
 			<div class="prog-item plenary intermezzo">
 				<div class="prog-content">
