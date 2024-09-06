@@ -67,7 +67,12 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
             <div class="abstract">
                 <p>
                     Leia is an initiative by the Province of Zeeland and Geodan to lower the barrier of setting up a 3D
-                    viewer, for example for making digital twins.
+                    viewer, for example for creating digital twins. Leia offers an open source viewer, based on CesiumJS, 
+                    that can easily be hosted in a Docker container. The presentation will dive into how this project came to be, 
+                    what the viewer can do and the plans for further development.
+                    <br/><br/>
+                    The FOSS4G BE+NL 2024 marks the official start of the Leia community! Do you want to use or contribute
+                    to this project? We'll share more information in the presentation on how to get involved.
                 </p>
             </div>
         </div>
