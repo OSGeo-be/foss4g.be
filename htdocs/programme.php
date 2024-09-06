@@ -184,7 +184,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 						<div class="prog-lang icon"><?php echo $lang['LANG_EN']; ?></div>
 						<div class="prog-tl">
 							<div class="prog-sched icon">13h00 - 15h00</div>
-							<div class="prog-track icon">La Salle</div>
+							<div class="prog-track icon">Info punt</div>
 						</div>
 						<a class="prog-link icon" target="_blank" href="/talk/an-intro-to-point-cloud-processing-using-pdal-pipelines.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
 							</div>
@@ -699,6 +699,20 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-track icon">Hobby/dans</div>
 						</div>
 						<a class="prog-link icon" target="_blank" href="/talk/een-interactieve-multi-criteria-analyse-tool-een-startgesprek-voor-ruimtelijke-planning.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+							</div>
+							</div>
+
+				<div class="prog-item tr4">
+					<div class="prog-content">
+						<div class="prog-title">The open source software underpinning the 3DBAG</div>
+						<div class="prog-speaker">Balázs Dukai, Gina Stavropoulou & Ravi Peters</div>
+						<div class="prog-theme icon">Biodiversity</div>
+						<div class="prog-lang icon"><?php echo $lang['LANG_EN']; ?></div>
+						<div class="prog-tl">
+							<div class="prog-sched icon">14h05 - 14h25</div>
+							<div class="prog-track icon">EHBO</div>
+						</div>
+						<a class="prog-link icon" target="_blank" href="/talk/the-open-source-software-underpinning-the-3DBAG.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
 							</div>
 							</div>
 
