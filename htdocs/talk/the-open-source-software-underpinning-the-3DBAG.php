@@ -1,5 +1,5 @@
 <?php include_once '../common.php';
-include_once ("../mysql.php");
+include_once("../mysql.php");
 $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 ?>
 <!DOCTYPE html>
@@ -54,25 +54,19 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
     <section id="main" class="container">
 
         <div class="content">
-            <h2>Leia, the open source Cesium-based 3D viewer</h2>
+            <h2>The open source software underpinning the 3DBAG</h2>
 
-            <div class="prog-speaker">Kamiel Verhelst</div>
+            <div class="prog-speaker">Balázs Dukai, Gina Stavropoulou & Ravi Peters</div>
             <div class="prog-lang icon"><?php echo $lang['LANG_EN']; ?></div>
-            <div class="prog-theme icon">3D</div>
+            <div class="prog-theme icon">Biodiversity</div>
             <div class="prog-tl">
-                <div class="prog-sched icon"><?php echo $lang['PROG_THU'] ?>, 13h40 - 14h00</div>
-                <div class="prog-track tr2 icon">Grote zaal</div>
+                <div class="prog-sched icon"><?php echo $lang['PROG_THU'] ?>, 14h05 - 14h25</div>
+                <div class="prog-track tr4 icon">EHBO</div>
             </div>
 
             <div class="abstract">
                 <p>
-                    Leia is an initiative by the Province of Zeeland and Geodan to lower the barrier of setting up a 3D
-                    viewer, for example for creating digital twins. Leia offers an open source viewer, based on CesiumJS, 
-                    that can easily be hosted in a Docker container. The presentation will dive into how this project came to be, 
-                    what the viewer can do and the plans for further development.
-                    <br/><br/>
-                    The FOSS4G BE+NL 2024 marks the official start of the Leia community! Do you want to use or contribute
-                    to this project? We'll share more information in the presentation on how to get involved.
+                TBA
                 </p>
             </div>
         </div>
