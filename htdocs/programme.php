@@ -796,7 +796,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 			<div class="prog-slot">
 				<div class="prog-item tr2">
 					<div class="prog-content">
-						<div class="prog-title">Mapbox Cloud Vector Tiles met attribuutinformatie</div>
+						<div class="prog-title">Mapbox Cloud Vector Tiles with Attribuut Information</div>
 						<div class="prog-speaker">Andrea van Milgen, Wouter van der Hulst</div>
 						<div class="prog-theme icon">OSM/Mapping</div>
 						<div class="prog-lang icon"><?php echo $lang['LANG_EN']; ?></div>

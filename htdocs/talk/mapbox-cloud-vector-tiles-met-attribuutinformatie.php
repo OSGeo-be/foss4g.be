@@ -54,10 +54,10 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
     <section id="main" class="container">
 
         <div class="content">
-            <h2>Mapbox Cloud Vector Tiles met attribuutinformatie</h2>
+            <h2>Mapbox Cloud Vector Tiles with Attribute Information</h2>
 
             <div class="prog-speaker">Andrea van Milgen, Wouter van der Hulst</div>
-            <div class="prog-lang icon"><?php echo $lang['LANG_NL']; ?></div>
+            <div class="prog-lang icon"><?php echo $lang['LANG_EN']; ?></div>
             <div class="prog-theme icon">OSM/Mapping</div>
             <div class="prog-tl">
                 <div class="prog-sched icon"><?php echo $lang['PROG_THU'] ?>, 15h25 - 15h45</div>
@@ -66,17 +66,16 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 
             <div class="abstract">
                 <p>
-                    Als netbeheerder hebben we bij Alliander grote hoeveelheden geografische asset informatie. Onze
-                    Elektra, Gas en Telecom assets bestaan gezamenlijk uit meer dan 600 objecttypen, die weer bestaan
-                    uit miljoenen individuele objecten per objecttype. Omvangrijke data dus! Sinds enkele jaren bieden
-                    we deze data aan als Esri Vector Tile sets, maar deze closed-source technologie is voor onze
-                    toepassing te weinig flexibel. Open Source biedt ons in de toekomst bijvoorbeeld de mogelijkheid om
-                    delta's te genereren.
+                    At Alliander, as a grid operator, we manage large amounts of geographical asset information. Our 
+                    electricity, gas, and telecom assets together comprise over 600 types of objects, each consisting 
+                    of millions of individual objects. So yeah, that’s a lot of data! For the past few years, we've 
+                    been offering this data as Esri Vector Tile sets, but this closed-source technology hasn't been 
+                    flexible enough for what we need. Open Source, for example, could let us generate deltas in the future.
                 </p>
                 <p>
-                    Om deze data efficiënt aan onze organisatie te leveren, hebben we dit jaar cloud-gehoste Mapbox
-                    vector tiles met bevraagbare attribuutinformatie ontwikkeld. De successen en obstakels van deze
-                    ontwikkeling willen we in deze presentatie graag met jullie delen.
+                    To deliver this data efficiently to our organization, this year we developed cloud-hosted Mapbox vector 
+                    tiles with queryable attribute information. In this presentation, we'd like to share both the successes 
+                    and challenges we've encountered during this development.
                 </p>
                 <h3>Trefwoorden</h3>
                 <p>AWS, Cloud, Vector Tiles, MapBox, PostGreSQL, S3</p>
