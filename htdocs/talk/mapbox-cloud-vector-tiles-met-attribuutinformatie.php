@@ -77,7 +77,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
                     tiles with queryable attribute information. In this presentation, we'd like to share both the successes 
                     and challenges we've encountered during this development.
                 </p>
-                <h3>Trefwoorden</h3>
+                <h3><?php echo $lang['PROG_KEYWORDS'] ?></h3>
                 <p>AWS, Cloud, Vector Tiles, MapBox, PostGreSQL, S3</p>
             </div>
         </div>
