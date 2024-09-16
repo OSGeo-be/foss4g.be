@@ -97,7 +97,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
                     obstakels) die daarbij voorbijkwamen toelichten.
                 </p>
 
-                <h3>Trefwoorden</h3>
+                <h3><?php echo $lang['PROG_KEYWORDS'] ?></h3>
                 <p>PostGIS, pgRouting, clustering, DBSCAN, uitrol glasvezel</p>
             </div>
         </div>

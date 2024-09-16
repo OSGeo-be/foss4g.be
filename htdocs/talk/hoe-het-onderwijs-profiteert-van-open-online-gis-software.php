@@ -73,7 +73,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
                     veel voordelen met zich meebrengt.
                 </p>
 
-                <h3>Trefwoorden</h3>
+                <h3><?php echo $lang['PROG_KEYWORDS'] ?></h3>
                 <p>
                     Online | Open Source GIS | Voortgezet Onderwijs | Kaarten | Lesmateriaal | Eigen leefomgeving |
                     Actuele vraagstukken | Digitale kaartvaardigheden | <a href="https://www.edugis.nl"

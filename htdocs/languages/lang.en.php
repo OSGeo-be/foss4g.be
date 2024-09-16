@@ -358,6 +358,7 @@ $lang['PROG_CODESPRINT_WHAT'] = 'What do you want to work on?';
 $lang['PROG_CODESPRINT_WHO'] = 'You!';
 
 $lang['PROG_MORE_INFO'] = 'More info';
+$lang['PROG_KEYWORDS'] = 'Keywords';
 
 $lang['LANG_EN'] = $lang['URL_NAME_1'];
 $lang['LANG_NL'] = $lang['URL_NAME_2'];

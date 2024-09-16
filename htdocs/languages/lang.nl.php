@@ -450,6 +450,7 @@ $lang['PROG_CODESPRINT_WHAT'] = 'Waar wil jij aan werken?';
 $lang['PROG_CODESPRINT_WHO'] = 'Jij!';
 
 $lang['PROG_MORE_INFO'] = 'Meer info';
+$lang['PROG_KEYWORDS'] = 'Trefwoorden';
 
 $lang['LANG_EN'] = $lang['URL_NAME_1'];
 $lang['LANG_NL'] = $lang['URL_NAME_2'];
