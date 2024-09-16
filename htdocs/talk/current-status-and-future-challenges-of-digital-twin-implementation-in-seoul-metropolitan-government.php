@@ -57,7 +57,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
             <h2>Current Status and Future Challenges of Digital Twin Implementation in Seoul Metropolitan Government
             </h2>
 
-            <div class="prog-speaker">Kim Tae-Hyun</div>
+            <div class="prog-speaker">Tae-hyun Kim</div>
             <div class="prog-lang icon"><?php echo $lang['LANG_EN']; ?></div>
             <div class="prog-theme icon">Platforms</div>
             <div class="prog-tl">
@@ -67,8 +67,16 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 
             <div class="abstract">
                 <p>
-                    Case Study of Utilizing Epic Games' Unreal Engine as a Digital Twin Platform for Implementing a
-                    Smart City in Seoul and Challenges for Sustainable Application
+                    This presentation will introduce the current trends in digital virtual city implementation technologies 
+                    and highlight the initiatives being pursued by the Seoul Metropolitan Government. It will also outline 
+                    the future challenges necessary for the city's evolution into an intelligent, smart city.
+                </p>
+                <p>
+                    The presentation will explore the potential for applying game development technologies, such as Unreal 
+                    Engine with Python, as tools for simulating urban phenomena. Furthermore, it will emphasize the importance 
+                    of integrating Seoul's administrative processes with the digital twin platform to ensure its continuous 
+                    alignment with the real city. The role of the Seoul Institute in exploring and applying these technologies 
+                    within the city's context will also be discussed.
                 </p>
             </div>
         </div>

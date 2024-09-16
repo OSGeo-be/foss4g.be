@@ -470,7 +470,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 					<div class="prog-content">
 						<div class="prog-title">Current Status and Future Challenges of Digital Twin Implementation in
 							Seoul Metropolitan Government</div>
-						<div class="prog-speaker">Kim Tae-Hyun</div>
+						<div class="prog-speaker">Tae-hyun Kim</div>
 						<div class="prog-theme icon">Platforms</div>
 						<div class="prog-lang icon"><?php echo $lang['LANG_EN']; ?></div>
 						<div class="prog-tl">
