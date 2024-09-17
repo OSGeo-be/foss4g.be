@@ -54,7 +54,7 @@
 								<a class="sponsor icon" href="https://www.opengeogroep.nl" style="background-image: url('/images/sponsors/opengeogroep.png');"></a>
 								<a class="sponsor icon" href="https://www.geocat.net/" style="background-image: url('/images/sponsors/geocat.svg');"></a>
 								<a class="sponsor icon" href="https://www.geoexperts.nl/" style="background-image: url('/images/sponsors/geoexperts.png');"></a>
-
+								<a class="sponsor icon" href="https://www.geodan.nl/" style="background-image: url('/images/sponsors/geodan.png');"></a>
 							</dd>
 							<dt class="spons">
 								<a href="#" class="accordionTitle sponsors silver">
