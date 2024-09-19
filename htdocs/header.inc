@@ -16,6 +16,7 @@
 								<!--<li><a href="/sponsors.php">Sponsors</a></li>
 								<li><a href="/papers.php"><?php echo $lang['MENU_CALL3']; ?></a></li>-->
 								<li><a href="/venue.php"><?php echo $lang['MENU_VENUE']; ?></a></li>
+								<li><a href="/indoor.php"><?php echo $lang['MENU_VENUE_INDOOR']; ?></a></li>
 								<li><a href="/sponsors.php"><?php echo $lang['MENU_SPONSORS']; ?></a></li>
 								<li><a href="/contact.php"><?php echo $lang['MENU_CONTACT']; ?></a></li>
 							</ul>
