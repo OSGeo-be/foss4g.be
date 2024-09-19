@@ -44,6 +44,7 @@ $lang['MENU_STREAM'] = 'Livestream';
 
 $lang['MENU_PROGRAM'] = 'Programma';
 $lang['MENU_VENUE'] = 'Locatie';
+$lang['MENU_VENUE_INDOOR'] = 'Plattegrond';
 $lang['MENU_VOLUNTEERS'] = 'Oproep voor vrijwilligers';
 $lang['MENU_CONTACT'] = 'Contact';
 $lang['MENU_LANG'] = 'Taal';
@@ -459,6 +460,9 @@ $lang['LANG_FR'] = $lang['URL_NAME_3'];
 
 $lang['VENUE_TITLE'] = 'Locatie';
 $lang['VENUE_SUBTITLE'] = 'Onze conferentie vindt plaats op een unieke en grensoverschrijdende locatie';
+
+$lang['VENUE_INDOOR_TITLE'] = 'Plattegrond';
+$lang['VENUE_INDOOR_SUBTITLE'] = 'Navigeer moeiteloos doorheen de conferentie dankzij onze interactieve plattegrond.';
 
 $lang['VOLUNTEERS_TITLE'] = 'Oproep voor vrijwilligers';
 $lang['VOLUNTEERS_SUBTITLE'] = 'Zin om mee de handen uit de mouwen te steken? Geef je hier op als vrijwilliger!';

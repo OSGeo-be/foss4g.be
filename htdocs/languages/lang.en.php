@@ -44,6 +44,7 @@ $lang['MENU_STREAM'] = 'Live stream';
 $lang['MENU_PROGRAM'] = 'Schedule';
 $lang['MENU_CONTACT'] = 'Contact';
 $lang['MENU_VENUE'] = 'Venue';
+$lang['MENU_VENUE_INDOOR'] = 'Indoor plan';
 $lang['MENU_VOLUNTEERS'] = 'Call for volunteers';
 $lang['MENU_LANG'] = 'Lang';
 
@@ -417,6 +418,9 @@ $lang['MENU_MAPS'] = 'Call for Maps';
 
 $lang['VENUE_TITLE'] = 'Venue';
 $lang['VENUE_SUBTITLE'] = 'Our conference will take place at a unique and cross-border location';
+
+$lang['VENUE_INDOOR_TITLE'] = 'Indoor plan';
+$lang['VENUE_INDOOR_SUBTITLE'] = 'Navigate effortlessly through the conference with our interactive map.';
 
 $lang['VOLUNTEERS_TITLE'] = 'Call for volunteers';
 $lang['VOLUNTEERS_SUBTITLE'] = 'Want to lend a hand? Sign up as a volunteer here!';

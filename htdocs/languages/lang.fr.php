@@ -43,6 +43,7 @@ $lang['MENU_STREAM'] = 'Diffusion en direct';
 $lang['MENU_PROGRAM'] = 'Programme';
 $lang['MENU_CONTACT'] = 'Contact';
 $lang['MENU_VENUE'] = 'Location';
+$lang['MENU_VENUE_INDOOR'] = 'Plan d\'intérieur';
 $lang['MENU_VOLUNTEERS'] = 'Appel à bénévoles';
 $lang['MENU_LANG'] = 'Langue';
 
@@ -446,6 +447,9 @@ $lang['MENU_MAPS'] = 'Appel à cartes';
 
 $lang['VENUE_TITLE'] = 'Lieu';
 $lang['VENUE_SUBTITLE'] = 'Notre conférence se déroule dans un lieu unique et transfrontalier';
+
+$lang['VENUE_INDOOR_TITLE'] = 'Plan d\'intérieur';
+$lang['VENUE_INDOOR_SUBTITLE'] = 'Naviguez sans effort dans la conférence grâce à notre carte interactive.';
 
 $lang['VOLUNTEERS_TITLE'] = 'Appel à bénévoles';
 $lang['VOLUNTEERS_SUBTITLE'] = 'Vous souhaitez retrousser vos manches ? Inscrivez-vous comme bénévole ici !';
