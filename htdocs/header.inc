@@ -10,7 +10,7 @@
 							<ul>
                                 <?php /* echo "<li><a href='/$language/about'>". $lang['MENU_ABOUT']."</a></li>"; */ ?>
                                 <li><a href="/programme.php"><?php echo $lang['MENU_PROGRAM']; ?></a></li>
-								<!--<li><a href="/maps.php"><?php echo $lang['MENU_MAPS']; ?></a></li>-->
+								<li><a href="/volunteers.php"><?php echo $lang['MENU_VOLUNTEERS']; ?></a></li>
 								<li><a href="/call.php"><?php echo $lang['MENU_CALL2']; ?></a></li>
 								<li><a href="/get-ticket.php" target="_blank"><?php echo $lang['MENU_REG']; ?></a></li>
 								<!--<li><a href="/sponsors.php">Sponsors</a></li>

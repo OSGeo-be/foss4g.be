@@ -44,6 +44,7 @@ $lang['MENU_STREAM'] = 'Live stream';
 $lang['MENU_PROGRAM'] = 'Schedule';
 $lang['MENU_CONTACT'] = 'Contact';
 $lang['MENU_VENUE'] = 'Venue';
+$lang['MENU_VOLUNTEERS'] = 'Call for volunteers';
 $lang['MENU_LANG'] = 'Lang';
 
 
@@ -416,6 +417,10 @@ $lang['MENU_MAPS'] = 'Call for Maps';
 
 $lang['VENUE_TITLE'] = 'Venue';
 $lang['VENUE_SUBTITLE'] = 'Our conference will take place at a unique and cross-border location';
+
+$lang['VOLUNTEERS_TITLE'] = 'Call for volunteers';
+$lang['VOLUNTEERS_SUBTITLE'] = 'Want to lend a hand? Sign up as a volunteer here!';
+$lang['VOLUNTEERS_TEXT'] = 'For certain tasks during the conference we can use your help, fill in your name below if you want to help.<br>Even when you register as a volunteer it is necessary to register a ticket.<br>Thank you in advance!';
 
 // FOOTER
 

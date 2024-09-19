@@ -43,6 +43,7 @@ $lang['MENU_STREAM'] = 'Diffusion en direct';
 $lang['MENU_PROGRAM'] = 'Programme';
 $lang['MENU_CONTACT'] = 'Contact';
 $lang['MENU_VENUE'] = 'Location';
+$lang['MENU_VOLUNTEERS'] = 'Appel à bénévoles';
 $lang['MENU_LANG'] = 'Langue';
 
 
@@ -445,6 +446,10 @@ $lang['MENU_MAPS'] = 'Appel à cartes';
 
 $lang['VENUE_TITLE'] = 'Lieu';
 $lang['VENUE_SUBTITLE'] = 'Notre conférence se déroule dans un lieu unique et transfrontalier';
+
+$lang['VOLUNTEERS_TITLE'] = 'Appel à bénévoles';
+$lang['VOLUNTEERS_SUBTITLE'] = 'Vous souhaitez retrousser vos manches ? Inscrivez-vous comme bénévole ici !';
+$lang['VOLUNTEERS_TEXT'] = 'Nous pourrions avoir besoin de votre aide pour certaines tâches lors de la conférence, entrez votre nom ci-dessous si vous souhaitez aider.<br>Même si vous vous inscrivez en tant que bénévole, il est nécessaire d\'enregistrer un ticket.<br>Merci d\'avance !';
 
 
 // ERROR CODES -------------------------------------------------------------------------------------------------------/
