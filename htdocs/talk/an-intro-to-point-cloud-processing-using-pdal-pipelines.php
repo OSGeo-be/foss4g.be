@@ -61,7 +61,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 
             <div class="prog-tl">
                 <div class="prog-sched icon"><?php echo $lang['PROG_WED'] ?>, 13h00 - 15h00</div>
-                <div class="prog-track tr6 icon">La Salle</div>
+                <div class="prog-track tr6 icon">Infopunt</div>
             </div>
 
             <div class="abstract">

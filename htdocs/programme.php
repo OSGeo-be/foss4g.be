@@ -58,9 +58,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 			</h2>
 		</header>
 
-		<h3 style="margin-top: 0;">
-			<?php echo $lang['PROG_WED'] . ': ' . $lang['PROG_WORKSHOP']; ?>
-		</h3>
+		<h3><?php echo $lang['PROG_WED'] . ': ' . $lang['PROG_WORKSHOP']; ?></h3>
 
 		<div id="prog-wed" class="prog-list">
 			<div class="prog-item plenary intermezzo">
@@ -184,7 +182,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 						<div class="prog-lang icon"><?php echo $lang['LANG_EN']; ?></div>
 						<div class="prog-tl">
 							<div class="prog-sched icon">13h00 - 15h00</div>
-							<div class="prog-track icon">Info punt</div>
+							<div class="prog-track icon">Infopunt</div>
 						</div>
 						<a class="prog-link icon" target="_blank" href="/talk/an-intro-to-point-cloud-processing-using-pdal-pipelines.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
 							</div>
@@ -197,7 +195,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 					<div class="prog-title"><i class="fa fa-glass"></i>
 						<?php echo $lang['PROG_SOCIAL']; ?></div>
 					<div class="prog-sched icon">20h00 - 23h00</div>
-					<div class="prog-track icon">Jongeren zaal</div>
+					<div class="prog-track icon">La Salle</div>
 					</div>
 					</div>
 		</div>
@@ -706,7 +704,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 					<div class="prog-content">
 						<div class="prog-title">The open source software underpinning the 3DBAG</div>
 						<div class="prog-speaker">Balázs Dukai, Gina Stavropoulou & Ravi Peters</div>
-						<div class="prog-theme icon">Biodiversity</div>
+						<div class="prog-theme icon">3D</div>
 						<div class="prog-lang icon"><?php echo $lang['LANG_EN']; ?></div>
 						<div class="prog-tl">
 							<div class="prog-sched icon">14h05 - 14h25</div>
