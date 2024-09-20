@@ -63,7 +63,7 @@
 								</a>
               				</dt>
 							<dd class="accordionItem">
-								<a class="sponsor icon" href="https://www.geopostcodes.com" style="background-image: url('/images/sponsors/geopostcodes.png');"></a>
+								<a class="sponsor icon" href="https://www.geopostcodes.com" style="background-image: url('/images/sponsors/geopostcodes.svg');"></a>
 								<a class="sponsor icon" href="https://www.gim.be" style="background-image: url('/images/sponsors/gim.png');"></a>
 								<a class="sponsor icon" href="https://www.tomtom.com"  style="background-image: url('/images/sponsors/tomtom.png');"></a>
 							</dd>
