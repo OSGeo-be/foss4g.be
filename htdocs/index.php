@@ -29,14 +29,14 @@
             <section id="banner">
                 <img src="<?php echo $lang['CECI']; ?>" alt="<?php echo $lang['SITE_NAME']; ?> - <?php echo $lang['CECI_1']; ?> <?php echo $lang['CECI_2']; ?> <?php echo $lang['CECI_3']; ?>">
 				<ul class="actions">
-					<li><a href="volunteers.php" class="button"><?php echo $lang['MENU_VOLUNTEERS']; ?></a></li>
-					<li><a href="call.php" class="button"><?php echo $lang['MENU_CALL2']; ?></a></li>
-				</ul>
-                <ul class="actions">
-                <!-- Button  -->
+				<!-- Button  -->
 					<li><a href="programme.php" class="button"><?php echo $lang['MENU_PROGRAM']; ?></a></li>
 					<li><a href="venue.php" class="button"><?php echo $lang['MENU_VENUE']; ?></a></li>
-                </ul>
+				</ul>
+				<ul class="actions">
+					<li><a href="volunteers.php" class="button"><?php echo $lang['MENU_VOLUNTEERS']; ?></a></li>
+					<li><a href="sponsors.php" class="button"><?php echo $lang['MENU_SPONSORS']; ?></a></li>
+				</ul>
 				<ul class="actions">
 					<li><a href="get-ticket.php" target="_blank" class="button"><?php echo $lang['MENU_REG']; ?></a></li>
 				</ul>
