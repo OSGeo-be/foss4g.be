@@ -31,7 +31,7 @@
 				<ul class="actions">
 				<!-- Button  -->
 					<li><a href="programme.php" class="button"><?php echo $lang['MENU_PROGRAM']; ?></a></li>
-					<li><a href="venue.php" class="button"><?php echo $lang['MENU_VENUE']; ?></a></li>
+					<li><a href="indoor.php" class="button"><?php echo $lang['MENU_VENUE_INDOOR']; ?></a></li>
 				</ul>
 				<ul class="actions">
 					<li><a href="volunteers.php" class="button"><?php echo $lang['MENU_VOLUNTEERS']; ?></a></li>
