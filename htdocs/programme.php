@@ -786,7 +786,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 		<h3><?php echo $lang['PROG_WED'] . ': ' . $lang['PROG_WORKSHOP']; ?></h3>
 		
 		<div id="prog-wed" class="prog-list">
-			<div class="prog-item plenary intermezzo">
+			<!-- <div class="prog-item plenary intermezzo">
 				<div class="prog-content">
 					<div class="prog-title"><i class="fa fa-user"></i>
 						<?php echo $lang['PROG_REGISTRATION']; ?></div>
@@ -801,7 +801,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 					<div class="prog-sched icon">12h00 - 13h00</div>
 					<div class="prog-track icon">La Salle</div>
 				</div>
-			</div>
+			</div> -->
 		
 			<div class="prog-swipe"><?php echo $lang['PROG_SWIPE']; ?></div>
 		
@@ -927,14 +927,14 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 			</div>
 		
 		
-			<div class="prog-item plenary intermezzo">
+			<!-- <div class="prog-item plenary intermezzo">
 				<div class="prog-content">
 					<div class="prog-title"><i class="fa fa-glass"></i>
 						<?php echo $lang['PROG_SOCIAL']; ?></div>
 					<div class="prog-sched icon">20h00 - 23h00</div>
 					<div class="prog-track icon">La Salle</div>
 				</div>
-			</div>
+			</div> -->
 		</div>
 
 		<div class="nav bottom" style="margin-top: 50px;">
