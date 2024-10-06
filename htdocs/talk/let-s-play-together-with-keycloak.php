@@ -59,6 +59,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
             <div class="prog-speaker">Ruben Cappelle</div>
             <div class="prog-lang icon"><?php echo $lang['LANG_EN']; ?></div>
             <div class="prog-theme icon">Stacks and formats</div>
+            <div class="prog-slides icon"><a href="/talk-slides/let-s-play-together-with-keycloak.pptx"><?php echo $lang['DOWNLOAD_SLIDES'] ?></a>
             <div class="prog-tl">
                 <div class="prog-sched icon"><?php echo $lang['PROG_THU'] ?>, 15h25 - 15h45</div>
                 <div class="prog-track tr4 icon">EHBO</div>
