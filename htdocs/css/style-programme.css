@@ -174,6 +174,11 @@ div.prog-item .prog-theme::before {
 
 .prog-link.prog-slides.icon::after {
     content: '\f108';
+    width: 3ex;
+    line-break: anywhere;
+    line-height: 1.5;
+    text-align: right;
+    top: 20px;
 }
 div.prog-item.plenary {
     grid-row: unset;
