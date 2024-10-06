@@ -58,6 +58,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 
             <div class="prog-speaker">Evert Meijer</div>
             <div class="prog-lang icon"><?php echo $lang['LANG_NL']; ?></div>
+            <div class="prog-slides icon"><a href="/talk-slides/enclaves-en-de-rol-van-osgeo-in-het-onderwijs.pdf"><?php echo $lang['DOWNLOAD_SLIDES'] ?></a>
             <div class="prog-tl">
                 <div class="prog-sched icon"><?php echo $lang['PROG_THU'] ?>, 10h00 - 10h20</div>
                 <div class="prog-track tr2 icon">Grote zaal</div>

@@ -244,7 +244,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 						<div class="prog-sched icon">10h00 - 10h20</div>
 						<div class="prog-track icon">Grote zaal</div>
 					</div>
-					<a class="prog-link icon" target="_blank" href="/talk/enclaves-en-de-rol-van-osgeo-in-het-onderwijs.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+					<a class="prog-link prog-slides icon" target="_blank" href="/talk/enclaves-en-de-rol-van-osgeo-in-het-onderwijs.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
 						</div>
 			</div>
 
