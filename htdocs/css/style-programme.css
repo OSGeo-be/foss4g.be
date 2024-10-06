@@ -14,7 +14,7 @@ h3 {
     margin-top: 40px;
 }
 
-.icon::before {
+.icon::before, .icon::after {
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
     font-family: FontAwesome;
