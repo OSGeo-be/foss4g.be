@@ -578,9 +578,9 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">13h40 - 14h00</div>
 							<div class="prog-track icon">Grote zaal</div>
 						</div>
-						<a class="prog-link icon" target="_blank" href="/talk/leia-the-open-source-cesium-based-3d-viewer.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
-							</div>
-							</div>
+						<a class="prog-link prog-slides icon" target="_blank" href="/talk/leia-the-open-source-cesium-based-3d-viewer.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+						</div>
+						</div>
 
 				<div class="prog-item tr1">
 					<div class="prog-content">
