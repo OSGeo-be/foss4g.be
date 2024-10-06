@@ -775,7 +775,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">15h00 - 15h20</div>
 							<div class="prog-track icon">Hobby/dans</div>
 						</div>
-						<a class="prog-link icon" target="_blank" href="/talk/communitybouwen-en-opensource-pleio-nl.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+						<a class="prog-link prog-slides icon" target="_blank" href="/talk/communitybouwen-en-opensource-pleio-nl.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
 							</div>
 							</div>
 
