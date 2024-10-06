@@ -59,6 +59,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
             <div class="prog-speaker">Tom van Tilburg</div>
             <div class="prog-lang icon"><?php echo $lang['LANG_EN']; ?></div>
             <div class="prog-theme icon">Stacks and formats</div>
+            <div class="prog-slides icon"><a href="/talk-slides/should-you-use-geoparquet.pptx"><?php echo $lang['DOWNLOAD_SLIDES'] ?></a>
             <div class="prog-tl">
                 <div class="prog-sched icon"><?php echo $lang['PROG_THU'] ?>, 11h50 - 12h10</div>
                 <div class="prog-track tr1 icon">BG1</div>
