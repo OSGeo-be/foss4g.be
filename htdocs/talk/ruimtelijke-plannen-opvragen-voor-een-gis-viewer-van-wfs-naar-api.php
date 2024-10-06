@@ -59,6 +59,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
             <div class="prog-speaker">Fabian Feijen</div>
             <div class="prog-lang icon"><?php echo $lang['LANG_NL']; ?></div>
             <div class="prog-theme icon">APIs & Planning</div>
+            <div class="prog-slides icon"><a href="/talk-slides/ruimtelijke-plannen-opvragen-voor-een-gis-viewer-van-wfs-naar-api.pptx"><?php echo $lang['DOWNLOAD_SLIDES'] ?></a>
             <div class="prog-tl">
                 <div class="prog-sched icon"><?php echo $lang['PROG_THU'] ?>, 13h40 - 14h00</div>
                 <div class="prog-track tr5 icon">Hobby/dans</div>
