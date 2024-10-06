@@ -362,6 +362,8 @@ $lang['PROG_CODESPRINT_WHO'] = 'You!';
 $lang['PROG_MORE_INFO'] = 'More info';
 $lang['PROG_KEYWORDS'] = 'Keywords';
 
+$lang['DOWNLOAD_SLIDES'] = 'Download slides';
+
 $lang['LANG_EN'] = $lang['URL_NAME_1'];
 $lang['LANG_NL'] = $lang['URL_NAME_2'];
 $lang['LANG_FR'] = $lang['URL_NAME_3'];

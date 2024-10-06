@@ -63,6 +63,8 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
                 <div class="prog-sched icon"><?php echo $lang['PROG_THU'] ?>, 13h40 - 14h00</div>
                 <div class="prog-track tr2 icon">Grote zaal</div>
             </div>
+            <div class="prog-slides"><a href="/talk-slides/leia-the-open-source-cesium-based-3d-viewer.pptx"><?php echo $lang['DOWNLOAD_SLIDES'] ?></a>
+            </div>
 
             <div class="abstract">
                 <p>

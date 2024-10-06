@@ -454,6 +454,8 @@ $lang['PROG_CODESPRINT_WHO'] = 'Jij!';
 $lang['PROG_MORE_INFO'] = 'Meer info';
 $lang['PROG_KEYWORDS'] = 'Trefwoorden';
 
+$lang['DOWNLOAD_SLIDES'] = 'Download presentatie';
+
 $lang['LANG_EN'] = $lang['URL_NAME_1'];
 $lang['LANG_NL'] = $lang['URL_NAME_2'];
 $lang['LANG_FR'] = $lang['URL_NAME_3'];

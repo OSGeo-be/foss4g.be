@@ -70,6 +70,10 @@ div.content .prog-theme::before {
     content: '\f1fc';
 }
 
+div.content .prog-slides::before {
+    content: '\f26c';
+}
+
 div.content .prog-track {
     padding-bottom: 10px;
 }
