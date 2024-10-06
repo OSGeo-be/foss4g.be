@@ -177,7 +177,7 @@ div.prog-item .prog-theme::before {
     line-break: anywhere;
     line-height: 1.5;
     text-align: right;
-    top: 20px;
+    top: 15px;
 }
 
 .prog-link.prog-slides.icon::after {
