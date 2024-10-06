@@ -172,7 +172,7 @@ div.prog-item .prog-theme::before {
     content: '\f08e';
 }
 
-.prog-link.prog-slides::after {
+.prog-link.prog-slides.icon::after {
     content: '\f108';
 }
 div.prog-item.plenary {
