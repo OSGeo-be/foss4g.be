@@ -562,7 +562,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">13h15 - 13h35</div>
 							<div class="prog-track icon">Judo 2</div>
 						</div>
-						<a class="prog-link icon" target="_blank" href="/talk/algorithm-for-network-planning-and-design-in-postgis.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+						<a class="prog-link prog-slides icon" target="_blank" href="/talk/algorithm-for-network-planning-and-design-in-postgis.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
 							</div>
 							</div>
 			</div>
