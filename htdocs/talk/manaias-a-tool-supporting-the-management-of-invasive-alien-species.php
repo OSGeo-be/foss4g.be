@@ -59,6 +59,8 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
             <div class="prog-speaker">Ronveaux Sébastien</div>
             <div class="prog-lang icon"><?php echo $lang['LANG_EN']; ?></div>
             <div class="prog-theme icon">Biodiversity</div>
+            <div class="prog-slides icon"><a href="/talk-slides/manaias-a-tool-supporting-the-management-of-invasive-alien-species.pdf"><?php echo $lang['DOWNLOAD_SLIDES'] ?></a>
+            <div class="prog-slides icon"><a href="/talk-slides/manaias-a-tool-supporting-the-management-of-invasive-alien-species.mp4">Download screencast</a>
             <div class="prog-tl">
                 <div class="prog-sched icon"><?php echo $lang['PROG_THU'] ?>, 13h40 - 14h00</div>
                 <div class="prog-track tr4 icon">EHBO</div>

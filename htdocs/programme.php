@@ -623,7 +623,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">13h40 - 14h00</div>
 							<div class="prog-track icon">EHBO</div>
 						</div>
-						<a class="prog-link icon" target="_blank" href="/talk/manaias-a-tool-supporting-the-management-of-invasive-alien-species.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+						<a class="prog-link prog-slides icon" target="_blank" href="/talk/manaias-a-tool-supporting-the-management-of-invasive-alien-species.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
 							</div>
 							</div>
 
