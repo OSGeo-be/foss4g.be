@@ -59,6 +59,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
             <div class="prog-speaker">Balázs Dukai, Gina Stavropoulou & Ravi Peters</div>
             <div class="prog-lang icon"><?php echo $lang['LANG_EN']; ?></div>
             <div class="prog-theme icon">3D</div>
+            <div class="prog-slides icon"><a href="/talk-slides/the-open-source-software-underpinning-the-3DBAG.pdf"><?php echo $lang['DOWNLOAD_SLIDES'] ?></a>
             <div class="prog-tl">
                 <div class="prog-sched icon"><?php echo $lang['PROG_THU'] ?>, 14h05 - 14h25</div>
                 <div class="prog-track tr4 icon">EHBO</div>
