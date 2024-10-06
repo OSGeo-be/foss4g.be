@@ -835,7 +835,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">15h25 - 15h45</div>
 							<div class="prog-track icon">Hobby/dans</div>
 						</div>
-						<a class="prog-link icon" target="_blank" href="/talk/osgeo-nl-de-verenigde-stichting.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+						<a class="prog-link prog-slides icon" target="_blank" href="/talk/osgeo-nl-de-verenigde-stichting.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
 							</div>
 							</div>
 
