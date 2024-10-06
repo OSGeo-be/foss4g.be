@@ -639,7 +639,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">13h40 - 14h00</div>
 							<div class="prog-track icon">Judo 2</div>
 						</div>
-						<a class="prog-link icon" target="_blank" href="/talk/maintaining-a-global-database-of-admin-and-postal-boundaries-with-postgis-a-large-scale-use-case-for.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+						<a class="prog-link prog-slides icon" target="_blank" href="/talk/maintaining-a-global-database-of-admin-and-postal-boundaries-with-postgis-a-large-scale-use-case-for.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
 							</div>
 							</div>
 			</div>
