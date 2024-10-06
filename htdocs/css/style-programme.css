@@ -172,13 +172,16 @@ div.prog-item .prog-theme::before {
     content: '\f08e';
 }
 
-.prog-link.prog-slides.icon::after {
-    content: '\f108';
+.prog-link.prog-slides {
     width: 3ex;
     line-break: anywhere;
     line-height: 1.5;
     text-align: right;
     top: 20px;
+}
+
+.prog-link.prog-slides.icon::after {
+    content: '\f108';
 }
 div.prog-item.plenary {
     grid-row: unset;
