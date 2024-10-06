@@ -59,6 +59,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
             <div class="prog-speaker">Andrea van Milgen, Wouter van der Hulst</div>
             <div class="prog-lang icon"><?php echo $lang['LANG_EN']; ?></div>
             <div class="prog-theme icon">OSM/Mapping</div>
+            <div class="prog-slides icon"><a href="/talk-slides/mapbox-cloud-vector-tiles-met-attribuutinformatie.pptx"><?php echo $lang['DOWNLOAD_SLIDES'] ?></a>
             <div class="prog-tl">
                 <div class="prog-sched icon"><?php echo $lang['PROG_THU'] ?>, 15h25 - 15h45</div>
                 <div class="prog-track tr2 icon">Grote zaal</div>
