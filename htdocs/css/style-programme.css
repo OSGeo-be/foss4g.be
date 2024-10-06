@@ -172,6 +172,9 @@ div.prog-item .prog-theme::before {
     content: '\f08e';
 }
 
+.prog-link .prog-slides::after {
+    content: '\f108';
+}
 div.prog-item.plenary {
     grid-row: unset;
     grid-column: 1 / -1;
