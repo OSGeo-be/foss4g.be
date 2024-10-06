@@ -715,7 +715,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">14h05 - 14h25</div>
 							<div class="prog-track icon">Judo 2</div>
 						</div>
-						<a class="prog-link icon" target="_blank" href="/talk/large-scale-geospatial-computations-recycle-your-postgis-spatial-sql-queries-with-apache-sedona.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+						<a class="prog-link prog-slides icon" target="_blank" href="/talk/large-scale-geospatial-computations-recycle-your-postgis-spatial-sql-queries-with-apache-sedona.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
 							</div>
 							</div>
 			</div>

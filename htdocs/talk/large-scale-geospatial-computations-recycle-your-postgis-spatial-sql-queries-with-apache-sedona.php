@@ -59,6 +59,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
             <div class="prog-speaker">Benjamin Deswysen</div>
             <div class="prog-lang icon"><?php echo $lang['LANG_EN']; ?></div>
             <div class="prog-theme icon">PostGIS</div>
+            <div class="prog-slides icon"><a href="/talk-slides/large-scale-geospatial-computations-recycle-your-postgis-spatial-sql-queries-with-apache-sedona.pptx"><?php echo $lang['DOWNLOAD_SLIDES'] ?></a>
             <div class="prog-tl">
                 <div class="prog-sched icon"><?php echo $lang['PROG_THU'] ?>, 14h05 - 14h25</div>
                 <div class="prog-track tr3 icon">Judo 2</div>
