@@ -477,7 +477,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 									<div class="prog-sched icon">11h50 - 12h10</div>
 									<div class="prog-track icon">Judo 2</div>
 								</div>
-								<a class="prog-link icon" target="_blank" href="/talk/pizza-symbols-in-qgis.php"
+								<a class="prog-link prog-slides icon" target="_blank" href="/talk/pizza-symbols-in-qgis.php"
 									title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
 									</div>
 			</div>

@@ -59,6 +59,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
             <div class="prog-speaker">Raymond Nijssen</div>
             <div class="prog-lang icon"><?php echo $lang['LANG_EN']; ?></div>
             <div class="prog-theme icon">QGIS</div>
+            <div class="prog-slides icon"><a href="/talk-slides/pizza-symbols-in-qgis.pdf"><?php echo $lang['DOWNLOAD_SLIDES'] ?></a>
             <div class="prog-tl">
                 <div class="prog-sched icon"><?php echo $lang['PROG_THU'] ?>, 11h50 - 12h10</div>
                 <div class="prog-track tr3 icon">Judo 2</div>
