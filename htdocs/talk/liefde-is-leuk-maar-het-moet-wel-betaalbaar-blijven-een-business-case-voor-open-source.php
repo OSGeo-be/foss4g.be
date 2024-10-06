@@ -59,6 +59,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
             <div class="prog-speaker">Peter de Graaf</div>
             <div class="prog-lang icon"><?php echo $lang['LANG_NL']; ?></div>
             <div class="prog-theme icon">Open Source and organisations</div>
+            <div class="prog-slides icon"><a href="/talk-slides/liefde-is-leuk-maar-het-moet-wel-betaalbaar-blijven-een-business-case-voor-open-source.pptx"><?php echo $lang['DOWNLOAD_SLIDES'] ?></a>
             <div class="prog-tl">
                 <div class="prog-sched icon"><?php echo $lang['PROG_THU'] ?>, 11h25 - 11h45</div>
                 <div class="prog-track tr3 icon">Judo 2</div>
