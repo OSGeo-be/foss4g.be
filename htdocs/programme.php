@@ -58,31 +58,162 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 			</h2>
 		</header>
 
+
+		<h3><?php echo $lang['PROG_WED'] . ': ' . $lang['PROG_WORKSHOP']; ?></h3>
+
+<div id="prog-wed" class="prog-list">
+	<div class="prog-item plenary intermezzo">
+		<div class="prog-content">
+			<div class="prog-title"><i class="fa fa-user"></i>
+				<?php echo $lang['PROG_REGISTRATION']; ?></div>
+			<div class="prog-sched icon">11h30 - 12h00</div>
+		</div>
+	</div>
+
+	<div class="prog-item plenary intermezzo">
+		<div class="prog-content">
+			<div class="prog-title"><i class="fa fa-cutlery"></i>
+				<?php echo $lang['PROG_LUNCH']; ?></div>
+			<div class="prog-sched icon">12h00 - 13h00</div>
+			<div class="prog-track icon">La Salle</div>
+		</div>
+	</div>
+
+	<div class="prog-swipe"><?php echo $lang['PROG_SWIPE']; ?></div>
+
+	<div class="prog-slot">
+		<div class="prog-item tr1" style="grid-row: 1 / 3;">
+			<div class="prog-content">
+				<div class="prog-title">Point Cloud Processing with QGIS</div>
+				<div class="prog-speaker">Hans van der Kwast</div>
+				<div class="prog-lang icon"><?php echo $lang['LANG_EN']; ?></div>
+				<div class="prog-tl">
+					<div class="prog-sched icon">13h00 - 17h00</div>
+					<div class="prog-track icon">BG 1</div>
+				</div>
+				<a class="prog-link icon" target="_blank" href="/talk/point-cloud-processing-with-qgis.php"
+					title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+			</div>
+		</div>
+
+		<div class="prog-item tr7" style="grid-row: 1 / 3;">
+			<div class="prog-content">
+				<div class="prog-title">How to create custom plugins in QGIS</div>
+				<div class="prog-speaker">Ricardo Maldonado Sevilla</div>
+				<div class="prog-lang icon"><?php echo $lang['LANG_EN']; ?></div>
+				<div class="prog-tl">
+					<div class="prog-sched icon">13h00 - 17h00</div>
+					<div class="prog-track icon">Judo 3</div>
+				</div>
+				<a class="prog-link icon" target="_blank" href="/talk/how-to-create-custom-plugins-in-qgis.php"
+					title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+			</div>
+		</div>
+
+		<div class="prog-item tr4" style="grid-row: 1 / 3;">
+			<div class="prog-content">
+				<div class="prog-title">Setting up a boundaries database with PostGIS topology</div>
+				<div class="prog-speaker">Benjamin Deswysen</div>
+				<div class="prog-lang icon"><?php echo $lang['LANG_EN']; ?></div>
+				<div class="prog-tl">
+					<div class="prog-sched icon">13h00 - 17h00</div>
+					<div class="prog-track icon">EHBO</div>
+				</div>
+				<a class="prog-link icon" target="_blank"
+					href="/talk/setting-up-a-boundaries-database-with-postgis-topology.php"
+					title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+			</div>
+		</div>
+
+		<div class="prog-item tr3" style="grid-row: 1;">
+			<div class="prog-content">
+				<div class="prog-title">Workshop 3DToolboxNL en 3D Leia viewer</div>
+				<div class="prog-speaker">Marco van Antwerpen, Kamiel Verhelst, Wim Kosten <i>et. al.</i></div>
+				<div class="prog-lang icon"><?php echo $lang['LANG_NL']; ?></div>
+				<div class="prog-tl">
+					<div class="prog-sched icon">13h00 - 15h00</div>
+					<div class="prog-track icon">Judo 2</div>
+				</div>
+				<a class="prog-link icon" target="_blank" href="/talk/workshop-3dtoolboxnl-en-3d-leia-viewer.php"
+					title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+			</div>
+		</div>
+
+		<div class="prog-item tr3" style="grid-row: 2;">
+			<div class="prog-content">
+				<div class="prog-title">Starten met Tailormap WebGIS</div>
+				<div class="prog-speaker">Martijn van der Struijk, Kees-Jan Lammers</div>
+				<div class="prog-lang icon"><?php echo $lang['LANG_NL']; ?></div>
+				<div class="prog-tl">
+					<div class="prog-sched icon">15h00 - 17h00</div>
+					<div class="prog-track icon">Judo 2</div>
+				</div>
+				<a class="prog-link icon" target="_blank" href="/talk/starten-met-tailormap-webgis.php"
+					title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+			</div>
+		</div>
+
+		<div class="prog-item tr5" style="grid-row: 1;">
+			<div class="prog-content">
+				<div class="prog-title">MapLibre: From Bits to Pixels. Generate, Serve, and Visualize Your Own
+					Base
+					Map
+				</div>
+				<div class="prog-speaker">Bart Louwers</div>
+				<div class="prog-lang icon"><?php echo $lang['LANG_EN']; ?></div>
+				<div class="prog-tl">
+					<div class="prog-sched icon">13h00 - 15h00</div>
+					<div class="prog-track icon">Hobby/dans</div>
+				</div>
+				<a class="prog-link icon" target="_blank"
+					href="/talk/maplibre-from-bits-to-pixels-generate-serve-and-visualize-your-own-base-map.php"
+					title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+			</div>
+		</div>
+
+		<div class="prog-item tr5" style="grid-row: 2;">
+			<div class="prog-content">
+				<div class="prog-title">Help Belgian national crisis management by improving OpenStreetMap</div>
+				<div class="prog-speaker">Joost Schouppe</div>
+				<div class="prog-lang icon"><?php echo $lang['LANG_EN']; ?></div>
+				<div class="prog-tl">
+					<div class="prog-sched icon">15h00 - 17h00</div>
+					<div class="prog-track icon">Hobby/dans</div>
+				</div>
+				<a class="prog-link icon" target="_blank"
+					href="/talk/help-belgian-national-crisis-management-by-improving-openstreetmap.php"
+					title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+			</div>
+		</div>
+
+		<div class="prog-item tr6" style="grid-row: 1;">
+			<div class="prog-content">
+				<div class="prog-title">An intro to Point Cloud Processing using PDAL Pipelines</div>
+				<div class="prog-speaker">Maxwell Lindsay</div>
+				<div class="prog-lang icon"><?php echo $lang['LANG_EN']; ?></div>
+				<div class="prog-tl">
+					<div class="prog-sched icon">13h00 - 15h00</div>
+					<div class="prog-track icon">Infopunt</div>
+				</div>
+				<a class="prog-link icon" target="_blank"
+					href="/talk/an-intro-to-point-cloud-processing-using-pdal-pipelines.php"
+					title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+			</div>
+		</div>
+	</div>
+
+
+			<div class="prog-item plenary intermezzo">
+				<div class="prog-content">
+					<div class="prog-title"><i class="fa fa-glass"></i>
+						<?php echo $lang['PROG_SOCIAL']; ?></div>
+					<div class="prog-sched icon">20h00 - 23h00</div>
+					<div class="prog-track icon">La Salle</div>
+				</div>
+			</div>
+		</div>
+
 		<h3><?php echo $lang['PROG_THU'] . ': ' . $lang['PROG_CONFERENCE']; ?></h3>
-
-		<!-- <h4><i class="fa fa-filter"></i>
-			Filter</h4>
-
-		<div class="filter-panel">
-			<div class="filter">
-				<div class="filter-name"><i class="fa fa-language"></i>
-					Language</div>
-				<div class="filter-item">Engels</div>
-				<div class="filter-item">Nederlands</div>
-			</div>
-			<div class="filter">
-				<div class="filter-name"><i class="fa fa-home"></i>
-					Room</div>
-				<div class="filter-item">Grote zaal</div>
-				<div class="filter-item">La salle</div>
-			</div>
-			<div class="filter">
-				<div class="filter-name"><i class="fa fa-paint-brush"></i>
-					Theme</div>
-				<div class="filter-item">QGIS</div>
-				<div class="filter-item">Stacks and formats</div>
-			</div>
-		</div> -->
 
 		<div id="prog-thu" class="prog-list">
 			<div class="prog-item plenary intermezzo">
@@ -781,160 +912,6 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 					</div>
 				</div>
 			</div>
-		</div>
-
-		<h3><?php echo $lang['PROG_WED'] . ': ' . $lang['PROG_WORKSHOP']; ?></h3>
-		
-		<div id="prog-wed" class="prog-list">
-			<!-- <div class="prog-item plenary intermezzo">
-				<div class="prog-content">
-					<div class="prog-title"><i class="fa fa-user"></i>
-						<?php echo $lang['PROG_REGISTRATION']; ?></div>
-					<div class="prog-sched icon">11h30 - 12h00</div>
-				</div>
-			</div>
-		
-			<div class="prog-item plenary intermezzo">
-				<div class="prog-content">
-					<div class="prog-title"><i class="fa fa-cutlery"></i>
-						<?php echo $lang['PROG_LUNCH']; ?></div>
-					<div class="prog-sched icon">12h00 - 13h00</div>
-					<div class="prog-track icon">La Salle</div>
-				</div>
-			</div> -->
-		
-			<div class="prog-swipe"><?php echo $lang['PROG_SWIPE']; ?></div>
-		
-			<div class="prog-slot">
-				<div class="prog-item tr1" style="grid-row: 1 / 3;">
-					<div class="prog-content">
-						<div class="prog-title">Point Cloud Processing with QGIS</div>
-						<div class="prog-speaker">Hans van der Kwast</div>
-						<div class="prog-lang icon"><?php echo $lang['LANG_EN']; ?></div>
-						<div class="prog-tl">
-							<div class="prog-sched icon">13h00 - 17h00</div>
-							<div class="prog-track icon">BG 1</div>
-						</div>
-						<a class="prog-link icon" target="_blank" href="/talk/point-cloud-processing-with-qgis.php"
-							title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
-					</div>
-				</div>
-		
-				<div class="prog-item tr7" style="grid-row: 1 / 3;">
-					<div class="prog-content">
-						<div class="prog-title">How to create custom plugins in QGIS</div>
-						<div class="prog-speaker">Ricardo Maldonado Sevilla</div>
-						<div class="prog-lang icon"><?php echo $lang['LANG_EN']; ?></div>
-						<div class="prog-tl">
-							<div class="prog-sched icon">13h00 - 17h00</div>
-							<div class="prog-track icon">Judo 3</div>
-						</div>
-						<a class="prog-link icon" target="_blank" href="/talk/how-to-create-custom-plugins-in-qgis.php"
-							title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
-					</div>
-				</div>
-		
-				<div class="prog-item tr4" style="grid-row: 1 / 3;">
-					<div class="prog-content">
-						<div class="prog-title">Setting up a boundaries database with PostGIS topology</div>
-						<div class="prog-speaker">Benjamin Deswysen</div>
-						<div class="prog-lang icon"><?php echo $lang['LANG_EN']; ?></div>
-						<div class="prog-tl">
-							<div class="prog-sched icon">13h00 - 17h00</div>
-							<div class="prog-track icon">EHBO</div>
-						</div>
-						<a class="prog-link icon" target="_blank"
-							href="/talk/setting-up-a-boundaries-database-with-postgis-topology.php"
-							title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
-					</div>
-				</div>
-		
-				<div class="prog-item tr3" style="grid-row: 1;">
-					<div class="prog-content">
-						<div class="prog-title">Workshop 3DToolboxNL en 3D Leia viewer</div>
-						<div class="prog-speaker">Marco van Antwerpen, Kamiel Verhelst, Wim Kosten <i>et. al.</i></div>
-						<div class="prog-lang icon"><?php echo $lang['LANG_NL']; ?></div>
-						<div class="prog-tl">
-							<div class="prog-sched icon">13h00 - 15h00</div>
-							<div class="prog-track icon">Judo 2</div>
-						</div>
-						<a class="prog-link icon" target="_blank" href="/talk/workshop-3dtoolboxnl-en-3d-leia-viewer.php"
-							title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
-					</div>
-				</div>
-		
-				<div class="prog-item tr3" style="grid-row: 2;">
-					<div class="prog-content">
-						<div class="prog-title">Starten met Tailormap WebGIS</div>
-						<div class="prog-speaker">Martijn van der Struijk, Kees-Jan Lammers</div>
-						<div class="prog-lang icon"><?php echo $lang['LANG_NL']; ?></div>
-						<div class="prog-tl">
-							<div class="prog-sched icon">15h00 - 17h00</div>
-							<div class="prog-track icon">Judo 2</div>
-						</div>
-						<a class="prog-link icon" target="_blank" href="/talk/starten-met-tailormap-webgis.php"
-							title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
-					</div>
-				</div>
-		
-				<div class="prog-item tr5" style="grid-row: 1;">
-					<div class="prog-content">
-						<div class="prog-title">MapLibre: From Bits to Pixels. Generate, Serve, and Visualize Your Own
-							Base
-							Map
-						</div>
-						<div class="prog-speaker">Bart Louwers</div>
-						<div class="prog-lang icon"><?php echo $lang['LANG_EN']; ?></div>
-						<div class="prog-tl">
-							<div class="prog-sched icon">13h00 - 15h00</div>
-							<div class="prog-track icon">Hobby/dans</div>
-						</div>
-						<a class="prog-link icon" target="_blank"
-							href="/talk/maplibre-from-bits-to-pixels-generate-serve-and-visualize-your-own-base-map.php"
-							title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
-					</div>
-				</div>
-		
-				<div class="prog-item tr5" style="grid-row: 2;">
-					<div class="prog-content">
-						<div class="prog-title">Help Belgian national crisis management by improving OpenStreetMap</div>
-						<div class="prog-speaker">Joost Schouppe</div>
-						<div class="prog-lang icon"><?php echo $lang['LANG_EN']; ?></div>
-						<div class="prog-tl">
-							<div class="prog-sched icon">15h00 - 17h00</div>
-							<div class="prog-track icon">Hobby/dans</div>
-						</div>
-						<a class="prog-link icon" target="_blank"
-							href="/talk/help-belgian-national-crisis-management-by-improving-openstreetmap.php"
-							title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
-					</div>
-				</div>
-		
-				<div class="prog-item tr6" style="grid-row: 1;">
-					<div class="prog-content">
-						<div class="prog-title">An intro to Point Cloud Processing using PDAL Pipelines</div>
-						<div class="prog-speaker">Maxwell Lindsay</div>
-						<div class="prog-lang icon"><?php echo $lang['LANG_EN']; ?></div>
-						<div class="prog-tl">
-							<div class="prog-sched icon">13h00 - 15h00</div>
-							<div class="prog-track icon">Infopunt</div>
-						</div>
-						<a class="prog-link icon" target="_blank"
-							href="/talk/an-intro-to-point-cloud-processing-using-pdal-pipelines.php"
-							title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
-					</div>
-				</div>
-			</div>
-		
-		
-			<!-- <div class="prog-item plenary intermezzo">
-				<div class="prog-content">
-					<div class="prog-title"><i class="fa fa-glass"></i>
-						<?php echo $lang['PROG_SOCIAL']; ?></div>
-					<div class="prog-sched icon">20h00 - 23h00</div>
-					<div class="prog-track icon">La Salle</div>
-				</div>
-			</div> -->
 		</div>
 
 		<div class="nav bottom" style="margin-top: 50px;">
