@@ -31,16 +31,17 @@
 				<ul class="actions">
 				<!-- Button  -->
 					<li><a href="programme.php" class="button"><?php echo $lang['MENU_PROGRAM']; ?></a></li>
-					<li><a href="indoor.php" class="button"><?php echo $lang['MENU_VENUE_INDOOR']; ?></a></li>
+					<li><a href="sponsors.php" class="button"><?php echo $lang['MENU_SPONSORS']; ?></a></li>
+					<!-- <li><a href="indoor.php" class="button"><?php echo $lang['MENU_VENUE_INDOOR']; ?></a></li> -->
 				</ul>
-				<ul class="actions">
+				<!-- <ul class="actions">
 					<li><a href="volunteers.php" class="button"><?php echo $lang['MENU_VOLUNTEERS']; ?></a></li>
 					<li><a href="sponsors.php" class="button"><?php echo $lang['MENU_SPONSORS']; ?></a></li>
 				</ul>
 				<ul class="actions">
 					<li><a href="get-ticket.php" target="_blank" class="button"><?php echo $lang['MENU_REG']; ?></a></li>
-				</ul>
-                <p><?php echo $lang['SITE_DATABIG']; ?></p>
+				</ul> -->
+                <!-- <p><?php echo $lang['SITE_DATABIG']; ?></p> -->
 			</section>
 
 		<!-- Main -->
