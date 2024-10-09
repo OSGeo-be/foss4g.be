@@ -506,7 +506,7 @@ $languages = array(0 => "?", 1 => "nl", 2 => "fr", 3 => "en");
 							<div class="prog-sched icon">13h15 - 13h35</div>
 							<div class="prog-track icon">Grote zaal</div>
 						</div>
-						<a class="prog-link prog-tiles icon" target="_blank" href="/talk/state-of-3d-tiles.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
+						<a class="prog-link prog-slides icon" target="_blank" href="/talk/state-of-3d-tiles.php" title="<?php echo $lang['PROG_MORE_INFO']; ?>"></a>
 							</div>
 							</div>
 
