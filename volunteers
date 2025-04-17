@@ -1,0 +1,72 @@
+<!-- volonteers.html -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Home | FOSS4G Belgium - 2025</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="description" content="" />
+    <meta name="keywords" content="FOSS4G Geo marker GIS Open Source" />
+    <link rel="me" href="https://fosstodon.org/@osgeobe" />
+    <link rel="stylesheet" href="/static/css/main.css">
+  </head>
+  <body>
+    <header id="header">
+      <h1>
+        <a href="/en/home"><span>Home</span></a>
+        FOSS4G Belgium XX Septembre 2025
+      </h1>
+      <nav id="nav">
+        <ul>
+          <li><a href="/en">Home</a></li>
+          <li><a href="/en/sponsors">Sponsors</a></li>
+          <li><a href="/en/contact">Contact</a></li>
+          <li><a href="/en/volunteers">Volunteers</a></li>
+          <li>
+            <a
+              href="https://www.facebook.com/pages/Foss4g-Belgium/863691603712207"
+              target="_blank"
+              title="Facebook"
+              >Facebook</a
+            >
+          </li>
+        </ul>
+      </nav>
+    </header>
+
+    <section id="banner">
+      <img
+        src="/static/images/foss4gbe-g.svg"
+        alt="FOSS4G Belgium - This is not a conference"
+      />
+    </section>
+
+    <main>
+VOLUNTEERS
+</main>
+
+    <section id="thanks">
+      <p>
+        FOSS4G Belgium is only possible thanks to the support of
+        <a href="/en/sponsors">our partners and sponsors</a>.
+      </p>
+      <p></p>
+      <p>
+        <a href="/en/contact"
+          ></a
+        >
+      </p>
+    </section>
+
+    <footer id="footer">
+      <li>© 2025 FOSS4G Belgique. Tous droits réservés.</li>
+      <li>
+        <i class="fa fa-facebook-square"></i>
+        <a
+          href="https://www.facebook.com/pages/Foss4g-Belgium/863691603712207"
+          title="Facebook"
+          >Facebook</a
+        >
+      </li>
+    </footer>
+  </body>
+</html>
