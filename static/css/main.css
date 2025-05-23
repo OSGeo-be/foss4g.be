@@ -9,12 +9,27 @@ header {
   padding: 10px 20px;
 }
 
+#header-content-top {
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+#header-content-link {
+  display: flex;
+  justify-content:space-between;
+  align-items: center;
+}
+
 header h1 {
   margin: 0;
   font-size: 24px;
   display: flex;
-  align-items: center;
   justify-content: space-between;
+  white-space: nowrap; /* Keep the h1 on a single line */
+  overflow: hidden; /* Hide anything that overflows if content is too long */
+  text-overflow: ellipsis; /* Add ellipsis for overflowed text */
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 
 header h1 a {
@@ -23,8 +38,12 @@ header h1 a {
 }
 
 nav {
-  background-color: #444; /* Couleur différente du header */
+  background-color: #444;
   padding: 10px 20px;
+}
+
+main {
+  padding: 20px;
 }
 
 #nav ul {
@@ -50,6 +69,24 @@ nav {
   background-color: #666;
 }
 
+div#lang {
+  padding: 0;
+  margin-left: 20px;
+}
+
+div#lang a {
+  color: white;
+  text-decoration: none;
+  padding: 5px 10px;
+  border-radius: 4px;
+  background-color: #a0bea7;
+}
+
+div#lang a:hover {
+  background-color: #666;
+}
+
+
 #banner {
   text-align: center;
   margin: 30px 0;
@@ -57,8 +94,8 @@ nav {
 
 #banner img {
   width: 80%;
-  max-width: 1000px; /* Largeur maximale souhaitée */
-  max-height: 400px; /* Hauteur maximale */
+  max-width: 1000px;
+  max-height: 400px;
   height: auto;
   display: block;
   margin: 0 auto;
