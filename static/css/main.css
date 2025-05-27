@@ -37,6 +37,13 @@ header h1 a {
   text-decoration: none;
 }
 
+a {
+  color: #72babf ;
+  text-decoration:  none;;
+}
+
+a
+
 nav {
   background-color: #444;
   padding: 10px 20px;
@@ -68,6 +75,11 @@ main {
 #nav ul li a:hover {
   background-color: #666;
 }
+
+#nav ul li a.selected {
+  background-color: #3f676a;
+}
+
 
 div#lang {
   padding: 0;
