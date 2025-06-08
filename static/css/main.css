@@ -133,3 +133,29 @@ footer li {
   list-style: none;
   margin: 5px 0;
 }
+
+
+/* sponsors */
+
+#sponsors {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+#sponsors th {
+  background-color: #d4edda; /* vert clair */
+  color: #000;
+  padding: 10px;
+  border: none; /* pas de bordure */
+}
+
+#sponsors td {
+  padding: 10px;
+  border: none; /* pas de bordure */
+}
+
+#sponsors tbody tr:nth-child(even) {
+  background-color: #f9f9f9; /* gris clair */
+}
