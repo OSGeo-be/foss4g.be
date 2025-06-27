@@ -57,6 +57,12 @@ translations_page = {
   <li>Hoe gebruik jij ruimtelijke open data? Hoe gebruik jij OpenStreetMap of andere open data in je werk? Heb je een coole applicatie ontwikkeld met open data? Ben je een OpenStreetMap geek en wil je discussiëren over OSM specificaties?</li>
   <li>Welke open geomatica tools zijn in gebruik bij administraties, bedrijven, leerkrachten en onderzoekers?</li>
   <li>Wat zijn de problemen en opportuniteiten die je tegenkwam bij de migratie van commerciële software naar open source software?</li>
+  <li>Feedback op een 100% FOSS4G-verwerkingsketen: QGIS → PostGIS → GeoServer.</li>
+  <li>Gebruik van aangepaste QGIS-extensies of specifieke Python-ontwikkelingen.</li>
+  <li>Ruimtelijke visualisaties of analyses op grote schaal met PostgreSQL/PostGIS (bijv. dashboards, rasteranalyse, GIST/SP-GiST-indexen).</li>
+  <li>Open source-oplossingen voor Belgische openbare instellingen of scholen (opleiding, implementatie, interoperabiliteit).</li>
+  <li>Voorbeelden van integratie tussen QGIS en grote PostgreSQL/PostGIS-databases.</li>
+  
   <li>Alle andere open source GIS en FOSS4G onderwerpen die we hierboven nog niet noemden.</li>
 </ul>
 <h3>Formaat van de presentaties</h3>
