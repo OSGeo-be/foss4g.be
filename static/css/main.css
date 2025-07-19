@@ -159,3 +159,11 @@ footer li {
 #sponsors tbody tr:nth-child(even) {
   background-color: #f9f9f9; /* gris clair */
 }
+
+.img-sponsor {
+  max-width: 300px;
+  width:275px;
+  float: left;
+  margin-right: 50px;
+  margin-bottom: 10px;
+}
