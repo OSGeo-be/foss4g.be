@@ -1,0 +1,54 @@
+<!-- sponsors.html -->
+{% extends 'base.html' %}
+
+{% block main %}
+
+<h2>{{ page.title }}</h2>
+
+{{ page.looking_for_sponsors }}
+
+<h3>{{ page.level_and_advantages_title }}</h3>
+
+<table id="sponsors">
+    <tr>
+        <th>{{ page.level | capitalize }}</th>
+        <th>{{ page.price | capitalize}}</th>
+        <th>{{ page.stand | capitalize}}</th>
+        <th>{{ page.page_in_pgm | capitalize }}</th>
+        <th>{{ page.main_page_logo | capitalize }}</th>
+        <th>{{ page.sponsor_page_logo | capitalize }}</th>
+        <th>{{ page.participant_list | capitalize }}</th>
+    </tr>
+    <tr>
+        <td>{{ site.gold | capitalize }}</td>
+        <td>1500 €</td>
+        <td>&#x2713;</td>
+        <td>&#x2713;</td>
+        <td>&#x2713;</td>
+        <td>&#x2713;</td>
+        <td>&#x2713;</td>
+
+    </tr>
+    <tr>
+        <td>{{ site.silver | capitalize }}</td>
+        <td>750 €</td>
+        <td>&#x2713;</td>
+        <td>&#x2713; (1/2 {{ page.page }})</td>
+        <td></td>
+        <td>&#x2713;</td>
+        <td>&#x2713;</td>
+    </tr>
+    <tr>
+        <td>{{ site.bronze | capitalize }}</td>
+        <td>250 €</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>&#x2713;</td>
+        <td>&#x2713;</td>
+    </tr>
+</table>
+
+{{ page.level_and_advantages_desc | safe }}
+
+{% endblock %}

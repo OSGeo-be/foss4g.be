@@ -4,20 +4,27 @@ month = "Septembre"
 belgium = "Belgique"
 foss4g_be = f"FOSS4G {belgium.capitalize()}"
 
+bronze = "bronze"
+silver = "argent"
+gold = "or"
+
+brussels = "Bruxelles"
+
 translations_site = {
     "year": f"{year}",
     "date": f"{day} {month} {year}",
     "title": f"{foss4g_be} - {year}",
     "foss4g_be": f"{foss4g_be}",
+    "location": f"{brussels}",
     "description": "FOSS4G Belgique est une communauté d'enthousiastes du Logiciel Libre et Open Source pour la Géomatique en Belgique.",
     "keywords": "FOSS4G Geo marqueur GIS Open Source",
     "copyright": f"© {year} FOSS4G Belgique. Tous droits réservés.",
     "not_a_conf": "Ceci n'est pas une conférence",
     "only_possible": f"{foss4g_be} is only possible thanks to the support of",
-    "partners_and_sponsors": f"our partners and sponsors",
-    "bronze": "bronze",
-    "silver": "argent",
-    "gold": "or",
+    "partners_and_sponsors": "our partners and sponsors",
+    "bronze": f"{bronze}",
+    "silver": f"{silver}",
+    "gold": f"{gold}",
 }
 
 translations_page = {
@@ -35,6 +42,7 @@ translations_page = {
     "call_for_presentations": {
         "name": "Appel à présentations",
         "title": "Appel à présentations",
+        "new_deadline": "Nouvelle date limite de soumission : vendredi 8 août 2025",
         "content": """
 <p>Soyez partenaire du succès de l'édition 2025. Soumettez votre proposition avant le <b>21 juillet 2025 !</b></p>
 <p>Nous sommes libres de couvrir une grande variété de publics et de sujets en lien avec la géomatique : techno, geek, use cases publics, privés ou professionnels.</p>
@@ -69,7 +77,7 @@ translations_page = {
 <h3>Soumettre votre présentation</h3>
 <p>Les présentations peuvent être soumises en utilisant <a href="https://docs.google.com/forms/d/e/1FAIpQLSdsFUSFvC8j9vrIIGVjlYshRHLIgRMtKdjiF2V2DagdtWxDmQ/viewform" target="_blank">ce formulaire</a>.<p>
 <h3>Date limite</h3>
-<p>La date limite de soumission est le 21 juillet 2025, mais nous invitons les présentateurs à soumettre leurs propositions dès que possible. Les propositions seront évaluées par le Comité du programme et les auteurs seront informés si leur contribution a été acceptée.</p>
+<p>La date limite de soumission est le 8 août 2025, mais nous invitons les présentateurs à soumettre leurs propositions dès que possible. Les propositions seront évaluées par le Comité du programme et les auteurs seront informés si leur contribution a été acceptée.</p>
 <h3>Critère d'évaluation</h3>
 <p>Le choix des présentations sera basé sur la qualité des propositions soumises, leur pertinence pour le public et leur place dans le programme. Le choix du comité de programme est définitif et contraignant. Les décisions du comité de programme ne reflètent l'opinion d'aucun employeur des membres.</p>
 <h3>Des questions?</h3>
@@ -78,8 +86,17 @@ translations_page = {
 
     },
     "sponsors": {
-        "name": "Sponsors",  # nom de la page affiché dans le menu
+        "name": "Sponsors",
         "title": "Nos sponsors",
+        "thanks": "Merci à nos sponsors qui rendent possible cet incroyable moment d'échange et de partage",
+        "gold_sponsors": f"Sponsors {gold}",
+        "silver_sponsors": f"Sponsors {silver}",
+        "bronze_sponsors": f"Sponsors {bronze}",
+        "no_sponsors": "Pour le moment pas de sponsors dans cette catégorie. Vous voulez votre logo ici ? Contactez-nous !",
+    },
+    "call_for_sponsors": {
+        "name": "Appel à sponsors",  # nom de la page affiché dans le menu
+        "title": "Appel à sponsors",
         "looking_for_sponsors": "Nous sommes à la recherche de sponsors pour financer ce super événement qu'est le FOSS4G Belgique. Si vous êtes intéressé, veuillez nous contacter.",
         "level": "niveau",
         "price": "prix",
@@ -108,7 +125,7 @@ translations_page = {
     "previous_sponsors": {
         "name": "Sponsors Précédents",  # nom de la page affiché dans le menu
         "title": "Merci !",
-        "content": "Merci à nos sponsors précédents sans qui l'aventure n'auait pas été possible.",
+        "content": "Merci à nos sponsors précédents sans qui l'aventure n'aurait pas été possible.",
     },
     "contact": {
         "name": "Contact",  # nom de la page affiché dans le menu

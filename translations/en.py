@@ -4,20 +4,27 @@ month = "September"
 belgium = "Belgium"
 foss4g_be = f"FOSS4G {belgium.capitalize()}"
 
+bronze = "bronze"
+silver = "silver"
+gold = "gold"
+
+brussels = "Brussels"
+
 translations_site = {
     "year": f"{year}",
     "date": f"{day} {month} {year}",
     "title": f"{foss4g_be} - {year}",
+    "location": f"{brussels}",
     "foss4g_be": f"{foss4g_be}",
     "description": "FOSS4G Belgium is a community of Free and Open Source Software for Geospatial enthusiasts in Belgium.",
     "keywords": "FOSS4G Geo marker GIS Open Source",
     "copyright": f"© {year} FOSS4G Belgique. All rights reserved.",
     "not_a_conf": "This is not a conference",
     "only_possible": f"{foss4g_be} is only possible thanks to the support of",
-    "partners_and_sponsors": f"our partners and sponsors",
-    "bronze": "bronze",
-    "silver": "silver",
-    "gold": "gold",
+    "partners_and_sponsors": "our partners and sponsors",
+    "bronze": f"{bronze}",
+    "silver": f"{silver}",
+    "gold": f"{gold}",
 }
 
 translations_page = {
@@ -35,6 +42,7 @@ translations_page = {
     "call_for_presentations": {
         "name": "Call for Presentations",
         "title": "Call for Presentations",
+        "new_deadline": "New deadline for submission: Friday 8 August 2025",
         "content": """
 <p><b>Help make our 2025 edition a success. Send in your proposal for a presentation at FOSS4G Belgium before 21 July 2025!</b></p>
 <p>We aim for a wide variety of speakers: technology, science, end users and interesting (or special) uses. We would like to make this another conference with a high degree of diversity, both in topics and in people.</p>
@@ -69,7 +77,7 @@ translations_page = {
 <p>Proposals for presentations should be submitted using <a href="https://docs.google.com/forms/d/e/1FAIpQLSdsFUSFvC8j9vrIIGVjlYshRHLIgRMtKdjiF2V2DagdtWxDmQ/viewform" target="_blank">this form</a>.</p>
 
 <h3>Deadline</h3>
-<p>Deadline for submission is 21 july 2025, but we invite presenters to submit their proposals as soon as possible. Proposals will be evaluated by a program committee and authors will be notified of their acceptance.</p>
+<p>Deadline for submission is 8 August 2025 2025, but we invite presenters to submit their proposals as soon as possible. Proposals will be evaluated by a program committee and authors will be notified of their acceptance.</p>
 <p>All the presentations will be made available on the event website.</p>
 <h3>How do we evaluate?</h3>
 <p>The choice of presentations will be based on the quality of the submitted material, its interest for professional and student audiences and also its consistency with the program. The decision of the selection committee will be final and binding. Committee members speak on their own behalf, their choices do not reflect the position of their employer.</p>
@@ -77,10 +85,18 @@ translations_page = {
 <p>If you have any questions about submitting a proposal for a presentation you can ask them via presentation@foss4g.be</p>
 """
     },
-
     "sponsors": {
         "title": "Our Sponsors",
         "name": "Sponsors",
+        "thanks": "Thank you to our sponsors who make this incredible moment of exchange and sharing possible.",
+        "gold_sponsors": f"{gold} sponsors",
+        "silver_sponsors": f"{silver} sponsors",
+        "bronze_sponsors": f"{bronze} sponsors",
+        "no_sponsors": "For the moment, no sponsors in this category. Do you want your logo here? Contact us !",
+    },
+    "call_for_sponsors": {
+        "title": "Call for sponsors",
+        "name": "Call for sponsors",
         "looking_for_sponsors": "We are looking for sponsors to fund this amazing event known as FOSS4G Belgium. If you are interested, please get in touch with us.",
         "level": "level",
         "price": "price",

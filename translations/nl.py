@@ -4,20 +4,27 @@ month = "September"
 belgium = "België"
 foss4g_be = f"FOSS4G {belgium.capitalize()}"
 
+bronze = "brons"
+silver = "zilver"
+gold = "gold"
+
+brussels = "Brussel"
+
 translations_site = {
     "year": f"{year}",
     "date": f"{day} {month} {year}",
     "title": f"{foss4g_be} - {year}",
     "foss4g_be": f"{foss4g_be}",
+    "location": f"{brussels}",
     "description": "FOSS4G België is een gemeenschap van Free and Open Source Software voor Geospatial enthousiastelingen in België.",
     "keywords": "Foss4G Geo GIS Open Source OSGeo OSGeoBE België Nederland",
     "copyright": f"© {year} FOSS4G België. Alle rechten voorbehouden.",
     "not_a_conf": "This is not a conference",
     "only_possible": f"{foss4g_be} is only possible thanks to the support of",
     "partners_and_sponsors": f"our partners and sponsors",
-    "bronze": "brons",
-    "silver": "zilver",
-    "gold": "gold",
+    "bronze": f"{bronze}",
+    "silver": f"{silver}",
+    "gold": f"{gold}",
 }
 
 
@@ -36,6 +43,7 @@ translations_page = {
     "call_for_presentations": {
         "name": "Call for Presentations",
         "title": "Call for Presentations",
+        "new_deadline": "Nieuwe deadline voor indiening: vrijdag 8 augustus 2025",
         "content": """
 <p><b>Help ons om van de editie van 2025 een succes te maken. Stuur jouw voorstel voor een presentatie in voor 21 juli 2025</b>!</b></p>
 <p>We mikken op een grote variatie aan sprekers: technologie, wetenschap, eindgebruikers en interessante (of bijzondere) gebruiksdoeleinden. We maken er graag opnieuw een conferentie van met een grote mate van diversiteit, zowel in onderwerpen als in mensen.</p>
@@ -70,7 +78,7 @@ translations_page = {
 <h3>Insturen</h3>
 <p>Presentaties kunnen ingestuurd worden met <a href="https://docs.google.com/forms/d/e/1FAIpQLSdsFUSFvC8j9vrIIGVjlYshRHLIgRMtKdjiF2V2DagdtWxDmQ/viewform" target="_blank"> dit formulier</a>.</p>
 <h3>Deadline</h3>
-<p>De deadline voor het insturen van voorstellen voor presentaties is 21 juli 2025, maar we nodigen sprekers uit om hun voorstellen zo snel mogelijk in te sturen. Voorstellen zullen geëvalueerd worden door het programmacomité en de auteurs zullen bericht krijgen of hun bijdrage aanvaard werd.</p>
+<p>De deadline voor het insturen van voorstellen voor presentaties is 8 augustus 2025, maar we nodigen sprekers uit om hun voorstellen zo snel mogelijk in te sturen. Voorstellen zullen geëvalueerd worden door het programmacomité en de auteurs zullen bericht krijgen of hun bijdrage aanvaard werd.</p>
 <p>Alle presentaties zullen op de website van het congres geplaatst worden.</p>
 <h3>Evaluatiecriteria</h3>
 <p>De keuze van presentaties zal gebaseerd zijn op de kwaliteit van de ingestuurde voorstellen, de relevantie voor het publiek en de plaats binnen het programma. De keuze van het programmacomité is finaal en bindend. De beslissingen van het programmacomité reflecteren niet de mening van de eventuele werkgevers van de leden.</p>
@@ -79,8 +87,17 @@ translations_page = {
 """
     },
     "sponsors": {
-        "title": "Onze Sponsors",
+        "title": "Onze sponsors",
         "name": "Sponsors",
+        "thanks": "Dank aan onze sponsors die dit ongelooflijke moment van uitwisseling en delen mogelijk maken.",
+        "gold_sponsors": f"{gold} sponsors",
+        "silver_sponsors": f"{silver} sponsors",
+        "bronze_sponsors": f"{bronze} sponsors",
+        "no_sponsors": "Voorlopig geen sponsors in deze categorie. Wil je jouw logo hier? Neem contact met ons op!",
+    },
+    "call_for_sponsors": {
+        "title": "Call for sponsors",
+        "name": "Call for sponsors",
         "looking_for_sponsors": "Wij zijn op zoek naar sponsors om dit geweldige evenement, FOSS4G België, te financieren. Als u geïnteresseerd bent, neem dan contact met ons op.",
         "level": "niveau",
         "price": "prijs",

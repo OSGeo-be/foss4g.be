@@ -5,50 +5,42 @@
 
 <h2>{{ page.title }}</h2>
 
-{{ page.looking_for_sponsors }}
+<h3>{{ site.gold | capitalize }} sponsors</h3>
 
-<h3>{{ page.level_and_advantages_title }}</h3>
+{% if  sponsors.gold  | length == 0 %}
+    <span style="color:#666666">{{ page.no_sponsors }}</span>
+{% else %}
+    {% for sponsor in sponsors.gold %}
+        <a href="{{ sponsor.url }}" target="_blank">
+            <img src="{{ url_for('static', filename='images/sponsors/' ~ sponsor.logo, _external=True) }}" alt="{{ sponsor.name }}" class="img-sponsor" />
+        </a>
+    {% endfor %}
+{% endif %}
 
-<table id="sponsors">
-    <tr>
-        <th>{{ page.level | capitalize }}</th>
-        <th>{{ page.price | capitalize}}</th>
-        <th>{{ page.stand | capitalize}}</th>
-        <th>{{ page.page_in_pgm | capitalize }}</th>
-        <th>{{ page.main_page_logo | capitalize }}</th>
-        <th>{{ page.sponsor_page_logo | capitalize }}</th>
-        <th>{{ page.participant_list | capitalize }}</th>
-    </tr>
-    <tr>
-        <td>{{ site.gold | capitalize }}</td>
-        <td>1500 €</td>
-        <td>&#x2713;</td>
-        <td>&#x2713;</td>
-        <td>&#x2713;</td>
-        <td>&#x2713;</td>
-        <td>&#x2713;</td>
+<div style="clear: both;"></div>
 
-    </tr>
-    <tr>
-        <td>{{ site.silver | capitalize }}</td>
-        <td>750 €</td>
-        <td>&#x2713;</td>
-        <td>&#x2713; (1/2 {{ page.page }})</td>
-        <td></td>
-        <td>&#x2713;</td>
-        <td>&#x2713;</td>
-    </tr>
-    <tr>
-        <td>{{ site.bronze | capitalize }}</td>
-        <td>250 €</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>&#x2713;</td>
-        <td>&#x2713;</td>
-    </tr>
-</table>
 
-{{ page.level_and_advantages_desc | safe }}
+<h3>{{ site.silver | capitalize }} sponsors</h3>
+
+<div>
+    {% for sponsor in sponsors.silver %}
+    <a href="{{ sponsor.url }}" target="_blank">
+        <img src="{{ url_for('static', filename='images/sponsors/' ~ sponsor.logo, _external=True) }}" alt="{{ sponsor.name }}" class="img-sponsor" />
+    </a>
+    {% endfor %}
+</div>
+
+<div style="clear: both;"></div>
+
+<h3>{{ site.bronze | capitalize }} sponsors</h3>
+
+
+{% for sponsor in sponsors.bronze %}
+<a href="{{ sponsor.url }}" target="_blank">
+    <img src="{{ url_for('static', filename='images/sponsors/' ~ sponsor.logo, _external=True) }}" alt="{{ sponsor.name }}"  class="img-sponsor" />
+</a>
+{% endfor %}
+
+<div style="clear: both;"></div>
 
 {% endblock %}

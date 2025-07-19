@@ -8,12 +8,26 @@ PAGES = [  # List of the id of the pages
     "home",
     "sponsors",
     'call_for_presentations',
+    "call_for_sponsors",
     "volunteers",
     "previous_editions",
     "previous_sponsors",
     "about_us",
     "contact",
 ]
+
+SPONSORS = {
+    "gold": [
+    ],
+    "silver": [
+        {"name": "Champs-Libres", "url": "https://www.champs-libres.coop", "logo": "champs-libres.svg"},
+        {"name": "Geo Solutions", "url": "https://geosolutions.be/", "logo": "geosolutions.png"},
+    ],
+    "bronze": [
+        {"name": "Atelier Cartographique", "url": "https://atelier-cartographique.be/", "logo": "atelier-cartographique.svg"},
+        {"name": "Spacebel", "url": "https://www.spacebel.com/", "logo": "spacebel.svg"},
+    ]
+}
 
 app = Flask(__name__, static_folder="static", static_url_path="/static")
 
@@ -38,6 +52,7 @@ def generic_page(lang, page):
     return render_template(
         f"{page}.html",
         pages_with_name=get_translated_page_names(PAGES, lang),
+        sponsors=SPONSORS,
         page_id=page,
         page=translations_page,
         site=translations_site,
