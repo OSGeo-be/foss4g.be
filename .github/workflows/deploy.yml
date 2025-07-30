@@ -23,11 +23,11 @@ jobs:
           uv run freeze.py
 
       # ADD CNAME file to the root of the build directory
-      - name: Add CNAME file
-        run: echo "www.foss4g.be" > ./build/CNAME
+      # - name: Add CNAME file
+      #   run: echo "www.foss4g.be" > ./build/CNAME
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./build
+      # - name: Deploy to GitHub Pages
+      #   uses: peaceiris/actions-gh-pages@v4
+      #   with:
+      #     github_token: ${{ secrets.GITHUB_TOKEN }}
+      #     publish_dir: ./build
