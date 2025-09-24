@@ -35,6 +35,29 @@ onUnmounted(() => clearInterval(timer))
 
 <template>
     <div class="flex-1 px-4 py-6 space-y-8 lg:px-8 lg:py-12">
+
+        <!-- Get your tickets -->
+        <section
+            id="get-your-tickets"
+            class="bg-off-white py-6 rounded-xl shadow max-w-3xl mx-auto flex flex-col items-center justify-center space-y-4"
+        >
+            <div class="text-center">
+                <NuxtLinkLocale
+                    to="/schedule"
+                    class="bg-main-color-4 m-3 text-white px-4 py-2 rounded-lg hover:bg-off-white hover:text-main-color-4 hover:border-main-color-4 border-2 transition-colors font-medium"
+                >
+                    {{ $t('nav.schedule') }}
+                </NuxtLinkLocale>
+
+                <a class="bg-main-color-2 m-3 text-white px-4 py-2 rounded-lg hover:bg-off-white hover:text-main-color-2 hover:border-main-color-2 border-2 transition-colors font-medium" href="documents/foss4g2025v2.pdf" target="_new">
+                    {{ $t('nav.booklet') }}
+                </a>
+                <a class="bg-main-color-3 m-3 text-white px-4 py-2 rounded-lg hover:bg-off-white hover:text-main-color-3 hover:border-main-color-3 border-2 transition-colors font-medium" href="documents/floorplan_drawio_V3.pdf" target="_new">
+                    {{ $t('nav.map') }}
+                </a>
+            </div>
+        </section>
+
         <!-- HERO -->
         <section
             class="bg-off-white py-6 rounded-xl shadow max-w-3xl mx-auto flex flex-col items-center justify-center space-y-4"
@@ -101,7 +124,7 @@ onUnmounted(() => clearInterval(timer))
                 </a>
             </div>
 
-            
+
             <div class="w-full">
                 <p class="text-right mx-4 text-main-color-2">
                     <NuxtLinkLocale to="/our-sponsors" class="underline">
