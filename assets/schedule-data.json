@@ -201,7 +201,7 @@
     "talks": [
       {
         "track": "track_1",
-        "title": "Cartostation : retour d'expérience et perspectives sur le développement d'un SIG web, open source, et à destination des pouvoirs publics locaux.",
+        "title": "Cartostation : retour d'expérience sur le développement d'un SIG web et open source pour les pouvoirs publics locaux",
         "speakers": [
           {
             "name": "Pacôme Béru",
@@ -221,7 +221,7 @@
       },
       {
         "track": "track_2",
-        "title": "Mise en place d'un système d'information digitalisé pour le projet «Inclusion financière des membres des Associations Villageoises d'Epargne et de Crédit (AVEC)» dans la région de la Nawa",
+        "title": "SIG pour le projet «Inclusion financière des membres des Associations Villageoises d'Epargne et de Crédit (AVEC)» dans la région de la Nawa",
         "speakers": [
           {
             "name": "Olivier Cauphy Abon'go",
@@ -681,7 +681,7 @@
       },
       {
         "track": "track_3",
-        "title": "Paragon : Comment l'open source et l'open data renforcent les projets publics stratégiques – Retour d'expérience sur la gestion de crise",
+        "title": "Paragon : Comment l'open source et l'open data renforcent les projets publics stratégiques et la gestion de crise",
         "speakers": [
           {
             "name": "Gael Kruwialis",
