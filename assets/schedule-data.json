@@ -303,7 +303,7 @@
       },
       {
         "track": "track_2",
-        "title": "Field Data Collection with QField",
+        "title": "(talk cancelled) Field Data Collection with QField",
         "speakers": [
           {
             "name": "Guilhem Allaman",
@@ -570,6 +570,10 @@
           {
             "name": "Vincent Bombaerts",
             "organization": "SPW"
+          },
+          {
+            "name": "François Prunayre",
+            "organization": "titellus"
           }
         ],
         "languages": [
