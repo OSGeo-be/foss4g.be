@@ -229,9 +229,9 @@
     },
     "filters": {
       "allTracks": "Toutes les Pistes",
-      "track1": "Piste 1",
-      "track2": "Piste 2", 
-      "track3": "Piste 3",
+      "track1": "GRASSpop",
+      "track2": "conDOUR", 
+      "track3": "Qleur Café",
       "talksOnly": "Présentations seulement"
     },
     "upcoming": {
