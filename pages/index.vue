@@ -49,7 +49,7 @@ onUnmounted(() => clearInterval(timer))
                     {{ $t('nav.schedule') }}
                 </NuxtLinkLocale>
 
-                <a class="bg-main-color-2 m-3 text-white px-4 py-2 rounded-lg hover:bg-off-white hover:text-main-color-2 hover:border-main-color-2 border-2 transition-colors font-medium" href="documents/foss4g2025v2.pdf" target="_new">
+                <a class="bg-main-color-2 m-3 text-white px-4 py-2 rounded-lg hover:bg-off-white hover:text-main-color-2 hover:border-main-color-2 border-2 transition-colors font-medium" href="documents/foss4g2025.pdf" target="_new">
                     {{ $t('nav.booklet') }}
                 </a>
                 <a class="bg-main-color-3 m-3 text-white px-4 py-2 rounded-lg hover:bg-off-white hover:text-main-color-3 hover:border-main-color-3 border-2 transition-colors font-medium" href="documents/floorplan_drawio_V3.pdf" target="_new">
