@@ -83,7 +83,7 @@
       },
       {
         "track": "track_2",
-        "title": "Mesurer l'accessibilité spatiale aux commerces bruxellois",
+        "title": "Mesurer et analyser l’accessibilité spatiale aux commerces du quotidien à travers les quartiers bruxellois",
         "speakers": [
           {
             "name": "Thomas Ermans & Pierre-François Wilmotte",
@@ -155,7 +155,7 @@
       },
       {
         "track": "track_2",
-        "title": "Spoorbereikbaarheid binnen de Vlaamse Ruit",
+        "title": "Van centrum tot periferie: spoorbereikbaarheid binnen en buiten de Vlaamse Ruit",
         "speakers": [
           {
             "name": "Simon De Corte",
@@ -176,7 +176,7 @@
       },
       {
         "track": "track_3",
-        "title": "Graph-driven Geospatial Analysis",
+        "title": "Living on the Edge: take a graph-driven approach to geospatial analysis for even more fun!",
         "speakers": [
           {
             "name": "Benjamin Deswysen",
@@ -201,7 +201,7 @@
     "talks": [
       {
         "track": "track_1",
-        "title": "Cartostation: SIG web open source",
+        "title": "Cartostation : retour d'expérience et perspectives sur le développement d'un SIG web, open source, et à destination des pouvoirs publics locaux.",
         "speakers": [
           {
             "name": "Pacôme Béru",
@@ -221,7 +221,7 @@
       },
       {
         "track": "track_2",
-        "title": "Système d'information digitalisé AVEC",
+        "title": "Mise en place d'un système d'information digitalisé pour le projet «Inclusion financière des membres des Associations Villageoises d'Epargne et de Crédit (AVEC)» dans la région de la Nawa",
         "speakers": [
           {
             "name": "Olivier Cauphy Abon'go",
@@ -371,7 +371,7 @@
       },
       {
         "track": "track_2",
-        "title": "ELAN: Nature-based Urban Water Management",
+        "title": "ELAN : un outil SIG d’aide à la décision pour la gestion intégrée des eaux urbaines par des solutions fondées sur la nature",
         "speakers": [
           {
             "name": "Sophie Aubier",
@@ -394,7 +394,7 @@
       },
       {
         "track": "track_3",
-        "title": "PostgreSQL Upgrade Strategies",
+        "title": "Upgrading PostgreSQL without losing your way",
         "speakers": [
           {
             "name": "Stefan Fercot",
@@ -419,7 +419,7 @@
     "talks": [
       {
         "track": "track_1",
-        "title": "QJazz - Cloud-ready QGIS Server",
+        "title": "QJazz - QGIS Server Solution for the Cloud",
         "speakers": [
           {
             "name": "David Marteau",
@@ -463,7 +463,7 @@
       },
       {
         "track": "track_3",
-        "title": "bePelias - Local Geocoding with BeSt Address",
+        "title": "bePelias, un géocodeur local basé sur BeSt Address",
         "speakers": [
           {
             "name": "Vandy Berten",
@@ -496,7 +496,7 @@
     "talks": [
       {
         "track": "track_1",
-        "title": "Open-Source Data Platform with GeoNetwork",
+        "title": "An Open-Source Data Platform with GeoNetwork",
         "speakers": [
           {
             "name": "Olivia Guyot",
@@ -518,7 +518,7 @@
       },
       {
         "track": "track_2",
-        "title": "brdr: Automated Geometry Alignment",
+        "title": "brdr: automatische geometrie-alignering voor hogere datakwaliteit",
         "speakers": [
           {
             "name": "Karel Dieussaert",
@@ -539,7 +539,7 @@
       },
       {
         "track": "track_3",
-        "title": "Managing Geographic Data on OpenStreetMap",
+        "title": "Take the control of your geographic data on OpenStreetMap!",
         "speakers": [
           {
             "name": "Julien Minet",
@@ -565,7 +565,7 @@
     "talks": [
       {
         "track": "track_1",
-        "title": "Metawal: Ready for DCAT-AP 3.0",
+        "title": "Metawal : prêt pour le DCAT-AP 3.0 !",
         "speakers": [
           {
             "name": "Vincent Bombaerts",
@@ -590,7 +590,7 @@
       },
       {
         "track": "track_2",
-        "title": "QGIS Plugin for Statistical Analysis",
+        "title": "How to create a QGIS plugin for statistical analysis (Spie charts)",
         "speakers": [
           {
             "name": "Simon Van Hooren & Thomas Ermans",
@@ -613,7 +613,7 @@
       },
       {
         "track": "track_3",
-        "title": "Finding Geospatial Web Services",
+        "title": "Geospatial webservices: how to find what you're looking for",
         "speakers": [
           {
             "name": "Michel Stuyts",
@@ -638,7 +638,7 @@
     "talks": [
       {
         "track": "track_1",
-        "title": "OGC API Features & Processes Deep Dive",
+        "title": "Dissectie van een OGC API Features en Processes service",
         "speakers": [
           {
             "name": "Bart De Lathouwer",
@@ -660,7 +660,7 @@
       },
       {
         "track": "track_2",
-        "title": "Writing & Sharing QGIS Models",
+        "title": "Writing QGIS Models and Sharing Them Without Breaking a Sweat",
         "speakers": [
           {
             "name": "Marc Ducobu",
@@ -681,7 +681,7 @@
       },
       {
         "track": "track_3",
-        "title": "Paragon: Open Source in Crisis Management",
+        "title": "Paragon : Comment l'open source et l'open data renforcent les projets publics stratégiques – Retour d'expérience sur la gestion de crise",
         "speakers": [
           {
             "name": "Gael Kruwialis",
