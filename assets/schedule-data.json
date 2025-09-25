@@ -303,18 +303,18 @@
       },
       {
         "track": "track_2",
-        "title": "(talk cancelled) Field Data Collection with QField",
+        "title": "(update) MSPglobal Data Toolbox: How to develop an SDI for Marine Spatial planning (UNESCO - IOC)",
         "speakers": [
           {
-            "name": "Guilhem Allaman",
-            "organization": "OPENGIS.ch"
+            "name": "Pascal Derycke",
+            "organization": "Sciensano"
           }
         ],
         "languages": [
           "FR",
           "EN"
         ],
-        "abstract": "A talk about QField, the professional mobile data collection app for QGIS, with over 1.5 million downloads and 500K active users. Recognized as a Digital Public Good, QField supports essential UN Sustainable Development Goals, such as Clean Water, Sustainable Cities, Climate Action, and Life on Land.",
+        "abstract": "",
         "duration": 30,
         "tags": [
           "software",
