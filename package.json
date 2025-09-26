@@ -18,7 +18,7 @@
     "graphql": "^16.11.0",
     "graphql-tag": "^2.12.6",
     "graphql-ws": "^6.0.6",
-    "nuxt": "^4.0.3",
+    "nuxt": "^4.1.2",
     "nuxt-mdi": "^2.1.1"
   },
   "devDependencies": {
