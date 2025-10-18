@@ -79,7 +79,8 @@
           "GeoServer",
           "Mapstore",
           "PostGIS"
-        ]
+        ],
+        "link": "/documents/track_1/geOrchestra_FOSS4G_Belgium_September_2025.pdf"
       },
       {
         "track": "track_2",
@@ -102,7 +103,8 @@
           "accessibility",
           "R",
           "QGIS"
-        ]
+        ],
+        "link": "/documents/track_2/20250925_FOSS4G_termans_commerce.pdf"
       },
       {
         "track": "track_3",
@@ -123,7 +125,8 @@
           "software",
           "analysis",
           "GRASS"
-        ]
+        ],
+        "link": "/documents/track_3/250925_Moritz_state_of_GRASS_Brussels.pdf"
       }
     ]
   },
@@ -151,7 +154,8 @@
           "WebGIS",
           "use cases",
           "mobility"
-        ]
+        ],
+        "link": "/documents/track_1/Supporting_Mobility_Decisions_with_MapStore.pdf"
       },
       {
         "track": "track_2",
@@ -172,7 +176,8 @@
           "analysis",
           "use cases",
           "rail network"
-        ]
+        ],
+        "link": "/documents/track_2/Geoprogrammeren-presentatie-Simon.pdf"
       },
       {
         "track": "track_3",
@@ -192,7 +197,8 @@
         "tags": [
           "analysis",
           "tools"
-        ]
+        ],
+        "link": "/documents/track_3/graph-driven_geospatial_analysis_DESWYSEN_B.pdf"
       }
     ]
   },
@@ -217,7 +223,8 @@
           "software",
           "use cases",
           "WebGIS"
-        ]
+        ],
+        "link": "/documents/track_1/Cartostation_foss4g-2025-light.pdf"
       },
       {
         "track": "track_2",
@@ -235,7 +242,8 @@
         "duration": 30,
         "tags": [
           "use cases"
-        ]
+        ],
+        "link": "/documents/track_2/Système_d_information_digitalisé_AVEC_ENGLISH_Presentation_Restitution_Activites_de_Cartographie.pdf"
       },
       {
         "track": "track_3",
@@ -256,7 +264,8 @@
           "analysis",
           "GeoParquet",
           "DuckDB"
-        ]
+        ],
+        "link": "/documents/track_3/foss4g_be_parquet_duckdb_florent_fougeres_.pdf"
       }
     ]
   },
@@ -299,7 +308,8 @@
           "software",
           "QGIS Server",
           "WebGIS"
-        ]
+        ],
+        "link": "https://github.com/brucarto/dynamic_reporting_with_qgisserver/"
       },
       {
         "track": "track_2",
@@ -321,7 +331,8 @@
           "tool",
           "QField",
           "QGIS"
-        ]
+        ],
+        "link": "https://unesdoc.unesco.org/ark:/48223/pf0000395316"
       },
       {
         "track": "track_3",
@@ -341,7 +352,8 @@
         "tags": [
           "tool",
           "rust"
-        ]
+        ],
+        "link": "/documents/track_3/proj4rs-foss4g-be-2025.pdf"
       }
     ]
   },
@@ -367,7 +379,8 @@
           "software",
           "WebGIS",
           "QGIS Server"
-        ]
+        ],
+        "link": "/documents/track_1/2025-09-25-FOSS4G-Belgium-Lizmap.pdf"
       },
       {
         "track": "track_2",
@@ -390,7 +403,8 @@
           "use cases",
           "QGIS",
           "water"
-        ]
+        ],
+        "link": "/documents/track_2/FOSS4G_ELAN_saubier.pdf"
       },
       {
         "track": "track_3",
@@ -410,7 +424,8 @@
         "tags": [
           "software",
           "postgresql"
-        ]
+        ],
+        "link": "/documents/track_3/20250925_FOSS4GBE_PostgreSQL-upgrade-strategies.pdf"
       }
     ]
   },
@@ -436,7 +451,8 @@
           "software",
           "WebGIS",
           "QGIS Server"
-        ]
+        ],
+        "link": "/documents/track_1/qjazz-foss4g-be-2025.pdf"
       },
       {
         "track": "track_2",
@@ -459,7 +475,8 @@
           "analysis",
           "use cases",
           "QGIS"
-        ]
+        ],
+        "link": "/documents/track_2/250925_AHO_Presentation_FOSS4G.pdf"
       },
       {
         "track": "track_3",
@@ -479,7 +496,8 @@
           "tool",
           "geocoding",
           "standards"
-        ]
+        ],
+        "link": "/documents/track_3/bePelias_FOSS4G.pdf"
       }
     ]
   },
@@ -514,7 +532,8 @@
           "GeoNetwork",
           "metadata catalogue",
           "interoperability"
-        ]
+        ],
+        "link": "/documents/track_1/Open-Source_Data_Platform_with_GeoNetwork.pdf"
       },
       {
         "track": "track_2",
@@ -535,7 +554,8 @@
           "tool",
           "plugin",
           "QGIS"
-        ]
+        ],
+        "link": "/documents/track_2/20250925_foss4g_brdr_.pdf"
       },
       {
         "track": "track_3",
@@ -556,7 +576,8 @@
           "app",
           "open data",
           "OSM"
-        ]
+        ],
+        "link": "/documents/track_3/Managing_geographic_data_on_OpenStreetMap.pdf"
       }
     ]
   },
@@ -586,7 +607,8 @@
           "open data",
           "open standards",
           "GeoNetwork"
-        ]
+        ],
+        "link": "/documents/track_1/SPW_Metawal_DCAT_FOSS4GBE_2025.pdf"
       },
       {
         "track": "track_2",
@@ -629,7 +651,8 @@
         "tags": [
           "open data",
           "webservices"
-        ]
+        ],
+        "link": "/documents/track_3/FOSS4G_2025_Webservices_.pdf"
       }
     ]
   },
@@ -677,7 +700,8 @@
           "tool",
           "plugin",
           "QGIS"
-        ]
+        ],
+        "link": "/documents/track_2/QGIS_models_marc_ducobu.pdf"
       },
       {
         "track": "track_3",
@@ -698,7 +722,8 @@
           "software",
           "tools",
           "use case"
-        ]
+        ],
+        "link": "/documents/track_3/paragon_foss4g2025.pdf"
       }
     ]
   },

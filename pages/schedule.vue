@@ -22,6 +22,7 @@ interface Talk {
   readonly abstract?: string
   readonly duration?: number
   readonly tags?: readonly string[]
+  readonly link?: string
 }
 
 interface FullWidthEvent {
@@ -670,9 +671,23 @@ function isTalkExpanded(time: string, track: string): boolean {
                             <h4 class="text-xs font-semibold text-gray-700 uppercase tracking-wide mb-2">{{ t('schedule.expandable.abstract') }}</h4>
                             <p class="text-sm text-gray-600 leading-relaxed">{{ talk.abstract }}</p>
                           </div>
-                          <div v-if="talk.duration" class="flex items-center gap-1">
-                            <MdiIcon icon="mdiClockOutline" size="0.875em" class="text-gray-400" aria-hidden="true" />
-                            <span class="text-xs text-gray-500">{{ talk.duration }} {{ t('schedule.expandable.minutes') }}</span>
+                          <div class="flex items-center gap-3">
+                            <div v-if="talk.duration" class="flex items-center gap-1">
+                              <MdiIcon icon="mdiClockOutline" size="0.875em" class="text-gray-400" aria-hidden="true" />
+                              <span class="text-xs text-gray-500">{{ talk.duration }} {{ t('schedule.expandable.minutes') }}</span>
+                            </div>
+                            <a
+                              v-if="talk.link"
+                              :href="talk.link"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-primary text-white text-xs font-medium rounded-md hover:bg-primary-dark transition-colors"
+                              @click.stop
+                            >
+                              <MdiIcon icon="mdiFileDownloadOutline" size="0.875em" aria-hidden="true" />
+                              <span>View Presentation</span>
+                              <MdiIcon icon="mdiOpenInNew" size="0.75em" aria-hidden="true" />
+                            </a>
                           </div>
                         </div>
                       </Transition>
