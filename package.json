@@ -10,7 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "@intlify/core-base": "^11.2.1",
+    "@intlify/core-base": "^11.2.2",
     "@nuxtjs/google-fonts": "^3.2.0",
     "@vueuse/core": "^14.0.0",
     "class-variance-authority": "^0.7.1",
