@@ -19,21 +19,21 @@
     "graphql-tag": "^2.12.6",
     "graphql-ws": "^6.0.6",
     "nuxt": "^4.2.2",
-    "nuxt-mdi": "^2.1.1"
+    "nuxt-mdi": "^2.1.2"
   },
   "devDependencies": {
     "@nuxtjs/color-mode": "^4.0.0",
     "@nuxtjs/i18n": "^10.2.1",
     "@nuxtjs/tailwindcss": "^6.14.0",
     "@types/google-libphonenumber": "^7.4.30",
-    "@types/node": "^24.10.2",
+    "@types/node": "^25.0.3",
     "globals": "^16.5.0",
     "tailwind-merge": "^3.4.0",
     "tailwindcss-animate": "^1.0.7",
     "typescript": "^5.9.3",
-    "vue-tsc": "^3.1.7"
+    "vue-tsc": "^3.2.1"
   },
   "optionalDependencies": {
-    "@rollup/rollup-linux-x64-musl": "4.53"
+    "@rollup/rollup-linux-x64-musl": "4.54"
   }
 }
