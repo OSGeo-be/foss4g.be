@@ -28,7 +28,7 @@
     "@types/google-libphonenumber": "^7.4.30",
     "@types/node": "^25.2.3",
     "globals": "^17.3.0",
-    "tailwind-merge": "^3.4.0",
+    "tailwind-merge": "^3.5.0",
     "tailwindcss-animate": "^1.0.7",
     "typescript": "^5.9.3",
     "vue-tsc": "^3.2.1"
