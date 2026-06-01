@@ -199,7 +199,7 @@ const upcomingSlot = computed(() => {
 
 const isEventDay = computed(() => {
   const now = new Date()
-  return now.getMonth() === 8 && now.getDate() === 25 // September (0-indexed) 25th
+  return now.getMonth() === 9 && now.getDate() === 15 // October (0-indexed) 15th
 })
 
 const scheduleStats = computed(() => {
