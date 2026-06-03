@@ -3,7 +3,7 @@ name: Build & Deploy to GitHub Pages
 on:
   push:
     branches:
-      - b2025-2
+      - main
 
 jobs:
   build:
@@ -12,11 +12,11 @@ jobs:
     steps:
       # 1. Check out code
       - name: Checkout repository
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
 
       # 2. Install Node.js
       - name: Setup Node.js
-        uses: actions/setup-node@v6
+        uses: actions/setup-node@v4
         with:
           node-version: '22.x'
           cache: 'npm'
@@ -26,16 +26,16 @@ jobs:
         run: npm ci
 
       # 4. Generate static site
+      # NUXT_APP_BASE_URL allows the preview to work at /2026.foss4g.be/
+      # When a custom domain is set, this env var can be removed (base = /)
       - name: Generate static files
         run: npm run generate
+        env:
+          NUXT_APP_BASE_URL: /draft.2026.foss4g.be/
 
-      # 5. Add CNAME for the domain
-      - name: Add CNAME
-        run: echo "www.foss4g.be" > .output/public/CNAME
-
-      # 6. Upload artifact
+      # 5. Upload artifact
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v3
         with:
           path: .output/public
 
@@ -43,17 +43,16 @@ jobs:
     needs: build
 
     permissions:
-      pages: write      # to deploy to Pages
-      id-token: write   # to verify the deployment originates from an appropriate source
+      pages: write
+      id-token: write
 
     runs-on: ubuntu-latest
-    
+
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-      
+
     steps:
-      # 1. Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v5
+        uses: actions/deploy-pages@v4
