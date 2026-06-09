@@ -8,17 +8,17 @@ const tiers = [
         key: 'Gold',
         titleKey: 'sponsors.tiers.gold.title',
         priceKey: 'sponsors.tiers.gold.price',
-        descriptionKey: 'sponsors.tiers.gold.description',
+        descriptionKey: null,
         banner: 'bg-gold',
         advantages: [
-            'sponsors.features.logoOnOsgeoBe',
             'sponsors.features.logoOnFoss4gBig',
-            'sponsors.features.coSponsorBrunch',
+            'sponsors.features.logoInProgramHeader',
+            'sponsors.features.coSponsorLunch',
             'sponsors.features.booth',
-            'sponsors.features.ticketIncluded',
-            'sponsors.features.allOsgeoEvents',
             'sponsors.features.dedicatedPost',
             'sponsors.features.miniPresentation',
+            'sponsors.features.tshirtGift',
+            'sponsors.features.stickersGift',
         ],
         ctaKey: 'sponsors.tiers.gold.cta',
     },
@@ -33,7 +33,7 @@ const tiers = [
             'sponsors.features.logoOnSponsorsPage',
             'sponsors.features.namedMomentSilver',
             'sponsors.features.smallBooth',
-            'sponsors.features.twoTrainingTickets',
+            'sponsors.features.inProgramAtBreaks',
             'sponsors.features.socialMention',
         ],
         ctaKey: 'sponsors.tiers.silver.cta',
@@ -111,6 +111,12 @@ const bronzeSponsors: Sponsor[] = sponsorsData.bronze
                         </NuxtLinkLocale>
                     </div>
                 </div>
+            </section>
+
+            <!-- Code of conduct -->
+            <section class="max-w-5xl mx-auto bg-sky-50 border-l-4 border-sky-400 rounded-r-xl px-6 py-5">
+                <h2 class="text-base font-bold mb-2 text-sky-800">{{ $t('sponsors.coc.title') }}</h2>
+                <p class="text-sm text-sky-900/80" v-html="$t('sponsors.coc.text')"></p>
             </section>
 
             <!-- Support banner -->
@@ -225,7 +231,7 @@ const bronzeSponsors: Sponsor[] = sponsorsData.bronze
                     <p class="text-2xl font-extrabold text-primary mb-1">{{ $t('sponsors.tiers.community.price') }}</p>
                     <p class="text-xs text-neutral-dark italic mb-4">{{ $t('sponsors.tiers.community.description') }}</p>
                     <ul class="list-disc list-inside text-sm space-y-1 mb-4">
-                        <li>{{ $t('sponsors.features.trainingAttestation') }}</li>
+                        <li>{{ $t('sponsors.features.officialInvoice') }}</li>
                         <li>{{ $t('sponsors.features.logoOnSponsorsPage') }}</li>
                     </ul>
                 </div>

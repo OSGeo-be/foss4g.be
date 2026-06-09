@@ -329,7 +329,7 @@
     "seconds": "Secondes"
   },
   "sponsors": {
-    "gold": "Partenaires Annuels",
+    "gold": "Sponsors Gold",
     "silver": "Sponsors Silver",
     "bronze": "Sponsors Bronze",
     "community": "Participants Community",
@@ -338,28 +338,27 @@
       "description": "En sponsorisant FOSS4G Belgium, vous soutenez la communauté géospatiale open source belge et gagnez en visibilité auprès de ses membres."
     },
     "features": {
-      "logoOnOsgeoBe": "Logo + lien sur osgeo.be toute l'année",
-      "logoOnFoss4gBig": "Logo (grand format) sur foss4g.be",
-      "coSponsorBrunch": "(Co-)sponsor du brunch",
+      "logoOnFoss4gBig": "Logo (grand format) sur foss4g.be + bannière dans l'en-tête du site",
+      "logoInProgramHeader": "Logo dans l'en-tête du programme imprimé (A3/A0)",
+      "coSponsorLunch": "(Co-)sponsor du lunch à votre nom",
       "booth": "Stand de présentation",
-      "ticketIncluded": "1 billet FOSS4G Belgium inclus",
-      "allOsgeoEvents": "Mention dans tous les événements OSGeo Belgium",
       "dedicatedPost": "Post dédié sur les réseaux sociaux",
-      "miniPresentation": "Mini-présentation optionnelle : votre engagement open source en Belgique",
+      "miniPresentation": "Mini-présentation optionnelle (2–3 min) : votre engagement open source en Belgique",
+      "tshirtGift": "T-shirt OSGeo Belgium offert",
+      "stickersGift": "Stickers FOSS4G 2026 offerts",
       "logoOnFoss4g": "Logo sur foss4g.be",
       "logoOnSponsorsPage": "Logo sur la page des sponsors",
       "namedMomentSilver": "Co-sponsoring possible d'une pause café ou du verre de clôture (au choix)",
       "smallBooth": "Petit stand de présentation",
-      "twoTrainingTickets": "2 tickets formation entreprise",
+      "inProgramAtBreaks": "Repris dans le programme au niveau des pauses sponsorisées",
       "socialMention": "Mention réseaux sociaux",
-      "trainingAttestation": "Attestation de participation / formation"
+      "officialInvoice": "Une facture officielle vous sera transmise"
     },
     "tiers": {
       "gold": {
-        "title": "Gold / Annual Partner",
+        "title": "Gold",
         "price": "1 200 €",
-        "description": "Partenaire OSGeo Belgium à l'année, visible sur osgeo.be en toutes saisons.",
-        "cta": "Devenir Annual Partner"
+        "cta": "Devenir sponsor Gold"
       },
       "silver": {
         "title": "Silver",
@@ -374,9 +373,13 @@
       "community": {
         "title": "Community",
         "price": "100 €",
-        "description": "Idéal pour géomètres, bureaux d'études et entreprises souhaitant un justificatif professionnel.",
+        "description": "Idéal pour géomètres, consultants indépendants et entreprises souhaitant soutenir l'événement via leur budget formation.",
         "cta": "S'inscrire comme Community sponsor"
       }
+    },
+    "coc": {
+      "title": "Code de conduite des sponsors",
+      "text": "Les sponsors de FOSS4G Belgium partagent les valeurs d'OSGeo : ouverture, collaboration et respect de la communauté. En devenant sponsor, vous vous engagez à respecter le <a href=\"https://www.osgeo.org/resources/osgeo-code-of-conduct/\" target=\"_blank\" rel=\"noopener\">Code de conduite OSGeo</a>. Les modalités détaillées seront précisées dans le dossier de sponsoring."
     },
     "support": {
       "title": "Soutenez FOSS4G Belgium 2026",
