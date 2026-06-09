@@ -151,58 +151,67 @@
   },
   "present": {
     "callToPresentations": {
-      "title": "Appel à présentations — FOSS4G Belgium 2026",
-      "teaser": "Partagez votre projet, expérience ou recherche en logiciels géospatiaux open source. Présentations en français, néerlandais ou anglais.",
+      "title": "Appel à propositions",
+      "teaser": "Contribuez au succès de l'édition 2026. FOSS4G Belgique aura lieu le 15 octobre 2026.",
       "opensLabel": "Ouverture :",
-      "opensDate": "27 juin 2026",
-      "closesLabel": "Clôture :",
-      "closesDate": "10 août 2026"
+      "opensDate": "Bientôt",
+      "closesLabel": "Date limite :",
+      "closesDate": "9 août 2026"
     },
     "formats": {
-      "title": "Formats acceptés",
+      "title": "Formats",
+      "flash": {
+        "title": "Flash talk",
+        "duration": "2 minutes",
+        "desc": "Présenter brièvement un sujet de votre choix, une carte ou un poster"
+      },
       "presentation": {
         "title": "Présentation",
-        "duration": "20 min + 5 min Q&A",
-        "desc": "Projet, outil, retour terrain ou recherche"
-      },
-      "lightning": {
-        "title": "Lightning Talk",
-        "duration": "5 minutes",
-        "desc": "Idée concise ou aperçu de projet"
+        "duration": "25 min (20 min + 5 min Q/R)",
+        "desc": "Présenter un sujet de manière approfondie"
       },
       "workshop": {
-        "title": "Atelier",
-        "duration": "90 minutes",
-        "desc": "Session interactive — ordinateur requis pour les participants"
+        "title": "Workshop",
+        "duration": "90 minutes (après-midi)",
+        "desc": "Session pratique initiant les participants à un logiciel, un plug-in, …"
       }
     },
     "topics": {
-      "title": "Thèmes bienvenus",
-      "software": "Logiciels clés : QGIS, PostGIS, GeoServer, MapLibre, Leaflet",
-      "opendata": "Données ouvertes et infrastructure spatiale",
-      "remoteSensing": "Télédétection, LiDAR, drones",
-      "ai": "IA et applications géospatiales",
-      "standards": "Standards OGC et interopérabilité",
-      "osm": "OpenStreetMap & données ouvertes",
-      "community": "Communauté, diversité et inclusion",
-      "successStories": "Retours d'expérience et solutions réussies",
-      "migration": "Migration de logiciels propriétaires vers l'open source",
-      "institutions": "Solutions open source pour institutions belges",
-      "other": "Autres sujets géospatiaux open source"
+      "title": "Thématiques",
+      "osm": "OpenStreetMap - cartographie collaborative + Open Data",
+      "postgresql": "PostgreSQL - PostGIS",
+      "qgis": "QGIS + GRASS GIS",
+      "python": "Python/R",
+      "other": "Autres sujets"
+    },
+    "submission": {
+      "title": "Modalités de soumission",
+      "intro": "Votre proposition doit inclure :",
+      "fieldTitle": "Titre",
+      "fieldSummary": "Résumé (max 250 mots)",
+      "fieldWorkshop": "Si workshop : préciser les prérequis techniques pour les participants",
+      "fieldMaps": "Si carte ou poster : indiquer s'il doit être imprimé ou apporté par vous-même",
+      "fieldLanguage": "Langue(s)",
+      "fieldLevel": "Niveau",
+      "fieldFormat": "Format(s) souhaité(s) (plusieurs choix possibles)",
+      "formTitle": "Soumission des propositions",
+      "formIntro": "Les propositions doivent être déposées via le formulaire :",
+      "formLink": "Call for proposals | Framaforms.org",
+      "formUrl": "https://framaforms.org/call-for-proposals-1780600203"
     },
     "criterias": {
-      "title": "Critères de sélection",
-      "relevance": "Pertinence pour le logiciel géospatial open source",
-      "originality": "Originalité et apport à la communauté",
-      "quality": "Qualité de la description de la soumission",
-      "diversity": "Diversité des participant·e·s et des régions"
+      "title": "Critères d'évaluation",
+      "quality": "Qualité des soumissions",
+      "relevance": "Pertinence pour le public",
+      "program": "Cohérence avec le programme",
+      "note": "Le choix du comité de programme est définitif et sans appel. Les décisions du comité de programme ne reflètent l'opinion d'aucun employeur des membres."
     },
     "timeline": {
       "title": "Calendrier",
-      "opensDate": "27 juin 2026",
+      "opensDate": "Bientôt",
       "opensLabel": "Ouverture des soumissions",
-      "closesDate": "10 août 2026",
-      "closesLabel": "Clôture des soumissions",
+      "closesDate": "9 août 2026",
+      "closesLabel": "Date limite de soumission",
       "notificationDate": "25 août 2026",
       "notificationLabel": "Notification aux auteur·e·s",
       "programDate": "1er septembre 2026",
@@ -210,15 +219,13 @@
       "eventDate": "15 octobre 2026",
       "eventLabel": "Événement à Bruxelles"
     },
-    "submission": {
-      "title": "Soumettre une proposition",
-      "presentations": "Présentations acceptées en français, néerlandais ou anglais.",
-      "proposals": "Soumissions possibles en FR / NL / EN.",
-      "opensNote": "Le formulaire de soumission sera disponible ici à partir du 27 juin 2026. Inscrivez-vous à la mailing list pour être notifié·e."
+    "deadline": {
+      "title": "Date limite",
+      "text": "La date limite de soumission est fixée au 9 août 2026, mais nous invitons à soumettre la proposition dès que possible. Les propositions seront évaluées par le Comité du programme et les auteurs seront informés si leur contribution a été acceptée. Toutes les propositions acceptées seront publiées sur le site de l'événement."
     },
     "questions": {
       "title": "Des questions ?",
-      "contactUsAt": "Contactez-nous à"
+      "contactUsAt": "Si vous avez des questions sur la soumission d'une proposition, veuillez contacter"
     }
   },
   "volunteer": {
