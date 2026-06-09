@@ -151,58 +151,67 @@
   },
   "present": {
     "callToPresentations": {
-      "title": "Call for Presentations — FOSS4G Belgium 2026",
-      "teaser": "Share your open source geospatial project, experience or research. Presentations in French, Dutch or English.",
+      "title": "Call for proposals",
+      "teaser": "Help make our 2026 edition a success. FOSS4G Belgium will take place on 15 October 2026.",
       "opensLabel": "Opens:",
-      "opensDate": "27 June 2026",
-      "closesLabel": "Closes:",
-      "closesDate": "10 August 2026"
+      "opensDate": "Soon",
+      "closesLabel": "Deadline:",
+      "closesDate": "9 August 2026"
     },
     "formats": {
-      "title": "Accepted Formats",
+      "title": "Formats",
+      "flash": {
+        "title": "Flash talk",
+        "duration": "2 minutes",
+        "desc": "Present briefly a topic of your choice, your map, or your poster"
+      },
       "presentation": {
         "title": "Presentation",
-        "duration": "20 min + 5 min Q&A",
-        "desc": "Project, tool, field report or research"
-      },
-      "lightning": {
-        "title": "Lightning Talk",
-        "duration": "5 minutes",
-        "desc": "Concise idea or project overview"
+        "duration": "25 min (20 min + 5 min Q&A)",
+        "desc": "Present extensively a topic of your choice"
       },
       "workshop": {
         "title": "Workshop",
-        "duration": "90 minutes",
-        "desc": "Interactive session — participants need a laptop"
+        "duration": "90 minutes (afternoon)",
+        "desc": "Hands-on session introducing participants to software, plugin, etc."
       }
     },
     "topics": {
-      "title": "Welcome Topics",
-      "software": "Key software: QGIS, PostGIS, GeoServer, MapLibre, Leaflet",
-      "opendata": "Open data and spatial infrastructure",
-      "remoteSensing": "Remote sensing, LiDAR, drones",
-      "ai": "AI and geospatial applications",
-      "standards": "OGC standards and interoperability",
-      "osm": "OpenStreetMap & open data",
-      "community": "Community, diversity and inclusion",
-      "successStories": "Field reports and successful solutions",
-      "migration": "Migration from proprietary to open source software",
-      "institutions": "Open source solutions for Belgian institutions",
-      "other": "Other open source geospatial topics"
+      "title": "Topics",
+      "osm": "OpenStreetMap - collaborative mapping + Open Data",
+      "postgresql": "PostgreSQL - PostGIS",
+      "qgis": "QGIS + GRASS GIS",
+      "python": "Python/R",
+      "other": "Other"
+    },
+    "submission": {
+      "title": "How to submit",
+      "intro": "Your proposal should include:",
+      "fieldTitle": "Title",
+      "fieldSummary": "Summary (max. 250 words)",
+      "fieldWorkshop": "Only for workshop: specify any technical requirements participants need on their computer",
+      "fieldMaps": "Only for maps and posters: specify if it needs to be printed or if you bring it yourself",
+      "fieldLanguage": "Language(s)",
+      "fieldLevel": "Level",
+      "fieldFormat": "Preferred format (multiple choices)",
+      "formTitle": "Submission",
+      "formIntro": "Proposals should be submitted using this form:",
+      "formLink": "Call for proposals | Framaforms.org",
+      "formUrl": "https://framaforms.org/call-for-proposals-1780600203"
     },
     "criterias": {
-      "title": "Selection Criteria",
-      "relevance": "Relevance to open source geospatial software",
-      "originality": "Originality and contribution to the community",
-      "quality": "Quality of the submission description",
-      "diversity": "Diversity of participants and regions"
+      "title": "How do we evaluate?",
+      "quality": "Quality of the submitted material",
+      "relevance": "Interest for professional and student audiences",
+      "program": "Consistency with the program",
+      "note": "The selection committee's decision will be final and binding. Committee members speak on their own behalf, their choices do not reflect the position of their employer."
     },
     "timeline": {
       "title": "Timeline",
-      "opensDate": "27 June 2026",
+      "opensDate": "Soon",
       "opensLabel": "Submissions open",
-      "closesDate": "10 August 2026",
-      "closesLabel": "Submissions close",
+      "closesDate": "9 August 2026",
+      "closesLabel": "Submission deadline",
       "notificationDate": "25 August 2026",
       "notificationLabel": "Notification to authors",
       "programDate": "1 September 2026",
@@ -210,15 +219,13 @@
       "eventDate": "15 October 2026",
       "eventLabel": "Event in Brussels"
     },
-    "submission": {
-      "title": "Submit a Proposal",
-      "presentations": "Presentations accepted in French, Dutch or English.",
-      "proposals": "Submissions in FR / NL / EN.",
-      "opensNote": "The submission form will be available here from 27 June 2026. Sign up to the mailing list to be notified."
+    "deadline": {
+      "title": "Deadline",
+      "text": "Deadline for submission is 9 August 2026, but we invite presenters to submit their proposals as soon as possible. Proposals will be evaluated by a program committee and authors will be notified of their acceptance. All the accepted proposals will be made available on the event website."
     },
     "questions": {
       "title": "Questions?",
-      "contactUsAt": "Contact us at"
+      "contactUsAt": "If you have any questions about submitting a proposal you can ask them via"
     }
   },
   "volunteer": {

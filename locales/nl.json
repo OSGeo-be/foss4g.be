@@ -151,58 +151,67 @@
   },
   "present": {
     "callToPresentations": {
-      "title": "Oproep voor Presentaties — FOSS4G Belgium 2026",
-      "teaser": "Deel uw open source geospatiaal project, ervaring of onderzoek. Presentaties in het Frans, Nederlands of Engels.",
+      "title": "Oproep voor voorstellen",
+      "teaser": "Help ons om van de editie van 2026 een succes te maken! FOSS4G België vindt plaats op 15 oktober 2026.",
       "opensLabel": "Opening:",
-      "opensDate": "27 juni 2026",
-      "closesLabel": "Sluiting:",
+      "opensDate": "Binnenkort",
+      "closesLabel": "Deadline:",
       "closesDate": "10 augustus 2026"
     },
     "formats": {
-      "title": "Geaccepteerde Formaten",
+      "title": "Formats",
+      "flash": {
+        "title": "Flash talk",
+        "duration": "2 minuten",
+        "desc": "Korte presentatie van een onderwerp naar keuze, een kaart of een poster"
+      },
       "presentation": {
         "title": "Presentatie",
-        "duration": "20 min + 5 min Q&A",
-        "desc": "Project, tool, terreinverslag of onderzoek"
-      },
-      "lightning": {
-        "title": "Lightning Talk",
-        "duration": "5 minuten",
-        "desc": "Beknopt idee of projectoverzicht"
+        "duration": "25 minuten (20 min + 5 min vragen)",
+        "desc": "Uitgebreide toelichting van een onderwerp naar keuze"
       },
       "workshop": {
         "title": "Workshop",
-        "duration": "90 minuten",
-        "desc": "Interactieve sessie — deelnemers hebben een laptop nodig"
+        "duration": "90 minuten (namiddag)",
+        "desc": "Hands-on sessie waarin deelnemers zelf aan de slag gaan (software, plug-in, etc.)"
       }
     },
     "topics": {
-      "title": "Welkome Onderwerpen",
-      "software": "Sleutelsoftware: QGIS, PostGIS, GeoServer, MapLibre, Leaflet",
-      "opendata": "Open data en ruimtelijke infrastructuur",
-      "remoteSensing": "Teledetectie, LiDAR, drones",
-      "ai": "AI en geospatiale toepassingen",
-      "standards": "OGC-standaarden en interoperabiliteit",
-      "osm": "OpenStreetMap & open data",
-      "community": "Gemeenschap, diversiteit en inclusie",
-      "successStories": "Terreinverslagen en succesvolle oplossingen",
-      "migration": "Migratie van propriëtaire naar open source software",
-      "institutions": "Open source oplossingen voor Belgische instellingen",
-      "other": "Andere open source geospatiale onderwerpen"
+      "title": "Thema's",
+      "osm": "OpenStreetMap - collaboratief kaartmaken + Open Data",
+      "postgresql": "PostgreSQL - PostGIS",
+      "qgis": "QGIS + GRASS GIS",
+      "python": "Python/R",
+      "other": "Other"
+    },
+    "submission": {
+      "title": "Insturen",
+      "intro": "Voorstellen moeten het volgende bevatten:",
+      "fieldTitle": "Titel",
+      "fieldSummary": "Samenvatting (max. 250 woorden)",
+      "fieldWorkshop": "Alleen voor workshops: geef de technische vereisten op voor deelnemers",
+      "fieldMaps": "Alleen voor kaarten en posters: geef aan of het gedrukt moet worden of zelf meegebracht",
+      "fieldLanguage": "Taal/talen",
+      "fieldLevel": "Niveau",
+      "fieldFormat": "Gewenst formaat (meerdere keuzes mogelijk)",
+      "formTitle": "Inzenden",
+      "formIntro": "Voorstellen kunnen ingestuurd worden met dit formulier:",
+      "formLink": "Call for proposals | Framaforms.org",
+      "formUrl": "https://framaforms.org/call-for-proposals-1780600203"
     },
     "criterias": {
-      "title": "Selectiecriteria",
-      "relevance": "Relevantie voor open source geospatiale software",
-      "originality": "Originaliteit en bijdrage aan de gemeenschap",
-      "quality": "Kwaliteit van de inzendbeschrijving",
-      "diversity": "Diversiteit van deelnemers en regio's"
+      "title": "Evaluatiecriteria",
+      "quality": "Kwaliteit van de ingestuurde voorstellen",
+      "relevance": "Relevantie voor het publiek",
+      "program": "Plaats binnen het programma",
+      "note": "De keuze van het programmacomité is finaal en bindend. De beslissingen van het programmacomité reflecteren niet de mening van de werkgevers van de leden."
     },
     "timeline": {
       "title": "Kalender",
-      "opensDate": "27 juni 2026",
+      "opensDate": "Binnenkort",
       "opensLabel": "Inzendingen open",
       "closesDate": "10 augustus 2026",
-      "closesLabel": "Inzendingen sluiten",
+      "closesLabel": "Deadline inzendingen",
       "notificationDate": "25 augustus 2026",
       "notificationLabel": "Melding aan auteurs",
       "programDate": "1 september 2026",
@@ -210,15 +219,13 @@
       "eventDate": "15 oktober 2026",
       "eventLabel": "Evenement in Brussel"
     },
-    "submission": {
-      "title": "Een voorstel indienen",
-      "presentations": "Presentaties geaccepteerd in het Frans, Nederlands of Engels.",
-      "proposals": "Inzendingen in FR / NL / EN.",
-      "opensNote": "Het inzendformulier is hier beschikbaar vanaf 27 juni 2026. Schrijf u in op de mailinglijst om op de hoogte te blijven."
+    "deadline": {
+      "title": "Deadline",
+      "text": "De deadline voor het insturen van voorstellen is 10 augustus 2026, maar we nodigen sprekers uit om hun voorstellen zo snel mogelijk in te sturen. Voorstellen zullen geëvalueerd worden door het programmacomité en de auteurs zullen bericht krijgen of hun bijdrage aanvaard werd. Alle aanvaarde voorstellen zullen op de website geplaatst worden."
     },
     "questions": {
       "title": "Vragen?",
-      "contactUsAt": "Neem contact met ons op via"
+      "contactUsAt": "Als je vragen hebt over het indienen van het voorstel kan je die stellen via"
     }
   },
   "volunteer": {
