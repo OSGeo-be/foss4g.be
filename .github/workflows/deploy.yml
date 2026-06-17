@@ -26,12 +26,8 @@ jobs:
         run: npm ci
 
       # 4. Generate static site
-      # NUXT_APP_BASE_URL allows the preview to work at /2026.foss4g.be/
-      # When a custom domain is set, this env var can be removed (base = /)
       - name: Generate static files
         run: npm run generate
-        env:
-          NUXT_APP_BASE_URL: /draft.2026.foss4g.be/
 
       # 5. Upload artifact
       - name: Upload artifact
