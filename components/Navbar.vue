@@ -3,7 +3,7 @@
         <div class="max-w-7xl mx-auto px-4 py-3 flex items-center justify-between">
             <!-- Logo / Brand -->
             <NuxtLinkLocale to="/" class="text-teal-dark font-bold text-lg">
-                FOSS4G BELGIUM 2025
+                FOSS4G BELGIUM 2026
             </NuxtLinkLocale>
 
             <!-- Desktop Links & Lang Switch -->
@@ -13,7 +13,10 @@
                         <NuxtLinkLocale to="/about" class="hover:text-teal-dark">{{ $t('nav.about') }}</NuxtLinkLocale>
                     </li>
                     <li>
-                        <NuxtLinkLocale to="/our-sponsors" class="hover:text-teal-dark">{{ $t('nav.ourSponsors') }}</NuxtLinkLocale>
+                        <NuxtLinkLocale to="/present" class="hover:text-teal-dark">{{ $t('nav.callForPresentations') }}</NuxtLinkLocale>
+                    </li>
+                    <li>
+                        <NuxtLinkLocale to="/maps" class="hover:text-teal-dark">{{ $t('nav.callForMaps') }}</NuxtLinkLocale>
                     </li>
                     <li>
                         <NuxtLinkLocale to="/become-sponsor" class="hover:text-teal-dark">{{ $t('nav.becomeSponsor') }}</NuxtLinkLocale>
@@ -81,7 +84,8 @@
             >
                 <NuxtLinkLocale @click="close" to="/">{{ $t('nav.home') }}</NuxtLinkLocale>
                 <NuxtLinkLocale @click="close" to="/about">{{ $t('nav.about') }}</NuxtLinkLocale>
-                <NuxtLinkLocale @click="close" to="/our-sponsors">{{ $t('nav.ourSponsors') }}</NuxtLinkLocale>
+                <NuxtLinkLocale @click="close" to="/present">{{ $t('nav.callForPresentations') }}</NuxtLinkLocale>
+                <NuxtLinkLocale @click="close" to="/maps">{{ $t('nav.callForMaps') }}</NuxtLinkLocale>
                 <NuxtLinkLocale @click="close" to="/become-sponsor">{{ $t('nav.becomeSponsor') }}</NuxtLinkLocale>
                 <NuxtLinkLocale @click="close" to="/volunteer">{{ $t('nav.volunteer') }}</NuxtLinkLocale>
                 <NuxtLinkLocale @click="close" to="/contact">{{ $t('nav.contact') }}</NuxtLinkLocale>

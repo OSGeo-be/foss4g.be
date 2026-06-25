@@ -6,14 +6,14 @@ export default defineNuxtConfig({
     css: ["~/assets/css/main.css"],
 
     $meta: {
-        title: "FOSS4G Belgium 2025",
+        title: "FOSS4G Belgium 2026",
         description: "FOSS4G",
     },
 
     app: {
         pageTransition: {name: "page", mode: "out-in"},
         head: {
-            title: "FOSS4G Belgium 2025",
+            title: "FOSS4G Belgium 2026",
             meta: [
                 {charset: "utf-8"},
                 {name: "viewport", content: "width=device-width, initial-scale=1"},

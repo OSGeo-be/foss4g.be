@@ -8,13 +8,17 @@ const tiers = [
         key: 'Gold',
         titleKey: 'sponsors.tiers.gold.title',
         priceKey: 'sponsors.tiers.gold.price',
+        descriptionKey: null,
         banner: 'bg-gold',
         advantages: [
+            'sponsors.features.logoOnFoss4gBig',
+            'sponsors.features.logoInProgramHeader',
+            'sponsors.features.coSponsorLunch',
             'sponsors.features.booth',
-            'sponsors.features.fullProgramPage',
-            'sponsors.features.logoOnMainPage',
-            'sponsors.features.logoOnSponsorsPage',
-            'sponsors.features.participantList',
+            'sponsors.features.dedicatedPost',
+            'sponsors.features.miniPresentation',
+            'sponsors.features.tshirtGift',
+            'sponsors.features.stickersGift',
         ],
         ctaKey: 'sponsors.tiers.gold.cta',
     },
@@ -22,12 +26,15 @@ const tiers = [
         key: 'Silver',
         titleKey: 'sponsors.tiers.silver.title',
         priceKey: 'sponsors.tiers.silver.price',
+        descriptionKey: null,
         banner: 'bg-silver',
         advantages: [
-            'sponsors.features.booth',
-            'sponsors.features.halfProgramPage',
+            'sponsors.features.logoOnFoss4g',
             'sponsors.features.logoOnSponsorsPage',
-            'sponsors.features.participantList',
+            'sponsors.features.namedMomentSilver',
+            'sponsors.features.smallBooth',
+            'sponsors.features.inProgramAtBreaks',
+            'sponsors.features.socialMention',
         ],
         ctaKey: 'sponsors.tiers.silver.cta',
     },
@@ -35,10 +42,11 @@ const tiers = [
         key: 'Bronze',
         titleKey: 'sponsors.tiers.bronze.title',
         priceKey: 'sponsors.tiers.bronze.price',
+        descriptionKey: null,
         banner: 'bg-bronze',
         advantages: [
             'sponsors.features.logoOnSponsorsPage',
-            'sponsors.features.participantList',
+            'sponsors.features.socialMention',
         ],
         ctaKey: 'sponsors.tiers.bronze.cta',
     },
@@ -82,9 +90,13 @@ const bronzeSponsors: Sponsor[] = sponsorsData.bronze
                             <h2 class="text-xl font-bold mb-1">
                                 {{ $t(tier.titleKey) }}
                             </h2>
-                            <p class="text-2xl font-extrabold text-primary mb-4">
+                            <p class="text-2xl font-extrabold text-primary mb-1">
                                 {{ $t(tier.priceKey) }}
                             </p>
+                            <p v-if="tier.descriptionKey" class="text-xs text-neutral-dark italic mb-4">
+                                {{ $t(tier.descriptionKey) }}
+                            </p>
+                            <div v-else class="mb-4"></div>
                             <ul class="list-disc list-inside text-sm space-y-1">
                                 <li v-for="adv in tier.advantages" :key="adv">
                                     {{ $t(adv) }}
@@ -101,37 +113,35 @@ const bronzeSponsors: Sponsor[] = sponsorsData.bronze
                 </div>
             </section>
 
+            <!-- Code of conduct -->
+            <section class="max-w-5xl mx-auto bg-sky-50 border-l-4 border-sky-400 rounded-r-xl px-6 py-5">
+                <h2 class="text-base font-bold mb-2 text-sky-800">{{ $t('sponsors.coc.title') }}</h2>
+                <p class="text-sm text-sky-900/80" v-html="$t('sponsors.coc.text')"></p>
+            </section>
+
             <!-- Support banner -->
-            <section
-                class="relative bg-off-white
-               sm:bg-[url('/images/piggy-bank-bg13.png')] sm:bg-cover sm:bg-left
-               rounded-xl shadow-md max-w-5xl mx-auto overflow-hidden
-               sm:aspect-[3/1]"
-            >
-                <div class="flex flex-col-reverse sm:flex-row h-full justify-end">
-                    <div class="w-full sm:w-1/2 p-6 flex flex-col justify-center text-primary-dark">
+            <section class="relative bg-primary-dark rounded-xl shadow-md max-w-5xl mx-auto overflow-hidden">
+                <div class="flex flex-col sm:flex-row items-center">
+                    <div class="flex-1 p-8 flex flex-col justify-center text-white">
                         <h2 class="text-lg sm:text-2xl font-bold mb-2">
                             {{ $t('sponsors.support.title') }}
                         </h2>
-                        <p class="text-sm mb-4">
+                        <p class="text-sm mb-4 text-white/80">
                             {{ $t('sponsors.support.description') }}
                         </p>
-                        <!--
                         <NuxtLinkLocale
-                            to="/contact?sponsor=gold"
-                            class="inline-block bg-accent hover:bg-accent-dark text-off-white font-semibold px-6 py-2 rounded-lg transition w-full sm:w-auto text-center"
+                            to="/contact?sponsor=general"
+                            class="inline-block bg-white text-primary-dark hover:bg-off-white font-semibold px-6 py-2 rounded-lg transition w-full sm:w-auto text-center text-sm"
                         >
                             {{ $t('sponsors.support.cta') }}
                         </NuxtLinkLocale>
-                        -->
                     </div>
-
-                    <!-- Piggy-bank image below on mobile -->
-                    <div class="w-full sm:hidden px-6 pt-6 flex items-center justify-center">
+                    <div class="shrink-0 p-6 flex items-center justify-center">
                         <img
-                            src="/images/piggy-bank-1.png"
-                            alt="Piggy bank"
-                            class="w-32 h-32 object-contain mx-auto"
+                            src="/images/background-topology.svg"
+                            alt=""
+                            aria-hidden="true"
+                            class="h-36 w-auto object-contain opacity-40"
                         />
                     </div>
                 </div>
@@ -212,6 +222,25 @@ const bronzeSponsors: Sponsor[] = sponsorsData.bronze
                         />
                     </a>
                 </div>
+            </section>
+
+            <!-- Community — participation professionnelle -->
+            <section class="max-w-5xl mx-auto border-2 border-dashed border-neutral-light bg-white/80 backdrop-blur-sm rounded-xl p-6 flex flex-col sm:flex-row gap-6 items-start">
+                <div class="flex-1">
+                    <h2 class="text-lg font-bold mb-1">{{ $t('sponsors.tiers.community.title') }}</h2>
+                    <p class="text-2xl font-extrabold text-primary mb-1">{{ $t('sponsors.tiers.community.price') }}</p>
+                    <p class="text-xs text-neutral-dark italic mb-4">{{ $t('sponsors.tiers.community.description') }}</p>
+                    <ul class="list-disc list-inside text-sm space-y-1 mb-4">
+                        <li>{{ $t('sponsors.features.officialInvoice') }}</li>
+                        <li>{{ $t('sponsors.features.logoOnSponsorsPage') }}</li>
+                    </ul>
+                </div>
+                <NuxtLinkLocale
+                    to="/contact?sponsor=community"
+                    class="shrink-0 self-center border-2 border-primary text-primary hover:bg-primary hover:text-off-white font-semibold px-6 py-2 rounded-lg transition text-sm"
+                >
+                    {{ $t('sponsors.tiers.community.cta') }}
+                </NuxtLinkLocale>
             </section>
         </main>
     </div>

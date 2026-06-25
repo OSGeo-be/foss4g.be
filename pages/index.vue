@@ -9,7 +9,7 @@ const sponsors_gold: Sponsor[] = sponsorsData.gold
 
 // Countdown state for 25 September 2025
 const timeLeft = ref({ days: 0, hours: 0, minutes: 0, seconds: 0 })
-const targetDate = new Date('2025-09-25T00:00:00')
+const targetDate = new Date('2026-10-15T00:00:00')
 
 function updateCountdown() {
     const now = Date.now()
@@ -36,9 +36,9 @@ onUnmounted(() => clearInterval(timer))
 <template>
     <div class="flex-1 px-4 py-6 space-y-8 lg:px-8 lg:py-12">
 
-        <!-- Get your tickets -->
+        <!-- Navigation rapide -->
         <section
-            id="get-your-tickets"
+            id="quick-nav"
             class="bg-off-white py-6 rounded-xl shadow max-w-3xl mx-auto flex flex-col items-center justify-center space-y-4"
         >
             <div class="text-center">
@@ -48,13 +48,6 @@ onUnmounted(() => clearInterval(timer))
                 >
                     {{ $t('nav.schedule') }}
                 </NuxtLinkLocale>
-
-                <a class="bg-main-color-2 m-3 text-white px-4 py-2 rounded-lg hover:bg-off-white hover:text-main-color-2 hover:border-main-color-2 border-2 transition-colors font-medium" href="documents/foss4g2025.pdf" target="_new">
-                    {{ $t('nav.booklet') }}
-                </a>
-                <a class="bg-main-color-3 m-3 text-white px-4 py-2 rounded-lg hover:bg-off-white hover:text-main-color-3 hover:border-main-color-3 border-2 transition-colors font-medium" href="documents/floorplan_drawio_V3.pdf" target="_new">
-                    {{ $t('nav.map') }}
-                </a>
             </div>
         </section>
 
@@ -73,19 +66,53 @@ onUnmounted(() => clearInterval(timer))
                 </div>
 
                 <div class="text-main-color-3 text-lg sm:text-xl font-semibold">
-                    <a class="underline" href="https://www.track.brussels/" target="_new">TRACK</a>, {{ $t('index.address') }}
+                    <a class="underline" href="https://www.tour-and-taxis.com/" target="_new">Tour &amp; Taxis</a>, {{ $t('index.address') }}
                 </div>
             </div>
         </section>
 
-        <!-- Get your tickets -->
-        <section
-            id="get-your-tickets"
-            class="bg-off-white py-6 rounded-xl shadow max-w-3xl mx-auto flex flex-col items-center justify-center space-y-4"
-        >
-            <div class="text-center">
-                <div class="text-main-color-1 text-2xl sm:text-2xl md:text-2xl font-bold">
-                    <a class="underline" href="https://www.eventbrite.be/e/1447534487619" target="_new">{{ $t('index.getYourTickets') }}</a>
+        <!-- Inscriptions -->
+        <section id="get-your-tickets" class="max-w-3xl mx-auto space-y-4">
+            <h2 class="text-xl font-bold text-center">{{ $t('index.registration.title') }}</h2>
+
+            <!-- Participation gratuite -->
+            <div class="bg-off-white rounded-xl shadow px-5 py-5 flex gap-4 items-center justify-center text-center max-w-lg mx-auto">
+                <span class="text-2xl shrink-0">🎟️</span>
+                <div>
+                    <h3 class="font-semibold text-sm mb-1">{{ $t('index.registration.free.title') }}</h3>
+                    <p class="text-xs text-neutral-dark mb-2">{{ $t('index.registration.free.content') }}</p>
+                    <p class="text-xs text-main-color-4 font-medium">{{ $t('index.registration.free.opensNote') }}</p>
+                </div>
+            </div>
+
+            <!-- Note légale -->
+            <p class="text-xs text-neutral-dark text-center italic px-4">{{ $t('index.registration.legalNote') }}</p>
+
+            <!-- CTAs -->
+            <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                <div class="bg-off-white rounded-xl shadow px-5 py-5">
+                    <p class="font-semibold text-sm mb-1">📧 {{ $t('index.registration.mailing.title') }}</p>
+                    <p class="text-xs text-neutral-dark mb-3">{{ $t('index.registration.mailing.content') }}</p>
+                    <a
+                        :href="$t('index.registration.mailing.url')"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        class="inline-block text-xs border-2 border-main-color-4 text-main-color-4 font-semibold px-4 py-1.5 rounded-lg hover:bg-main-color-4 hover:text-white transition"
+                    >
+                        {{ $t('index.registration.mailing.label') }}
+                    </a>
+                </div>
+                <div class="bg-off-white rounded-xl shadow px-5 py-5">
+                    <p class="font-semibold text-sm mb-1">🎟️ {{ $t('index.registration.pretix.title') }}</p>
+                    <p class="text-xs text-neutral-dark mb-3">{{ $t('index.registration.pretix.content') }}</p>
+                    <a
+                        :href="$t('index.registration.pretix.url')"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        class="inline-block text-xs border-2 border-main-color-2 text-main-color-2 font-semibold px-4 py-1.5 rounded-lg hover:bg-main-color-2 hover:text-white transition"
+                    >
+                        {{ $t('index.registration.pretix.label') }}
+                    </a>
                 </div>
             </div>
         </section>
@@ -253,6 +280,27 @@ onUnmounted(() => clearInterval(timer))
                         alt="Volonteer icon"
                         class="w-full h-full object-contain"
                     />
+                </div>
+            </div>
+
+            <!-- Call for Maps -->
+            <div class="bg-off-white px-2 rounded-xl shadow overflow-hidden flex flex-col sm:flex-row">
+                <div class="p-5 flex flex-col justify-center flex-1">
+                    <h2 class="text-lg font-bold mb-2">
+                        {{ $t('cards.callForMaps.title') }}
+                    </h2>
+                    <p class="text-neutral-dark text-sm mb-4">
+                        {{ $t('cards.callForMaps.description') }}
+                    </p>
+                    <NuxtLinkLocale
+                        to="/maps"
+                        class="flex justify-center border-2 border-main-color-1 text-main-color-1 font-semibold px-4 py-2 rounded-lg hover:bg-main-color-1 hover:text-white transition text-sm"
+                    >
+                        {{ $t('cards.callForMaps.button') }}
+                    </NuxtLinkLocale>
+                </div>
+                <div class="w-full sm:w-2/5 h-40 sm:h-auto flex items-center justify-center p-4">
+                    <MdiIcon icon="mdiMap" size="5em" class="text-main-color-1 opacity-60" />
                 </div>
             </div>
         </section>
