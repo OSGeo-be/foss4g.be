@@ -56,7 +56,7 @@ export default defineNuxtConfig({
             redirectOn: 'root' // recommended for SEO
         },
         baseUrl: 'https://foss4g.be',
-        strategy: 'prefix',
+        strategy: 'prefix_and_default',
         vueI18n: "../i18n.config.ts",
     },
 
