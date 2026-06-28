@@ -12,7 +12,7 @@ jobs:
     steps:
       # 1. Check out code
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       # 2. Install Node.js
       - name: Setup Node.js
@@ -31,7 +31,7 @@ jobs:
 
       # 5. Upload artifact
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
           path: .output/public
 
@@ -51,4 +51,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
