@@ -9,10 +9,10 @@ To run this site on your own computer you need php and for most years mysql. You
 
 ## How to build the 2025 website
 
-This project is built with Nuxt 3 and Tailwind CSS. It generates a static, mobile-first, bento-grid–style site for the FOSS4G Belgium conference.
+This project is built with Nuxt 4 and Tailwind CSS. It generates a static, mobile-first, bento-grid–style site for the FOSS4G Belgium conference.
 
 ### 🚀 Prerequisites
-- Node.js ≥ 22.x (LTS recommended—see https://nodejs.org/)
+- Node.js ≥ 24.x (LTS recommended—see https://nodejs.org/)
 - npm (comes with Node.js)
 - Git for cloning
 
