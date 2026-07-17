@@ -37,14 +37,15 @@
 
 <script lang="ts" setup>
 import {useRoute} from 'vue-router'
-import {computed, ref, onUnmounted, } from 'vue'
+import {computed, ref, watch} from 'vue'
 import {useI18n} from 'vue-i18n'
 import {useLocaleHead} from '#i18n'
-import {eventBus} from "~/eventBus";
+import {useNotification} from '~/composables/useNotification'
 
 const route = useRoute()
 const {t} = useI18n()
 const head = useLocaleHead()
+const notify = useNotification()
 
 const showNotification = ref(false)
 const notification = ref({
@@ -54,7 +55,9 @@ const notification = ref({
     variant: 'neutral'
 })
 
-const notifyHandler = (payload: any) => {
+watch(notify, (payload) => {
+    if (!payload) return
+
     notification.value = {
         message: payload.message,
         persistent: payload.persistent ?? false,
@@ -68,12 +71,6 @@ const notifyHandler = (payload: any) => {
             showNotification.value = false
         }, notification.value.duration)
     }
-}
-
-eventBus.on('notify', notifyHandler)
-
-onUnmounted(() => {
-    eventBus.off('notify', notifyHandler)
 })
 
 const title = computed(() => t(typeof route.meta.title === 'string' ? route.meta.title : 'head.title'))
