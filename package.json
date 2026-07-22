@@ -35,7 +35,7 @@
     "globals": "^17.7.0",
     "tailwind-merge": "^3.5.0",
     "tailwindcss-animate": "^1.0.7",
-    "typescript": "^5.9.3",
+    "typescript": "^7.0.2",
     "vue-tsc": "^3.3.5"
   },
   "optionalDependencies": {
