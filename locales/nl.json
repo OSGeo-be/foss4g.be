@@ -156,7 +156,7 @@
       "opensLabel": "Opening:",
       "opensDate": "7 juli 2026",
       "closesLabel": "Deadline:",
-      "closesDate": "9 augustus 2026"
+      "closesDate": "25 augustus 2026"
     },
     "formats": {
       "title": "Formats",
@@ -210,11 +210,11 @@
       "title": "Kalender",
       "opensDate": "7 juli 2026",
       "opensLabel": "Inzendingen open",
-      "closesDate": "9 augustus 2026",
+      "closesDate": "25 augustus 2026",
       "closesLabel": "Deadline inzendingen",
-      "notificationDate": "25 augustus 2026",
+      "notificationDate": "8 september 2026",
       "notificationLabel": "Melding aan auteurs",
-      "programDate": "1 september 2026",
+      "programDate": "15 september 2026",
       "programLabel": "Programma gepubliceerd",
       "eventDate": "15 oktober 2026",
       "eventLabel": "Evenement in Brussel"
