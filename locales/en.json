@@ -156,7 +156,7 @@
       "opensLabel": "Opens:",
       "opensDate": "7 July 2026",
       "closesLabel": "Deadline:",
-      "closesDate": "9 August 2026"
+      "closesDate": "25 August 2026"
     },
     "formats": {
       "title": "Formats",
@@ -210,18 +210,18 @@
       "title": "Timeline",
       "opensDate": "7 July 2026",
       "opensLabel": "Submissions open",
-      "closesDate": "9 August 2026",
+      "closesDate": "25 August 2026",
       "closesLabel": "Submission deadline",
-      "notificationDate": "25 August 2026",
+      "notificationDate": "8 September 2026",
       "notificationLabel": "Notification to authors",
-      "programDate": "1 September 2026",
+      "programDate": "15 September 2026",
       "programLabel": "Program published",
       "eventDate": "15 October 2026",
       "eventLabel": "Event in Brussels"
     },
     "deadline": {
       "title": "Deadline",
-      "text": "Deadline for submission is 9 August 2026, but we invite presenters to submit their proposals as soon as possible. Proposals will be evaluated by a program committee and authors will be notified of their acceptance. All the accepted proposals will be made available on the event website."
+      "text": "Deadline for submission is 25 August 2026, but we invite presenters to submit their proposals as soon as possible. Proposals will be evaluated by a program committee and authors will be notified of their acceptance. All the accepted proposals will be made available on the event website."
     },
     "questions": {
       "title": "Questions?",

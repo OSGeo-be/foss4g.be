@@ -156,7 +156,7 @@
       "opensLabel": "Ouverture :",
       "opensDate": "7 juillet 2026",
       "closesLabel": "Date limite :",
-      "closesDate": "9 août 2026"
+      "closesDate": "25 août 2026"
     },
     "formats": {
       "title": "Formats",
@@ -210,18 +210,18 @@
       "title": "Calendrier",
       "opensDate": "7 juillet 2026",
       "opensLabel": "Ouverture des soumissions",
-      "closesDate": "9 août 2026",
+      "closesDate": "25 août 2026",
       "closesLabel": "Date limite de soumission",
-      "notificationDate": "25 août 2026",
+      "notificationDate": "8 septembre 2026",
       "notificationLabel": "Notification aux auteur·e·s",
-      "programDate": "1er septembre 2026",
+      "programDate": "15 septembre 2026",
       "programLabel": "Programme publié",
       "eventDate": "15 octobre 2026",
       "eventLabel": "Événement à Bruxelles"
     },
     "deadline": {
       "title": "Date limite",
-      "text": "La date limite de soumission est fixée au 9 août 2026, mais nous invitons à soumettre la proposition dès que possible. Les propositions seront évaluées par le Comité du programme et les auteurs seront informés si leur contribution a été acceptée. Toutes les propositions acceptées seront publiées sur le site de l'événement."
+      "text": "La date limite de soumission est fixée au 25 août 2026, mais nous invitons à soumettre la proposition dès que possible. Les propositions seront évaluées par le Comité du programme et les auteurs seront informés si leur contribution a été acceptée. Toutes les propositions acceptées seront publiées sur le site de l'événement."
     },
     "questions": {
       "title": "Des questions ?",
