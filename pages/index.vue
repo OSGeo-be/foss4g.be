@@ -66,7 +66,8 @@ onUnmounted(() => clearInterval(timer))
                 </div>
 
                 <div class="text-main-color-3 text-lg sm:text-xl font-semibold">
-                    <a class="underline" href="https://bel.brussels/fr" target="_blank" rel="noopener">BEL — Bruxelles Environnement</a> (Tour &amp; Taxis), {{ $t('index.address') }}
+                    <a class="underline" href="https://bel.brussels/fr" target="_blank" rel="noopener">BEL — Bruxelles Environnement</a><br>
+                    <span class="text-base font-normal">(Tour &amp; Taxis), {{ $t('index.address') }}</span>
                 </div>
             </div>
         </section>
