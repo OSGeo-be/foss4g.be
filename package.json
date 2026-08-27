@@ -26,7 +26,7 @@
   },
   "devDependencies": {
     "@emnapi/core": "1.11.2",
-    "@emnapi/runtime": "1.11.2",
+    "@emnapi/runtime": "1.11.3",
     "@nuxtjs/color-mode": "^4.0.1",
     "@nuxtjs/i18n": "^10.4.0",
     "@nuxtjs/tailwindcss": "^6.14.0",
