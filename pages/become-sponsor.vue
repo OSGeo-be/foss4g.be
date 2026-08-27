@@ -114,9 +114,11 @@ const bronzeSponsors: Sponsor[] = sponsorsData.bronze
             </section>
 
             <!-- Code of conduct -->
-            <section class="max-w-5xl mx-auto bg-sky-50 border-l-4 border-sky-400 rounded-r-xl px-6 py-5">
-                <h2 class="text-base font-bold mb-2 text-sky-800">{{ $t('sponsors.coc.title') }}</h2>
-                <p class="text-sm text-sky-900/80" v-html="$t('sponsors.coc.text')"></p>
+            <section class="max-w-5xl mx-auto border-2 border-neutral-light bg-sky-50 border-sky-400 backdrop-blur-sm rounded-xl p-6 flex flex-col sm:flex-row gap-6 items-start">
+                <div class="flex-1">
+                    <h2 class="text-lg font-bold mb-2 text-sky-800">{{ $t('sponsors.coc.title') }}</h2>
+                    <p class="text-sm text-sky-900/80" v-html="$t('sponsors.coc.text')"></p>
+                </div>
             </section>
 
             <!-- Support banner -->

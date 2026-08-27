@@ -1,6 +1,20 @@
 {
-  "gold": [],
-  "silver": [],
+  "gold": [
+    {
+      "name": "Mercator Group",
+      "link": "http://www.merkator.com/",
+      "logo": "/images/sponsors/merkatorGR.png",
+      "bgClass": "bg-white"
+    }
+  ],
+  "silver": [
+    {
+      "name": "Atelier Cartographique",
+      "link": "https://atelier-cartographique.be/",
+      "logo": "/images/sponsors/ateliercartographique-logo.svg",
+      "bgClass": "bg-white"
+    }
+  ],
   "bronze": [],
   "community": []
 }

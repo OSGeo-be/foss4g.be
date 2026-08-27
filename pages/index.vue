@@ -37,7 +37,7 @@ onUnmounted(() => clearInterval(timer))
     <div class="flex-1 px-4 py-6 space-y-8 lg:px-8 lg:py-12">
 
         <!-- Navigation rapide -->
-        <section
+        <!-- section
             id="quick-nav"
             class="bg-off-white py-6 rounded-xl shadow max-w-3xl mx-auto flex flex-col items-center justify-center space-y-4"
         >
@@ -49,7 +49,7 @@ onUnmounted(() => clearInterval(timer))
                     {{ $t('nav.schedule') }}
                 </NuxtLinkLocale>
             </div>
-        </section>
+        </section -->
 
         <!-- HERO -->
         <section
@@ -73,23 +73,20 @@ onUnmounted(() => clearInterval(timer))
         </section>
 
         <!-- Inscriptions -->
-        <section id="get-your-tickets" class="max-w-3xl mx-auto space-y-4">
+        <section id="get-your-tickets" class="bg-off-white px-6 py-6 rounded-xl shadow max-w-3xl mx-auto flex flex-col items-center">
             <h2 class="text-xl font-bold text-center">{{ $t('index.registration.title') }}</h2>
 
-            <!-- Participation gratuite -->
-            <div class="bg-off-white rounded-xl shadow px-5 py-5 flex gap-4 items-center justify-center text-center max-w-lg mx-auto">
-                <span class="text-2xl shrink-0">🎟️</span>
-                <div>
-                    <h3 class="font-semibold text-sm mb-1">{{ $t('index.registration.free.title') }}</h3>
-                    <p class="text-xs text-neutral-dark mb-2">{{ $t('index.registration.free.content') }}</p>
-                    <p class="text-xs text-main-color-4 font-medium">{{ $t('index.registration.free.opensNote') }}</p>
-                </div>
-            </div>
 
+            <h3 class="text-lg font-bold mb-2 mx-8">🎟️ {{ $t('index.registration.free.title') }}</h3>
+            <p class="text-xs text-neutral-dark mb-2">{{ $t('index.registration.free.content') }}</p>
+            <p class="text-xs text-main-color-4 font-medium mt-2">{{ $t('index.registration.free.opensNote') }}</p>
+            <p class="text-xs text-neutral-dark italic mb-2 mt-4">{{ $t('index.registration.legalNote') }}</p>
+
+        </section>
             <!-- Note légale -->
-            <p class="text-xs text-neutral-dark text-center italic px-4">{{ $t('index.registration.legalNote') }}</p>
 
             <!-- CTAs -->
+        <section id="registration-ctas" class="max-w-3xl mx-auto flex flex-col items-center justify-center space-y-4">
             <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
                 <div class="bg-off-white rounded-xl shadow px-5 py-5">
                     <p class="font-semibold text-sm mb-1">📧 {{ $t('index.registration.mailing.title') }}</p>
@@ -198,7 +195,7 @@ onUnmounted(() => clearInterval(timer))
         <!-- CARDS GRID -->
         <section class="grid grid-cols-1 sm:grid-cols-2 gap-6 max-w-3xl mx-auto">
             <!-- Call for Topics -->
-            <div class="bg-off-white rounded-xl shadow overflow-hidden p-5 ">
+            <!-- div class="bg-off-white rounded-xl shadow overflow-hidden p-5 ">
                 <div class="w-full h-30 flex flex-row">
                     <h2 class="text-lg font-bold mb-2">{{ $t('cards.callForTopics.title') }}</h2>
                 </div>
@@ -222,10 +219,10 @@ onUnmounted(() => clearInterval(timer))
                         </NuxtLinkLocale>
                     </div>
                 </div>
-            </div>
+            </div !-->
 
             <!-- Schedule preview -->
-            <div id="schedule" class="bg-primary-dark rounded-xl shadow p-5 flex flex-col">
+            <!-- div id="schedule" class="bg-primary-dark rounded-xl shadow p-5 flex flex-col">
                 <h2 class="text-lg font-bold text-white mb-3">{{ $t('cards.schedulePreview.title') }}</h2>
                 <NuxtLinkLocale
                     to="/schedule"
@@ -234,7 +231,7 @@ onUnmounted(() => clearInterval(timer))
 
                     {{ $t('cards.schedulePreview.button') }}
                 </NuxtLinkLocale>
-            </div>
+            </div !-->
 
             <!-- Call for Sponsors -->
             <div class="bg-off-white px-2 rounded-xl shadow overflow-hidden flex flex-col sm:flex-row">

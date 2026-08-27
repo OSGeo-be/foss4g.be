@@ -13,13 +13,13 @@
                         <NuxtLinkLocale to="/about" class="hover:text-teal-dark">{{ $t('nav.about') }}</NuxtLinkLocale>
                     </li>
                     <li>
-                        <NuxtLinkLocale to="/present" class="hover:text-teal-dark">{{ $t('nav.callForPresentations') }}</NuxtLinkLocale>
-                    </li>
-                    <li>
-                        <NuxtLinkLocale to="/maps" class="hover:text-teal-dark">{{ $t('nav.callForMaps') }}</NuxtLinkLocale>
+                        <NuxtLinkLocale to="/our-sponsors" class="hover:text-teal-dark">{{ $t('nav.ourSponsors') }}</NuxtLinkLocale>
                     </li>
                     <li>
                         <NuxtLinkLocale to="/become-sponsor" class="hover:text-teal-dark">{{ $t('nav.becomeSponsor') }}</NuxtLinkLocale>
+                    </li>
+                    <li>
+                        <NuxtLinkLocale to="/maps" class="hover:text-teal-dark">{{ $t('nav.callForMaps') }}</NuxtLinkLocale>
                     </li>
                     <li>
                         <NuxtLinkLocale to="/volunteer" class="hover:text-teal-dark">{{ $t('nav.volunteer') }}</NuxtLinkLocale>
