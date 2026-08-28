@@ -15,6 +15,13 @@
       "bgClass": "bg-white"
     }
   ],
-  "bronze": [],
+  "bronze": [
+    {
+      "name": "Merging Maps",
+      "link": "https://merginmaps.com/",
+      "logo": "/images/sponsors/merginmaps.png",
+      "bgClass": "bg-white"
+    }
+  ],
   "community": []
 }
