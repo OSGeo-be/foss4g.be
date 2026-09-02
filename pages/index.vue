@@ -114,6 +114,28 @@ onUnmounted(() => clearInterval(timer))
             </div>
         </section>
 
+        <!-- Become a Sponsor band -->
+        <section class="relative max-w-3xl mx-auto rounded-xl shadow overflow-hidden bg-primary-dark text-white">
+            <div class="flex flex-col sm:flex-row items-center gap-4 px-6 py-6">
+                <div class="flex-1">
+                    <h2 class="text-lg font-bold mb-1">{{ $t('cards.callForSponsors.title') }}</h2>
+                    <p class="text-sm opacity-80">{{ $t('cards.callForSponsors.description') }}</p>
+                </div>
+                <NuxtLinkLocale
+                    to="/become-sponsor"
+                    class="shrink-0 bg-white text-primary-dark font-semibold px-5 py-2.5 rounded-lg hover:bg-off-white transition text-sm"
+                >
+                    {{ $t('cards.callForSponsors.button') }}
+                </NuxtLinkLocale>
+            </div>
+            <!-- decorative map-like circles -->
+            <div class="absolute right-0 top-0 h-full w-32 sm:w-48 pointer-events-none overflow-hidden opacity-10">
+                <div class="absolute -right-6 -top-6 w-40 h-40 rounded-full border-4 border-white"></div>
+                <div class="absolute -right-2 top-8 w-24 h-24 rounded-full border-2 border-white"></div>
+                <div class="absolute right-8 -bottom-4 w-32 h-32 rounded-full border-4 border-white"></div>
+            </div>
+        </section>
+
         <!-- Inscriptions -->
         <section id="get-your-tickets" class="bg-off-white px-6 py-6 rounded-xl shadow max-w-3xl mx-auto flex flex-col items-center text-center space-y-4">
             <h2 class="text-xl font-bold">{{ $t('index.registration.title') }}</h2>
