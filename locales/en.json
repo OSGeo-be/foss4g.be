@@ -144,9 +144,17 @@
     },
     "submit": {
       "title": "How to submit?",
-      "content": "The submission form will be available here from 7 July 2026. Sign up to the mailing list to be notified when it opens.",
-      "mailingLabel": "Subscribe to the mailing list",
-      "mailingUrl": "https://lists.osgeo.org/cgi-bin/mailman/listinfo/belgium"
+      "content": "Send an e-mail to map@foss4g.be with the following information:",
+      "item1": "Title of the map",
+      "item2": "Author's name",
+      "item3": "Organization / affiliation",
+      "item4": "Additional map authors, if any",
+      "item5": "Brief description of the map — please mention the software and data used",
+      "item6": "URL to the digital map or more information, if applicable",
+      "item7": "Whether we should print it, or whether you will bring it to the conference yourself",
+      "item8": "Send it via e-mail to map@foss4g.be",
+      "emailLabel": "map@foss4g.be",
+      "emailUrl": "mailto:map@foss4g.be"
     }
   },
   "present": {
@@ -405,9 +413,9 @@
     },
     "filters": {
       "allTracks": "All Tracks",
-      "track1": "Room 1",
-      "track2": "Room 2",
-      "track3": "Room 3",
+      "track1": "Agora",
+      "track2": "Sylva",
+      "track3": "Aqua",
       "talksOnly": "Talks only"
     },
     "upcoming": {

@@ -587,22 +587,30 @@ function isTalkExpanded(time: string, track: string): boolean {
                       isCurrentTimeSlot(slot.time) && isEventDay ? 'border-2 border-primary' : 'border border-gray-200'
                     ]"
                   >
-                    <!-- Track Color Header -->
+                    <!-- Track Color Header — amber for workshops -->
                     <div
                       :class="[
-                        'h-1',
-                        `bg-${getTrackConfig(talk.track).color}`
+                        'h-1.5',
+                        talk.duration && talk.duration >= 90 ? 'bg-warning' : `bg-${getTrackConfig(talk.track).color}`
                       ]"
-                      :aria-label="`${getTrackConfig(talk.track).label} talk`"
+                      :aria-label="`${getTrackConfig(talk.track).label} ${talk.duration && talk.duration >= 90 ? 'workshop' : 'talk'}`"
                     ></div>
                     
                     <!-- Card Content -->
                     <div class="p-4">
                       <!-- Track & Time Info with Languages -->
                       <div class="flex items-center justify-between mb-3">
-                        <span class="text-xs font-medium text-gray-500 uppercase tracking-wider">
-                          {{ getTrackConfig(talk.track).label }}
-                        </span>
+                        <div class="flex items-center gap-2">
+                          <span class="text-xs font-medium text-gray-500 uppercase tracking-wider">
+                            {{ getTrackConfig(talk.track).label }}
+                          </span>
+                          <span
+                            v-if="talk.duration && talk.duration >= 90"
+                            class="text-xs font-semibold px-1.5 py-0.5 rounded bg-warning/10 text-warning-dark border border-warning/30"
+                          >
+                            Workshop
+                          </span>
+                        </div>
                         <div class="flex items-center gap-2">
                           <!-- Language Flags -->
                           <div v-if="talk.languages && talk.languages.length > 0" class="flex items-center gap-1">
@@ -669,7 +677,7 @@ function isTalkExpanded(time: string, track: string): boolean {
                         <div v-if="isTalkExpanded(slot.time, talk.track)" class="mt-4 pt-4 border-t border-gray-100">
                           <div v-if="talk.abstract" class="mb-3">
                             <h4 class="text-xs font-semibold text-gray-700 uppercase tracking-wide mb-2">{{ t('schedule.expandable.abstract') }}</h4>
-                            <p class="text-sm text-gray-600 leading-relaxed">{{ talk.abstract }}</p>
+                            <p class="text-sm text-gray-600 leading-relaxed whitespace-pre-line">{{ talk.abstract }}</p>
                           </div>
                           <div class="flex items-center gap-3">
                             <div v-if="talk.duration" class="flex items-center gap-1">
