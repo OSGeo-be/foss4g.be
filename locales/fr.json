@@ -56,8 +56,8 @@
       },
       "pretix": {
         "title": "Liste d'attente Pretix",
-        "content": "Recevez un lien personnel dÃ¨s l'ouverture officielle.",
-        "label": "Rejoindre la liste d'attente",
+        "content": "Recevez un lien personnel dès l'ouverture officielle.",
+        "label": "Obtenir mon billet",
         "url": "https://pretix.eu/osgeobe/foss4gbe/"
       }
     },

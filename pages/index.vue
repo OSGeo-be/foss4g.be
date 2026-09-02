@@ -72,56 +72,12 @@ onUnmounted(() => clearInterval(timer))
             </div>
         </section>
 
-        <!-- Inscriptions -->
-        <section id="get-your-tickets" class="bg-off-white px-6 py-6 rounded-xl shadow max-w-3xl mx-auto flex flex-col items-center">
-            <h2 class="text-xl font-bold text-center">{{ $t('index.registration.title') }}</h2>
-
-
-            <h3 class="text-lg font-bold mb-2 mx-8">🎟️ {{ $t('index.registration.free.title') }}</h3>
-            <p class="text-xs text-neutral-dark mb-2">{{ $t('index.registration.free.content') }}</p>
-            <p class="text-xs text-main-color-4 font-medium mt-2">{{ $t('index.registration.free.opensNote') }}</p>
-            <p class="text-xs text-neutral-dark italic mb-2 mt-4">{{ $t('index.registration.legalNote') }}</p>
-
-        </section>
-            <!-- Note légale -->
-
-            <!-- CTAs -->
-        <section id="registration-ctas" class="max-w-3xl mx-auto flex flex-col items-center justify-center space-y-4">
-            <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
-                <div class="bg-off-white rounded-xl shadow px-5 py-5">
-                    <p class="font-semibold text-sm mb-1">📧 {{ $t('index.registration.mailing.title') }}</p>
-                    <p class="text-xs text-neutral-dark mb-3">{{ $t('index.registration.mailing.content') }}</p>
-                    <a
-                        :href="$t('index.registration.mailing.url')"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        class="inline-block text-xs border-2 border-main-color-4 text-main-color-4 font-semibold px-4 py-1.5 rounded-lg hover:bg-main-color-4 hover:text-white transition"
-                    >
-                        {{ $t('index.registration.mailing.label') }}
-                    </a>
-                </div>
-                <div class="bg-off-white rounded-xl shadow px-5 py-5">
-                    <p class="font-semibold text-sm mb-1">🎟️ {{ $t('index.registration.pretix.title') }}</p>
-                    <p class="text-xs text-neutral-dark mb-3">{{ $t('index.registration.pretix.content') }}</p>
-                    <a
-                        :href="$t('index.registration.pretix.url')"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        class="inline-block text-xs border-2 border-main-color-2 text-main-color-2 font-semibold px-4 py-1.5 rounded-lg hover:bg-main-color-2 hover:text-white transition"
-                    >
-                        {{ $t('index.registration.pretix.label') }}
-                    </a>
-                </div>
-            </div>
-        </section>
-
         <!-- Our gold sponsors -->
         <section
             id="gold-sponsors"
             class="bg-off-white py-6 rounded-xl shadow max-w-3xl mx-auto flex flex-col items-center justify-center space-y-4"
         >
-
-           <h2 class="text-lg font-bold mb-2 mx-8">
+            <h2 class="text-lg font-bold mb-2 mx-8">
                 {{ $t('index.goldSponsors.thanksTo') }}
                 <NuxtLinkLocale to="/our-sponsors" class="underline text-main-color-2">
                     {{ $t('index.goldSponsors.goldSponsors') }}
@@ -149,7 +105,6 @@ onUnmounted(() => clearInterval(timer))
                 </a>
             </div>
 
-
             <div class="w-full">
                 <p class="text-right mx-4 text-main-color-2">
                     <NuxtLinkLocale to="/our-sponsors" class="underline">
@@ -159,37 +114,19 @@ onUnmounted(() => clearInterval(timer))
             </div>
         </section>
 
-        <!-- ABOUT -->
-        <section
-            id="about"
-            class="bg-off-white px-6 py-6 rounded-xl shadow max-w-3xl mx-auto flex flex-col items-center"
-        >
-            <h2 class="text-lg font-bold mb-3">{{ $t('index.about.title') }}</h2>
-            <p class="text-sm text-neutral-dark text-center mb-4">
-                {{ $t('index.about.teaser') }}
-            </p>
-
-            <ul class="w-full grid grid-cols-1 sm:grid-cols-3 gap-4 mb-6">
-                <li class="flex flex-col items-center space-y-2">
-                    <MdiIcon icon="mdiBullhorn" size="2.5em" class="text-main-color-2" />
-                    <span class="text-sm font-medium text-main-color-2">{{ $t('index.about.features.keynotes') }}</span>
-                </li>
-                <li class="flex flex-col items-center space-y-2">
-                    <MdiIcon icon="mdiAccountMultiple" size="2.5em" class="text-main-color-3" />
-                    <span class="text-sm font-medium text-main-color-3">{{ $t('index.about.features.networking') }}</span>
-                </li>
-                <li class="flex flex-col items-center space-y-2">
-                    <MdiIcon icon="mdiTools" size="2.5em" class="text-main-color-4" />
-                    <span class="text-sm font-medium text-main-color-4">{{ $t('index.about.features.osgeoTools') }}</span>
-                </li>
-            </ul>
-
-            <NuxtLinkLocale
-                to="/about"
-                class="flex justify-center border-2 border-primary text-primary font-semibold px-4 py-2 rounded-lg hover:bg-primary hover:text-white transition text-sm"
+        <!-- Inscriptions -->
+        <section id="get-your-tickets" class="bg-off-white px-6 py-6 rounded-xl shadow max-w-3xl mx-auto flex flex-col items-center text-center space-y-4">
+            <h2 class="text-xl font-bold">{{ $t('index.registration.title') }}</h2>
+            <p class="text-sm text-neutral-dark">{{ $t('index.registration.free.content') }}</p>
+            <a
+                :href="$t('index.registration.pretix.url')"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="inline-block bg-main-color-2 text-white font-semibold px-6 py-3 rounded-lg hover:opacity-90 transition text-sm"
             >
-                {{ $t('index.about.learnMore') }}
-            </NuxtLinkLocale>
+                🎟️ {{ $t('index.registration.pretix.label') }}
+            </a>
+            <p class="text-xs text-neutral-dark italic">{{ $t('index.registration.legalNote') }}</p>
         </section>
 
         <!-- CARDS GRID -->
@@ -233,8 +170,8 @@ onUnmounted(() => clearInterval(timer))
                 </NuxtLinkLocale>
             </div !-->
 
-            <!-- Call for Sponsors -->
-            <div class="bg-off-white px-2 rounded-xl shadow overflow-hidden flex flex-col sm:flex-row">
+            <!-- Call for Sponsors — hidden, sponsoring closed -->
+            <!-- div class="bg-off-white px-2 rounded-xl shadow overflow-hidden flex flex-col sm:flex-row">
                 <div class="p-5 flex flex-col justify-center flex-1">
                     <h2 class="text-lg font-bold mb-2">{{ $t('cards.callForSponsors.title') }}</h2>
                     <p class="text-sm text-neutral-dark mb-4">{{ $t('cards.callForSponsors.description') }}</p>
@@ -252,7 +189,7 @@ onUnmounted(() => clearInterval(timer))
                         class="w-full h-full object-contain p-4"
                     />
                 </div>
-            </div>
+            </div -->
 
             <!-- Volunteers -->
             <div class="bg-off-white px-2 rounded-xl shadow overflow-hidden flex flex-col sm:flex-row">
@@ -301,6 +238,39 @@ onUnmounted(() => clearInterval(timer))
                     <MdiIcon icon="mdiMap" size="5em" class="text-main-color-1 opacity-60" />
                 </div>
             </div>
+        </section>
+
+        <!-- ABOUT -->
+        <section
+            id="about"
+            class="bg-off-white px-6 py-6 rounded-xl shadow max-w-3xl mx-auto flex flex-col items-center"
+        >
+            <h2 class="text-lg font-bold mb-3">{{ $t('index.about.title') }}</h2>
+            <p class="text-sm text-neutral-dark text-center mb-4">
+                {{ $t('index.about.teaser') }}
+            </p>
+
+            <ul class="w-full grid grid-cols-1 sm:grid-cols-3 gap-4 mb-6">
+                <li class="flex flex-col items-center space-y-2">
+                    <MdiIcon icon="mdiBullhorn" size="2.5em" class="text-main-color-2" />
+                    <span class="text-sm font-medium text-main-color-2">{{ $t('index.about.features.keynotes') }}</span>
+                </li>
+                <li class="flex flex-col items-center space-y-2">
+                    <MdiIcon icon="mdiAccountMultiple" size="2.5em" class="text-main-color-3" />
+                    <span class="text-sm font-medium text-main-color-3">{{ $t('index.about.features.networking') }}</span>
+                </li>
+                <li class="flex flex-col items-center space-y-2">
+                    <MdiIcon icon="mdiTools" size="2.5em" class="text-main-color-4" />
+                    <span class="text-sm font-medium text-main-color-4">{{ $t('index.about.features.osgeoTools') }}</span>
+                </li>
+            </ul>
+
+            <NuxtLinkLocale
+                to="/about"
+                class="flex justify-center border-2 border-primary text-primary font-semibold px-4 py-2 rounded-lg hover:bg-primary hover:text-white transition text-sm"
+            >
+                {{ $t('index.about.learnMore') }}
+            </NuxtLinkLocale>
         </section>
 
         <!-- Countdown -->

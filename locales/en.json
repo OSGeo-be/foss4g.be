@@ -57,7 +57,7 @@
       "pretix": {
         "title": "Pretix waiting list",
         "content": "Receive a personal link as soon as registrations officially open.",
-        "label": "Join the waiting list",
+        "label": "Get your ticket",
         "url": "https://pretix.eu/osgeobe/foss4gbe/"
       }
     },
