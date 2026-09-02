@@ -144,9 +144,17 @@
     },
     "submit": {
       "title": "Hoe indienen?",
-      "content": "Het inzendingsformulier is beschikbaar vanaf 27 juni 2026. Schrijf u in op de mailinglijst om een melding te ontvangen.",
-      "mailingLabel": "Inschrijven op de mailinglijst",
-      "mailingUrl": "https://lists.osgeo.org/cgi-bin/mailman/listinfo/belgium"
+      "content": "Stuur een e-mail naar map@foss4g.be met de volgende informatie:",
+      "item1": "Titel van de kaart",
+      "item2": "Naam van de auteur",
+      "item3": "Organisatie / affiliatie",
+      "item4": "Eventuele co-auteurs",
+      "item5": "Korte beschrijving van de kaart — vermeld de gebruikte software en gegevens",
+      "item6": "URL naar de digitale kaart of meer informatie, indien beschikbaar",
+      "item7": "Of wij het moeten afdrukken of dat u het zelf meebrengt naar de conferentie",
+      "item8": "Stuur alles per e-mail naar map@foss4g.be",
+      "emailLabel": "map@foss4g.be",
+      "emailUrl": "mailto:map@foss4g.be"
     }
   },
   "present": {
