@@ -144,17 +144,14 @@
     },
     "submit": {
       "title": "Hoe indienen?",
-      "content": "Stuur een e-mail naar map@foss4g.be met de volgende informatie:",
+      "content": "Stuur een e-mail naar het onderstaande adres met de volgende informatie:",
       "item1": "Titel van de kaart",
       "item2": "Naam van de auteur",
       "item3": "Organisatie / affiliatie",
       "item4": "Eventuele co-auteurs",
       "item5": "Korte beschrijving van de kaart — vermeld de gebruikte software en gegevens",
       "item6": "URL naar de digitale kaart of meer informatie, indien beschikbaar",
-      "item7": "Of wij het moeten afdrukken of dat u het zelf meebrengt naar de conferentie",
-      "item8": "Stuur alles per e-mail naar map@foss4g.be",
-      "emailLabel": "map@foss4g.be",
-      "emailUrl": "mailto:map@foss4g.be"
+      "item7": "Of wij het moeten afdrukken of dat u het zelf meebrengt naar de conferentie"
     }
   },
   "present": {

@@ -36,11 +36,11 @@
                     </li>
                 </ol>
                 <a
-                    :href="$t('maps.submit.emailUrl')"
+                    href="mailto:map@foss4g.be"
                     class="inline-flex items-center gap-2 bg-main-color-4 text-white font-semibold px-5 py-2.5 rounded-lg hover:opacity-90 transition text-sm"
                 >
                     <MdiIcon icon="mdiEmailOutline" size="1.1em" />
-                    {{ $t('maps.submit.emailLabel') }}
+                    map@foss4g.be
                 </a>
             </div>
 
