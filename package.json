@@ -15,7 +15,7 @@
   "dependencies": {
     "@intlify/core-base": "^11.4.9",
     "@nuxtjs/google-fonts": "^3.2.0",
-    "@vueuse/core": "^14.3.0",
+    "@vueuse/core": "^14.4.0",
     "class-variance-authority": "^0.7.1",
     "google-libphonenumber": "^3.2.46",
     "graphql": "^16.12.0",
