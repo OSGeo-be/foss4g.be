@@ -19,6 +19,12 @@
       "link": "https://merginmaps.com/",
       "logo": "/images/sponsors/merginmaps.png",
       "bgClass": "bg-white"
+    },
+    {
+      "name": "Blue Square Hub",
+      "link": "https://www.bluesquarehub.com/",
+      "logo": "/images/sponsors/bluesquare-logo.svg",
+      "bgClass": "bg-white"
     }
   ],
   "bronze": [],
