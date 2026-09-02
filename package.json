@@ -20,7 +20,7 @@
     "google-libphonenumber": "^3.2.46",
     "graphql": "^16.12.0",
     "graphql-tag": "^2.12.7",
-    "graphql-ws": "^6.0.8",
+    "graphql-ws": "^6.2.1",
     "nuxt": "^4.4.8",
     "nuxt-mdi": "^2.1.2"
   },
