@@ -13,15 +13,14 @@
       "link": "https://atelier-cartographique.be/",
       "logo": "/images/sponsors/ateliercartographique-logo.svg",
       "bgClass": "bg-white"
-    }
-  ],
-  "bronze": [
+    },
     {
-      "name": "Merging Maps",
+      "name": "Mergin Maps",
       "link": "https://merginmaps.com/",
       "logo": "/images/sponsors/merginmaps.png",
       "bgClass": "bg-white"
     }
   ],
+  "bronze": [],
   "community": []
 }
