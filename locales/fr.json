@@ -1,4 +1,4 @@
-{
+﻿{
   "head": {
     "title": "FOSS4G Belgique 2026",
     "subtitle": "Bruxelles, 15 octobre 2026"
@@ -57,7 +57,7 @@
       "pretix": {
         "title": "Liste d'attente Pretix",
         "content": "Recevez un lien personnel dès l'ouverture officielle.",
-        "label": "Rejoindre la liste d'attente",
+        "label": "Obtenir mon billet",
         "url": "https://pretix.eu/osgeobe/foss4gbe/"
       }
     },

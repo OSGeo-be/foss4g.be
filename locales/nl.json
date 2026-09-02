@@ -1,4 +1,4 @@
-{
+﻿{
   "head": {
     "title": "FOSS4G Belgïe 2026",
     "subtitle": "Brussel, 15 oktober 2026"
@@ -57,7 +57,7 @@
       "pretix": {
         "title": "Pretix wachtlijst",
         "content": "Ontvang een persoonlijke link zodra de inschrijvingen officieel openen.",
-        "label": "Deelnemen aan de wachtlijst",
+        "label": "Registreer je",
         "url": "https://pretix.eu/osgeobe/foss4gbe/"
       }
     },

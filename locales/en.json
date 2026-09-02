@@ -1,4 +1,4 @@
-{
+﻿{
   "head": {
     "title": "FOSS4G Belgium 2026",
     "subtitle": "Brussels, 15 October 2026"
@@ -35,7 +35,7 @@
     },
     "getYourTickets": "Registration coming soon",
     "registration": {
-      "title": "Free entry — registration required",
+      "title": "Free entry â€” registration required",
       "free": {
         "title": "Free participation",
         "content": "The conference is entirely free. Registration is however required for logistical reasons (capacity, catering, badges).",
@@ -43,7 +43,7 @@
       },
       "attestation": {
         "title": "Training certificate",
-        "content": "Need an attendance certificate? This is possible through an organisational sponsoring mechanism (€100).",
+        "content": "Need an attendance certificate? This is possible through an organisational sponsoring mechanism (â‚¬100).",
         "contact": "Contact board@osgeo.be",
         "contactUrl": "mailto:board@osgeo.be"
       },
@@ -57,7 +57,7 @@
       "pretix": {
         "title": "Pretix waiting list",
         "content": "Receive a personal link as soon as registrations officially open.",
-        "label": "Join the waiting list",
+        "label": "Get your ticket",
         "url": "https://pretix.eu/osgeobe/foss4gbe/"
       }
     },
@@ -94,7 +94,7 @@
       "title": "Our Channels",
       "mailingLabel": "Main discussion",
       "chatLabel": "Real-time chat",
-      "matrixNote": "New to Matrix? Create a free account in 2 min — the room opens directly in your browser, no install needed."
+      "matrixNote": "New to Matrix? Create a free account in 2 min â€” the room opens directly in your browser, no install needed."
     },
     "resources": {
       "title": "Web Resources"
@@ -107,7 +107,7 @@
     }
   },
   "maps": {
-    "title": "Call for Maps — Map Gallery",
+    "title": "Call for Maps â€” Map Gallery",
     "content": "The Maps Competition has been a highlight of FOSS4G Belgium since 2022. Submit your map made with open source tools and see it displayed at the conference.",
     "tradition": {
       "title": "A FOSS4G Belgium Tradition",
@@ -115,9 +115,9 @@
     },
     "criteria": {
       "title": "Submission Criteria",
-      "software": "Map made entirely with open source software (QGIS, GRASS, R, Python/Matplotlib, D3.js, MapLibre, Inkscape…)",
+      "software": "Map made entirely with open source software (QGIS, GRASS, R, Python/Matplotlib, D3.js, MapLibre, Inkscapeâ€¦)",
       "resolution": "High-resolution file: PNG or PDF, minimum 300 dpi, A2 or A1 format",
-      "theme": "Any theme accepted: urban, environment, history, transport, art, open data…",
+      "theme": "Any theme accepted: urban, environment, history, transport, art, open dataâ€¦",
       "legend": "A legend and a title are required",
       "description": "A short description (max 150 words) stating the tools used"
     },
@@ -229,7 +229,7 @@
     }
   },
   "volunteer": {
-    "title": "Call for Volunteers — FOSS4G Belgium 2026",
+    "title": "Call for Volunteers â€” FOSS4G Belgium 2026",
     "content": "FOSS4G Belgium runs on community energy. Join the volunteer team and help make 15 October 2026 happen at Tour & Taxis, Brussels.",
     "contactUs": "Contact Us",
     "perks": {
@@ -276,17 +276,17 @@
       "opensDate": "7 July 2026",
       "opensLabel": "Online volunteer registrations open",
       "meetup1Date": "4 June 2026",
-      "meetup1Label": "In-person meetup — Cercle des Voyageurs, Brussels (from 6 pm)",
+      "meetup1Label": "In-person meetup â€” Cercle des Voyageurs, Brussels (from 6 pm)",
       "meetup2Date": "3 September 2026",
-      "meetup2Label": "In-person meetup — Cercle des Voyageurs, Brussels (from 6 pm)",
+      "meetup2Label": "In-person meetup â€” Cercle des Voyageurs, Brussels (from 6 pm)",
       "briefingDate": "10 October 2026",
       "briefingLabel": "Online briefing",
       "eventDate": "15 October 2026",
-      "eventLabel": "Volunteer day — Tour & Taxis, Brussels"
+      "eventLabel": "Volunteer day â€” Tour & Taxis, Brussels"
     },
     "apply": {
       "title": "Get involved now",
-      "content": "No deadline — join the mailing list or the OSGeo Belgium Matrix channel to follow requests in real time and express your interest.",
+      "content": "No deadline â€” join the mailing list or the OSGeo Belgium Matrix channel to follow requests in real time and express your interest.",
       "matrixLabel": "Join Matrix #osgeo-be",
       "matrixUrl": "https://matrix.to/#/#osgeo-be:matrix.org"
     }
@@ -343,7 +343,7 @@
       "coSponsorLunch": "(Co-)sponsor of the lunch in your name",
       "booth": "Exhibition booth",
       "dedicatedPost": "Dedicated social media post",
-      "miniPresentation": "Optional mini-talk (2–3 min): your open source commitment in Belgium",
+      "miniPresentation": "Optional mini-talk (2â€“3 min): your open source commitment in Belgium",
       "tshirtGift": "OSGeo Belgium t-shirt as a gift",
       "stickersGift": "FOSS4G 2026 stickers as a gift",
       "logoOnFoss4g": "Logo on foss4g.be",
@@ -357,22 +357,22 @@
     "tiers": {
       "gold": {
         "title": "Gold",
-        "price": "€1,200",
+        "price": "â‚¬1,200",
         "cta": "Become a Gold Sponsor"
       },
       "silver": {
         "title": "Silver",
-        "price": "€500",
+        "price": "â‚¬500",
         "cta": "Become a Silver Sponsor"
       },
       "bronze": {
         "title": "Bronze",
-        "price": "€250",
+        "price": "â‚¬250",
         "cta": "Become a Bronze Sponsor"
       },
       "community": {
         "title": "Community",
-        "price": "€100",
+        "price": "â‚¬100",
         "description": "Ideal for surveyors, independent consultants and companies wishing to support the event via their training budget.",
         "cta": "Register as a Community Sponsor"
       }
@@ -393,7 +393,7 @@
   },
   "schedule": {
     "title": "Program",
-    "subtitle": "15 October 2026 • Brussels, Belgium",
+    "subtitle": "15 October 2026 â€¢ Brussels, Belgium",
     "stats": {
       "presentations": "Presentations",
       "speakers": "Speakers",
