@@ -377,8 +377,9 @@
       "community": {
         "title": "Community",
         "price": "€100",
-        "description": "Ideal for surveyors, independent consultants and companies wishing to support the event via their training budget.",
-        "cta": "Register as a Community Sponsor"
+        "description": "FOSS4G Belgium includes both presentations and practical workshops. If you or your company would like to support the event and count it as a training expense, we can issue an official invoice.",
+        "cta": "Contact us",
+        "mailSubject": "Community support request — FOSS4G Belgium 2026"
       }
     },
     "coc": {

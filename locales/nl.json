@@ -377,8 +377,9 @@
       "community": {
         "title": "Community",
         "price": "€100",
-        "description": "Ideaal voor landmeters, zelfstandige consultants en bedrijven die het evenement via hun opleidingsbudget willen ondersteunen.",
-        "cta": "Inschrijven als Community Sponsor"
+        "description": "FOSS4G Belgium omvat zowel presentaties als praktische workshops. Als u het evenement wilt steunen en dit als opleidingskosten wilt laten gelden, kunnen wij een officiële factuur opmaken.",
+        "cta": "Neem contact op",
+        "mailSubject": "Community-steunverzoek — FOSS4G Belgium 2026"
       }
     },
     "coc": {

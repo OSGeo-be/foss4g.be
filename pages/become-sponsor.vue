@@ -234,15 +234,14 @@ const bronzeSponsors: Sponsor[] = sponsorsData.bronze
                     <p class="text-xs text-neutral-dark italic mb-4">{{ $t('sponsors.tiers.community.description') }}</p>
                     <ul class="list-disc list-inside text-sm space-y-1 mb-4">
                         <li>{{ $t('sponsors.features.officialInvoice') }}</li>
-                        <li>{{ $t('sponsors.features.logoOnSponsorsPage') }}</li>
                     </ul>
                 </div>
-                <NuxtLinkLocale
-                    to="/contact?sponsor=community"
+                <a
+                    :href="`mailto:board@osgeo.be?subject=${encodeURIComponent($t('sponsors.tiers.community.mailSubject'))}`"
                     class="shrink-0 self-center border-2 border-primary text-primary hover:bg-primary hover:text-off-white font-semibold px-6 py-2 rounded-lg transition text-sm"
                 >
                     {{ $t('sponsors.tiers.community.cta') }}
-                </NuxtLinkLocale>
+                </a>
             </section>
         </main>
     </div>
