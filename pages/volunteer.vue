@@ -8,9 +8,6 @@
                     <h1 class="text-xl font-bold mb-2">{{ $t('volunteer.title') }}</h1>
                     <p class="text-sm text-neutral-dark mb-3">{{ $t('volunteer.content') }}</p>
                     <div class="flex flex-wrap gap-3 text-xs">
-                        <span class="bg-main-color-4/10 text-main-color-4 font-semibold px-3 py-1 rounded-full">
-                            {{ $t('volunteer.timeline.opensLabel') }} {{ $t('volunteer.timeline.opensDate') }}
-                        </span>
                         <span class="bg-main-color-2/10 text-main-color-2 font-semibold px-3 py-1 rounded-full">
                             {{ $t('volunteer.timeline.eventDate') }}
                         </span>
@@ -66,15 +63,24 @@
             <div class="bg-off-white px-6 py-6 rounded-xl shadow">
                 <h2 class="text-lg font-bold mb-2">{{ $t('volunteer.apply.title') }}</h2>
                 <p class="text-sm text-neutral-dark mb-4">{{ $t('volunteer.apply.content') }}</p>
-                <a
-                    :href="$t('volunteer.apply.matrixUrl')"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    class="inline-flex items-center gap-2 border-2 border-main-color-4 text-main-color-4 font-semibold px-4 py-2 rounded-lg hover:bg-main-color-4 hover:text-white transition text-sm"
-                >
-                    <MdiIcon icon="mdiMatrix" size="1.1em" />
-                    {{ $t('volunteer.apply.matrixLabel') }}
-                </a>
+                <div class="flex flex-col sm:flex-row gap-3">
+                    <a
+                        href="mailto:info@foss4g.be"
+                        class="inline-flex items-center gap-2 bg-main-color-4 text-white font-semibold px-4 py-2 rounded-lg hover:opacity-90 transition text-sm"
+                    >
+                        <MdiIcon icon="mdiEmailOutline" size="1.1em" />
+                        info@foss4g.be
+                    </a>
+                    <a
+                        href="https://pretix.eu/osgeobe/foss4gbe/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        class="inline-flex items-center gap-2 border-2 border-main-color-2 text-main-color-2 font-semibold px-4 py-2 rounded-lg hover:bg-main-color-2 hover:text-white transition text-sm"
+                    >
+                        <MdiIcon icon="mdiTicketOutline" size="1.1em" />
+                        {{ $t('volunteer.apply.pretixLabel') }}
+                    </a>
+                </div>
             </div>
 
         </section>
@@ -134,7 +140,6 @@ const roles = [
 ]
 
 const timeline = [
-    { dateKey: 'volunteer.timeline.opensDate',    labelKey: 'volunteer.timeline.opensLabel',    inPerson: false },
     { dateKey: 'volunteer.timeline.meetup1Date',  labelKey: 'volunteer.timeline.meetup1Label',  inPerson: true  },
     { dateKey: 'volunteer.timeline.meetup2Date',  labelKey: 'volunteer.timeline.meetup2Label',  inPerson: true  },
     { dateKey: 'volunteer.timeline.briefingDate', labelKey: 'volunteer.timeline.briefingLabel', inPerson: false },
