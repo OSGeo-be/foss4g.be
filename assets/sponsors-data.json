@@ -19,6 +19,12 @@
       "link": "https://merginmaps.com/",
       "logo": "/images/sponsors/merginmaps.png",
       "bgClass": "bg-white"
+    },
+    {
+      "name": "Champs-Libres",
+      "link": "https://www.champs-libres.coop",
+      "logo": "/images/sponsors/champslibres-logo.svg",
+      "bgClass": "bg-white"
     }
   ],
   "bronze": [],
