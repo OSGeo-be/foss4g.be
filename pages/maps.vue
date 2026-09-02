@@ -8,9 +8,6 @@
                     <h1 class="text-xl font-bold mb-2">{{ $t('maps.title') }}</h1>
                     <p class="text-sm text-neutral-dark mb-3">{{ $t('maps.content') }}</p>
                     <div class="flex flex-wrap gap-3 text-xs">
-                        <span class="bg-main-color-4/10 text-main-color-4 font-semibold px-3 py-1 rounded-full">
-                            {{ $t('maps.timeline.opensLabel') }} {{ $t('maps.timeline.opensDate') }}
-                        </span>
                         <span class="bg-orange-100 text-orange-600 font-semibold px-3 py-1 rounded-full">
                             {{ $t('maps.timeline.intentLabel') }} {{ $t('maps.timeline.intentDate') }}
                         </span>
@@ -26,6 +23,25 @@
             <div class="bg-off-white px-6 py-6 rounded-xl shadow sm:col-span-2">
                 <h2 class="text-lg font-bold mb-2">{{ $t('maps.tradition.title') }}</h2>
                 <p class="text-sm text-neutral-dark">{{ $t('maps.tradition.content') }}</p>
+            </div>
+
+            <!-- How to submit -->
+            <div class="bg-off-white px-6 py-6 rounded-xl shadow sm:col-span-2">
+                <h2 class="text-lg font-bold mb-2">{{ $t('maps.submit.title') }}</h2>
+                <p class="text-sm text-neutral-dark mb-4">{{ $t('maps.submit.content') }}</p>
+                <ol class="space-y-2 mb-6 list-none">
+                    <li v-for="n in 7" :key="n" class="flex items-start gap-3 text-sm text-neutral-dark">
+                        <span class="shrink-0 w-6 h-6 rounded-full bg-main-color-4/10 text-main-color-4 font-bold flex items-center justify-center text-xs">{{ n }}</span>
+                        <span>{{ $t(`maps.submit.item${n}`) }}</span>
+                    </li>
+                </ol>
+                <a
+                    :href="$t('maps.submit.emailUrl')"
+                    class="inline-flex items-center gap-2 bg-main-color-4 text-white font-semibold px-5 py-2.5 rounded-lg hover:opacity-90 transition text-sm"
+                >
+                    <MdiIcon icon="mdiEmailOutline" size="1.1em" />
+                    {{ $t('maps.submit.emailLabel') }}
+                </a>
             </div>
 
             <!-- Criteria -->
@@ -69,21 +85,6 @@
                         </li>
                     </ol>
                 </div>
-            </div>
-
-            <!-- How to submit -->
-            <div class="bg-off-white px-6 py-6 rounded-xl shadow sm:col-span-2">
-                <h2 class="text-lg font-bold mb-2">{{ $t('maps.submit.title') }}</h2>
-                <p class="text-sm text-neutral-dark mb-4">{{ $t('maps.submit.content') }}</p>
-                <a
-                    :href="$t('maps.submit.mailingUrl')"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    class="inline-flex items-center gap-2 border-2 border-main-color-4 text-main-color-4 font-semibold px-4 py-2 rounded-lg hover:bg-main-color-4 hover:text-white transition text-sm"
-                >
-                    <MdiIcon icon="mdiEmailOutline" size="1.1em" />
-                    {{ $t('maps.submit.mailingLabel') }}
-                </a>
             </div>
 
         </section>

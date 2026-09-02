@@ -144,9 +144,17 @@
     },
     "submit": {
       "title": "Comment soumettre ?",
-      "content": "Le formulaire de soumission sera disponible ici dès le 7 juillet 2026. Inscrivez-vous à la mailing list pour être notifié(e) à l'ouverture.",
-      "mailingLabel": "S'inscrire à la mailing list",
-      "mailingUrl": "https://lists.osgeo.org/cgi-bin/mailman/listinfo/belgium"
+      "content": "Envoyez un e-mail à map@foss4g.be avec les informations suivantes :",
+      "item1": "Titre de la carte",
+      "item2": "Nom de l'auteur·e",
+      "item3": "Organisation / affiliation",
+      "item4": "Co-auteur·e·s éventuel·le·s",
+      "item5": "Brève description de la carte — mentionnez le logiciel et les données utilisés",
+      "item6": "URL vers la carte numérique ou informations complémentaires, si disponible",
+      "item7": "Si nous devons l'imprimer ou si vous l'apportez vous-même à la conférence",
+      "item8": "Envoyez le tout par e-mail à map@foss4g.be",
+      "emailLabel": "map@foss4g.be",
+      "emailUrl": "mailto:map@foss4g.be"
     }
   },
   "present": {
