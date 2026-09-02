@@ -1,6 +1,6 @@
-{
+﻿{
   "head": {
-    "title": "FOSS4G Belgïe 2026",
+    "title": "FOSS4G BelgÃ¯e 2026",
     "subtitle": "Brussel, 15 oktober 2026"
   },
   "nav": {
@@ -35,7 +35,7 @@
     },
     "getYourTickets": "Inschrijvingen binnenkort beschikbaar",
     "registration": {
-      "title": "Vrije toegang — inschrijving verplicht",
+      "title": "Vrije toegang â€” inschrijving verplicht",
       "free": {
         "title": "Gratis deelname",
         "content": "De conferentie is volledig gratis. Een voorafgaande inschrijving is echter vereist om logistieke redenen (capaciteit, catering, badges).",
@@ -43,11 +43,11 @@
       },
       "attestation": {
         "title": "Opleidingsattest",
-        "content": "Heeft u een aanwezigheidsattest nodig? Dat kan via een organisatorisch sponsormechanisme (€100).",
+        "content": "Heeft u een aanwezigheidsattest nodig? Dat kan via een organisatorisch sponsormechanisme (â‚¬100).",
         "contact": "Contact board@osgeo.be",
         "contactUrl": "mailto:board@osgeo.be"
       },
-      "legalNote": "Conform de voorwaarden van de locatie wordt geen toegangsprijs aangerekend. Alle financiële steun verloopt uitsluitend via organisatorische sponsoring.",
+      "legalNote": "Conform de voorwaarden van de locatie wordt geen toegangsprijs aangerekend. Alle financiÃ«le steun verloopt uitsluitend via organisatorische sponsoring.",
       "mailing": {
         "title": "Mailinglijst",
         "content": "Word per e-mail verwittigd zodra de inschrijvingen openen.",
@@ -57,7 +57,7 @@
       "pretix": {
         "title": "Pretix wachtlijst",
         "content": "Ontvang een persoonlijke link zodra de inschrijvingen officieel openen.",
-        "label": "Deelnemen aan de wachtlijst",
+        "label": "Registreer je",
         "url": "https://pretix.eu/osgeobe/foss4gbe/"
       }
     },
@@ -70,7 +70,7 @@
     },
     "mission": {
       "title": "Onze Missie",
-      "content": "OSGeo is een non-profitorganisatie die zich richt op het ondersteunen van de ontwikkeling van open-source geospatiale software en het bevorderen van het gebruik ervan. De stichting biedt financiële, organisatorische en juridische ondersteuning aan de bredere open-source geospatiale gemeenschap."
+      "content": "OSGeo is een non-profitorganisatie die zich richt op het ondersteunen van de ontwikkeling van open-source geospatiale software en het bevorderen van het gebruik ervan. De stichting biedt financiÃ«le, organisatorische en juridische ondersteuning aan de bredere open-source geospatiale gemeenschap."
     },
     "support": {
       "title": "Support",
@@ -78,7 +78,7 @@
     },
     "events": {
       "title": "FOSS4G Belgium Evenementen",
-      "content": "Een van de belangrijkste activiteiten van OSGeo Belgium is het organiseren van evenementen die de open-source geospatiale gemeenschap in België samenbrengen. Ons belangrijkste evenement is FOSS4G Belgium."
+      "content": "Een van de belangrijkste activiteiten van OSGeo Belgium is het organiseren van evenementen die de open-source geospatiale gemeenschap in BelgiÃ« samenbrengen. Ons belangrijkste evenement is FOSS4G Belgium."
     },
     "projects": {
       "title": "Open Source Projecten",
@@ -94,7 +94,7 @@
       "title": "Onze Kanalen",
       "mailingLabel": "Hoofddiscussie",
       "chatLabel": "Realtime chat",
-      "matrixNote": "Nieuw bij Matrix? Maak in 2 min een gratis account aan — de ruimte opent rechtstreeks in uw browser, zonder installatie."
+      "matrixNote": "Nieuw bij Matrix? Maak in 2 min een gratis account aan â€” de ruimte opent rechtstreeks in uw browser, zonder installatie."
     },
     "resources": {
       "title": "Webbronnen"
@@ -107,24 +107,24 @@
     }
   },
   "maps": {
-    "title": "Call for Maps — Kaartengalerij",
+    "title": "Call for Maps â€” Kaartengalerij",
     "content": "De Maps Competition is een vaste waarde van FOSS4G Belgium sinds 2022. Stuur uw kaart gemaakt met open source tools en zie hem tentoongesteld op de conferentie.",
     "tradition": {
       "title": "Een FOSS4G Belgium traditie",
       "content": "Sinds 2022 dienen deelnemers kaarten in gemaakt met open source software. De beste inzendingen worden geselecteerd, in groot formaat afgedrukt en de hele conferentiedag tentoongesteld."
     },
     "criteria": {
-      "title": "Inzendings­criteria",
-      "software": "Kaart volledig gemaakt met open source software (QGIS, GRASS, R, Python/Matplotlib, D3.js, MapLibre, Inkscape…)",
+      "title": "InzendingsÂ­criteria",
+      "software": "Kaart volledig gemaakt met open source software (QGIS, GRASS, R, Python/Matplotlib, D3.js, MapLibre, Inkscapeâ€¦)",
       "resolution": "Hoge-resolutiebestand: PNG of PDF, minimaal 300 dpi, formaat A2 of A1",
-      "theme": "Elk thema toegestaan: stedelijk, milieu, geschiedenis, transport, kunst, open data…",
+      "theme": "Elk thema toegestaan: stedelijk, milieu, geschiedenis, transport, kunst, open dataâ€¦",
       "legend": "Een legende en een titel zijn verplicht",
       "description": "Een korte beschrijving (max. 150 woorden) met vermelding van de gebruikte tools"
     },
-    "intentNote": "Meld uw intentie vóór 15 september zodat wij de nodige ruimte in de galerij kunnen reserveren.",
+    "intentNote": "Meld uw intentie vÃ³Ã³r 15 september zodat wij de nodige ruimte in de galerij kunnen reserveren.",
     "selection": {
       "title": "Selectie en tentoonstelling",
-      "committee": "Selectie door het organisatiecomité begin oktober",
+      "committee": "Selectie door het organisatiecomitÃ© begin oktober",
       "print": "Geselecteerde kaarten afgedrukt in groot formaat",
       "display": "Tentoonstelling de hele dag op 15 oktober",
       "credit": "Auteurs vermeld op de kaarten en in het programma"
@@ -138,21 +138,29 @@
       "closesDate": "8 oktober 2026",
       "closesLabel": "Deadline inzending",
       "selectionDate": "Half oktober 2026",
-      "selectionLabel": "Selectie door het comité",
+      "selectionLabel": "Selectie door het comitÃ©",
       "eventDate": "15 oktober 2026",
       "eventLabel": "Tentoonstelling in Tour & Taxis, Brussel"
     },
     "submit": {
       "title": "Hoe indienen?",
-      "content": "Het inzendingsformulier is beschikbaar vanaf 27 juni 2026. Schrijf u in op de mailinglijst om een melding te ontvangen.",
-      "mailingLabel": "Inschrijven op de mailinglijst",
-      "mailingUrl": "https://lists.osgeo.org/cgi-bin/mailman/listinfo/belgium"
+      "content": "Stuur een e-mail naar map@foss4g.be met de volgende informatie:",
+      "item1": "Titel van de kaart",
+      "item2": "Naam van de auteur",
+      "item3": "Organisatie / affiliatie",
+      "item4": "Eventuele co-auteurs",
+      "item5": "Korte beschrijving van de kaart — vermeld de gebruikte software en gegevens",
+      "item6": "URL naar de digitale kaart of meer informatie, indien beschikbaar",
+      "item7": "Of wij het moeten afdrukken of dat u het zelf meebrengt naar de conferentie",
+      "item8": "Stuur alles per e-mail naar map@foss4g.be",
+      "emailLabel": "map@foss4g.be",
+      "emailUrl": "mailto:map@foss4g.be"
     }
   },
   "present": {
     "callToPresentations": {
       "title": "Oproep voor voorstellen",
-      "teaser": "Help ons om van de editie van 2026 een succes te maken! FOSS4G België vindt plaats op 15 oktober 2026.",
+      "teaser": "Help ons om van de editie van 2026 een succes te maken! FOSS4G BelgiÃ« vindt plaats op 15 oktober 2026.",
       "opensLabel": "Opening:",
       "opensDate": "7 juli 2026",
       "closesLabel": "Deadline:",
@@ -204,7 +212,7 @@
       "quality": "Kwaliteit van de ingestuurde voorstellen",
       "relevance": "Relevantie voor het publiek",
       "program": "Plaats binnen het programma",
-      "note": "De keuze van het programmacomité is finaal en bindend. De beslissingen van het programmacomité reflecteren niet de mening van de werkgevers van de leden."
+      "note": "De keuze van het programmacomitÃ© is finaal en bindend. De beslissingen van het programmacomitÃ© reflecteren niet de mening van de werkgevers van de leden."
     },
     "timeline": {
       "title": "Kalender",
@@ -221,7 +229,7 @@
     },
     "deadline": {
       "title": "Deadline",
-      "text": "De deadline voor het insturen van voorstellen is 10 augustus 2026, maar we nodigen sprekers uit om hun voorstellen zo snel mogelijk in te sturen. Voorstellen zullen geëvalueerd worden door het programmacomité en de auteurs zullen bericht krijgen of hun bijdrage aanvaard werd. Alle aanvaarde voorstellen zullen op de website geplaatst worden."
+      "text": "De deadline voor het insturen van voorstellen is 10 augustus 2026, maar we nodigen sprekers uit om hun voorstellen zo snel mogelijk in te sturen. Voorstellen zullen geÃ«valueerd worden door het programmacomitÃ© en de auteurs zullen bericht krijgen of hun bijdrage aanvaard werd. Alle aanvaarde voorstellen zullen op de website geplaatst worden."
     },
     "questions": {
       "title": "Vragen?",
@@ -229,7 +237,7 @@
     }
   },
   "volunteer": {
-    "title": "Oproep voor Vrijwilligers — FOSS4G Belgium 2026",
+    "title": "Oproep voor Vrijwilligers â€” FOSS4G Belgium 2026",
     "content": "FOSS4G Belgium draait op de energie van de gemeenschap. Sluit u aan bij het vrijwilligersteam en help 15 oktober 2026 te realiseren op Tour & Taxis, Brussel.",
     "contactUs": "Neem Contact Op",
     "perks": {
@@ -266,7 +274,7 @@
         "desc": "Opstelling en bewaking van de kaartengalerij"
       },
       "coordination": {
-        "title": "Algemene Coördinatie",
+        "title": "Algemene CoÃ¶rdinatie",
         "spots": "1 tot 2 vrijwilligers",
         "desc": "Ondersteuning van het organisatieteam en probleemoplossing"
       }
@@ -276,17 +284,17 @@
       "opensDate": "7 juli 2026",
       "opensLabel": "Online vrijwilligersinschrijvingen open",
       "meetup1Date": "4 juni 2026",
-      "meetup1Label": "Ontmoeting ter plaatse — Cercle des Voyageurs, Brussel (vanaf 18u)",
+      "meetup1Label": "Ontmoeting ter plaatse â€” Cercle des Voyageurs, Brussel (vanaf 18u)",
       "meetup2Date": "3 september 2026",
-      "meetup2Label": "Ontmoeting ter plaatse — Cercle des Voyageurs, Brussel (vanaf 18u)",
+      "meetup2Label": "Ontmoeting ter plaatse â€” Cercle des Voyageurs, Brussel (vanaf 18u)",
       "briefingDate": "10 oktober 2026",
       "briefingLabel": "Online briefing",
       "eventDate": "15 oktober 2026",
-      "eventLabel": "Vrijwilligersdag — Tour & Taxis, Brussel"
+      "eventLabel": "Vrijwilligersdag â€” Tour & Taxis, Brussel"
     },
     "apply": {
       "title": "Nu betrokken raken",
-      "content": "Geen deadline — schrijf u in op de mailinglijst of sluit u aan bij het OSGeo Belgium Matrix-kanaal om aanvragen live te volgen en uw interesse kenbaar te maken.",
+      "content": "Geen deadline â€” schrijf u in op de mailinglijst of sluit u aan bij het OSGeo Belgium Matrix-kanaal om aanvragen live te volgen en uw interesse kenbaar te maken.",
       "matrixLabel": "Matrix #osgeo-be vervoegen",
       "matrixUrl": "https://matrix.to/#/#osgeo-be:matrix.org"
     }
@@ -343,7 +351,7 @@
       "coSponsorLunch": "(Co-)sponsor van de lunch op uw naam",
       "booth": "Presentatiestand",
       "dedicatedPost": "Gewijd bericht op sociale media",
-      "miniPresentation": "Optionele mini-presentatie (2–3 min): uw open source engagement in België",
+      "miniPresentation": "Optionele mini-presentatie (2â€“3 min): uw open source engagement in BelgiÃ«",
       "tshirtGift": "OSGeo Belgium t-shirt als geschenk",
       "stickersGift": "FOSS4G 2026 stickers als geschenk",
       "logoOnFoss4g": "Logo op foss4g.be",
@@ -352,27 +360,27 @@
       "smallBooth": "Kleine presentatiestand",
       "inProgramAtBreaks": "Vermeld in het programma bij de gesponsorde pauzes",
       "socialMention": "Vermelding sociale media",
-      "officialInvoice": "Een officiële factuur wordt u bezorgd"
+      "officialInvoice": "Een officiÃ«le factuur wordt u bezorgd"
     },
     "tiers": {
       "gold": {
         "title": "Gold",
-        "price": "€1.200",
+        "price": "â‚¬1.200",
         "cta": "Word Gold Sponsor"
       },
       "silver": {
         "title": "Silver",
-        "price": "€500",
+        "price": "â‚¬500",
         "cta": "Word Silver Sponsor"
       },
       "bronze": {
         "title": "Bronze",
-        "price": "€250",
+        "price": "â‚¬250",
         "cta": "Word Bronze Sponsor"
       },
       "community": {
         "title": "Community",
-        "price": "€100",
+        "price": "â‚¬100",
         "description": "Ideaal voor landmeters, zelfstandige consultants en bedrijven die het evenement via hun opleidingsbudget willen ondersteunen.",
         "cta": "Inschrijven als Community Sponsor"
       }
@@ -393,7 +401,7 @@
   },
   "schedule": {
     "title": "Programma",
-    "subtitle": "15 oktober 2026 • Brussel, België",
+    "subtitle": "15 oktober 2026 â€¢ Brussel, BelgiÃ«",
     "stats": {
       "presentations": "Presentaties",
       "speakers": "Sprekers",
@@ -405,9 +413,9 @@
     },
     "filters": {
       "allTracks": "Alle Tracks",
-      "track1": "Zaal 1",
-      "track2": "Zaal 2",
-      "track3": "Zaal 3",
+      "track1": "Agora",
+      "track2": "Sylva",
+      "track3": "Aqua",
       "talksOnly": "Alleen presentaties"
     },
     "upcoming": {
