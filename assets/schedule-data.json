@@ -1,1 +1,328 @@
-[]
+[
+  {
+    "time": "08:30",
+    "event": {
+      "title": "Welcome & Registration",
+      "speakers": [],
+      "type": "registration"
+    }
+  },
+  {
+    "time": "09:00",
+    "event": {
+      "title": "Keynote Speeches: The Future of Free & Open Source Geospatial",
+      "speakers": [],
+      "type": "keynote"
+    }
+  },
+  {
+    "time": "09:30",
+    "event": {
+      "title": "Coffee Break",
+      "speakers": [],
+      "type": "break"
+    }
+  },
+  {
+    "time": "10:00",
+    "talks": [
+      {
+        "track": "track_1",
+        "title": "API de geocoding - registre authentique bruxellois au format BeSt",
+        "speakers": [{ "name": "Benoît Fricheteau", "organization": "Paradigm" }],
+        "languages": ["FR"],
+        "abstract": "Paradigm a publié une API de geocoding ouverte à tous et à toutes. Celle-ci permet d'interroger de différentes manières le registre authentique d'adresses de la région notamment en vue d'obtenir des adresses. L'API renvoie ces objets sous différents formats, parmi lesquels le format prévu par la norme BeSt Address.",
+        "duration": 20,
+        "tags": ["API", "WebGIS", "Geocoding", "BeSt Address"]
+      },
+      {
+        "track": "track_2",
+        "title": "Collaborative Data Collection with QGIS & Mergin Maps: What's New",
+        "speakers": [{ "name": "Tomas Mizera", "organization": "Mergin Maps" }],
+        "languages": ["EN"],
+        "abstract": "QGIS is a powerful platform for geospatial work, but field data collection has always needed extra tooling. Mergin Maps closes that gap, giving teams a simple way to collect, sync and manage field data alongside QGIS. This talk covers what's changed over the past year, including the new webmaps capability which lets users preview, share and export collected data directly from a browser.",
+        "duration": 20,
+        "tags": ["QGIS", "Mergin Maps", "Field data", "Tools"]
+      },
+      {
+        "track": "track_3",
+        "title": "Data Quality: utiliser le potentiel géographique",
+        "speakers": [{ "name": "Vandy Berten", "organization": "Smals" }],
+        "languages": ["FR"],
+        "abstract": "N'importe quelle source de données pose des problèmes de qualité. Il existe de nombreuses méthodes, généralement basées sur des comparaisons de chaînes de caractères, pour détecter et traiter les problèmes dans les bases de données relationnelles classiques. Mais exploiter les données géographiques comme des points ou des polygones avec des techniques d'analytique spatiale permet d'identifier des erreurs impossible à détecter avec des méthodes classiques. Pour illustrer ces méthodes, nous partons des données de BeSt Address avec des librairies Python Open Source (geopandas, shapely…).",
+        "duration": 20,
+        "tags": ["Data Quality", "BeSt Address", "Python", "Spatial Analytics"]
+      }
+    ]
+  },
+  {
+    "time": "10:30",
+    "talks": [
+      {
+        "track": "track_1",
+        "title": "GeoSearch, le nouveau geocoder développé par l'IGN",
+        "speakers": [{ "name": "Florence Masson", "organization": "Institut Géographique National" }],
+        "languages": ["FR"],
+        "abstract": "L'Institut Géographique National (IGN) a récemment développé un nouvel outil de géocodage GeoSearch, actuellement disponible gratuitement. GeoSearch permet d'effectuer des recherches d'adresses à partir de BeSt Address, la source authentique des adresses en Belgique. L'outil intègre par ailleurs les données cadastrales ainsi que la toponymie de l'IGN, et offre également la possibilité de rechercher des bornes kilométriques.",
+        "duration": 20,
+        "tags": ["API", "WebGIS", "Geocoding", "IGN", "BeSt Address"]
+      },
+      {
+        "track": "track_2",
+        "title": "The earth is not flat! Introduction to processing with spherical geometries",
+        "speakers": [{ "name": "Joris Van den Bossche", "organization": null }],
+        "languages": ["EN"],
+        "abstract": "Not all geospatial data are best represented using a projected coordinate system. Unfortunately, when using open-source geoprocessing software, this is often based on the assumption of having projected geometries. This presentation will introduce the problem and showcase the limitations of assuming projected coordinates, then present tools that handle spherical geometries out of the box (R sf, duckdb geography extension), and introduce Spherely: a new Python library that fills this gap, aiming to provide a similar API as Shapely but for geometries on the sphere.",
+        "duration": 20,
+        "tags": ["Python", "Spherical geometries", "Shapely", "Tools"]
+      },
+      {
+        "track": "track_3",
+        "title": "Pushing the boundaries: Automated Geometry Alignment with 'brdr' and 'brdrQ'",
+        "speakers": [{ "name": "Karel Dieussaert", "organization": "GeoSquare" }],
+        "languages": ["EN"],
+        "abstract": "Maintaining spatial consistency between thematic geographic datasets and reference layers (such as cadastral parcels) is a persistent challenge in GIS workflows. Athumi and the Flanders Heritage Agency developed brdr, an open-source Python library, and its companion QGIS plugin brdrQ, to automate geometry alignment to reference borders. By decoupling the alignment engine from the user interface, the tools serve both developers (pipeline integration) and GIS analysts (visual validation).",
+        "duration": 20,
+        "tags": ["Data Quality", "QGIS", "Python", "brdr", "Geometry"]
+      }
+    ]
+  },
+  {
+    "time": "11:00",
+    "talks": [
+      {
+        "track": "track_1",
+        "title": "BruWater: gegevens over oppervlaktewater en grondwater in het Brussels Gewest",
+        "speakers": [{ "name": "Elise Beke", "organization": "Leefmilieu Brussel" }],
+        "languages": ["NL"],
+        "abstract": "BruWater is een webapplicatie van Leefmilieu Brussel voor het raadplegen van de oppervlakte- en grondwatergegevens van het Brussels Hoofdstedelijk Gewest. Ontwikkeld door studiebureau open data script - Cartostation - Geodata van Leefmilieu Brussel. Via deze applicatie kan u de monitoringsgegevens over de waterkwaliteit van waterlopen, vijvers en grondwater en de waterstanden in de peilbuizen opzoeken, visualiseren en opvragen.",
+        "duration": 20,
+        "tags": ["API", "WebGIS", "Water", "Brussels", "Open Data"]
+      },
+      {
+        "track": "track_2",
+        "title": "State of MapServer",
+        "speakers": [{ "name": "Seth Girvin", "organization": "OSGeo" }],
+        "languages": ["EN"],
+        "abstract": "MapServer, a founding OSGeo project, is widely used for publishing spatial data and interactive web mapping applications. This talk provides an overview of the new 8.6 release and a preview of the upcoming 8.8 release, highlighting key enhancements and features. Integration with powerful new GDAL features, such as pipelines and cloud-native drivers, is demonstrated, along with results from the first-ever MapServer User Survey.",
+        "duration": 20,
+        "tags": ["MapServer", "OSGeo", "Tools", "GDAL"]
+      },
+      {
+        "track": "track_3",
+        "title": "RTTI Data Quality Parameters: What They Measure and Why They Matter",
+        "speakers": [{ "name": "Stéphanie Chaufton", "organization": "TISA" }],
+        "languages": ["EN"],
+        "abstract": "The RTTI 5-Star Rating Specification defines a common framework for assessing the quality of Real-Time Traffic Information (RTTI) data. It provides measurable quality requirements for three initial Priority Use Cases — Speed Limits, Roadworks, and Road Closures — and establishes a transparent basis for evaluating data. The standard evaluates datasets against quality parameters including availability, accessibility, accuracy, timeliness, completeness, consistency, and interoperability.",
+        "duration": 20,
+        "tags": ["Data Quality", "Traffic", "RTTI", "Standards", "DATEX II"]
+      }
+    ]
+  },
+  {
+    "time": "11:30",
+    "talks": [
+      {
+        "track": "track_1",
+        "title": "Flash Talks",
+        "speakers": [
+          { "name": "Elise Beke", "organization": null },
+          { "name": "Sébastien Defrance", "organization": null },
+          { "name": "Manuel Claeys Bouuaert", "organization": null },
+          { "name": "Gabriel Bolbotina", "organization": null },
+          { "name": "An Heirman", "organization": null },
+          { "name": "Raymond Nijssen", "organization": null }
+        ],
+        "languages": ["NL", "FR", "EN"],
+        "abstract": "6 presentations (2 min.) :\n\n1. Kaart van de ondoorlatende oppervlakken van het Brussels Gewest\n2. Un enjeu de mobilité douce et de résilience urbaine\n3. Topotijdreis.be\n4. Web maps : partager vos cartes en quelques clics\n5. Achter de schermen van het Nationaal Geo Register: GeoNetwork op nationale schaal\n6. Molenbiotopen",
+        "duration": 30,
+        "tags": ["Flash Talk"]
+      },
+      {
+        "track": "track_2",
+        "title": "Le rendu, la donnée, et l'argent du beurre. Panorama 2026 des tuiles vectorielles",
+        "speakers": [{ "name": "Marc Ducobu", "organization": "WAPY" }],
+        "languages": ["EN"],
+        "abstract": "Les tuiles vectorielles permettent de servir la donnée et de maîtriser le rendu côté client, sans choisir entre les deux. Nous reviendrons sur le principe, puis sur l'actualité : MLT, le successeur du format MVT annoncé début 2026, l'usage (web mapping et support dans QGIS), et finalement sur les méthodes pour produire ses propres tuiles.",
+        "duration": 20,
+        "tags": ["Tools", "Vector Tiles", "MVT", "QGIS", "Web Mapping"]
+      },
+      {
+        "track": "track_3",
+        "title": "When a Polygon Changes: Geospatial Data Processing at Scale — A Zadu Case Study",
+        "speakers": [{ "name": "Jeroen Stiers", "organization": "GIM — Smart Geo Insights" }],
+        "languages": ["EN"],
+        "abstract": "Zadu brings together large volumes of geospatial data from different sources and transforms them into a consistent and up-to-date data product. This talk presents the overall architecture behind this processing pipeline, combining Python, Prefect, PostGIS, QGIS, DuckDB and Parquet. We show how quarterly large-scale data processing and daily address updates follow different workflows, while ultimately feeding the same data product.",
+        "duration": 20,
+        "tags": ["Data Quality", "PostGIS", "Python", "DuckDB", "Architecture"]
+      }
+    ]
+  },
+  {
+    "time": "12:00",
+    "event": {
+      "title": "Lunch",
+      "speakers": [],
+      "type": "break"
+    }
+  },
+  {
+    "time": "13:00",
+    "talks": [
+      {
+        "track": "track_1",
+        "title": "Quantitative Ecology Meets the High Street: Using Biodiversity Metrics to Assess Multiscale Retail Structure in Brussels",
+        "speakers": [{ "name": "Hugo Colicchia", "organization": "Université libre de Bruxelles" }],
+        "languages": ["FR"],
+        "abstract": "Traditional measures of spatial distribution typically rely on discrete spatial units and suffer from the well-known Modifiable Areal Unit Problem (MAUP). Drawing on the recent work of Marcon and Puech (2025), who proposed a set of local measures of biodiversity, this talk shows that such metrics can also be used to assess retail structure across scales, taking Brussels as a case study.",
+        "duration": 20,
+        "tags": ["Use Cases", "Brussels", "Ecology", "Spatial Analysis"]
+      },
+      {
+        "track": "track_2",
+        "title": "Mapping cycling infrastructure in OpenStreetMap",
+        "speakers": [{ "name": "Seppe Santens", "organization": "Westtoer" }],
+        "languages": ["EN"],
+        "abstract": "Good cycling infrastructure data is essential for modern mobility analysis. In this hands-on workshop, we dive into mapping cycling infrastructure in OSM and re-using that data. We deconstruct the tagging scheme, use Overpass Turbo to pinpoint missing or inconsistent bicycle data, get hands-on with the iD editor or JOSM, and learn how to query OSM data and export for analysis in your GIS tool of choice. (Workshop — 90 min)",
+        "duration": 90,
+        "tags": ["Workshop", "OpenStreetMap", "Cycling", "Overpass Turbo", "iD editor"]
+      },
+      {
+        "track": "track_3",
+        "title": "From field to map: Collaborative data collection with QGIS & Mergin Maps",
+        "speakers": [{ "name": "Tomas Mizera", "organization": "Mergin Maps" }],
+        "languages": ["EN"],
+        "abstract": "Mergin Maps is a collaborative data collection system built for QGIS. In this workshop, we put Mergin Maps into practice: prepare a data collection project in QGIS, collect data together as a team, then explore the new webmaps capability. Bring a laptop with QGIS installed. A Mergin Maps account is recommended (free at merginmaps.com). (Workshop — 90 min)",
+        "duration": 90,
+        "tags": ["Workshop", "QGIS", "Mergin Maps", "Field Data", "Webmaps"]
+      }
+    ]
+  },
+  {
+    "time": "13:30",
+    "talks": [
+      {
+        "track": "track_1",
+        "title": "J-emma.com — Genèse d'une archive en mouvement",
+        "speakers": [{ "name": "Pacôme Béru", "organization": "Atelier Cartographique" }],
+        "languages": ["FR"],
+        "abstract": "J-emma.com est une plateforme cartographique dédiée à l'organisation et la consultation d'une archive sur l'histoire du bâti de la médina de Marrakech. Nous présenterons la méthodologie mise en place pour accompagner la genèse du projet et le géo-référencement des documents, ainsi que les éléments clés de la plateforme de visualisation. La plateforme combine Nextcloud, des développements dédiés (Rust, OpenLayers, HTML, CSS) et QGIS pour la création de fonds de plans à base de données OSM, d'orthophotos et de traitement de DEM.",
+        "duration": 20,
+        "tags": ["Use Cases", "Archive", "OpenLayers", "QGIS", "OSM"]
+      }
+    ]
+  },
+  {
+    "time": "14:00",
+    "talks": [
+      {
+        "track": "track_1",
+        "title": "A web application for simulating erosion in Wallonia, with a focus on topography",
+        "speakers": [{ "name": "Julien Minet", "organization": "Champs Libres Coopérative" }],
+        "languages": ["FR"],
+        "abstract": "We present a new web application for simulating erosion in Wallonia, part of the Intell'eau research project (UCLouvain, GxABT, SPW). The application is based on the MapLibre framework and includes a 3D mode using a digital elevation model of Wallonia at 5-metre resolution, resulting in high-resolution landscape views. It allows users to simulate erosion in agricultural lands and analyse how crop adaptation can mitigate erosion risk.",
+        "duration": 20,
+        "tags": ["Use Cases", "MapLibre", "3D", "Erosion", "Wallonia"]
+      }
+    ]
+  },
+  {
+    "time": "14:30",
+    "event": {
+      "title": "Coffee Break",
+      "speakers": [],
+      "type": "break"
+    }
+  },
+  {
+    "time": "15:00",
+    "talks": [
+      {
+        "track": "track_1",
+        "title": "… from Groene Hond to Palais Stoclet, a Geo-MCP for Brussels",
+        "speakers": [{ "name": "Ruben Cappelle", "organization": "Brussels Mobility" }],
+        "languages": ["NL"],
+        "abstract": "How can a chatbot understand spatial references such as \"between Groene Hond and Palais Stoclet\" or \"near the European Quarter\"? Converting these informal descriptions into precise geometries remains a key challenge. This presentation introduces a Geo-MCP developed for Brussels: how a reference database of landmarks and place names is built, how spatial descriptions are detected and resolved, and how they are transformed into GIS-ready geometries. The MCP can be connected to chat interfaces, allowing users to query geospatial datasets through natural language.",
+        "duration": 20,
+        "tags": ["GeoAI", "AI", "Brussels", "NLP", "MCP"]
+      },
+      {
+        "track": "track_2",
+        "title": "How to get nice geographic data from OpenStreetMap in Belgium?",
+        "speakers": [{ "name": "Julien Minet", "organization": "Champs Libres Coopérative" }],
+        "languages": ["EN"],
+        "abstract": "OpenStreetMap (OSM) is a collaborative map of the world, increasingly recognised as an awesome source of geographic data. In this workshop, we focus on the state of OSM data in Belgium: what can be found in OSM, how to get the data, what is its quality, and what is the situation in Belgium? We go through thematic data (road, building, land-use, infrastructure) and look at their state. Targeted at anyone who would like to use OSM data in their process. (Workshop — 90 min)",
+        "duration": 90,
+        "tags": ["Workshop", "OpenStreetMap", "Belgium", "Data Quality"]
+      },
+      {
+        "track": "track_3",
+        "title": "Working title: (Poverty) Cycle Infrastructure in Flanders",
+        "speakers": [
+          { "name": "Vivien van Dongen", "organization": null },
+          { "name": "Emma Duymelinck", "organization": "Vlaamse Overheid — MOW" }
+        ],
+        "languages": ["EN"],
+        "abstract": "A printed pamphlet map on A2 format — a bivariate choropleth map displaying bicycle access in comparison to administrative poverty risk. The map covers Flanders and serves as food for thought for socio-economic mobility access across societal levels, overlaid with the Flemish cycling infrastructure. Inspired by critical cartography to discuss underlying power dynamics and mobility poverty. Using QGIS and Inkscape with Flemish open data. (Workshop — 90 min)",
+        "duration": 90,
+        "tags": ["Workshop", "Cartography", "QGIS", "Inkscape", "Cycling", "Flanders"]
+      }
+    ]
+  },
+  {
+    "time": "15:30",
+    "talks": [
+      {
+        "track": "track_1",
+        "title": "From Orthophotos to Objects: Building a GeoAI Change-Detection Pipeline with Open-Source Tools at NGI",
+        "speakers": [{ "name": "Jérôme Servais", "organization": "NGI — IGN" }],
+        "languages": ["FR"],
+        "abstract": "Every new aerial survey captures changes that take time to reach the map. Our GeoAI project uses open-source deep learning to detect topographic objects and changes automatically from aerial orthophotos. This talk presents the pipeline: from orthophoto to trained model, inference, post-processing, and integration into the database and quality-control chain. Built on YOLO/Ultralytics and the Segment Anything Model, and developed in collaboration with Kadaster NL. The \"cartographer in the loop\" remains central by design.",
+        "duration": 20,
+        "tags": ["GeoAI", "AI", "IGN", "Deep Learning", "Change Detection", "YOLO"]
+      }
+    ]
+  },
+  {
+    "time": "16:00",
+    "talks": [
+      {
+        "track": "track_1",
+        "title": "From cobwebs to web: creating open-access digital archives with (open-source) GeoAI",
+        "speakers": [{ "name": "Emma Duymelinck", "organization": "Vlaamse Overheid — MOW" }],
+        "languages": ["NL"],
+        "abstract": "For years, 20th-century photographs from aerial surveys for public works have been in storage, containing a unique record of how Flanders looked decades ago. The Flemish Department of Mobility and Public Works explains the workflow to turn tens of thousands of aerial images from the 1950s into accurately georeferenced images. A custom MapStore application brings the pieces together, allowing users to explore thousands of images through metadata, spatial filters and map-based previews. A pragmatic approach to FOSS in a public-sector context.",
+        "duration": 20,
+        "tags": ["GeoAI", "AI", "Archives", "MapStore", "Flanders", "FOSS"]
+      }
+    ]
+  },
+  {
+    "time": "16:30",
+    "event": {
+      "title": "Coffee Break",
+      "speakers": [],
+      "type": "break"
+    }
+  },
+  {
+    "time": "17:00",
+    "event": {
+      "title": "FORUM — OSGeo.be in Action: Activities & FOSS4G Belgium User Groups",
+      "speakers": [
+        { "name": "Raymond Nijssen", "organization": "QGIS Gebruikersgroep Nederland" }
+      ],
+      "type": "meeting",
+      "abstract": "Community forum covering OSGeo.be activities and Belgian FOSS4G user groups (QGIS, PostgreSQL, OSM, GRASS…). Includes a flash talk by Raymond Nijssen: \"Where is the QGIS User Group Belgium?\" — sharing the story from the Dutch User Group and discussing the creation of a Belgian chapter.",
+      "tags": ["Community", "OSGeo", "QGIS", "Forum"]
+    }
+  },
+  {
+    "time": "17:30",
+    "event": {
+      "title": "Closing Speech",
+      "speakers": [],
+      "type": "keynote"
+    }
+  }
+]
