@@ -21,6 +21,12 @@
       "bgClass": "bg-white"
     },
     {
+      "name": "Champs-Libres",
+      "link": "https://www.champs-libres.coop",
+      "logo": "/images/sponsors/champslibres-logo.svg",
+      "bgClass": "bg-white"
+    },
+    {
       "name": "Blue Square Hub",
       "link": "https://www.bluesquarehub.com/",
       "logo": "/images/sponsors/bluesquare-logo.svg",
