@@ -291,9 +291,8 @@
     },
     "apply": {
       "title": "Get involved now",
-      "content": "No deadline — join the mailing list or the OSGeo Belgium Matrix channel to follow requests in real time and express your interest.",
-      "matrixLabel": "Join Matrix #osgeo-be",
-      "matrixUrl": "https://matrix.to/#/#osgeo-be:matrix.org"
+      "content": "No deadline. Contact us by email or tick the volunteer option when registering your ticket on Pretix.",
+      "pretixLabel": "Register as volunteer on Pretix"
     }
   },
   "cards": {

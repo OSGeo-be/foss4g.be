@@ -84,8 +84,7 @@
             >
                 <NuxtLinkLocale @click="close" to="/">{{ $t('nav.home') }}</NuxtLinkLocale>
                 <NuxtLinkLocale @click="close" to="/about">{{ $t('nav.about') }}</NuxtLinkLocale>
-                <NuxtLinkLocale @click="close" to="/present">{{ $t('nav.callForPresentations') }}</NuxtLinkLocale>
-                <NuxtLinkLocale @click="close" to="/maps">{{ $t('nav.callForMaps') }}</NuxtLinkLocale>
+<NuxtLinkLocale @click="close" to="/maps">{{ $t('nav.callForMaps') }}</NuxtLinkLocale>
                 <NuxtLinkLocale @click="close" to="/become-sponsor">{{ $t('nav.becomeSponsor') }}</NuxtLinkLocale>
                 <NuxtLinkLocale @click="close" to="/volunteer">{{ $t('nav.volunteer') }}</NuxtLinkLocale>
                 <NuxtLinkLocale @click="close" to="/contact">{{ $t('nav.contact') }}</NuxtLinkLocale>
@@ -105,13 +104,13 @@
                         v-for="loc in localesToPick"
                         :key="loc.code"
                     >
-                        <NuxtLinkLocale
+                        <NuxtLink
                             :to="switchLocalePath(loc.code)"
                             class="px-3 py-2 bg-white rounded hover:bg-gray-100 text-sm"
                             @click="close"
                         >
                             {{ loc.label }}
-                        </NuxtLinkLocale>
+                        </NuxtLink>
                     </li>
                 </ul>
             </div>

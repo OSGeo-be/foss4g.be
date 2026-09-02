@@ -291,9 +291,8 @@
     },
     "apply": {
       "title": "Comment s'impliquer maintenant",
-      "content": "Pas de date limite : inscrivez-vous à la mailing list ou rejoignez le salon Matrix OSGeo Belgium pour suivre les demandes en direct et manifester votre intérêt.",
-      "matrixLabel": "Rejoindre Matrix #osgeo-be",
-      "matrixUrl": "https://matrix.to/#/#osgeo-be:matrix.org"
+      "content": "Pas de date limite. Contactez-nous par email ou cochez l'option bénévole lors de votre inscription sur Pretix.",
+      "pretixLabel": "S'inscrire comme bénévole sur Pretix"
     }
   },
   "cards": {
