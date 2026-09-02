@@ -625,7 +625,7 @@ function isTalkExpanded(time: string, track: string): boolean {
                             </span>
                           </div>
                           <time class="text-xs text-gray-600 font-medium">
-                            {{ formatTimeRange(slot.time, 30) }}
+                            {{ formatTimeRange(slot.time, talk.duration ?? 30) }}
                           </time>
                           <!-- Expand/Collapse Icon -->
                           <MdiIcon
