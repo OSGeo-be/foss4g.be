@@ -121,7 +121,6 @@
       "legend": "Een legende en een titel zijn verplicht",
       "description": "Een korte beschrijving (max. 150 woorden) met vermelding van de gebruikte tools"
     },
-    "intentNote": "Meld uw intentie vóór 15 september zodat wij de nodige ruimte in de galerij kunnen reserveren.",
     "selection": {
       "title": "Selectie en tentoonstelling",
       "committee": "Selectie door het organisatiecomité begin oktober",
@@ -131,16 +130,12 @@
     },
     "timeline": {
       "title": "Kalender",
-      "opensDate": "7 juli 2026",
+      "opensDate": "1 september 2026",
       "opensLabel": "Opening inzendingen",
-      "intentDate": "15 september 2026",
-      "intentLabel": "Deadline intentie (ruimtereservering)",
-      "closesDate": "8 oktober 2026",
+      "closesDate": "9 oktober 2026",
       "closesLabel": "Deadline inzending",
-      "selectionDate": "Half oktober 2026",
-      "selectionLabel": "Selectie door het comité",
       "eventDate": "15 oktober 2026",
-      "eventLabel": "Tentoonstelling in Tour & Taxis, Brussel"
+      "eventLabel": "Tentoonstelling op FOSS4G-BE!"
     },
     "submit": {
       "title": "Hoe indienen?",
