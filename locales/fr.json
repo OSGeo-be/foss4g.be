@@ -121,7 +121,6 @@
       "legend": "Une légende et un titre sont requis",
       "description": "Une courte description (150 mots max) indiquant les outils utilisés"
     },
-    "intentNote": "Marquez votre intention avant le 15 septembre afin que nous puissions réserver l'espace nécessaire dans la galerie.",
     "selection": {
       "title": "Sélection et exposition",
       "committee": "Sélection par le comité d'organisation début octobre",
@@ -131,16 +130,12 @@
     },
     "timeline": {
       "title": "Calendrier",
-      "opensDate": "7 juillet 2026",
+      "opensDate": "1 septembre 2026",
       "opensLabel": "Ouverture des soumissions",
-      "intentDate": "15 septembre 2026",
-      "intentLabel": "Date limite d'intention (réservation de l'espace)",
-      "closesDate": "8 octobre 2026",
+      "closesDate": "9 octobre 2026",
       "closesLabel": "Date limite de soumission",
-      "selectionDate": "Mi-octobre 2026",
-      "selectionLabel": "Sélection par le comité",
       "eventDate": "15 octobre 2026",
-      "eventLabel": "Exposition à Tour & Taxis, Bruxelles"
+      "eventLabel": "Exposition à FOSS4G-BE!"
     },
     "submit": {
       "title": "Comment soumettre ?",

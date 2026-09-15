@@ -9,9 +9,6 @@
                     <p class="text-sm text-neutral-dark mb-3">{{ $t('maps.content') }}</p>
                     <div class="flex flex-wrap gap-3 text-xs">
                         <span class="bg-orange-100 text-orange-600 font-semibold px-3 py-1 rounded-full">
-                            {{ $t('maps.timeline.intentLabel') }} {{ $t('maps.timeline.intentDate') }}
-                        </span>
-                        <span class="bg-main-color-2/10 text-main-color-2 font-semibold px-3 py-1 rounded-full">
                             {{ $t('maps.timeline.closesLabel') }} {{ $t('maps.timeline.closesDate') }}
                         </span>
                     </div>
@@ -29,6 +26,7 @@
             <div class="bg-off-white px-6 py-6 rounded-xl shadow sm:col-span-2">
                 <h2 class="text-lg font-bold mb-2">{{ $t('maps.submit.title') }}</h2>
                 <p class="text-sm text-neutral-dark mb-4">{{ $t('maps.submit.content') }}</p>
+
                 <ol class="space-y-2 mb-6 list-none">
                     <li v-for="n in 7" :key="n" class="flex items-start gap-3 text-sm text-neutral-dark">
                         <span class="shrink-0 w-6 h-6 rounded-full bg-main-color-4/10 text-main-color-4 font-bold flex items-center justify-center text-xs">{{ n }}</span>
@@ -53,12 +51,6 @@
                         <span class="text-sm text-neutral-dark">{{ $t(criterion) }}</span>
                     </div>
                 </div>
-            </div>
-
-            <!-- Intent callout -->
-            <div class="sm:col-span-2 border-2 border-orange-300 bg-orange-50 rounded-xl px-6 py-4 flex gap-4 items-start">
-                <MdiIcon icon="mdiCalendarAlert" class="text-orange-500 shrink-0 mt-0.5" size="1.4em" />
-                <p class="text-sm text-orange-800 font-medium">{{ $t('maps.intentNote') }}</p>
             </div>
 
             <!-- Selection + Timeline -->
@@ -101,7 +93,6 @@ const criteria = [
 ]
 
 const selectionItems = [
-    'maps.selection.committee',
     'maps.selection.print',
     'maps.selection.display',
     'maps.selection.credit',
@@ -109,9 +100,7 @@ const selectionItems = [
 
 const timeline = [
     { dateKey: 'maps.timeline.opensDate',     labelKey: 'maps.timeline.opensLabel' },
-    { dateKey: 'maps.timeline.intentDate',    labelKey: 'maps.timeline.intentLabel' },
     { dateKey: 'maps.timeline.closesDate',    labelKey: 'maps.timeline.closesLabel' },
-    { dateKey: 'maps.timeline.selectionDate', labelKey: 'maps.timeline.selectionLabel' },
     { dateKey: 'maps.timeline.eventDate',     labelKey: 'maps.timeline.eventLabel' },
 ]
 </script>

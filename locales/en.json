@@ -121,7 +121,6 @@
       "legend": "A legend and a title are required",
       "description": "A short description (max 150 words) stating the tools used"
     },
-    "intentNote": "Signal your intent before 15 September so we can reserve the necessary space in the gallery.",
     "selection": {
       "title": "Selection & Display",
       "committee": "Selection by the organising committee in early October",
@@ -131,16 +130,12 @@
     },
     "timeline": {
       "title": "Timeline",
-      "opensDate": "7 July 2026",
+      "opensDate": "1 September 2026",
       "opensLabel": "Submissions open",
-      "intentDate": "15 September 2026",
-      "intentLabel": "Intent deadline (space reservation)",
-      "closesDate": "8 October 2026",
+      "closesDate": "9 October 2026",
       "closesLabel": "Submission deadline",
-      "selectionDate": "Mid-October 2026",
-      "selectionLabel": "Selection by the committee",
       "eventDate": "15 October 2026",
-      "eventLabel": "Exhibition at Tour & Taxis, Brussels"
+      "eventLabel": "Exhibition at FOSS4G-BE!"
     },
     "submit": {
       "title": "How to submit?",
