@@ -85,7 +85,7 @@ onUnmounted(() => clearInterval(timer))
                 {{ $t('index.goldSponsors.whoSupportUs') }}
             </h2>
 
-            <div>
+            <div class="flex flex-wrap justify-center gap-6">
                 <a
                     v-for="(s, index) in sponsors_gold"
                     :key="index"
@@ -100,7 +100,7 @@ onUnmounted(() => clearInterval(timer))
                     <img
                         :src="s.logo"
                         :alt="`${s.name} logo`"
-                        class="pointer-events-none h-16 w-auto mb-4 object-contain transition-transform group-hover:scale-105"
+                        :class="['pointer-events-none h-14 w-auto object-contain transition-transform group-hover:scale-105', s.imgClass ?? '']"
                     />
                 </a>
             </div>

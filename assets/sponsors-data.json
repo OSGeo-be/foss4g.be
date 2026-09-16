@@ -5,6 +5,13 @@
       "link": "http://www.merkator.com/",
       "logo": "/images/sponsors/merkatorGR.png",
       "bgClass": "bg-white"
+    },
+    {
+      "name": "GeoIT",
+      "link": "https://www.geoit.be",
+      "logo": "/images/sponsors/geoit-logo.png",
+      "bgClass": "bg-white",
+      "imgClass": "max-w-28"
     }
   ],
   "silver": [
