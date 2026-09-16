@@ -54,7 +54,7 @@ const sponsors_community: { name: string; link?: string }[] = (sponsorsData as a
                             rel="noopener"
                             :class="['group rounded-lg border border-neutral-light p-6 flex flex-col items-center text-center transition-shadow sm:opacity-60 sm:hover:opacity-100 sm:hover:shadow-lg', s.bgClass]"
                         >
-                            <img :src="s.logo" :alt="`${s.name} logo`" class="pointer-events-none h-16 w-auto mb-4 object-contain transition-transform group-hover:scale-105" />
+                            <img :src="s.logo" :alt="`${s.name} logo`" :class="['pointer-events-none h-16 w-auto mb-4 object-contain transition-transform group-hover:scale-105', s.imgClass ?? '']" />
                         </a>
                     </div>
                 </template>

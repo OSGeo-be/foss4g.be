@@ -3,6 +3,7 @@ export interface Sponsor {
   link: string
   logo: string
   bgClass: string
+  imgClass?: string
 }
 
 export interface SponsorsData {
