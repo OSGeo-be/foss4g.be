@@ -119,7 +119,7 @@
       "resolution": "Hoge-resolutiebestand: PNG of PDF, minimaal 300 dpi, formaat A2 of A1",
       "theme": "Elk thema toegestaan: stedelijk, milieu, geschiedenis, transport, kunst, open data…",
       "legend": "Een legende en een titel zijn verplicht",
-      "description": "Een korte beschrijving (max. 150 woorden) met vermelding van de gebruikte tools"
+      "description": "Een korte beschrijving met vermelding van de gebruikte tools en werkwijze"
     },
     "selection": {
       "title": "Selectie en tentoonstelling",
@@ -139,14 +139,18 @@
     },
     "submit": {
       "title": "Hoe indienen?",
-      "content": "Stuur een e-mail naar het onderstaande adres met de volgende informatie:",
+      "content": "Je kan je kaart op twee manier insturen: via het formulier (voorkeur) of via e-mail.",
+      "form": "Vul het formulier in en stuur je kaart meteen in!",
+      "formButton": "Stuur je kaart in",
+      "mail": "Of stuur een e-mail naar het onderstaande adres met de volgende informatie:",
       "item1": "Titel van de kaart",
       "item2": "Naam van de auteur",
       "item3": "Organisatie / affiliatie",
       "item4": "Eventuele co-auteurs",
       "item5": "Korte beschrijving van de kaart — vermeld de gebruikte software en gegevens",
       "item6": "URL naar de digitale kaart of meer informatie, indien beschikbaar",
-      "item7": "Of wij het moeten afdrukken of dat u het zelf meebrengt naar de conferentie"
+      "item7": "Downloadlink of bijlage met de digitale versie van de kaart (in PNG of PDF formaat met een minimumresolutie van 2342 x 3311 pixels)",
+      "item8": "Of wij de kaart moeten afdrukken of dat u ze zelf meebrengt naar de conferentie"
     }
   },
   "present": {

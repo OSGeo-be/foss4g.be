@@ -139,14 +139,18 @@
     },
     "submit": {
       "title": "How to submit?",
-      "content": "Send an e-mail to the address below with the following information:",
+      "content": "You can submit your map in two ways: via the form (preferred) or via email.",
+      "form": "Fill out the form and submit your map right away!",
+      "formButton": "Submit your map",
+      "mail": "Or send an email to the address below with the following information:",
       "item1": "Title of the map",
       "item2": "Author's name",
       "item3": "Organization / affiliation",
       "item4": "Additional map authors, if any",
       "item5": "Brief description of the map — please mention the software and data used",
       "item6": "URL to the digital map or more information, if applicable",
-      "item7": "Whether we should print it, or whether you will bring it to the conference yourself"
+      "item7": "Download link or attachment containing the digital version of the map (in PNG or PDF format with a minimum resolution of 2342 x 3311 pixels)",
+      "item8": "Whether we should print the map or you will bring it to the conference yourself"
     }
   },
   "present": {

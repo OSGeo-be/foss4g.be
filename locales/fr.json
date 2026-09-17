@@ -139,14 +139,18 @@
     },
     "submit": {
       "title": "Comment soumettre ?",
-      "content": "Envoyez un e-mail à l'adresse ci-dessous avec les informations suivantes :",
+      "content": "Vous pouvez soumettre votre carte de deux manières : via le formulaire (méthode privilégiée) ou par e-mail.",
+      "form": "Remplissez le formulaire et soumettez votre carte dès maintenant !",
+      "formButton": "Soumettre votre carte",
+      "mail": "Ou envoyez un e-mail à l'adresse ci-dessous en indiquant les informations suivantes :",
       "item1": "Titre de la carte",
       "item2": "Nom de l'auteur·e",
       "item3": "Organisation / affiliation",
       "item4": "Co-auteur·e·s éventuel·le·s",
       "item5": "Brève description de la carte — mentionnez le logiciel et les données utilisés",
       "item6": "URL vers la carte numérique ou informations complémentaires, si disponible",
-      "item7": "Si nous devons l'imprimer ou si vous l'apportez vous-même à la conférence"
+      "item7": "Lien de téléchargement ou pièce jointe contenant la version numérique de la carte (au format PNG ou PDF, avec une résolution minimale de 2342 x 3311 pixels)",
+      "item8": "Indication précisant si nous devons imprimer la carte ou si vous l'apporterez vous-même à la conférence"
     }
   },
   "present": {
