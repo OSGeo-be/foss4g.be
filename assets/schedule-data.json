@@ -260,7 +260,7 @@
         "title": "Working title: (Poverty) Cycle Infrastructure in Flanders",
         "speakers": [
           { "name": "Vivien van Dongen", "organization": null },
-          { "name": "Emma Duymelinck", "organization": "Vlaamse Overheid — MOW" }
+          { "name": "Emma Duymelinck", "organization": null }
         ],
         "languages": ["EN"],
         "abstract": "A printed pamphlet map on A2 format — a bivariate choropleth map displaying bicycle access in comparison to administrative poverty risk. The map covers Flanders and serves as food for thought for socio-economic mobility access across societal levels, overlaid with the Flemish cycling infrastructure. Inspired by critical cartography to discuss underlying power dynamics and mobility poverty. Using QGIS and Inkscape with Flemish open data. (Workshop — 90 min)",
