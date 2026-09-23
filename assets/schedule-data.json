@@ -92,7 +92,7 @@
     "talks": [
       {
         "track": "track_1",
-        "title": "BruWater: gegevens over oppervlaktewater en grondwater in het Brussels Gewest",
+        "title": "BruWater, oppervlakte- en grondwatergegevens opzoeken, visualiseren en opvragen",
         "speakers": [{ "name": "Elise Beke", "organization": "Leefmilieu Brussel" }],
         "languages": ["NL"],
         "abstract": "BruWater is een webapplicatie van Leefmilieu Brussel voor het raadplegen van de oppervlakte- en grondwatergegevens van het Brussels Hoofdstedelijk Gewest. Ontwikkeld door studiebureau open data script - Cartostation - Geodata van Leefmilieu Brussel. Via deze applicatie kan u de monitoringsgegevens over de waterkwaliteit van waterlopen, vijvers en grondwater en de waterstanden in de peilbuizen opzoeken, visualiseren en opvragen.",
@@ -134,7 +134,7 @@
           { "name": "Raymond Nijssen", "organization": null }
         ],
         "languages": ["NL", "FR", "EN"],
-        "abstract": "6 presentations (2 min.) :\n\n1. Kaart van de ondoorlatende oppervlakken van het Brussels Gewest\n2. Un enjeu de mobilité douce et de résilience urbaine\n3. Topotijdreis.be\n4. Web maps : partager vos cartes en quelques clics\n5. Achter de schermen van het Nationaal Geo Register: GeoNetwork op nationale schaal\n6. Molenbiotopen",
+        "abstract": "6 presentations (2 min.) :\n\n1. Hoe AI, satellietbeelden en luchtfoto's worden ingezet om ondoorlatende oppervlakken in het Brussels Gewest in kaart te brengen\n2. Un enjeu de mobilité douce et de résilience urbaine\n3. Topotijdreis.be\n4. Web maps : partager vos cartes en quelques clics\n5. Achter de schermen van het Nationaal Geo Register: GeoNetwork op nationale schaal\n6. Molenbiotopen",
         "duration": 30,
         "tags": ["Flash Talk"]
       },
