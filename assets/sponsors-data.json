@@ -40,6 +40,13 @@
       "bgClass": "bg-white"
     }
   ],
-  "bronze": [],
+  "bronze": [
+    {
+      "name": "Spacebel",
+      "link": "https://www.spacebel.com/",
+      "logo": "/images/sponsors/spacebel-logo.svg",
+      "bgClass": "bg-white"
+    }
+  ],
   "community": []
 }
