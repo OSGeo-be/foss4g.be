@@ -1,6 +1,6 @@
 <template>
     <div class="flex-1 px-4 py-6 space-y-8 lg:px-8 lg:py-12">
-        <section class="grid grid-cols-1 sm:grid-cols-2 gap-6 max-w-3xl mx-auto">
+        <section class="grid grid-cols-1 sm:grid-cols-2 gap-6 max-w-5xl mx-auto">
 
             <!-- Hero card -->
             <div class="bg-off-white px-6 py-6 rounded-xl shadow sm:col-span-2 flex flex-col sm:flex-row gap-6 items-center">
