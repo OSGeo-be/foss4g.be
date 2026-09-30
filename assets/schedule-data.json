@@ -30,7 +30,7 @@
         "track": "track_1",
         "title": "API de geocoding - registre authentique bruxellois au format BeSt",
         "speakers": [{ "name": "Benoît Fricheteau", "organization": "Paradigm" }],
-        "languages": ["FR"],
+        "languages": ["FR", "NL"],
         "abstract": "Paradigm a publié une API de geocoding ouverte à tous et à toutes. Celle-ci permet d'interroger de différentes manières le registre authentique d'adresses de la région notamment en vue d'obtenir des adresses. L'API renvoie ces objets sous différents formats, parmi lesquels le format prévu par la norme BeSt Address.",
         "duration": 20,
         "tags": ["API", "WebGIS", "Geocoding", "BeSt Address"]
@@ -62,7 +62,7 @@
         "track": "track_1",
         "title": "GeoSearch, le nouveau geocoder développé par l'IGN",
         "speakers": [{ "name": "Florence Masson", "organization": "Institut Géographique National" }],
-        "languages": ["FR"],
+        "languages": ["FR", "NL"],
         "abstract": "L'Institut Géographique National (IGN) a récemment développé un nouvel outil de géocodage GeoSearch, actuellement disponible gratuitement. GeoSearch permet d'effectuer des recherches d'adresses à partir de BeSt Address, la source authentique des adresses en Belgique. L'outil intègre par ailleurs les données cadastrales ainsi que la toponymie de l'IGN, et offre également la possibilité de rechercher des bornes kilométriques.",
         "duration": 20,
         "tags": ["API", "WebGIS", "Geocoding", "IGN", "BeSt Address"]
@@ -94,7 +94,7 @@
         "track": "track_1",
         "title": "BruWater: gegevens over oppervlaktewater en grondwater in het Brussels Gewest",
         "speakers": [{ "name": "Elise Beke", "organization": "Leefmilieu Brussel" }],
-        "languages": ["NL"],
+        "languages": ["FR", "NL"],
         "abstract": "BruWater is een webapplicatie van Leefmilieu Brussel voor het raadplegen van de oppervlakte- en grondwatergegevens van het Brussels Hoofdstedelijk Gewest. Ontwikkeld door studiebureau open data script - Cartostation - Geodata van Leefmilieu Brussel. Via deze applicatie kan u de monitoringsgegevens over de waterkwaliteit van waterlopen, vijvers en grondwater en de waterstanden in de peilbuizen opzoeken, visualiseren en opvragen.",
         "duration": 20,
         "tags": ["API", "WebGIS", "Water", "Brussels", "Open Data"]
@@ -133,7 +133,7 @@
           { "name": "An Heirman", "organization": null },
           { "name": "Raymond Nijssen", "organization": null }
         ],
-        "languages": ["NL", "FR", "EN"],
+        "languages": ["FR","NL"],
         "abstract": "6 presentations (2 min.) :\n\n1. Kaart van de ondoorlatende oppervlakken van het Brussels Gewest\n2. Un enjeu de mobilité douce et de résilience urbaine\n3. Topotijdreis.be\n4. Web maps : partager vos cartes en quelques clics\n5. Achter de schermen van het Nationaal Geo Register: GeoNetwork op nationale schaal\n6. Molenbiotopen",
         "duration": 30,
         "tags": ["Flash Talk"]
@@ -173,7 +173,7 @@
         "track": "track_1",
         "title": "… from Groene Hond to Palais Stoclet, a Geo-MCP for Brussels",
         "speakers": [{ "name": "Ruben Cappelle", "organization": "Brussels Mobility" }],
-        "languages": ["NL"],
+        "languages": ["FR", "NL"],
         "abstract": "How can a chatbot understand spatial references such as \"between Groene Hond and Palais Stoclet\" or \"near the European Quarter\"? Converting these informal descriptions into precise geometries remains a key challenge. This presentation introduces a Geo-MCP developed for Brussels: how a reference database of landmarks and place names is built, how spatial descriptions are detected and resolved, and how they are transformed into GIS-ready geometries. The MCP can be connected to chat interfaces, allowing users to query geospatial datasets through natural language.",
         "duration": 20,
         "tags": ["GeoAI", "AI", "Brussels", "NLP", "MCP"]
@@ -205,7 +205,7 @@
         "track": "track_1",
         "title": "From Orthophotos to Objects: Building a GeoAI Change-Detection Pipeline with Open-Source Tools at NGI",
         "speakers": [{ "name": "Jérôme Servais", "organization": "NGI — IGN" }],
-        "languages": ["FR"],
+        "languages": ["FR", "NL"],
         "abstract": "Every new aerial survey captures changes that take time to reach the map. Our GeoAI project uses open-source deep learning to detect topographic objects and changes automatically from aerial orthophotos. This talk presents the pipeline: from orthophoto to trained model, inference, post-processing, and integration into the database and quality-control chain. Built on YOLO/Ultralytics and the Segment Anything Model, and developed in collaboration with Kadaster NL. The \"cartographer in the loop\" remains central by design.",
         "duration": 20,
         "tags": ["GeoAI", "AI", "IGN", "Deep Learning", "Change Detection", "YOLO"]
@@ -220,7 +220,7 @@
         "track": "track_1",
         "title": "From cobwebs to web: creating open-access digital archives with (open-source) GeoAI",
         "speakers": [{ "name": "Emma Duymelinck", "organization": "Vlaamse Overheid — MOW" }],
-        "languages": ["NL"],
+        "languages": ["FR", "NL"],
         "abstract": "For years, 20th-century photographs from aerial surveys for public works have been in storage, containing a unique record of how Flanders looked decades ago. The Flemish Department of Mobility and Public Works explains the workflow to turn tens of thousands of aerial images from the 1950s into accurately georeferenced images. A custom MapStore application brings the pieces together, allowing users to explore thousands of images through metadata, spatial filters and map-based previews. A pragmatic approach to FOSS in a public-sector context.",
         "duration": 20,
         "tags": ["GeoAI", "AI", "Archives", "MapStore", "Flanders", "FOSS"]
@@ -243,7 +243,7 @@
         "track": "track_1",
         "title": "Quantitative Ecology Meets the High Street: Using Biodiversity Metrics to Assess Multiscale Retail Structure in Brussels",
         "speakers": [{ "name": "Hugo Colicchia", "organization": "Université libre de Bruxelles" }],
-        "languages": ["FR"],
+        "languages": ["FR", "NL"],
         "abstract": "Traditional measures of spatial distribution typically rely on discrete spatial units and suffer from the well-known Modifiable Areal Unit Problem (MAUP). Drawing on the recent work of Marcon and Puech (2025), who proposed a set of local measures of biodiversity, this talk shows that such metrics can also be used to assess retail structure across scales, taking Brussels as a case study.",
         "duration": 20,
         "tags": ["Use Cases", "Brussels", "Ecology", "Spatial Analysis"]
@@ -278,7 +278,7 @@
         "track": "track_1",
         "title": "J-emma.com — Genèse d'une archive en mouvement",
         "speakers": [{ "name": "Pacôme Béru", "organization": "Atelier Cartographique" }],
-        "languages": ["FR"],
+        "languages": ["FR", "NL"],
         "abstract": "J-emma.com est une plateforme cartographique dédiée à l'organisation et la consultation d'une archive sur l'histoire du bâti de la médina de Marrakech. Nous présenterons la méthodologie mise en place pour accompagner la genèse du projet et le géo-référencement des documents, ainsi que les éléments clés de la plateforme de visualisation. La plateforme combine Nextcloud, des développements dédiés (Rust, OpenLayers, HTML, CSS) et QGIS pour la création de fonds de plans à base de données OSM, d'orthophotos et de traitement de DEM.",
         "duration": 20,
         "tags": ["Use Cases", "Archive", "OpenLayers", "QGIS", "OSM"]
@@ -292,7 +292,7 @@
         "track": "track_1",
         "title": "A web application for simulating erosion in Wallonia, with a focus on topography",
         "speakers": [{ "name": "Julien Minet", "organization": "Champs Libres Coopérative" }],
-        "languages": ["FR"],
+        "languages": ["FR", "NL"],
         "abstract": "We present a new web application for simulating erosion in Wallonia, part of the Intell'eau research project (UCLouvain, GxABT, SPW). The application is based on the MapLibre framework and includes a 3D mode using a digital elevation model of Wallonia at 5-metre resolution, resulting in high-resolution landscape views. It allows users to simulate erosion in agricultural lands and analyse how crop adaptation can mitigate erosion risk.",
         "duration": 20,
         "tags": ["Use Cases", "MapLibre", "3D", "Erosion", "Wallonia"]
