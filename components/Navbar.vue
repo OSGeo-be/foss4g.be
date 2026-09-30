@@ -29,9 +29,9 @@
                     </li>
                     <!-- Schedule CTA Button -->
                     <li>
-                        <NuxtLinkLocale 
-                            to="/schedule" 
-                            class="bg-primary text-white px-4 py-2 rounded-lg hover:bg-primary-dark transition-colors font-medium"
+                        <NuxtLinkLocale
+                            to="/schedule"
+                            class="bg-main-color-3 text-white px-4 py-2 rounded-lg shadow-sm hover:brightness-75 hover:shadow-lg hover:scale-110 transition-all font-medium"
                         >
                             {{ $t('nav.schedule') }}
                         </NuxtLinkLocale>
@@ -90,10 +90,10 @@
                 <NuxtLinkLocale @click="close" to="/contact">{{ $t('nav.contact') }}</NuxtLinkLocale>
 
                 <!-- Mobile Schedule CTA Button -->
-                <NuxtLinkLocale 
-                    @click="close" 
-                    to="/schedule" 
-                    class="bg-primary text-white px-6 py-3 rounded-lg hover:bg-primary-dark transition-colors font-medium text-center"
+                <NuxtLinkLocale
+                    @click="close"
+                    to="/schedule"
+                    class="bg-main-color-3 text-white px-6 py-3 rounded-lg shadow-sm hover:brightness-75 hover:shadow-lg hover:scale-110 transition-all font-medium text-center"
                 >
                     {{ $t('nav.schedule') }}
                 </NuxtLinkLocale>
