@@ -111,7 +111,7 @@
       {
         "track": "track_3",
         "title": "RTTI Data Quality Parameters: What They Measure and Why They Matter",
-        "speakers": [{ "name": "Stéphanie Chaufton", "organization": "TISA" }],
+        "speakers": [{ "name": "Abel Gabor", "organization": "TISA" }],
         "languages": ["EN"],
         "abstract": "The RTTI 5-Star Rating Specification defines a common framework for assessing the quality of Real-Time Traffic Information (RTTI) data. It provides measurable quality requirements for three initial Priority Use Cases — Speed Limits, Roadworks, and Road Closures — and establishes a transparent basis for evaluating data. The standard evaluates datasets against quality parameters including availability, accessibility, accuracy, timeliness, completeness, consistency, and interoperability.",
         "duration": 20,
