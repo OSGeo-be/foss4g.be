@@ -156,7 +156,7 @@
                 </div>
 
                 <!-- Devenir membre -->
-                <div class="bg-main-color-4/10 border border-main-color-4/30 px-6 py-5 rounded-xl">
+                <div class="bg-off-white border border-main-color-4/30 px-6 py-5 rounded-xl">
                     <h2 class="text-base font-bold mb-2">{{ $t('contact.member.title') }}</h2>
                     <p class="text-xs text-neutral-dark mb-3">{{ $t('contact.member.content') }}</p>
                     <a
