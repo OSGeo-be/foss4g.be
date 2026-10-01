@@ -14,6 +14,7 @@
   },
   "dependencies": {
     "@intlify/core-base": "^11.4.9",
+    "@mdi/js": "^7.4.47",
     "@nuxtjs/google-fonts": "^3.2.0",
     "@vueuse/core": "^14.4.0",
     "class-variance-authority": "^0.7.1",
@@ -21,8 +22,7 @@
     "graphql": "^17.0.2",
     "graphql-tag": "^2.12.7",
     "graphql-ws": "^6.2.1",
-    "nuxt": "^4.5.2",
-    "nuxt-mdi": "^2.1.2"
+    "nuxt": "^4.5.2"
   },
   "devDependencies": {
     "@emnapi/core": "1.11.2",

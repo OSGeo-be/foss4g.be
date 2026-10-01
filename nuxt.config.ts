@@ -27,7 +27,6 @@ export default defineNuxtConfig({
       "@nuxtjs/tailwindcss",
       "@nuxtjs/google-fonts",
       "@nuxtjs/i18n",
-      "nuxt-mdi",
     ],
 
     plugins: [

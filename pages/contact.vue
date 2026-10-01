@@ -26,7 +26,7 @@
                     <!-- Mailing list -->
                     <a href="https://lists.osgeo.org/cgi-bin/mailman/listinfo/belgium" target="_blank" rel="noopener"
                        class="flex items-start gap-3 rounded-lg border border-neutral-light p-3 hover:shadow transition group">
-                        <MdiIcon icon="mdiEmailNewsletterOutline" class="text-main-color-4 shrink-0 mt-0.5" size="1.3em" />
+                        <MdiIcon icon="mdiEmailNewsletter" class="text-main-color-4 shrink-0 mt-0.5" size="1.3em" />
                         <div>
                             <p class="text-xs text-neutral-dark font-semibold uppercase tracking-wide mb-0.5">{{ $t('contact.channels.mailingLabel') }}</p>
                             <p class="text-sm font-semibold group-hover:underline">Mailing list — Belgium</p>
@@ -59,7 +59,7 @@
                     <!-- Telegram -->
                     <a href="https://t.me/osgeobelgium" target="_blank" rel="noopener"
                        class="flex items-start gap-3 rounded-lg border border-neutral-light p-3 hover:shadow transition group">
-                        <MdiIcon icon="mdiTelegram" class="text-main-color-4 shrink-0 mt-0.5" size="1.3em" />
+                        <MdiIcon icon="mdiSend" class="text-main-color-4 shrink-0 mt-0.5" size="1.3em" />
                         <div>
                             <p class="text-xs text-neutral-dark font-semibold uppercase tracking-wide mb-0.5">{{ $t('contact.channels.chatLabel') }}</p>
                             <p class="text-sm font-semibold group-hover:underline">Telegram</p>
