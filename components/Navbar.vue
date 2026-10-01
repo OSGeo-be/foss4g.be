@@ -13,29 +13,33 @@
                     <li>
                         <NuxtLinkLocale
                             to="/schedule"
-                            class="bg-main-color-3 text-white px-4 py-2 rounded-lg shadow-sm hover:brightness-75 hover:shadow-lg hover:scale-110 transition-all font-medium"
-                            active-class="brightness-75 shadow-lg ring-2 ring-offset-2 ring-main-color-3"
+                            :class="[
+                                'px-4 py-2 rounded-lg shadow-sm transition-all',
+                                isScheduleActive
+                                    ? 'bg-white text-main-color-3 font-medium'
+                                    : 'bg-main-color-3 text-white font-medium hover:brightness-75 hover:shadow-lg hover:scale-110'
+                            ]"
                         >
                             {{ $t('nav.schedule') }}
                         </NuxtLinkLocale>
                     </li>
                     <li>
-                        <NuxtLinkLocale to="/about" class="hover:text-teal-dark" active-class="text-teal-dark font-semibold">{{ $t('nav.about') }}</NuxtLinkLocale>
+                        <NuxtLinkLocale to="/about" class="hover:text-main-color-3 hover:font-semibold" active-class="text-main-color-3 font-semibold">{{ $t('nav.about') }}</NuxtLinkLocale>
                     </li>
                     <li>
-                        <NuxtLinkLocale to="/our-sponsors" class="hover:text-teal-dark" active-class="text-teal-dark font-semibold">{{ $t('nav.ourSponsors') }}</NuxtLinkLocale>
+                        <NuxtLinkLocale to="/our-sponsors" class="hover:text-main-color-3 hover:font-semibold" active-class="text-main-color-3 font-semibold">{{ $t('nav.ourSponsors') }}</NuxtLinkLocale>
                     </li>
                     <li>
-                        <NuxtLinkLocale to="/become-sponsor" class="hover:text-teal-dark" active-class="text-teal-dark font-semibold">{{ $t('nav.becomeSponsor') }}</NuxtLinkLocale>
+                        <NuxtLinkLocale to="/become-sponsor" class="hover:text-main-color-3 hover:font-semibold" active-class="text-main-color-3 font-semibold">{{ $t('nav.becomeSponsor') }}</NuxtLinkLocale>
                     </li>
                     <li>
-                        <NuxtLinkLocale to="/maps" class="hover:text-teal-dark" active-class="text-teal-dark font-semibold">{{ $t('nav.callForMaps') }}</NuxtLinkLocale>
+                        <NuxtLinkLocale to="/maps" class="hover:text-main-color-3 hover:font-semibold" active-class="text-main-color-3 font-semibold">{{ $t('nav.callForMaps') }}</NuxtLinkLocale>
                     </li>
                     <li>
-                        <NuxtLinkLocale to="/volunteer" class="hover:text-teal-dark" active-class="text-teal-dark font-semibold">{{ $t('nav.volunteer') }}</NuxtLinkLocale>
+                        <NuxtLinkLocale to="/volunteer" class="hover:text-main-color-3 hover:font-semibold" active-class="text-main-color-3 font-semibold">{{ $t('nav.volunteer') }}</NuxtLinkLocale>
                     </li>
                     <li>
-                        <NuxtLinkLocale to="/contact" class="hover:text-teal-dark" active-class="text-teal-dark font-semibold">{{ $t('nav.contact') }}</NuxtLinkLocale>
+                        <NuxtLinkLocale to="/contact" class="hover:text-main-color-3 hover:font-semibold" active-class="text-main-color-3 font-semibold">{{ $t('nav.contact') }}</NuxtLinkLocale>
                     </li>
                     <!-- Language Picker -->
                     <li class="relative">
@@ -88,17 +92,22 @@
                 <NuxtLinkLocale
                     @click="close"
                     to="/schedule"
-                    class="bg-main-color-3 text-white px-6 py-3 rounded-lg shadow-sm hover:brightness-75 hover:shadow-lg hover:scale-110 transition-all font-medium text-center"
+                    :class="[
+                        'px-6 py-3 rounded-lg shadow-sm transition-all text-center',
+                        isScheduleActive
+                            ? 'bg-white text-main-color-3 font-medium'
+                            : 'bg-main-color-3 text-white font-medium hover:brightness-75 hover:shadow-lg hover:scale-110'
+                    ]"
                 >
                     {{ $t('nav.schedule') }}
                 </NuxtLinkLocale>
 
-                <NuxtLinkLocale @click="close" to="/" active-class="text-teal-dark font-semibold">{{ $t('nav.home') }}</NuxtLinkLocale>
-                <NuxtLinkLocale @click="close" to="/about" active-class="text-teal-dark font-semibold">{{ $t('nav.about') }}</NuxtLinkLocale>
-                <NuxtLinkLocale @click="close" to="/maps" active-class="text-teal-dark font-semibold">{{ $t('nav.callForMaps') }}</NuxtLinkLocale>
-                <NuxtLinkLocale @click="close" to="/become-sponsor" active-class="text-teal-dark font-semibold">{{ $t('nav.becomeSponsor') }}</NuxtLinkLocale>
-                <NuxtLinkLocale @click="close" to="/volunteer" active-class="text-teal-dark font-semibold">{{ $t('nav.volunteer') }}</NuxtLinkLocale>
-                <NuxtLinkLocale @click="close" to="/contact" active-class="text-teal-dark font-semibold">{{ $t('nav.contact') }}</NuxtLinkLocale>
+                <NuxtLinkLocale @click="close" to="/" class="hover:text-main-color-3 hover:font-semibold" active-class="text-main-color-3 font-semibold">{{ $t('nav.home') }}</NuxtLinkLocale>
+                <NuxtLinkLocale @click="close" to="/about" class="hover:text-main-color-3 hover:font-semibold" active-class="text-main-color-3 font-semibold">{{ $t('nav.about') }}</NuxtLinkLocale>
+                <NuxtLinkLocale @click="close" to="/maps" class="hover:text-main-color-3 hover:font-semibold" active-class="text-main-color-3 font-semibold">{{ $t('nav.callForMaps') }}</NuxtLinkLocale>
+                <NuxtLinkLocale @click="close" to="/become-sponsor" class="hover:text-main-color-3 hover:font-semibold" active-class="text-main-color-3 font-semibold">{{ $t('nav.becomeSponsor') }}</NuxtLinkLocale>
+                <NuxtLinkLocale @click="close" to="/volunteer" class="hover:text-main-color-3 hover:font-semibold" active-class="text-main-color-3 font-semibold">{{ $t('nav.volunteer') }}</NuxtLinkLocale>
+                <NuxtLinkLocale @click="close" to="/contact" class="hover:text-main-color-3 hover:font-semibold" active-class="text-main-color-3 font-semibold">{{ $t('nav.contact') }}</NuxtLinkLocale>
 
 
                 <!-- Mobile Language Picker -->
@@ -123,11 +132,15 @@
 
 <script setup lang="ts">
 import { ref, computed } from 'vue'
+import { useRoute } from 'vue-router'
 import { useI18n } from 'vue-i18n'
 import { useSwitchLocalePath } from '#i18n'
 
 const isOpen = ref(false)
 const showDropdown = ref(false)
+
+const route = useRoute()
+const isScheduleActive = computed(() => typeof route.name === 'string' && route.name.startsWith('schedule'))
 
 function close() {
     isOpen.value = false
