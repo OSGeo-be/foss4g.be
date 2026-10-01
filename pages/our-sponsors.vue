@@ -14,7 +14,7 @@ const sponsors_community: { name: string; link?: string }[] = (sponsorsData as a
 
             <!-- Hero intro -->
             <section class="max-w-5xl mx-auto grid grid-cols-1 sm:grid-cols-2 gap-6">
-                <div class="sm:col-span-2 bg-primary-dark rounded-xl overflow-hidden shadow-md flex flex-col sm:flex-row items-center gap-0">
+                <div class="relative sm:col-span-2 bg-primary-dark rounded-xl overflow-hidden shadow-md flex flex-col sm:flex-row items-center gap-0">
                     <div class="flex-1 p-8 text-white">
                         <h1 class="text-2xl font-bold mb-3">{{ $t('sponsors.hero.title') }}</h1>
                         <p class="text-sm text-white/80 mb-5">{{ $t('sponsors.hero.description') }}</p>
@@ -25,12 +25,12 @@ const sponsors_community: { name: string; link?: string }[] = (sponsorsData as a
                             {{ $t('sponsors.support.cta') }}
                         </NuxtLinkLocale>
                     </div>
-                    <img
-                        src="/images/background-topology.svg"
-                        alt=""
-                        aria-hidden="true"
-                        class="hidden sm:block h-48 w-auto object-contain opacity-30 pr-6"
-                    />
+                    <!-- decorative map-like circles -->
+                    <div class="absolute right-0 top-0 h-full w-32 sm:w-48 pointer-events-none overflow-hidden opacity-10">
+                        <div class="absolute -right-6 -top-6 w-40 h-40 rounded-full border-4 border-white"></div>
+                        <div class="absolute -right-2 top-8 w-24 h-24 rounded-full border-2 border-white"></div>
+                        <div class="absolute right-8 -bottom-4 w-32 h-32 rounded-full border-4 border-white"></div>
+                    </div>
                 </div>
             </section>
 

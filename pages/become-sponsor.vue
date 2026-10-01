@@ -138,14 +138,12 @@ const bronzeSponsors: Sponsor[] = sponsorsData.bronze
                             {{ $t('sponsors.support.cta') }}
                         </NuxtLinkLocale>
                     </div>
-                    <div class="shrink-0 p-6 flex items-center justify-center">
-                        <img
-                            src="/images/background-topology.svg"
-                            alt=""
-                            aria-hidden="true"
-                            class="h-36 w-auto object-contain opacity-40"
-                        />
-                    </div>
+                </div>
+                <!-- decorative map-like circles -->
+                <div class="absolute right-0 top-0 h-full w-32 sm:w-48 pointer-events-none overflow-hidden opacity-10">
+                    <div class="absolute -right-6 -top-6 w-40 h-40 rounded-full border-4 border-white"></div>
+                    <div class="absolute -right-2 top-8 w-24 h-24 rounded-full border-2 border-white"></div>
+                    <div class="absolute right-8 -bottom-4 w-32 h-32 rounded-full border-4 border-white"></div>
                 </div>
             </section>
 
