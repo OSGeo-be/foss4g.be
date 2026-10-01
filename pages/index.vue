@@ -36,21 +36,6 @@ onUnmounted(() => clearInterval(timer))
 <template>
     <div class="flex-1 px-4 py-6 space-y-8 lg:px-8 lg:py-12">
 
-        <!-- Navigation rapide -->
-        <!-- section
-            id="quick-nav"
-            class="bg-off-white py-6 rounded-xl shadow max-w-5xl mx-auto flex flex-col items-center justify-center space-y-4"
-        >
-            <div class="text-center">
-                <NuxtLinkLocale
-                    to="/schedule"
-                    class="bg-main-color-4 m-3 text-white px-4 py-2 rounded-lg hover:bg-off-white hover:text-main-color-4 hover:border-main-color-4 border-2 transition-colors font-medium"
-                >
-                    {{ $t('nav.schedule') }}
-                </NuxtLinkLocale>
-            </div>
-        </section -->
-
         <!-- HERO -->
         <section
             class="bg-off-white py-6 rounded-xl shadow max-w-5xl mx-auto flex flex-col items-center justify-center space-y-4"
@@ -153,66 +138,6 @@ onUnmounted(() => clearInterval(timer))
 
         <!-- CARDS GRID -->
         <section class="grid grid-cols-1 sm:grid-cols-2 gap-6 max-w-5xl mx-auto">
-            <!-- Call for Topics -->
-            <!-- div class="bg-off-white rounded-xl shadow overflow-hidden p-5 ">
-                <div class="w-full h-30 flex flex-row">
-                    <h2 class="text-lg font-bold mb-2">{{ $t('cards.callForTopics.title') }}</h2>
-                </div>
-                <div class="flex flex-col justify-center sm:flex-row">
-                    <div class="w-full sm:w-2/5 h-40 sm:h-auto">
-                        <img
-                            src="/images/call.png"
-                            alt="Megaphone"
-                            class="w-full h-full object-contain p-4"
-                        />
-                    </div>
-                    <div class="flex flex-col justify-end flex-1">
-                        <p class="text-sm text-neutral-dark mb-4">
-                            {{ $t('cards.callForTopics.description') }}
-                        </p>
-                        <NuxtLinkLocale
-                            to="/present"
-                            class="flex justify-center border-2 border-main-color-3 text-main-color-3 font-semibold px-4 py-2 rounded-lg hover:bg-main-color-3 hover:text-white transition text-sm"
-                        >
-                            {{ $t('cards.callForTopics.button') }}
-                        </NuxtLinkLocale>
-                    </div>
-                </div>
-            </div !-->
-
-            <!-- Schedule preview -->
-            <!-- div id="schedule" class="bg-primary-dark rounded-xl shadow p-5 flex flex-col">
-                <h2 class="text-lg font-bold text-white mb-3">{{ $t('cards.schedulePreview.title') }}</h2>
-                <NuxtLinkLocale
-                    to="/schedule"
-                    class="mt-4 inline-block bg-primary hover:bg-primary-dark text-off-white font-semibold px-4 py-2 rounded-lg transition text-sm self-start"
-                >
-
-                    {{ $t('cards.schedulePreview.button') }}
-                </NuxtLinkLocale>
-            </div !-->
-
-            <!-- Call for Sponsors — hidden, sponsoring closed -->
-            <!-- div class="bg-off-white px-2 rounded-xl shadow overflow-hidden flex flex-col sm:flex-row">
-                <div class="p-5 flex flex-col justify-center flex-1">
-                    <h2 class="text-lg font-bold mb-2">{{ $t('cards.callForSponsors.title') }}</h2>
-                    <p class="text-sm text-neutral-dark mb-4">{{ $t('cards.callForSponsors.description') }}</p>
-                    <NuxtLinkLocale
-                        to="/become-sponsor"
-                        class="flex justify-center border-2 border-main-color-2 text-main-color-2 font-semibold px-4 py-2 rounded-lg hover:bg-main-color-2 hover:text-white transition text-sm"
-                    >
-                        {{ $t('cards.callForSponsors.button') }}
-                    </NuxtLinkLocale>
-                </div>
-                <div class="w-full sm:w-2/5 h-40 sm:h-auto">
-                    <img
-                        src="/images/saving-pig.png"
-                        alt="Piggy bank"
-                        class="w-full h-full object-contain p-4"
-                    />
-                </div>
-            </div -->
-
             <!-- Volunteers -->
             <div class="bg-off-white px-2 rounded-xl shadow overflow-hidden flex flex-col sm:flex-row">
                 <!-- Text panel -->
