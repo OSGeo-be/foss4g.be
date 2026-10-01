@@ -39,7 +39,7 @@ onUnmounted(() => clearInterval(timer))
         <!-- Navigation rapide -->
         <!-- section
             id="quick-nav"
-            class="bg-off-white py-6 rounded-xl shadow max-w-3xl mx-auto flex flex-col items-center justify-center space-y-4"
+            class="bg-off-white py-6 rounded-xl shadow max-w-5xl mx-auto flex flex-col items-center justify-center space-y-4"
         >
             <div class="text-center">
                 <NuxtLinkLocale
@@ -53,7 +53,7 @@ onUnmounted(() => clearInterval(timer))
 
         <!-- HERO -->
         <section
-            class="bg-off-white py-6 rounded-xl shadow max-w-3xl mx-auto flex flex-col items-center justify-center space-y-4"
+            class="bg-off-white py-6 rounded-xl shadow max-w-5xl mx-auto flex flex-col items-center justify-center space-y-4"
         >
             <img
                 src="/images/foss4g.svg"
@@ -75,7 +75,7 @@ onUnmounted(() => clearInterval(timer))
         <!-- Our gold sponsors -->
         <section
             id="gold-sponsors"
-            class="bg-off-white py-6 rounded-xl shadow max-w-3xl mx-auto flex flex-col items-center justify-center space-y-4"
+            class="bg-off-white py-6 rounded-xl shadow max-w-5xl mx-auto flex flex-col items-center justify-center space-y-4"
         >
             <h2 class="text-lg font-bold mb-2 mx-8">
                 {{ $t('index.goldSponsors.thanksTo') }}
@@ -115,7 +115,7 @@ onUnmounted(() => clearInterval(timer))
         </section>
 
         <!-- Become a Sponsor band -->
-        <section class="relative max-w-3xl mx-auto rounded-xl shadow overflow-hidden bg-primary-dark text-white">
+        <section class="relative max-w-5xl mx-auto rounded-xl shadow overflow-hidden bg-primary-dark text-white">
             <div class="flex flex-col sm:flex-row items-center gap-4 px-6 py-6">
                 <div class="flex-1">
                     <h2 class="text-lg font-bold mb-1">{{ $t('cards.callForSponsors.title') }}</h2>
@@ -137,7 +137,7 @@ onUnmounted(() => clearInterval(timer))
         </section>
 
         <!-- Inscriptions -->
-        <section id="get-your-tickets" class="bg-off-white px-6 py-6 rounded-xl shadow max-w-3xl mx-auto flex flex-col items-center text-center space-y-4">
+        <section id="get-your-tickets" class="bg-off-white px-6 py-6 rounded-xl shadow max-w-5xl mx-auto flex flex-col items-center text-center space-y-4">
             <h2 class="text-xl font-bold">{{ $t('index.registration.title') }}</h2>
             <p class="text-sm text-neutral-dark">{{ $t('index.registration.free.content') }}</p>
             <a
@@ -152,7 +152,7 @@ onUnmounted(() => clearInterval(timer))
         </section>
 
         <!-- CARDS GRID -->
-        <section class="grid grid-cols-1 sm:grid-cols-2 gap-6 max-w-3xl mx-auto">
+        <section class="grid grid-cols-1 sm:grid-cols-2 gap-6 max-w-5xl mx-auto">
             <!-- Call for Topics -->
             <!-- div class="bg-off-white rounded-xl shadow overflow-hidden p-5 ">
                 <div class="w-full h-30 flex flex-row">
@@ -265,7 +265,7 @@ onUnmounted(() => clearInterval(timer))
         <!-- ABOUT -->
         <section
             id="about"
-            class="bg-off-white px-6 py-6 rounded-xl shadow max-w-3xl mx-auto flex flex-col items-center"
+            class="bg-off-white px-6 py-6 rounded-xl shadow max-w-5xl mx-auto flex flex-col items-center"
         >
             <h2 class="text-lg font-bold mb-3">{{ $t('index.about.title') }}</h2>
             <p class="text-sm text-neutral-dark text-center mb-4">
@@ -298,7 +298,7 @@ onUnmounted(() => clearInterval(timer))
         <!-- Countdown -->
         <section
             id="countdown"
-            class="max-w-3xl mx-auto bg-gradient-to-r from-primary-dark text-white rounded-2xl shadow-lg p-8 grid grid-cols-2 sm:grid-cols-4 gap-4 text-center"
+            class="max-w-5xl mx-auto bg-gradient-to-r from-primary-dark text-white rounded-2xl shadow-lg p-8 grid grid-cols-2 sm:grid-cols-4 gap-4 text-center"
         >
             <div>
                 <p class="text-4xl sm:text-5xl font-extrabold">{{ timeLeft.days }}</p>
