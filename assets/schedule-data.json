@@ -180,12 +180,12 @@
       },
       {
         "track": "track_2",
-        "title": "Mapping cycling infrastructure in OpenStreetMap",
-        "speakers": [{ "name": "Seppe Santens", "organization": "Westtoer" }],
+        "title": "How to get nice geographic data from OpenStreetMap in Belgium?",
+        "speakers": [{ "name": "Julien Minet", "organization": "Champs Libres Coopérative" }],
         "languages": ["EN"],
-        "abstract": "Good cycling infrastructure data is essential for modern mobility analysis. In this hands-on workshop, we dive into mapping cycling infrastructure in OSM and re-using that data. We deconstruct the tagging scheme, use Overpass Turbo to pinpoint missing or inconsistent bicycle data, get hands-on with the iD editor or JOSM, and learn how to query OSM data and export for analysis in your GIS tool of choice. (Workshop — 90 min)",
+        "abstract": "OpenStreetMap (OSM) is a collaborative map of the world, increasingly recognised as an awesome source of geographic data. In this workshop, we focus on the state of OSM data in Belgium: what can be found in OSM, how to get the data, what is its quality, and what is the situation in Belgium? We go through thematic data (road, building, land-use, infrastructure) and look at their state. Targeted at anyone who would like to use OSM data in their process. (Workshop — 90 min)",
         "duration": 90,
-        "tags": ["Workshop", "OpenStreetMap", "Cycling", "Overpass Turbo", "iD editor"]
+        "tags": ["Workshop", "OpenStreetMap", "Belgium", "Data Quality"]
       },
       {
         "track": "track_3",
@@ -250,12 +250,12 @@
       },
       {
         "track": "track_2",
-        "title": "How to get nice geographic data from OpenStreetMap in Belgium?",
-        "speakers": [{ "name": "Julien Minet", "organization": "Champs Libres Coopérative" }],
+        "title": "Mapping cycling infrastructure in OpenStreetMap",
+        "speakers": [{ "name": "Seppe Santens", "organization": "Westtoer" }],
         "languages": ["EN"],
-        "abstract": "OpenStreetMap (OSM) is a collaborative map of the world, increasingly recognised as an awesome source of geographic data. In this workshop, we focus on the state of OSM data in Belgium: what can be found in OSM, how to get the data, what is its quality, and what is the situation in Belgium? We go through thematic data (road, building, land-use, infrastructure) and look at their state. Targeted at anyone who would like to use OSM data in their process. (Workshop — 90 min)",
+        "abstract": "Good cycling infrastructure data is essential for modern mobility analysis. In this hands-on workshop, we dive into mapping cycling infrastructure in OSM and re-using that data. We deconstruct the tagging scheme, use Overpass Turbo to pinpoint missing or inconsistent bicycle data, get hands-on with the iD editor or JOSM, and learn how to query OSM data and export for analysis in your GIS tool of choice. (Workshop — 90 min)",
         "duration": 90,
-        "tags": ["Workshop", "OpenStreetMap", "Belgium", "Data Quality"]
+        "tags": ["Workshop", "OpenStreetMap", "Cycling", "Overpass Turbo", "iD editor"]
       },
       {
         "track": "track_3",
