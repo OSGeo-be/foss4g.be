@@ -18,7 +18,7 @@
     "nuxt": "^4.5.2"
   },
   "devDependencies": {
-    "@emnapi/core": "1.11.2",
+    "@emnapi/core": "1.11.3",
     "@emnapi/runtime": "1.11.3",
     "@nuxtjs/i18n": "^10.6.0",
     "@nuxtjs/tailwindcss": "^6.14.0",
