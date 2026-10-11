@@ -46,6 +46,18 @@
       "link": "https://www.spacebel.com/",
       "logo": "/images/sponsors/spacebel-logo.svg",
       "bgClass": "bg-white"
+    },
+    {
+      "name": "NGI / IGN",
+      "link": "https://ngi.be/fr/",
+      "logo": "/images/sponsors/ngi-logo.jpg",
+      "bgClass": "bg-white"
+    },
+    {
+      "name": "Georhythm",
+      "link": "https://georhythm.be/",
+      "logo": "/images/sponsors/georhythm-logo.png",
+      "bgClass": "bg-white"
     }
   ],
   "community": []
