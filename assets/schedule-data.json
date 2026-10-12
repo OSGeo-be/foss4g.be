@@ -140,10 +140,10 @@
       },
       {
         "track": "track_2",
-        "title": "Le rendu, la donnée, et l'argent du beurre. Panorama 2026 des tuiles vectorielles",
+        "title": "Rendering and Data : same fight - a 2026 panorama of vector tiles",
         "speakers": [{ "name": "Marc Ducobu", "organization": "WAPY" }],
         "languages": ["EN"],
-        "abstract": "Les tuiles vectorielles permettent de servir la donnée et de maîtriser le rendu côté client, sans choisir entre les deux. Nous reviendrons sur le principe, puis sur l'actualité : MLT, le successeur du format MVT annoncé début 2026, l'usage (web mapping et support dans QGIS), et finalement sur les méthodes pour produire ses propres tuiles.",
+        "abstract": "Vector tiles let you serve data and control rendering on the client side. No need to choose between the two. We will revisit the principle, then talk about how they are used (dynamic web mapping with MapLibre and support in QGIS), how to produce your own tiles, and the latest development: MLT, the successor to the MVT format (announced in early 2026).",
         "duration": 20,
         "tags": ["Tools", "Vector Tiles", "MVT", "QGIS", "Web Mapping"]
       },
