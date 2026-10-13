@@ -93,7 +93,7 @@
       {
         "track": "track_1",
         "title": "A web application for simulating erosion in Wallonia, with a focus on topography",
-        "speakers": [{ "name": "Julien Minet", "organization": "Champs Libres Coopérative" }],
+        "speakers": [{ "name": "Julien Minet", "organization": "Champs Libres Coopérative" }, { "name": "Damien Mercier", "organization": "Champs Libres Coopérative" }],
         "languages": ["FR", "NL"],
         "abstract": "We present a new web application for simulating erosion in Wallonia, part of the Intell'eau research project (UCLouvain, GxABT, SPW). The application is based on the MapLibre framework and includes a 3D mode using a digital elevation model of Wallonia at 5-metre resolution, resulting in high-resolution landscape views. It allows users to simulate erosion in agricultural lands and analyse how crop adaptation can mitigate erosion risk.",
         "duration": 20,
