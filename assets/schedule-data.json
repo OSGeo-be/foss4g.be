@@ -20,7 +20,11 @@
     "event": {
       "title": "Coffee Break",
       "speakers": [],
-      "type": "break"
+      "type": "break",
+      "sponsors": [
+        { "name": "Atelier Cartographique", "logo": "/images/sponsors/ateliercartographique-logo.svg" },
+        { "name": "Mergin Maps", "logo": "/images/sponsors/merginmaps.png" }
+      ]
     }
   },
   {
@@ -163,7 +167,11 @@
     "event": {
       "title": "Lunch",
       "speakers": [],
-      "type": "break"
+      "type": "break",
+      "sponsors": [
+        { "name": "Merkator Group", "logo": "/images/sponsors/merkatorGR.png", "big": true },
+        { "name": "Geo IT", "logo": "/images/sponsors/geoit-logo.png" }
+      ]
     }
   },
   {
@@ -233,7 +241,11 @@
     "event": {
       "title": "Coffee Break",
       "speakers": [],
-      "type": "break"
+      "type": "break",
+      "sponsors": [
+        { "name": "Champs-Libres", "logo": "/images/sponsors/champslibres-logo.svg" },
+        { "name": "Blue Square Hub", "logo": "/images/sponsors/bluesquare-logo.svg" }
+      ]
     }
   },
   {
@@ -304,7 +316,11 @@
     "event": {
       "title": "Coffee Break",
       "speakers": [],
-      "type": "break"
+      "type": "break",
+      "sponsors": [
+        { "name": "Merkator Group", "logo": "/images/sponsors/merkatorGR.png", "big": true },
+        { "name": "Geo IT", "logo": "/images/sponsors/geoit-logo.png" }
+      ]
     }
   },
   {

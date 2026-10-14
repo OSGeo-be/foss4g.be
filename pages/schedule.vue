@@ -25,12 +25,19 @@ interface Talk {
   readonly link?: string
 }
 
+interface BreakSponsor {
+  readonly name: string
+  readonly logo: string
+  readonly big?: boolean
+}
+
 interface FullWidthEvent {
   readonly title: string
   readonly speakers: readonly Speaker[]
   readonly type: EventType
   readonly abstract?: string
   readonly tags?: readonly string[]
+  readonly sponsors?: readonly BreakSponsor[]
 }
 
 interface TimeSlot {
@@ -568,6 +575,26 @@ function isTalkExpanded(time: string, track: string): boolean {
                           {{ tag }}
                         </span>
                       </div>
+                    </div>
+                  </div>
+
+                  <!-- Break sponsors -->
+                  <div
+                    v-if="slot.event.sponsors && slot.event.sponsors.length > 0"
+                    class="flex items-center gap-3 mt-3 pt-3 border-t border-current/10 flex-wrap"
+                  >
+                    <span class="text-xs font-medium opacity-60 flex-shrink-0">
+                      {{ t('sponsors.footer.thankYou') }}
+                    </span>
+                    <div class="flex items-center gap-4 flex-wrap">
+                      <img
+                        v-for="sponsor in slot.event.sponsors"
+                        :key="sponsor.name"
+                        :src="sponsor.logo"
+                        :alt="sponsor.name"
+                        class="object-contain"
+                        :style="{ height: sponsor.big ? '3rem' : '1.5rem', maxWidth: sponsor.big ? '160px' : '110px' }"
+                      />
                     </div>
                   </div>
                 </div>
