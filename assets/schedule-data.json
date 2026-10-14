@@ -97,7 +97,7 @@
       {
         "track": "track_1",
         "title": "A web application for simulating erosion in Wallonia, with a focus on topography",
-        "speakers": [{ "name": "Julien Minet", "organization": "Champs Libres Coopérative" }, { "name": "Damien Mercier", "organization": "Champs Libres Coopérative" }],
+        "speakers": [{ "name": "Julien Minet", "organization": null }, { "name": "Damien Mercier", "organization": "Champs Libres Coopérative" }],
         "languages": ["FR", "NL"],
         "abstract": "We present a new web application for simulating erosion in Wallonia, part of the Intell'eau research project (UCLouvain, GxABT, SPW). The application is based on the MapLibre framework and includes a 3D mode using a digital elevation model of Wallonia at 5-metre resolution, resulting in high-resolution landscape views. It allows users to simulate erosion in agricultural lands and analyse how crop adaptation can mitigate erosion risk.",
         "duration": 20,
@@ -145,7 +145,7 @@
       {
         "track": "track_2",
         "title": "Rendering and Data : same fight - a 2026 panorama of vector tiles",
-        "speakers": [{ "name": "Marc Ducobu", "organization": "WAPY" }],
+        "speakers": [{ "name": "Marc Ducobu", "organization": "wapy" }],
         "languages": ["EN"],
         "abstract": "Vector tiles let you serve data and control rendering on the client side. No need to choose between the two. We will revisit the principle, then talk about how they are used (dynamic web mapping with MapLibre and support in QGIS), how to produce your own tiles, and the latest development: MLT, the successor to the MVT format (announced in early 2026).",
         "duration": 20,
@@ -212,7 +212,7 @@
       {
         "track": "track_1",
         "title": "From Orthophotos to Objects: Building a GeoAI Change-Detection Pipeline with Open-Source Tools at NGI",
-        "speakers": [{ "name": "Jérôme Servais", "organization": "NGI — IGN" }],
+        "speakers": [{ "name": "Jérôme Servais", "organization": "NGI - IGN" }],
         "languages": ["FR", "NL"],
         "abstract": "Every new aerial survey captures changes that take time to reach the map. Our GeoAI project uses open-source deep learning to detect topographic objects and changes automatically from aerial orthophotos. This talk presents the pipeline: from orthophoto to trained model, inference, post-processing, and integration into the database and quality-control chain. Built on YOLO/Ultralytics and the Segment Anything Model, and developed in collaboration with Kadaster NL. The \"cartographer in the loop\" remains central by design.",
         "duration": 20,
@@ -263,7 +263,7 @@
       {
         "track": "track_2",
         "title": "Mapping cycling infrastructure in OpenStreetMap",
-        "speakers": [{ "name": "Seppe Santens", "organization": "Westtoer" }],
+        "speakers": [{ "name": "Joost Schouppe", "organization": "OSM" }],
         "languages": ["EN"],
         "abstract": "Good cycling infrastructure data is essential for modern mobility analysis. In this hands-on workshop, we dive into mapping cycling infrastructure in OSM and re-using that data. We deconstruct the tagging scheme, use Overpass Turbo to pinpoint missing or inconsistent bicycle data, get hands-on with the iD editor or JOSM, and learn how to query OSM data and export for analysis in your GIS tool of choice. (Workshop — 90 min)",
         "duration": 90,
@@ -289,7 +289,7 @@
       {
         "track": "track_1",
         "title": "GeoSearch, le nouveau geocoder développé par l'IGN",
-        "speakers": [{ "name": "Florence Masson", "organization": "Institut Géographique National" }],
+        "speakers": [{ "name": "David Robberechts", "organization": "Institut Géographique National" }],
         "languages": ["FR", "NL"],
         "abstract": "L'Institut Géographique National (IGN) a récemment développé un nouvel outil de géocodage GeoSearch, actuellement disponible gratuitement. GeoSearch permet d'effectuer des recherches d'adresses à partir de BeSt Address, la source authentique des adresses en Belgique. L'outil intègre par ailleurs les données cadastrales ainsi que la toponymie de l'IGN, et offre également la possibilité de rechercher des bornes kilométriques.",
         "duration": 20,
