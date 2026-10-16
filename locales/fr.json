@@ -422,6 +422,11 @@
       "minutes": "minutes",
       "moreText": "plus"
     },
+    "slides": {
+      "available": "Slides disponibles",
+      "view": "Voir les slides",
+      "individual": "Slides par présentation"
+    },
     "languages": {
       "english": "Anglais",
       "french": "Français",

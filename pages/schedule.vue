@@ -14,6 +14,15 @@ interface Speaker {
   readonly organization: string | null
 }
 
+interface TalkSlides {
+  readonly type: 'pdf' | 'url'
+  readonly href: string
+}
+
+interface TalkSlidesItem extends TalkSlides {
+  readonly speaker: string
+}
+
 interface Talk {
   readonly track: 'track_1' | 'track_2' | 'track_3'
   readonly title: string
@@ -23,6 +32,8 @@ interface Talk {
   readonly duration?: number
   readonly tags?: readonly string[]
   readonly link?: string
+  readonly slides?: TalkSlides
+  readonly slidesMultiple?: readonly TalkSlidesItem[]
 }
 
 interface BreakSponsor {
@@ -38,6 +49,7 @@ interface FullWidthEvent {
   readonly abstract?: string
   readonly tags?: readonly string[]
   readonly sponsors?: readonly BreakSponsor[]
+  readonly slides?: TalkSlides
 }
 
 interface TimeSlot {
@@ -564,7 +576,12 @@ function isTalkExpanded(time: string, track: string): boolean {
                     <div class="flex-1">
                       <h3 class="text-lg font-semibold">{{ slot.event.title }}</h3>
                       <p class="text-sm opacity-80 mt-1">{{ formatTimeRange(slot.time, getEventDuration(slot.event.type)) }}</p>
-                      
+
+                      <!-- Event Speakers -->
+                      <p v-if="slot.event.speakers && slot.event.speakers.length > 0" class="text-sm opacity-70 mt-1">
+                        {{ formatSpeakerInfo(slot.event.speakers) }}
+                      </p>
+
                       <!-- Event Tags -->
                       <div v-if="slot.event.tags && slot.event.tags.length > 0" class="flex flex-wrap gap-1 mt-3">
                         <span
@@ -574,6 +591,21 @@ function isTalkExpanded(time: string, track: string): boolean {
                         >
                           {{ tag }}
                         </span>
+                      </div>
+
+                      <!-- Keynote slides -->
+                      <div v-if="slot.event.slides" class="mt-3">
+                        <a
+                          :href="slot.event.slides.href"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-white/20 hover:bg-white/30 text-current text-xs font-medium rounded-md transition-colors border border-current/20"
+                          @click.stop
+                        >
+                          <MdiIcon :icon="slot.event.slides.type === 'pdf' ? 'mdiFilePdfBox' : 'mdiPresentation'" size="0.875em" aria-hidden="true" />
+                          <span>{{ t('schedule.slides.view') }}</span>
+                          <MdiIcon icon="mdiOpenInNew" size="0.75em" aria-hidden="true" />
+                        </a>
                       </div>
                     </div>
                   </div>
@@ -667,6 +699,13 @@ function isTalkExpanded(time: string, track: string): boolean {
                       <!-- Talk Title -->
                       <h3 class="font-semibold text-gray-900 text-sm mb-3 leading-tight line-clamp-3">
                         {{ talk.title }}
+                        <span
+                          v-if="talk.slides || talk.slidesMultiple"
+                          class="inline-flex items-center ml-1.5 align-middle"
+                          :title="t('schedule.slides.available')"
+                        >
+                          <MdiIcon icon="mdiPresentation" size="0.9em" class="text-primary opacity-70" aria-hidden="true" />
+                        </span>
                       </h3>
                       
                       <!-- Speaker Information -->
@@ -706,13 +745,27 @@ function isTalkExpanded(time: string, track: string): boolean {
                             <h4 class="text-xs font-semibold text-gray-700 uppercase tracking-wide mb-2">{{ t('schedule.expandable.abstract') }}</h4>
                             <p class="text-sm text-gray-600 leading-relaxed whitespace-pre-line">{{ talk.abstract }}</p>
                           </div>
-                          <div class="flex items-center gap-3">
+                          <div class="flex items-center gap-3 flex-wrap">
                             <div v-if="talk.duration" class="flex items-center gap-1">
                               <MdiIcon icon="mdiClockOutline" size="0.875em" class="text-gray-400" aria-hidden="true" />
                               <span class="text-xs text-gray-500">{{ talk.duration }} {{ t('schedule.expandable.minutes') }}</span>
                             </div>
+                            <!-- Single slides link -->
                             <a
-                              v-if="talk.link"
+                              v-if="talk.slides"
+                              :href="talk.slides.href"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-primary text-white text-xs font-medium rounded-md hover:bg-primary-dark transition-colors"
+                              @click.stop
+                            >
+                              <MdiIcon :icon="talk.slides.type === 'pdf' ? 'mdiFilePdfBox' : 'mdiPresentation'" size="0.875em" aria-hidden="true" />
+                              <span>{{ t('schedule.slides.view') }}</span>
+                              <MdiIcon icon="mdiOpenInNew" size="0.75em" aria-hidden="true" />
+                            </a>
+                            <!-- Legacy link field -->
+                            <a
+                              v-else-if="talk.link"
                               :href="talk.link"
                               target="_blank"
                               rel="noopener noreferrer"
@@ -720,9 +773,27 @@ function isTalkExpanded(time: string, track: string): boolean {
                               @click.stop
                             >
                               <MdiIcon icon="mdiFileDownloadOutline" size="0.875em" aria-hidden="true" />
-                              <span>View Presentation</span>
+                              <span>{{ t('schedule.slides.view') }}</span>
                               <MdiIcon icon="mdiOpenInNew" size="0.75em" aria-hidden="true" />
                             </a>
+                          </div>
+                          <!-- Flash Talk individual slides -->
+                          <div v-if="talk.slidesMultiple && talk.slidesMultiple.length > 0" class="mt-3 pt-3 border-t border-gray-100">
+                            <p class="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-2">{{ t('schedule.slides.individual') }}</p>
+                            <div class="flex flex-wrap gap-2">
+                              <a
+                                v-for="item in talk.slidesMultiple"
+                                :key="item.speaker"
+                                :href="item.href"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                class="inline-flex items-center gap-1.5 px-2.5 py-1 bg-gray-100 text-gray-700 text-xs font-medium rounded-md hover:bg-gray-200 transition-colors border border-gray-200"
+                                @click.stop
+                              >
+                                <MdiIcon :icon="item.type === 'pdf' ? 'mdiFilePdfBox' : 'mdiPresentation'" size="0.75em" aria-hidden="true" />
+                                <span>{{ item.speaker }}</span>
+                              </a>
+                            </div>
                           </div>
                         </div>
                       </Transition>
