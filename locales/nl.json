@@ -422,6 +422,11 @@
       "minutes": "minuten",
       "moreText": "meer"
     },
+    "slides": {
+      "available": "Slides beschikbaar",
+      "view": "Slides bekijken",
+      "individual": "Slides per presentatie"
+    },
     "languages": {
       "english": "Engels",
       "french": "Frans",
