@@ -151,6 +151,15 @@
       "item6": "URL naar de digitale kaart of meer informatie, indien beschikbaar",
       "item7": "Downloadlink of bijlage met de digitale versie van de kaart (in PNG of PDF formaat met een minimumresolutie van 2342 x 3311 pixels)",
       "item8": "Of wij de kaart moeten afdrukken of dat u ze zelf meebrengt naar de conferentie"
+    },
+    "winner": {
+      "sectionTitle": "Kaartengalerij 2026",
+      "label": "Winnaar",
+      "mapTitle": "Bois-de-Courtelle — boskaart",
+      "author": "Julien Minet",
+      "viewMap": "Bekijk de kaart (PDF)",
+      "thanks": "Hartelijk dank aan alle deelnemers die hun kaart hebben ingediend voor deze editie.",
+      "editionBadge": "Editie 2026 — afgerond"
     }
   },
   "present": {
@@ -421,6 +430,11 @@
       "abstract": "Samenvatting",
       "minutes": "minuten",
       "moreText": "meer"
+    },
+    "slides": {
+      "available": "Slides beschikbaar",
+      "view": "Slides bekijken",
+      "individual": "Slides per presentatie"
     },
     "languages": {
       "english": "Engels",

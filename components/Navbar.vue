@@ -30,9 +30,6 @@
                         <NuxtLinkLocale to="/our-sponsors" class="hover:text-main-color-3 hover:font-semibold" active-class="text-main-color-3 font-semibold">{{ $t('nav.ourSponsors') }}</NuxtLinkLocale>
                     </li>
                     <li>
-                        <NuxtLinkLocale to="/become-sponsor" class="hover:text-main-color-3 hover:font-semibold" active-class="text-main-color-3 font-semibold">{{ $t('nav.becomeSponsor') }}</NuxtLinkLocale>
-                    </li>
-                    <li>
                         <NuxtLinkLocale to="/maps" class="hover:text-main-color-3 hover:font-semibold" active-class="text-main-color-3 font-semibold">{{ $t('nav.callForMaps') }}</NuxtLinkLocale>
                     </li>
                     <li>
@@ -105,7 +102,6 @@
                 <NuxtLinkLocale @click="close" to="/" class="hover:text-main-color-3 hover:font-semibold" active-class="text-main-color-3 font-semibold">{{ $t('nav.home') }}</NuxtLinkLocale>
                 <NuxtLinkLocale @click="close" to="/about" class="hover:text-main-color-3 hover:font-semibold" active-class="text-main-color-3 font-semibold">{{ $t('nav.about') }}</NuxtLinkLocale>
                 <NuxtLinkLocale @click="close" to="/maps" class="hover:text-main-color-3 hover:font-semibold" active-class="text-main-color-3 font-semibold">{{ $t('nav.callForMaps') }}</NuxtLinkLocale>
-                <NuxtLinkLocale @click="close" to="/become-sponsor" class="hover:text-main-color-3 hover:font-semibold" active-class="text-main-color-3 font-semibold">{{ $t('nav.becomeSponsor') }}</NuxtLinkLocale>
                 <NuxtLinkLocale @click="close" to="/volunteer" class="hover:text-main-color-3 hover:font-semibold" active-class="text-main-color-3 font-semibold">{{ $t('nav.volunteer') }}</NuxtLinkLocale>
                 <NuxtLinkLocale @click="close" to="/contact" class="hover:text-main-color-3 hover:font-semibold" active-class="text-main-color-3 font-semibold">{{ $t('nav.contact') }}</NuxtLinkLocale>
 

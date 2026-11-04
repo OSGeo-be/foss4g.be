@@ -151,6 +151,15 @@
       "item6": "URL to the digital map or more information, if applicable",
       "item7": "Download link or attachment containing the digital version of the map (in PNG or PDF format with a minimum resolution of 2342 x 3311 pixels)",
       "item8": "Whether we should print the map or you will bring it to the conference yourself"
+    },
+    "winner": {
+      "sectionTitle": "Map Gallery 2026",
+      "label": "Winner",
+      "mapTitle": "Bois-de-Courtelle — Forest Map",
+      "author": "Julien Minet",
+      "viewMap": "View the map (PDF)",
+      "thanks": "Many thanks to all participants who submitted their maps for this edition.",
+      "editionBadge": "2026 edition — completed"
     }
   },
   "present": {
@@ -421,6 +430,11 @@
       "abstract": "Abstract",
       "minutes": "minutes",
       "moreText": "more"
+    },
+    "slides": {
+      "available": "Slides available",
+      "view": "View slides",
+      "individual": "Slides per talk"
     },
     "languages": {
       "english": "English",
