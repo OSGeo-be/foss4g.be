@@ -1,435 +1,444 @@
-{
-  "head": {
-    "title": "FOSS4G Belgique 2026",
-    "subtitle": "Bruxelles, 15 octobre 2026"
-  },
-  "nav": {
-    "home": "Accueil",
-    "about": "À propos",
-    "callForPresentations": "Appel à présentations",
-    "callForMaps": "Présentez votre carte",
-    "schedule": "Programme",
-    "ourSponsors": "Nos sponsors",
-    "becomeSponsor": "Devenir sponsor",
-    "volunteer": "Nous aider",
-    "contact": "Contact",
-    "booklet": "Brochure",
-    "map": "Plan"
-  },
-  "index": {
-    "about": {
-      "title": "À propos de FOSS4G",
-      "teaser": "Rejoignez-nous le 15 octobre 2026 à Bruxelles pour une conférence d'une journée avec discours, ateliers pratiques et réseautage autour des outils géospatiaux open-source.",
-      "features": {
-        "keynotes": "Discours & Présentations",
-        "networking": "Réseautage Communautaire",
-        "osgeoTools": "Outils OSGEO"
-      },
-      "learnMore": "En savoir plus"
-    },
-    "goldSponsors": {
-      "thanksTo": "Merci à nos",
-      "goldSponsors": "sponsors or",
-      "whoSupportUs": "qui supportent notre événement.",
-      "showAllSponsors": "Découvrez tous nos sponsors"
-    },
-    "getYourTickets": "Inscriptions bientôt disponibles",
-    "registration": {
-      "title": "Entrée libre — inscription obligatoire",
-      "free": {
-        "title": "Participation gratuite",
-        "content": "La conférence est entièrement gratuite. Une inscription préalable est cependant requise pour des raisons logistiques (capacité, catering, badges).",
-        "opensNote": "Inscriptions ouvertes en septembre 2026, une fois le programme publié."
-      },
-      "attestation": {
-        "title": "Attestation de formation",
-        "content": "Besoin d'une attestation pour votre participation ? C'est possible via un mécanisme de sponsoring organisationnel (100 €).",
-        "contact": "Contacter board@osgeo.be",
-        "contactUrl": "mailto:board@osgeo.be"
-      },
-      "legalNote": "Conformément aux conditions du lieu, aucun droit d'entrée n'est perçu. Tout soutien financier passe exclusivement par le sponsoring organisationnel.",
-      "mailing": {
-        "title": "Mailing list",
-        "content": "Soyez notifié(e) par email dès l'ouverture des inscriptions.",
-        "label": "S'inscrire à la mailing list",
-        "url": "https://lists.osgeo.org/cgi-bin/mailman/listinfo/belgium"
-      },
-      "pretix": {
-        "title": "Liste d'attente Pretix",
-        "content": "Recevez un lien personnel dès l'ouverture officielle.",
-        "label": "Obtenir mon billet",
-        "url": "https://pretix.eu/osgeobe/foss4gbe/"
-      }
-    },
-    "address": "Avenue du Port 86C, 1000 Bruxelles"
-  },
-  "about": {
-    "whoWeAre": {
-      "title": "Qui sommes-nous ?",
-      "content": "Nous sommes le chapitre belge de la Open Source Geospatial Foundation (OSGeo)."
-    },
-    "mission": {
-      "title": "Notre mission",
-      "content": "La foundation OSGeo est une organisation à but non lucratif dont la mission est de soutenir le développement de logiciels géospatiaux open source et de promouvoir leur utilisation. La fondation fournit un soutien financier, organisationnel et juridique à la communauté géospatiale open source au sens large."
-    },
-    "support": {
-      "title": "Support",
-      "content": "Notre organisation sert d'entité juridique indépendante où les membres peuvent contribuer par du code, des financements et d'autres ressources, assurant la préservation des contributions pour le bénéfice public. OSGeo agit aussi en tant qu'organisation de sensibilisation et de plaidoyer, offrant forum et infrastructure partagée pour renforcer la collaboration entre projets."
-    },
-    "events": {
-      "title": "Événements FOSS4G Belgium",
-      "content": "Une des activités principales de l'OSGeo Belgium est l'organisation d'événements rassemblant la communauté géospatiale open source en Belgique. Notre événement le plus important est le FOSS4G Belgium."
-    },
-    "projects": {
-      "title": "Projets Open Source",
-      "content": "Les projets soutenus par la fondation OSGeo sont tous librement disponibles et utilisables sous une licence open source certifiée par l'OSI. Ces projets incluent des logiciels géospatiaux populaires tels que QGIS, GeoServer, PostGIS, et bien d'autres qui sont largement utilisés dans l'industrie."
-    }
-  },
-  "contact": {
-    "contactUs": "Contactez-nous",
-    "askByEmailTo": "Pour toute demande, vous pouvez nous envoyer un courriel à",
-    "sendAnEmail": "Envoyer un email",
-    "followUs": "Réseaux sociaux",
-    "channels": {
-      "title": "Nos canaux",
-      "mailingLabel": "Discussion principale",
-      "chatLabel": "Chat en temps réel",
-      "matrixNote": "Nouveau sur Matrix ? Créez un compte gratuit en 2 min — le salon s'ouvre directement dans le navigateur, sans installation."
-    },
-    "resources": {
-      "title": "Ressources web"
-    },
-    "member": {
-      "title": "Devenez membre",
-      "content": "Rejoignez OSGeo Belgium en vous inscrivant sur notre mailing list. L'adhésion est ouverte à tous, gratuitement.",
-      "cta": "S'inscrire à la mailing list",
-      "note": "La mailing list est notre canal de communication principal. Vous recevrez des informations sur nos événements et pourrez participer aux discussions."
-    }
-  },
-  "maps": {
-    "title": "Call for Maps — Galerie cartographique",
-    "content": "La Maps Competition est un rendez-vous incontournable de FOSS4G Belgium depuis 2022. Soumettez votre carte réalisée avec des logiciels libres et voyez-la exposée lors de la conférence.",
-    "tradition": {
-      "title": "Une tradition FOSS4G Belgium",
-      "content": "Depuis 2022, les participants soumettent des cartes réalisées avec des logiciels libres. Les meilleures sont sélectionnées, imprimées en grand format et exposées tout au long de la journée de conférence."
-    },
-    "criteria": {
-      "title": "Critères de soumission",
-      "software": "Carte réalisée entièrement avec des logiciels libres (QGIS, GRASS, R, Python/Matplotlib, D3.js, MapLibre, Inkscape…)",
-      "resolution": "Fichier haute résolution : PNG ou PDF, minimum 300 dpi, format A2 ou A1",
-      "theme": "Tout thème accepté : urbain, environnement, histoire, transport, art, données ouvertes…",
-      "legend": "Une légende et un titre sont requis",
-      "description": "Une courte description (150 mots max) indiquant les outils utilisés"
-    },
-    "selection": {
-      "title": "Sélection et exposition",
-      "committee": "Sélection par le comité d'organisation début octobre",
-      "print": "Cartes sélectionnées imprimées en grand format",
-      "display": "Exposition tout au long de la journée du 15 octobre",
-      "credit": "Mention des auteurs sur les cartes et dans le programme"
-    },
-    "timeline": {
-      "title": "Calendrier",
-      "opensDate": "1 septembre 2026",
-      "opensLabel": "Ouverture des soumissions",
-      "closesDate": "9 octobre 2026",
-      "closesLabel": "Date limite de soumission",
-      "eventDate": "15 octobre 2026",
-      "eventLabel": "Exposition à FOSS4G-BE!"
-    },
-    "submit": {
-      "title": "Comment soumettre ?",
-      "content": "Vous pouvez soumettre votre carte de deux manières : via le formulaire (méthode privilégiée) ou par e-mail.",
-      "form": "Remplissez le formulaire et soumettez votre carte dès maintenant !",
-      "formButton": "Soumettre votre carte",
-      "mail": "Ou envoyez un e-mail à l'adresse ci-dessous en indiquant les informations suivantes :",
-      "item1": "Titre de la carte",
-      "item2": "Nom de l'auteur·e",
-      "item3": "Organisation / affiliation",
-      "item4": "Co-auteur·e·s éventuel·le·s",
-      "item5": "Brève description de la carte — mentionnez le logiciel et les données utilisés",
-      "item6": "URL vers la carte numérique ou informations complémentaires, si disponible",
-      "item7": "Lien de téléchargement ou pièce jointe contenant la version numérique de la carte (au format PNG ou PDF, avec une résolution minimale de 2342 x 3311 pixels)",
-      "item8": "Indication précisant si nous devons imprimer la carte ou si vous l'apporterez vous-même à la conférence"
-    }
-  },
-  "present": {
-    "callToPresentations": {
-      "title": "Appel à propositions",
-      "teaser": "Contribuez au succès de l'édition 2026. FOSS4G Belgique aura lieu le 15 octobre 2026.",
-      "opensLabel": "Ouverture :",
-      "opensDate": "7 juillet 2026",
-      "closesLabel": "Date limite :",
-      "closesDate": "25 août 2026"
-    },
-    "formats": {
-      "title": "Formats",
-      "flash": {
-        "title": "Flash talk",
-        "duration": "2 minutes",
-        "desc": "Présenter brièvement un sujet de votre choix, une carte ou un poster"
-      },
-      "presentation": {
-        "title": "Présentation",
-        "duration": "25 min (20 min + 5 min Q/R)",
-        "desc": "Présenter un sujet de manière approfondie"
-      },
-      "workshop": {
-        "title": "Workshop",
-        "duration": "90 minutes (après-midi)",
-        "desc": "Session pratique initiant les participants à un logiciel, un plug-in, …"
-      }
-    },
-    "topics": {
-      "title": "Thématiques",
-      "osm": "OpenStreetMap - cartographie collaborative + Open Data",
-      "postgresql": "PostgreSQL - PostGIS",
-      "qgis": "QGIS + GRASS GIS",
-      "python": "Python/R",
-      "other": "Autres sujets"
-    },
-    "submission": {
-      "title": "Modalités de soumission",
-      "intro": "Votre proposition doit inclure :",
-      "fieldTitle": "Titre",
-      "fieldSummary": "Résumé (max 250 mots)",
-      "fieldWorkshop": "Si workshop : préciser les prérequis techniques pour les participants",
-      "fieldMaps": "Si carte ou poster : indiquer s'il doit être imprimé ou apporté par vous-même",
-      "fieldLanguage": "Langue(s)",
-      "fieldLevel": "Niveau",
-      "fieldFormat": "Format(s) souhaité(s) (plusieurs choix possibles)",
-      "formTitle": "Soumission des propositions",
-      "formIntro": "Les propositions doivent être déposées via le formulaire :",
-      "formLink": "Call for proposals | Framaforms.org",
-      "formUrl": "https://framaforms.org/call-for-proposals-1780600203"
-    },
-    "criterias": {
-      "title": "Critères d'évaluation",
-      "quality": "Qualité des soumissions",
-      "relevance": "Pertinence pour le public",
-      "program": "Cohérence avec le programme",
-      "note": "Le choix du comité de programme est définitif et sans appel. Les décisions du comité de programme ne reflètent l'opinion d'aucun employeur des membres."
-    },
-    "timeline": {
-      "title": "Calendrier",
-      "opensDate": "7 juillet 2026",
-      "opensLabel": "Ouverture des soumissions",
-      "closesDate": "25 août 2026",
-      "closesLabel": "Date limite de soumission",
-      "notificationDate": "8 septembre 2026",
-      "notificationLabel": "Notification aux auteur·e·s",
-      "programDate": "15 septembre 2026",
-      "programLabel": "Programme publié",
-      "eventDate": "15 octobre 2026",
-      "eventLabel": "Événement à Bruxelles"
-    },
-    "deadline": {
-      "title": "Date limite",
-      "text": "La date limite de soumission est fixée au 25 août 2026, mais nous invitons à soumettre la proposition dès que possible. Les propositions seront évaluées par le Comité du programme et les auteurs seront informés si leur contribution a été acceptée. Toutes les propositions acceptées seront publiées sur le site de l'événement."
-    },
-    "questions": {
-      "title": "Des questions ?",
-      "contactUsAt": "Si vous avez des questions sur la soumission d'une proposition, veuillez contacter"
-    }
-  },
-  "volunteer": {
-    "title": "Appel aux bénévoles — FOSS4G Belgium 2026",
-    "content": "FOSS4G Belgium repose sur l'énergie de sa communauté. Rejoignez l'équipe de bénévoles pour contribuer à l'organisation de la journée du 15 octobre 2026 à Bruxelles.",
-    "contactUs": "Nous contacter",
-    "perks": {
-      "title": "Ce que vous gagnez",
-      "tshirt": "T-shirt bénévole exclusif",
-      "networking": "Rencontres avec les speakers et les participants",
-      "community": "Contribution directe à la communauté open source belge"
-    },
-    "roles": {
-      "title": "Postes disponibles",
-      "reception": {
-        "title": "Accueil & Badges",
-        "spots": "3 bénévoles",
-        "desc": "Accueil des participants à l'entrée et distribution du matériel"
-      },
-      "room": {
-        "title": "Support en salle",
-        "spots": "4 à 6 bénévoles",
-        "desc": "Micro pendant les Q&A et signaux timing pour les orateurs"
-      },
-      "av": {
-        "title": "Technique audio/vidéo",
-        "spots": "2 bénévoles",
-        "desc": "Son, projection et gestion du streaming éventuel"
-      },
-      "social": {
-        "title": "Réseaux sociaux",
-        "spots": "1 à 2 bénévoles",
-        "desc": "Couverture de l'événement en temps réel sur les plateformes sociales"
-      },
-      "maps": {
-        "title": "Galerie de cartes & Expo",
-        "spots": "2 bénévoles",
-        "desc": "Installation et surveillance de la galerie de cartes"
-      },
-      "coordination": {
-        "title": "Coordination générale",
-        "spots": "1 à 2 bénévoles",
-        "desc": "Support à l'équipe organisatrice et résolution des imprévus"
-      }
-    },
-    "timeline": {
-      "title": "Calendrier",
-      "opensDate": "7 juillet 2026",
-      "opensLabel": "Ouverture des inscriptions bénévoles en ligne",
-      "meetup1Date": "4 juin 2026",
-      "meetup1Label": "Rencontre en présentiel — Cercle des Voyageurs, Bruxelles (dès 18h)",
-      "meetup2Date": "3 septembre 2026",
-      "meetup2Label": "Rencontre en présentiel — Cercle des Voyageurs, Bruxelles (dès 18h)",
-      "briefingDate": "10 octobre 2026",
-      "briefingLabel": "Briefing en ligne",
-      "eventDate": "15 octobre 2026",
-      "eventLabel": "Journée bénévole — Tour & Taxis, Bruxelles"
-    },
-    "apply": {
-      "title": "Comment s'impliquer maintenant",
-      "content": "Pas de date limite. Contactez-nous par email ou cochez l'option bénévole lors de votre inscription sur Pretix.",
-      "pretixLabel": "S'inscrire comme bénévole sur Pretix"
-    }
-  },
-  "cards": {
-    "callForTopics": {
-      "title": "Appel à présentations",
-      "description": "Nous recherchons des présentations sur des sujets sur la thématique géospatial open-source. (Date limite: à préciser)",
-      "button": "Présenter"
-    },
-    "schedulePreview": {
-      "comingSoon": "Bientôt disponible",
-      "title": "Aperçu du programme",
-      "day1Label": "Jour 1 :",
-      "day1Items": "Accueil, Keynote, Déjeuner",
-      "day2Label": "Jour 2 :",
-      "day2Items": "Ateliers, Présentations",
-      "button": "Voir le programme complet"
-    },
-    "callForSponsors": {
-      "title": "Faites comme eux et soutenez FOSS4G Belgium 2026 !",
-      "description": "Rejoignez nos sponsors et gagnez en visibilité auprès de la communauté géospatiale open source belge.",
-      "button": "Devenir sponsor"
-    },
-    "volunteers": {
-      "title": "Aidez-nous!",
-      "description": "Mettez vos compétences et votre énergie au service du succès de FOSS4G Belgium 2026.",
-      "button": "Participer"
-    },
-    "callForMaps": {
-      "title": "Galerie de cartes",
-      "description": "Vous créez des cartes avec des outils open source ou des données ouvertes ? Soumettez votre travail à la Map Gallery.",
-      "button": "Soumettre une carte"
-    }
-  },
-  "countdown": {
-    "days": "Jours",
-    "hours": "Heures",
-    "minutes": "Minutes",
-    "seconds": "Secondes"
-  },
-  "sponsors": {
-    "gold": "Sponsors Gold",
-    "silver": "Sponsors Silver",
-    "bronze": "Sponsors Bronze",
-    "community": "Participants Community",
-    "hero": {
-      "title": "Soutenez FOSS4G Belgium 2026",
-      "description": "En sponsorisant FOSS4G Belgium, vous soutenez la communauté géospatiale open source belge et gagnez en visibilité auprès de ses membres."
-    },
-    "features": {
-      "logoOnFoss4gBig": "Logo (grand format) sur foss4g.be + bannière dans l'en-tête du site",
-      "logoInProgramHeader": "Logo dans l'en-tête du programme imprimé (A3/A0)",
-      "coSponsorLunch": "(Co-)sponsor du lunch à votre nom",
-      "booth": "Stand de présentation",
-      "dedicatedPost": "Post dédié sur les réseaux sociaux",
-      "miniPresentation": "Mini-présentation optionnelle (2–3 min) : votre engagement open source en Belgique",
-      "tshirtGift": "T-shirt OSGeo Belgium offert",
-      "stickersGift": "Stickers FOSS4G 2026 offerts",
-      "logoOnFoss4g": "Logo sur foss4g.be",
-      "logoOnSponsorsPage": "Logo sur la page des sponsors",
-      "namedMomentSilver": "Co-sponsoring possible d'une pause café ou du verre de clôture (au choix)",
-      "smallBooth": "Petit stand de présentation",
-      "inProgramAtBreaks": "Repris dans le programme au niveau des pauses sponsorisées",
-      "socialMention": "Mention réseaux sociaux",
-      "officialInvoice": "Une facture officielle vous sera transmise"
-    },
-    "tiers": {
-      "gold": {
-        "title": "Gold",
-        "price": "1 200 €",
-        "cta": "Devenir sponsor Gold"
-      },
-      "silver": {
-        "title": "Silver",
-        "price": "500 €",
-        "cta": "Devenir sponsor Silver"
-      },
-      "bronze": {
-        "title": "Bronze",
-        "price": "250 €",
-        "cta": "Devenir sponsor Bronze"
-      },
-      "community": {
-        "title": "Community",
-        "price": "100 €",
-        "description": "FOSS4G Belgium propose des présentations et des ateliers pratiques. Si vous souhaitez soutenir l'événement et le valoriser comme formation dans votre organisation, nous pouvons émettre une facture officielle.",
-        "cta": "Nous contacter",
-        "mailSubject": "Demande de soutien Community — FOSS4G Belgium 2026"
-      }
-    },
-    "coc": {
-      "title": "Code de conduite des sponsors",
-      "text": "Les sponsors de FOSS4G Belgium partagent les valeurs d'OSGeo : ouverture, collaboration et respect de la communauté. En devenant sponsor, vous vous engagez à respecter le <a href=\"https://www.osgeo.org/resources/osgeo-code-of-conduct/\" target=\"_blank\" rel=\"noopener\">Code de conduite OSGeo</a>. Les modalités détaillées seront précisées dans le dossier de sponsoring."
-    },
-    "support": {
-      "title": "Soutenez FOSS4G Belgium 2026",
-      "description": "Construisons ensemble la carte de la communauté géospatiale open source belge. Votre soutien rend l'événement possible et vous positionne au cœur de cet écosystème.",
-      "cta": "Devenir Sponsor"
-    },
-    "footer": {
-      "thankYou": "Merci à nos sponsors",
-      "subtext": "Votre soutien rend FOSS4G Belgium 2026 possible !"
-    }
-  },
-  "schedule": {
-    "title": "Programme",
-    "subtitle": "15 octobre 2026 • Bruxelles, Belgique",
-    "stats": {
-      "presentations": "Présentations",
-      "speakers": "Orateurs",
-      "tracks": "Pistes",
-      "duration": "Durée"
-    },
-    "search": {
-      "placeholder": "Rechercher des présentations, orateurs ou organisations..."
-    },
-    "filters": {
-      "allTracks": "Toutes les Pistes",
-      "track1": "Agora",
-      "track2": "Sylva",
-      "track3": "Aqua",
-      "talksOnly": "Présentations seulement"
-    },
-    "upcoming": {
-      "upNext": "À venir à"
-    },
-    "expandable": {
-      "abstract": "Résumé",
-      "minutes": "minutes",
-      "moreText": "plus"
-    },
-    "languages": {
-      "english": "Anglais",
-      "french": "Français",
-      "dutch": "Néerlandais"
-    },
-    "empty": {
-      "title": "Programme bientôt disponible",
-      "description": "Le programme de FOSS4G Belgium 2026 sera annoncé prochainement."
-    }
-  }
+﻿{
+    "head":  {
+                 "title":  "FOSS4G Belgique 2026",
+                 "subtitle":  "Bruxelles, 15 octobre 2026"
+             },
+    "nav":  {
+                "home":  "Accueil",
+                "about":  "À propos",
+                "callForPresentations":  "Appel à présentations",
+                "callForMaps":  "Présentez votre carte",
+                "schedule":  "Programme",
+                "ourSponsors":  "Nos sponsors",
+                "becomeSponsor":  "Devenir sponsor",
+                "volunteer":  "Nous aider",
+                "contact":  "Contact",
+                "booklet":  "Brochure",
+                "map":  "Plan"
+            },
+    "index":  {
+                  "about":  {
+                                "title":  "À propos de FOSS4G",
+                                "teaser":  "Rejoignez-nous le 15 octobre 2026 à Bruxelles pour une conférence d\u0027une journée avec discours, ateliers pratiques et réseautage autour des outils géospatiaux open-source.",
+                                "features":  {
+                                                 "keynotes":  "Discours \u0026 Présentations",
+                                                 "networking":  "Réseautage Communautaire",
+                                                 "osgeoTools":  "Outils OSGEO"
+                                             },
+                                "learnMore":  "En savoir plus"
+                            },
+                  "goldSponsors":  {
+                                       "thanksTo":  "Merci à nos",
+                                       "goldSponsors":  "sponsors or",
+                                       "whoSupportUs":  "qui supportent notre événement.",
+                                       "showAllSponsors":  "Découvrez tous nos sponsors"
+                                   },
+                  "getYourTickets":  "Inscriptions bientôt disponibles",
+                  "registration":  {
+                                       "title":  "Entrée libre — inscription obligatoire",
+                                       "free":  {
+                                                    "title":  "Participation gratuite",
+                                                    "content":  "La conférence est entièrement gratuite. Une inscription préalable est cependant requise pour des raisons logistiques (capacité, catering, badges).",
+                                                    "opensNote":  "Inscriptions ouvertes en septembre 2026, une fois le programme publié."
+                                                },
+                                       "attestation":  {
+                                                           "title":  "Attestation de formation",
+                                                           "content":  "Besoin d\u0027une attestation pour votre participation ? C\u0027est possible via un mécanisme de sponsoring organisationnel (100 €).",
+                                                           "contact":  "Contacter board@osgeo.be",
+                                                           "contactUrl":  "mailto:board@osgeo.be"
+                                                       },
+                                       "legalNote":  "Conformément aux conditions du lieu, aucun droit d\u0027entrée n\u0027est perçu. Tout soutien financier passe exclusivement par le sponsoring organisationnel.",
+                                       "mailing":  {
+                                                       "title":  "Mailing list",
+                                                       "content":  "Soyez notifié(e) par email dès l\u0027ouverture des inscriptions.",
+                                                       "label":  "S\u0027inscrire à la mailing list",
+                                                       "url":  "https://lists.osgeo.org/cgi-bin/mailman/listinfo/belgium"
+                                                   },
+                                       "pretix":  {
+                                                      "title":  "Liste d\u0027attente Pretix",
+                                                      "content":  "Recevez un lien personnel dès l\u0027ouverture officielle.",
+                                                      "label":  "Obtenir mon billet",
+                                                      "url":  "https://pretix.eu/osgeobe/foss4gbe/"
+                                                  }
+                                   },
+                  "address":  "Avenue du Port 86C, 1000 Bruxelles"
+              },
+    "about":  {
+                  "whoWeAre":  {
+                                   "title":  "Qui sommes-nous ?",
+                                   "content":  "Nous sommes le chapitre belge de la Open Source Geospatial Foundation (OSGeo)."
+                               },
+                  "mission":  {
+                                  "title":  "Notre mission",
+                                  "content":  "La foundation OSGeo est une organisation à but non lucratif dont la mission est de soutenir le développement de logiciels géospatiaux open source et de promouvoir leur utilisation. La fondation fournit un soutien financier, organisationnel et juridique à la communauté géospatiale open source au sens large."
+                              },
+                  "support":  {
+                                  "title":  "Support",
+                                  "content":  "Notre organisation sert d\u0027entité juridique indépendante où les membres peuvent contribuer par du code, des financements et d\u0027autres ressources, assurant la préservation des contributions pour le bénéfice public. OSGeo agit aussi en tant qu\u0027organisation de sensibilisation et de plaidoyer, offrant forum et infrastructure partagée pour renforcer la collaboration entre projets."
+                              },
+                  "events":  {
+                                 "title":  "Événements FOSS4G Belgium",
+                                 "content":  "Une des activités principales de l\u0027OSGeo Belgium est l\u0027organisation d\u0027événements rassemblant la communauté géospatiale open source en Belgique. Notre événement le plus important est le FOSS4G Belgium."
+                             },
+                  "projects":  {
+                                   "title":  "Projets Open Source",
+                                   "content":  "Les projets soutenus par la fondation OSGeo sont tous librement disponibles et utilisables sous une licence open source certifiée par l\u0027OSI. Ces projets incluent des logiciels géospatiaux populaires tels que QGIS, GeoServer, PostGIS, et bien d\u0027autres qui sont largement utilisés dans l\u0027industrie."
+                               }
+              },
+    "contact":  {
+                    "contactUs":  "Contactez-nous",
+                    "askByEmailTo":  "Pour toute demande, vous pouvez nous envoyer un courriel à",
+                    "sendAnEmail":  "Envoyer un email",
+                    "followUs":  "Réseaux sociaux",
+                    "channels":  {
+                                     "title":  "Nos canaux",
+                                     "mailingLabel":  "Discussion principale",
+                                     "chatLabel":  "Chat en temps réel",
+                                     "matrixNote":  "Nouveau sur Matrix ? Créez un compte gratuit en 2 min — le salon s\u0027ouvre directement dans le navigateur, sans installation."
+                                 },
+                    "resources":  {
+                                      "title":  "Ressources web"
+                                  },
+                    "member":  {
+                                   "title":  "Devenez membre",
+                                   "content":  "Rejoignez OSGeo Belgium en vous inscrivant sur notre mailing list. L\u0027adhésion est ouverte à tous, gratuitement.",
+                                   "cta":  "S\u0027inscrire à la mailing list",
+                                   "note":  "La mailing list est notre canal de communication principal. Vous recevrez des informations sur nos événements et pourrez participer aux discussions."
+                               }
+                },
+    "maps":  {
+                 "title":  "Call for Maps — Galerie cartographique",
+                 "content":  "La Maps Competition est un rendez-vous incontournable de FOSS4G Belgium depuis 2022. Soumettez votre carte réalisée avec des logiciels libres et voyez-la exposée lors de la conférence.",
+                 "tradition":  {
+                                   "title":  "Une tradition FOSS4G Belgium",
+                                   "content":  "Depuis 2022, les participants soumettent des cartes réalisées avec des logiciels libres. Les meilleures sont sélectionnées, imprimées en grand format et exposées tout au long de la journée de conférence."
+                               },
+                 "criteria":  {
+                                  "title":  "Critères de soumission",
+                                  "software":  "Carte réalisée entièrement avec des logiciels libres (QGIS, GRASS, R, Python/Matplotlib, D3.js, MapLibre, Inkscape…)",
+                                  "resolution":  "Fichier haute résolution : PNG ou PDF, minimum 300 dpi, format A2 ou A1",
+                                  "theme":  "Tout thème accepté : urbain, environnement, histoire, transport, art, données ouvertes…",
+                                  "legend":  "Une légende et un titre sont requis",
+                                  "description":  "Une courte description (150 mots max) indiquant les outils utilisés"
+                              },
+                 "selection":  {
+                                   "title":  "Sélection et exposition",
+                                   "committee":  "Sélection par le comité d\u0027organisation début octobre",
+                                   "print":  "Cartes sélectionnées imprimées en grand format",
+                                   "display":  "Exposition tout au long de la journée du 15 octobre",
+                                   "credit":  "Mention des auteurs sur les cartes et dans le programme"
+                               },
+                 "timeline":  {
+                                  "title":  "Calendrier",
+                                  "opensDate":  "1 septembre 2026",
+                                  "opensLabel":  "Ouverture des soumissions",
+                                  "closesDate":  "9 octobre 2026",
+                                  "closesLabel":  "Date limite de soumission",
+                                  "eventDate":  "15 octobre 2026",
+                                  "eventLabel":  "Exposition à FOSS4G-BE!"
+                              },
+                 "submit":  {
+                                "title":  "Comment soumettre ?",
+                                "content":  "Vous pouvez soumettre votre carte de deux manières : via le formulaire (méthode privilégiée) ou par e-mail.",
+                                "form":  "Remplissez le formulaire et soumettez votre carte dès maintenant !",
+                                "formButton":  "Soumettre votre carte",
+                                "mail":  "Ou envoyez un e-mail à l\u0027adresse ci-dessous en indiquant les informations suivantes :",
+                                "item1":  "Titre de la carte",
+                                "item2":  "Nom de l\u0027auteur·e",
+                                "item3":  "Organisation / affiliation",
+                                "item4":  "Co-auteur·e·s éventuel·le·s",
+                                "item5":  "Brève description de la carte — mentionnez le logiciel et les données utilisés",
+                                "item6":  "URL vers la carte numérique ou informations complémentaires, si disponible",
+                                "item7":  "Lien de téléchargement ou pièce jointe contenant la version numérique de la carte (au format PNG ou PDF, avec une résolution minimale de 2342 x 3311 pixels)",
+                                "item8":  "Indication précisant si nous devons imprimer la carte ou si vous l\u0027apporterez vous-même à la conférence"
+                            },
+                 "winner":  {
+                                "sectionTitle":  "Galerie cartographique 2026",
+                                "editionBadge":  "Édition 2026 — terminée",
+                                "label":  "Lauréat",
+                                "mapTitle":  "Bois-de-Courtelle — carte forestière",
+                                "author":  "Julien Minet",
+                                "viewMap":  "Voir la carte (PDF)",
+                                "thanks":  "Un grand merci à tous les participants qui ont soumis leurs cartes pour cette édition."
+                            }
+             },
+    "present":  {
+                    "callToPresentations":  {
+                                                "title":  "Appel à propositions",
+                                                "teaser":  "Contribuez au succès de l\u0027édition 2026. FOSS4G Belgique aura lieu le 15 octobre 2026.",
+                                                "opensLabel":  "Ouverture :",
+                                                "opensDate":  "7 juillet 2026",
+                                                "closesLabel":  "Date limite :",
+                                                "closesDate":  "25 août 2026"
+                                            },
+                    "formats":  {
+                                    "title":  "Formats",
+                                    "flash":  {
+                                                  "title":  "Flash talk",
+                                                  "duration":  "2 minutes",
+                                                  "desc":  "Présenter brièvement un sujet de votre choix, une carte ou un poster"
+                                              },
+                                    "presentation":  {
+                                                         "title":  "Présentation",
+                                                         "duration":  "25 min (20 min + 5 min Q/R)",
+                                                         "desc":  "Présenter un sujet de manière approfondie"
+                                                     },
+                                    "workshop":  {
+                                                     "title":  "Workshop",
+                                                     "duration":  "90 minutes (après-midi)",
+                                                     "desc":  "Session pratique initiant les participants à un logiciel, un plug-in, …"
+                                                 }
+                                },
+                    "topics":  {
+                                   "title":  "Thématiques",
+                                   "osm":  "OpenStreetMap - cartographie collaborative + Open Data",
+                                   "postgresql":  "PostgreSQL - PostGIS",
+                                   "qgis":  "QGIS + GRASS GIS",
+                                   "python":  "Python/R",
+                                   "other":  "Autres sujets"
+                               },
+                    "submission":  {
+                                       "title":  "Modalités de soumission",
+                                       "intro":  "Votre proposition doit inclure :",
+                                       "fieldTitle":  "Titre",
+                                       "fieldSummary":  "Résumé (max 250 mots)",
+                                       "fieldWorkshop":  "Si workshop : préciser les prérequis techniques pour les participants",
+                                       "fieldMaps":  "Si carte ou poster : indiquer s\u0027il doit être imprimé ou apporté par vous-même",
+                                       "fieldLanguage":  "Langue(s)",
+                                       "fieldLevel":  "Niveau",
+                                       "fieldFormat":  "Format(s) souhaité(s) (plusieurs choix possibles)",
+                                       "formTitle":  "Soumission des propositions",
+                                       "formIntro":  "Les propositions doivent être déposées via le formulaire :",
+                                       "formLink":  "Call for proposals | Framaforms.org",
+                                       "formUrl":  "https://framaforms.org/call-for-proposals-1780600203"
+                                   },
+                    "criterias":  {
+                                      "title":  "Critères d\u0027évaluation",
+                                      "quality":  "Qualité des soumissions",
+                                      "relevance":  "Pertinence pour le public",
+                                      "program":  "Cohérence avec le programme",
+                                      "note":  "Le choix du comité de programme est définitif et sans appel. Les décisions du comité de programme ne reflètent l\u0027opinion d\u0027aucun employeur des membres."
+                                  },
+                    "timeline":  {
+                                     "title":  "Calendrier",
+                                     "opensDate":  "7 juillet 2026",
+                                     "opensLabel":  "Ouverture des soumissions",
+                                     "closesDate":  "25 août 2026",
+                                     "closesLabel":  "Date limite de soumission",
+                                     "notificationDate":  "8 septembre 2026",
+                                     "notificationLabel":  "Notification aux auteur·e·s",
+                                     "programDate":  "15 septembre 2026",
+                                     "programLabel":  "Programme publié",
+                                     "eventDate":  "15 octobre 2026",
+                                     "eventLabel":  "Événement à Bruxelles"
+                                 },
+                    "deadline":  {
+                                     "title":  "Date limite",
+                                     "text":  "La date limite de soumission est fixée au 25 août 2026, mais nous invitons à soumettre la proposition dès que possible. Les propositions seront évaluées par le Comité du programme et les auteurs seront informés si leur contribution a été acceptée. Toutes les propositions acceptées seront publiées sur le site de l\u0027événement."
+                                 },
+                    "questions":  {
+                                      "title":  "Des questions ?",
+                                      "contactUsAt":  "Si vous avez des questions sur la soumission d\u0027une proposition, veuillez contacter"
+                                  }
+                },
+    "volunteer":  {
+                      "title":  "Appel aux bénévoles — FOSS4G Belgium 2026",
+                      "content":  "FOSS4G Belgium repose sur l\u0027énergie de sa communauté. Rejoignez l\u0027équipe de bénévoles pour contribuer à l\u0027organisation de la journée du 15 octobre 2026 à Bruxelles.",
+                      "contactUs":  "Nous contacter",
+                      "perks":  {
+                                    "title":  "Ce que vous gagnez",
+                                    "tshirt":  "T-shirt bénévole exclusif",
+                                    "networking":  "Rencontres avec les speakers et les participants",
+                                    "community":  "Contribution directe à la communauté open source belge"
+                                },
+                      "roles":  {
+                                    "title":  "Postes disponibles",
+                                    "reception":  {
+                                                      "title":  "Accueil \u0026 Badges",
+                                                      "spots":  "3 bénévoles",
+                                                      "desc":  "Accueil des participants à l\u0027entrée et distribution du matériel"
+                                                  },
+                                    "room":  {
+                                                 "title":  "Support en salle",
+                                                 "spots":  "4 à 6 bénévoles",
+                                                 "desc":  "Micro pendant les Q\u0026A et signaux timing pour les orateurs"
+                                             },
+                                    "av":  {
+                                               "title":  "Technique audio/vidéo",
+                                               "spots":  "2 bénévoles",
+                                               "desc":  "Son, projection et gestion du streaming éventuel"
+                                           },
+                                    "social":  {
+                                                   "title":  "Réseaux sociaux",
+                                                   "spots":  "1 à 2 bénévoles",
+                                                   "desc":  "Couverture de l\u0027événement en temps réel sur les plateformes sociales"
+                                               },
+                                    "maps":  {
+                                                 "title":  "Galerie de cartes \u0026 Expo",
+                                                 "spots":  "2 bénévoles",
+                                                 "desc":  "Installation et surveillance de la galerie de cartes"
+                                             },
+                                    "coordination":  {
+                                                         "title":  "Coordination générale",
+                                                         "spots":  "1 à 2 bénévoles",
+                                                         "desc":  "Support à l\u0027équipe organisatrice et résolution des imprévus"
+                                                     }
+                                },
+                      "timeline":  {
+                                       "title":  "Calendrier",
+                                       "opensDate":  "7 juillet 2026",
+                                       "opensLabel":  "Ouverture des inscriptions bénévoles en ligne",
+                                       "meetup1Date":  "4 juin 2026",
+                                       "meetup1Label":  "Rencontre en présentiel — Cercle des Voyageurs, Bruxelles (dès 18h)",
+                                       "meetup2Date":  "3 septembre 2026",
+                                       "meetup2Label":  "Rencontre en présentiel — Cercle des Voyageurs, Bruxelles (dès 18h)",
+                                       "briefingDate":  "10 octobre 2026",
+                                       "briefingLabel":  "Briefing en ligne",
+                                       "eventDate":  "15 octobre 2026",
+                                       "eventLabel":  "Journée bénévole — Tour \u0026 Taxis, Bruxelles"
+                                   },
+                      "apply":  {
+                                    "title":  "Comment s\u0027impliquer maintenant",
+                                    "content":  "Pas de date limite. Contactez-nous par email ou cochez l\u0027option bénévole lors de votre inscription sur Pretix.",
+                                    "pretixLabel":  "S\u0027inscrire comme bénévole sur Pretix"
+                                }
+                  },
+    "cards":  {
+                  "callForTopics":  {
+                                        "title":  "Appel à présentations",
+                                        "description":  "Nous recherchons des présentations sur des sujets sur la thématique géospatial open-source. (Date limite: à préciser)",
+                                        "button":  "Présenter"
+                                    },
+                  "schedulePreview":  {
+                                          "comingSoon":  "Bientôt disponible",
+                                          "title":  "Aperçu du programme",
+                                          "day1Label":  "Jour 1 :",
+                                          "day1Items":  "Accueil, Keynote, Déjeuner",
+                                          "day2Label":  "Jour 2 :",
+                                          "day2Items":  "Ateliers, Présentations",
+                                          "button":  "Voir le programme complet"
+                                      },
+                  "callForSponsors":  {
+                                          "title":  "Faites comme eux et soutenez FOSS4G Belgium 2026 !",
+                                          "description":  "Rejoignez nos sponsors et gagnez en visibilité auprès de la communauté géospatiale open source belge.",
+                                          "button":  "Devenir sponsor"
+                                      },
+                  "volunteers":  {
+                                     "title":  "Aidez-nous!",
+                                     "description":  "Mettez vos compétences et votre énergie au service du succès de FOSS4G Belgium 2026.",
+                                     "button":  "Participer"
+                                 },
+                  "callForMaps":  {
+                                      "title":  "Galerie de cartes",
+                                      "description":  "Vous créez des cartes avec des outils open source ou des données ouvertes ? Soumettez votre travail à la Map Gallery.",
+                                      "button":  "Soumettre une carte"
+                                  }
+              },
+    "countdown":  {
+                      "days":  "Jours",
+                      "hours":  "Heures",
+                      "minutes":  "Minutes",
+                      "seconds":  "Secondes"
+                  },
+    "sponsors":  {
+                     "gold":  "Sponsors Gold",
+                     "silver":  "Sponsors Silver",
+                     "bronze":  "Sponsors Bronze",
+                     "community":  "Participants Community",
+                     "hero":  {
+                                  "title":  "Soutenez FOSS4G Belgium 2026",
+                                  "description":  "En sponsorisant FOSS4G Belgium, vous soutenez la communauté géospatiale open source belge et gagnez en visibilité auprès de ses membres."
+                              },
+                     "features":  {
+                                      "logoOnFoss4gBig":  "Logo (grand format) sur foss4g.be + bannière dans l\u0027en-tête du site",
+                                      "logoInProgramHeader":  "Logo dans l\u0027en-tête du programme imprimé (A3/A0)",
+                                      "coSponsorLunch":  "(Co-)sponsor du lunch à votre nom",
+                                      "booth":  "Stand de présentation",
+                                      "dedicatedPost":  "Post dédié sur les réseaux sociaux",
+                                      "miniPresentation":  "Mini-présentation optionnelle (2–3 min) : votre engagement open source en Belgique",
+                                      "tshirtGift":  "T-shirt OSGeo Belgium offert",
+                                      "stickersGift":  "Stickers FOSS4G 2026 offerts",
+                                      "logoOnFoss4g":  "Logo sur foss4g.be",
+                                      "logoOnSponsorsPage":  "Logo sur la page des sponsors",
+                                      "namedMomentSilver":  "Co-sponsoring possible d\u0027une pause café ou du verre de clôture (au choix)",
+                                      "smallBooth":  "Petit stand de présentation",
+                                      "inProgramAtBreaks":  "Repris dans le programme au niveau des pauses sponsorisées",
+                                      "socialMention":  "Mention réseaux sociaux",
+                                      "officialInvoice":  "Une facture officielle vous sera transmise"
+                                  },
+                     "tiers":  {
+                                   "gold":  {
+                                                "title":  "Gold",
+                                                "price":  "1 200 €",
+                                                "cta":  "Devenir sponsor Gold"
+                                            },
+                                   "silver":  {
+                                                  "title":  "Silver",
+                                                  "price":  "500 €",
+                                                  "cta":  "Devenir sponsor Silver"
+                                              },
+                                   "bronze":  {
+                                                  "title":  "Bronze",
+                                                  "price":  "250 €",
+                                                  "cta":  "Devenir sponsor Bronze"
+                                              },
+                                   "community":  {
+                                                     "title":  "Community",
+                                                     "price":  "100 €",
+                                                     "description":  "FOSS4G Belgium propose des présentations et des ateliers pratiques. Si vous souhaitez soutenir l\u0027événement et le valoriser comme formation dans votre organisation, nous pouvons émettre une facture officielle.",
+                                                     "cta":  "Nous contacter",
+                                                     "mailSubject":  "Demande de soutien Community — FOSS4G Belgium 2026"
+                                                 }
+                               },
+                     "coc":  {
+                                 "title":  "Code de conduite des sponsors",
+                                 "text":  "Les sponsors de FOSS4G Belgium partagent les valeurs d\u0027OSGeo : ouverture, collaboration et respect de la communauté. En devenant sponsor, vous vous engagez à respecter le \u003ca href=\"https://www.osgeo.org/resources/osgeo-code-of-conduct/\" target=\"_blank\" rel=\"noopener\"\u003eCode de conduite OSGeo\u003c/a\u003e. Les modalités détaillées seront précisées dans le dossier de sponsoring."
+                             },
+                     "support":  {
+                                     "title":  "Soutenez FOSS4G Belgium 2026",
+                                     "description":  "Construisons ensemble la carte de la communauté géospatiale open source belge. Votre soutien rend l\u0027événement possible et vous positionne au cœur de cet écosystème.",
+                                     "cta":  "Devenir Sponsor"
+                                 },
+                     "footer":  {
+                                    "thankYou":  "Merci à nos sponsors",
+                                    "subtext":  "Votre soutien rend FOSS4G Belgium 2026 possible !"
+                                }
+                 },
+    "schedule":  {
+                     "title":  "Programme",
+                     "subtitle":  "15 octobre 2026 • Bruxelles, Belgique",
+                     "stats":  {
+                                   "presentations":  "Présentations",
+                                   "speakers":  "Orateurs",
+                                   "tracks":  "Pistes",
+                                   "duration":  "Durée"
+                               },
+                     "search":  {
+                                    "placeholder":  "Rechercher des présentations, orateurs ou organisations..."
+                                },
+                     "filters":  {
+                                     "allTracks":  "Toutes les Pistes",
+                                     "track1":  "Agora",
+                                     "track2":  "Sylva",
+                                     "track3":  "Aqua",
+                                     "talksOnly":  "Présentations seulement"
+                                 },
+                     "upcoming":  {
+                                      "upNext":  "À venir à"
+                                  },
+                     "expandable":  {
+                                        "abstract":  "Résumé",
+                                        "minutes":  "minutes",
+                                        "moreText":  "plus"
+                                    },
+                     "languages":  {
+                                       "english":  "Anglais",
+                                       "french":  "Français",
+                                       "dutch":  "Néerlandais"
+                                   },
+                     "empty":  {
+                                   "title":  "Programme bientôt disponible",
+                                   "description":  "Le programme de FOSS4G Belgium 2026 sera annoncé prochainement."
+                               }
+                 }
 }

@@ -2,14 +2,48 @@
     <div class="flex-1 px-4 py-6 space-y-8 lg:px-8 lg:py-12">
         <section class="grid grid-cols-1 sm:grid-cols-2 gap-6 max-w-5xl mx-auto">
 
+            <!-- Winner announcement -->
+            <div class="bg-off-white border border-main-color-4/30 px-6 py-6 rounded-xl shadow sm:col-span-2">
+                <div class="flex items-center gap-2 mb-4">
+                    <span class="text-xs font-semibold uppercase tracking-widest text-main-color-4 bg-main-color-4/10 px-3 py-1 rounded-full">{{ $t('maps.winner.sectionTitle') }}</span>
+                </div>
+                <div class="flex flex-col sm:flex-row gap-6">
+                    <a
+                        href="/maps/bois-de-courtelle-carte-forestiere.pdf"
+                        target="_blank"
+                        class="shrink-0 block"
+                    >
+                        <img
+                            src="/maps/bois-de-courtelle-thumbnail.png"
+                            alt="Bois-de-Courtelle — carte forestière"
+                            class="rounded-lg border border-neutral-200 shadow-sm w-40 hover:opacity-90 transition"
+                        />
+                    </a>
+                    <div>
+                        <p class="text-xs font-semibold uppercase tracking-wider text-neutral-500 mb-1">{{ $t('maps.winner.label') }}</p>
+                        <h2 class="text-lg font-bold mb-1">{{ $t('maps.winner.mapTitle') }}</h2>
+                        <p class="text-sm text-neutral-dark mb-4">{{ $t('maps.winner.author') }}</p>
+                        <a
+                            href="/maps/bois-de-courtelle-carte-forestiere.pdf"
+                            target="_blank"
+                            class="inline-flex items-center gap-2 bg-main-color-4 text-white font-semibold px-4 py-2 rounded-lg hover:opacity-90 transition text-sm mb-4"
+                        >
+                            <MdiIcon icon="mdiFilePdfBox" size="1.1em" />
+                            {{ $t('maps.winner.viewMap') }}
+                        </a>
+                        <p class="text-sm text-neutral-dark">{{ $t('maps.winner.thanks') }}</p>
+                    </div>
+                </div>
+            </div>
+
             <!-- Hero -->
             <div class="bg-off-white px-6 py-6 rounded-xl shadow sm:col-span-2 flex flex-col sm:flex-row gap-6 items-center">
                 <div class="flex-1">
                     <h1 class="text-xl font-bold mb-2">{{ $t('maps.title') }}</h1>
                     <p class="text-sm text-neutral-dark mb-3">{{ $t('maps.content') }}</p>
                     <div class="flex flex-wrap gap-3 text-xs">
-                        <span class="bg-orange-100 text-orange-600 font-semibold px-3 py-1 rounded-full">
-                            {{ $t('maps.timeline.closesLabel') }} {{ $t('maps.timeline.closesDate') }}
+                        <span class="bg-neutral-100 text-neutral-500 font-semibold px-3 py-1 rounded-full">
+                            {{ $t('maps.winner.editionBadge') }}
                         </span>
                     </div>
                 </div>
