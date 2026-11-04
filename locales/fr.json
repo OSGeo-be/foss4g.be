@@ -151,6 +151,15 @@
       "item6": "URL vers la carte numérique ou informations complémentaires, si disponible",
       "item7": "Lien de téléchargement ou pièce jointe contenant la version numérique de la carte (au format PNG ou PDF, avec une résolution minimale de 2342 x 3311 pixels)",
       "item8": "Indication précisant si nous devons imprimer la carte ou si vous l'apporterez vous-même à la conférence"
+    },
+    "winner": {
+      "sectionTitle": "Galerie cartographique 2026",
+      "label": "Lauréat",
+      "mapTitle": "Bois-de-Courtelle — carte forestière",
+      "author": "Julien Minet",
+      "viewMap": "Voir la carte (PDF)",
+      "thanks": "Un grand merci à tous les participants qui ont soumis leurs cartes pour cette édition.",
+      "editionBadge": "Édition 2026 — terminée"
     }
   },
   "present": {
